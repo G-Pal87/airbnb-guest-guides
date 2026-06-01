@@ -1,0 +1,144 @@
+{
+  "id": "luxe-poolside-escape",
+  "name": "Luxe Poolside Escape",
+  "subtitle": "Beach Walk & 2 Terraces",
+  "tagline": "Luxury living steps from the azure sea",
+  "heroImage": "",
+  "welcomeMessage": "Welcome to the Luxe Poolside Escape! We're thrilled to host you in this beautifully designed retreat. Styled for comfort and elegance, this home is your private sanctuary on the Mediterranean. Everything has been prepared with care — dive into the pool, sip coffee on the terrace, and let the island work its magic. We're always a message away if you need anything at all.",
+  "host": {
+    "name": "Your Host",
+    "phone": "+30 XXX XXX XXXX",
+    "whatsapp": "+30 XXX XXX XXXX",
+    "email": "host@example.com"
+  },
+  "address": {
+    "display": "7 Poseidon Boulevard, Protaras, Cyprus",
+    "googleMapsUrl": "https://maps.google.com/?q=Protaras+Cyprus",
+    "nearestLandmark": "3 min walk to Pernera Beach"
+  },
+  "quickRef": {
+    "checkoutTime": "11:00 AM",
+    "emergencyPhone": "112"
+  },
+  "wifi": {
+    "networkName": "LuxeEscape_WiFi",
+    "password": "poolside2024"
+  },
+  "checkin": {
+    "keyLocation": "Key safe on the left pillar of the main entrance",
+    "accessCode": "5678",
+    "steps": [
+      "Approach the main entrance — the key safe is mounted on the left pillar",
+      "Enter code 5678 and pull down the latch to open",
+      "The key inside opens the entrance gate and the front door",
+      "Collect both key fobs — one for the pool gate, one for the front door",
+      "Return all keys to the safe when you check out"
+    ],
+    "notes": "The pool gate key fob is the smaller one on the ring. Please do not lose it — it is essential for pool access."
+  },
+  "gettingHere": {
+    "directions": "From Larnaca Airport, follow the A3 motorway east. Take the Protaras exit and head toward Pernera. Drive along the coastal road (Protaras Avenue) heading north. Turn right onto Poseidon Boulevard after the blue church. We are the modern white villa with the olive tree at the gate.",
+    "parking": "Two dedicated parking spaces in the private driveway to the right of the entrance.",
+    "publicTransport": "Bus 101 runs along Protaras Avenue and stops a 5-minute walk from the property. Service runs 7am–9pm daily.",
+    "taxi": "Recommended: Blue Sky Taxis (+357 23 812 555). Available 24/7. Journey from Larnaca Airport takes around 50 minutes."
+  },
+  "houseRules": [
+    "No smoking inside — balconies and terraces only",
+    "No parties, events or loud music — quiet hours 10pm to 8am",
+    "Maximum occupancy: 6 guests",
+    "No pets allowed on the furniture or in the pool",
+    "Please use pool towels (in the sun lounger basket) — not the bathroom towels",
+    "Pool area: absolutely no glass, no diving from the edge",
+    "Keep air conditioning doors and windows closed when in use",
+    "Checkout strictly by 11:00 AM",
+    "Any breakages must be reported — we understand accidents happen",
+    "Please sort rubbish into the recycling bins provided"
+  ],
+  "appliances": [
+    {
+      "name": "Air Conditioning",
+      "icon": "❄️",
+      "instructions": "Each room has its own AC unit with a remote. Press POWER, select COOL mode, and set temperature to 22–24°C. Always close windows and doors before switching on. Turn off all units when leaving the property. Remotes are stored on the respective room nightstands."
+    },
+    {
+      "name": "Washing Machine",
+      "icon": "🫧",
+      "instructions": "In the laundry alcove next to the kitchen. Detergent tablets are in the drawer beneath the machine. Place one tablet in the drum. Select the 40°C Cotton Quick Wash (55 min) or the standard Cotton 60°C for heavily soiled items. Press START/PAUSE to begin."
+    },
+    {
+      "name": "Smart TV",
+      "icon": "📺",
+      "instructions": "The 55-inch smart TV in the living room has Netflix, Amazon Prime and YouTube. Our guest profile is pre-selected — no login needed. For your own account, select 'Add Profile'. The remote is on the coffee table. Press the coloured shortcut buttons to jump straight to streaming apps."
+    },
+    {
+      "name": "Coffee Machine",
+      "icon": "☕",
+      "instructions": "Nespresso machine on the kitchen counter. Capsules are in the ceramic dish beside it — help yourself! Fill the water tank (lift the lid at the back) before use. Place a cup under the spout, insert a capsule, and press the cup-size button. Descale sachet is in the upper cabinet if needed."
+    },
+    {
+      "name": "BBQ / Grill",
+      "icon": "🔥",
+      "instructions": "Gas BBQ on the lower terrace. Long lighter is in the top kitchen drawer. Open the gas valve at the back left. Press and hold the ignition button on burner 1, then turn the dial to HIGH. Wait for it to light before turning on additional burners. Clean the grate after every use with the metal brush."
+    }
+  ],
+  "thingsToDo": [
+    {
+      "category": "Beaches",
+      "items": [
+        { "name": "Pernera Beach", "distance": "3 min walk", "tip": "Your nearest beach — calm, shallow waters ideal for swimming. Less crowded than Fig Tree Bay." },
+        { "name": "Fig Tree Bay", "distance": "10 min walk", "tip": "Protaras's most famous beach. Stunning turquoise water. Go early to claim a spot." },
+        { "name": "Konnos Bay", "distance": "15 min drive", "tip": "A hidden gem — sheltered cove with incredibly clear water. Popular with snorkellers." },
+        { "name": "Nissi Beach", "distance": "25 min drive", "tip": "Party vibes, water sports and beach bars. The place to be on a lively summer day." }
+      ]
+    },
+    {
+      "category": "Sightseeing",
+      "items": [
+        { "name": "Cape Greco National Park", "distance": "15 min drive", "tip": "Sea caves, cliffs and walking trails. Bring water and good shoes. Breathtaking at golden hour." },
+        { "name": "Protaras Windmill", "distance": "12 min walk", "tip": "The iconic Protaras windmill at the top of the hill. Perfect sunset viewpoint." },
+        { "name": "Ayia Napa Town Centre", "distance": "20 min drive", "tip": "Monastery, museum, vibrant square. Great for an evening dinner and stroll." }
+      ]
+    },
+    {
+      "category": "Activities",
+      "items": [
+        { "name": "Glass-Bottom Boat Tour", "distance": "Pernera pier", "tip": "Departs daily at 10am and 2pm. See marine life without getting wet. Kids love it!" },
+        { "name": "Cycling along the coast", "distance": "Start from property", "tip": "Bike rental shop 5 min walk away. The coastal path to Cape Greco is spectacular." },
+        { "name": "Yoga on the Beach", "distance": "Pernera Beach", "tip": "Morning yoga sessions on the beach every Tuesday and Friday at 7:30am. Drop-in welcome." }
+      ]
+    }
+  ],
+  "eatAndDrink": [
+    { "name": "The Olive Tree Restaurant", "type": "Mediterranean", "distance": "5 min walk", "tip": "Romantic setting under a canopy of lights. Excellent grilled octopus and local wine selection.", "priceRange": "€€€" },
+    { "name": "Pernera Grill House", "type": "Cypriot Grill", "distance": "8 min walk", "tip": "The locals' favourite. Best souvlaki in the area. Eat outside under the vines.", "priceRange": "€€" },
+    { "name": "Sunrise Supermarket", "type": "Grocery Store", "distance": "6 min walk", "tip": "Great for stocking up. Fresh produce, local halloumi and good Cypriot wine. Open 7am–10pm.", "priceRange": "€" },
+    { "name": "Blue Sea Bar & Café", "type": "Café & Cocktails", "distance": "4 min walk", "tip": "Excellent coffee, fresh smoothies and evening cocktails. Right on the waterfront.", "priceRange": "€€" },
+    { "name": "Captain's Table", "type": "Seafood", "distance": "10 min walk", "tip": "Upmarket seafood with views of the harbour. Try the lobster pasta. Reservations recommended.", "priceRange": "€€€" }
+  ],
+  "emergency": {
+    "contacts": [
+      { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire — free from any phone" },
+      { "name": "Your Host", "number": "+30 XXX XXX XXXX", "note": "Available 24/7 — call or WhatsApp" },
+      { "name": "Famagusta General Hospital", "number": "+357 23 200 000", "note": "Nearest full hospital — 25 min drive" },
+      { "name": "Local Police", "number": "+357 23 831 111", "note": "Protaras Police Station" },
+      { "name": "Property Manager", "number": "+30 XXX XXX XXXX", "note": "On-island contact for urgent maintenance" }
+    ],
+    "nearestHospital": "Famagusta General Hospital — 25 min drive. Follow signs for Famagusta via the B6.",
+    "nearestPharmacy": "Pernera Pharmacy — 7 min walk on Protaras Avenue. Open Mon–Fri 8:30am–7pm, Sat 9am–2pm."
+  },
+  "checkout": {
+    "time": "11:00 AM",
+    "steps": [
+      "Strip all bed linens and leave them piled on the respective beds",
+      "Clear the fridge of all food and seal any rubbish bags",
+      "Take all rubbish to the outdoor bins near the entrance gate",
+      "Load and run the dishwasher one last cycle",
+      "Fold and return pool towels to the sun lounger basket",
+      "Close all windows, doors and shutters",
+      "Switch off all lights, AC units and the TV",
+      "Lock the front door and gate, and return all keys to the key safe (code: 5678)",
+      "Drop us a WhatsApp — safe travels, and we'd love a review!"
+    ],
+    "lateCheckout": "Late checkout until 1pm may be available depending on upcoming reservations. Please request the evening before and we'll confirm."
+  }
+}

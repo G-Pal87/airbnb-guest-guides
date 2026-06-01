@@ -1,0 +1,136 @@
+{
+  "id": "poolside-central-studio",
+  "name": "Poolside Central Studio",
+  "subtitle": "Balcony & Beach Walk",
+  "tagline": "Perfectly located — the beach is your backyard",
+  "heroImage": "",
+  "welcomeMessage": "Welcome to the Poolside Central Studio! This chic, compact studio is perfectly positioned right in the heart of Protaras, a short stroll from the beach and all the best restaurants and cafés. Everything you need is here — fresh linens, a fully equipped kitchen, a sunny balcony, and a shared pool to cool off in. Make yourself at home and enjoy every sun-soaked moment!",
+  "host": {
+    "name": "Your Host",
+    "phone": "+30 XXX XXX XXXX",
+    "whatsapp": "+30 XXX XXX XXXX",
+    "email": "host@example.com"
+  },
+  "address": {
+    "display": "3B Helios Court, Protaras Avenue, Protaras, Cyprus",
+    "googleMapsUrl": "https://maps.google.com/?q=Protaras+Avenue+Cyprus",
+    "nearestLandmark": "8 min walk to Fig Tree Bay"
+  },
+  "quickRef": {
+    "checkoutTime": "10:30 AM",
+    "emergencyPhone": "112"
+  },
+  "wifi": {
+    "networkName": "PoolStudio_WiFi",
+    "password": "centralstay24"
+  },
+  "checkin": {
+    "keyLocation": "Reception desk in the lobby (staffed 8am–8pm) or key drop box for late arrivals",
+    "accessCode": "4321",
+    "steps": [
+      "Enter the main building through the glass doors on Protaras Avenue",
+      "The studio is on the ground floor — door number 3B on the left",
+      "Use the key provided at reception to open the studio door",
+      "For after-hours arrival, use the key drop box (code: 4321) next to the lobby door",
+      "The pool access card is in the welcome envelope on the kitchen counter"
+    ],
+    "notes": "The shared pool is open 8am–9pm. Pool towels are NOT provided — please bring your own beach towels. The pool area has sunbeds for all guests."
+  },
+  "gettingHere": {
+    "directions": "From Larnaca Airport, take the A3 east and exit at Paralimni/Protaras. Follow Protaras Avenue into the centre of Protaras. Helios Court is on the right, just past the Protaras roundabout, next to the pharmacy. Look for the small sign at the entrance.",
+    "parking": "Street parking available on Helios Court and surrounding roads — free and usually easy to find. No dedicated space.",
+    "publicTransport": "Buses 101 and 102 stop directly on Protaras Avenue, 2 minutes walk. Frequent service from Ayia Napa and Larnaca.",
+    "taxi": "Recommended: City Cab Protaras (+357 23 833 000). Taxis also available at the Protaras roundabout 5 min walk away."
+  },
+  "houseRules": [
+    "No smoking anywhere on the property (including the balcony)",
+    "No parties — this is a residential complex with shared amenities",
+    "Maximum occupancy: 2 guests",
+    "No pets",
+    "Quiet hours from 10pm to 8am — please respect neighbours",
+    "Shared pool: no glass, no loud music, no diving",
+    "Please do not hang towels or laundry over the balcony railing",
+    "Checkout by 10:30 AM — no exceptions due to housekeeping schedule",
+    "Report any maintenance issues promptly via WhatsApp"
+  ],
+  "appliances": [
+    {
+      "name": "Air Conditioning",
+      "icon": "❄️",
+      "instructions": "Wall-mounted AC unit above the door. Use the remote on the windowsill. Press ON/OFF, select COOL, and set to 22°C. The unit is powerful for the room size — 23–24°C may feel more comfortable. Always switch off when leaving and keep the balcony door closed."
+    },
+    {
+      "name": "Smart TV",
+      "icon": "📺",
+      "instructions": "Mounted on the wall. Press the power button on the remote or on the TV itself. Netflix is available — use our guest profile. Plug in your HDMI dongle (box under TV) to mirror your phone. For satellite TV, press SOURCE and select HDTV."
+    },
+    {
+      "name": "Induction Hob",
+      "icon": "🍳",
+      "instructions": "Touch the ON button in the centre of the hob to activate. Tap the zone you want to use and press + to increase heat level. Use 3–4 for most cooking, 7–9 for boiling. Always use the induction-compatible pots and pans provided. Wipe the surface clean after each use with the cloth in the drawer."
+    },
+    {
+      "name": "Coffee Machine",
+      "icon": "☕",
+      "instructions": "Nespresso Essenza on the counter. Capsules are in the small wicker basket beside it — 6 complimentary capsules are provided. Fill the water tank at the back. Place a cup under the nozzle, insert a capsule, lock the lever, and press the lungo or espresso button."
+    }
+  ],
+  "thingsToDo": [
+    {
+      "category": "Beaches",
+      "items": [
+        { "name": "Fig Tree Bay", "distance": "8 min walk", "tip": "Cyprus's most famous beach. Arrive by 9am for a spot. Stunning shallow turquoise water." },
+        { "name": "Protaras Central Beach", "distance": "5 min walk", "tip": "Smaller and quieter. No sunbeds — bring a towel. Popular with locals." },
+        { "name": "Pernera Beach", "distance": "15 min walk", "tip": "Quieter and scenic. Great for an evening swim when the crowds have gone." }
+      ]
+    },
+    {
+      "category": "Sightseeing",
+      "items": [
+        { "name": "Protaras Windmill", "distance": "5 min walk", "tip": "Great for panoramic views and sunset. Always a good Instagram shot." },
+        { "name": "Cape Greco National Park", "distance": "10 min drive", "tip": "Sea caves, walking trails and dramatic cliffs. Don't miss the Blue Lagoon cove." },
+        { "name": "Ayia Napa Square", "distance": "20 min drive", "tip": "Lively town square with restaurants, bars and the historic monastery. Buzzing at night." }
+      ]
+    },
+    {
+      "category": "Activities",
+      "items": [
+        { "name": "Paddleboard Rental", "distance": "8 min walk", "tip": "Available at Fig Tree Bay from several vendors. No experience needed — calm water is perfect for beginners." },
+        { "name": "Evening Food Tour", "distance": "Start from property", "tip": "Walk along Protaras Avenue and sample the many restaurants and bakeries. Self-guided foodie adventure!" },
+        { "name": "Mini Golf", "distance": "10 min walk", "tip": "Fun for couples or families. Two courses available at Protaras Golf Park. Open until 10pm." }
+      ]
+    }
+  ],
+  "eatAndDrink": [
+    { "name": "Protaras Bakery & Café", "type": "Bakery & Breakfast", "distance": "2 min walk", "tip": "Best pastries and coffee to start your morning. Try the bougatsa (custard pastry). Opens at 6:30am.", "priceRange": "€" },
+    { "name": "Spartiatis Tavern", "type": "Traditional Cypriot", "distance": "6 min walk", "tip": "Excellent meze and fresh grilled fish. Friendly staff and a fantastic atmosphere.", "priceRange": "€€" },
+    { "name": "Sundown Beach Bar", "type": "Bar & Light Bites", "distance": "7 min walk", "tip": "Incredible cocktails and tapas. The perfect place for a long sunset evening.", "priceRange": "€€" },
+    { "name": "Mini Market Central", "type": "Grocery Store", "distance": "1 min walk", "tip": "Convenience store right on the corner. Great for breakfast supplies, cold drinks and snacks. Open 7am–midnight.", "priceRange": "€" },
+    { "name": "Taverna Elysium", "type": "Greek & Cypriot", "distance": "10 min walk", "tip": "Family-run, generous portions. The lamb kleftiko is a must-try. Very good value.", "priceRange": "€€" }
+  ],
+  "emergency": {
+    "contacts": [
+      { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire" },
+      { "name": "Your Host", "number": "+30 XXX XXX XXXX", "note": "Call or WhatsApp — always available" },
+      { "name": "Famagusta General Hospital", "number": "+357 23 200 000", "note": "25 min drive, heading toward Famagusta" },
+      { "name": "Local Police", "number": "+357 23 831 111", "note": "Protaras Police Station, 5 min drive" },
+      { "name": "Building Manager", "number": "+357 99 XXX XXX", "note": "On-site contact for property issues" }
+    ],
+    "nearestHospital": "Famagusta General Hospital — 25 min drive. Follow signs from the roundabout toward Famagusta.",
+    "nearestPharmacy": "Protaras Central Pharmacy — next door to the building, 1 min walk. Mon–Sat 8am–8pm."
+  },
+  "checkout": {
+    "time": "10:30 AM",
+    "steps": [
+      "Remove all items from the fridge and dispose of leftover food",
+      "Strip the bed and leave linens folded at the foot of the bed",
+      "Wash any dishes used and leave them drying on the rack",
+      "Empty the rubbish bin and take the bag to the wheelie bins in the car park",
+      "Close all windows and the balcony door",
+      "Switch off the air conditioning, all lights, and the TV",
+      "Return the room key and pool card to reception (or leave on the counter for late departure)",
+      "WhatsApp us to let us know you've left — thanks so much for staying!"
+    ],
+    "lateCheckout": "Late checkout is generally not available due to our tight housekeeping schedule. Please let us know if you have a special circumstance and we'll try our best."
+  }
+}

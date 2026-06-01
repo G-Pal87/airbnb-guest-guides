@@ -1,0 +1,155 @@
+{
+  "id": "two-bedroom",
+  "name": "2 Bedroom Apartment",
+  "subtitle": "Spacious Family Stay",
+  "tagline": "Space, comfort and the Mediterranean at your door",
+  "heroImage": "",
+  "welcomeMessage": "Welcome to our beautiful 2 Bedroom Apartment! We're so glad you chose to spend your time here. This spacious apartment has been designed with families and groups in mind — plenty of room to relax together and space to spread out. Two bedrooms, a large living area, a fully equipped kitchen, and a wide private balcony with garden views. We want your stay to be perfect, so don't hesitate to get in touch with anything you need.",
+  "host": {
+    "name": "Your Host",
+    "phone": "+30 XXX XXX XXXX",
+    "whatsapp": "+30 XXX XXX XXXX",
+    "email": "host@example.com"
+  },
+  "address": {
+    "display": "14 Kypros Street, Protaras, Cyprus",
+    "googleMapsUrl": "https://maps.google.com/?q=Kypros+Street+Protaras+Cyprus",
+    "nearestLandmark": "12 min walk to Fig Tree Bay, 5 min to Protaras centre"
+  },
+  "quickRef": {
+    "checkoutTime": "11:00 AM",
+    "emergencyPhone": "112"
+  },
+  "wifi": {
+    "networkName": "KyprosApt_WiFi",
+    "password": "familystay2024"
+  },
+  "checkin": {
+    "keyLocation": "Lockbox at the main entrance of the building, ground floor left",
+    "accessCode": "2468",
+    "steps": [
+      "Enter the building through the main door (push to open — it is not locked)",
+      "The lockbox is on the left wall just inside the entrance, at chest height",
+      "Enter code 2468 and open the flap to retrieve the key",
+      "Take the lift or stairs to the 2nd floor — apartment is number 14",
+      "The same key opens the apartment door",
+      "Return the key to the lockbox when you check out"
+    ],
+    "notes": "There is a lift inside the building. Luggage trolley available in the ground floor cupboard — feel free to use it. If the lockbox gives any trouble, call us right away."
+  },
+  "gettingHere": {
+    "directions": "From Larnaca Airport, take the A3 motorway east toward Protaras. Exit at Protaras/Paralimni and continue to the main roundabout. Take the third exit onto Protaras Avenue heading into the town centre. Turn left onto Kypros Street, 500m past the Protaras water park on the right. We are the sand-coloured four-storey building — look for the bougainvillea over the entrance.",
+    "parking": "Free off-street parking in the car park behind the building. Enter from the alley on the right of the building. Your space is marked 'K14'.",
+    "publicTransport": "Buses 101 and 102 stop on Protaras Avenue, a 5-minute walk away. Journey to Ayia Napa takes 20 minutes, to Larnaca about 80 minutes.",
+    "taxi": "Recommended: Protaras Taxi (+357 23 831 444) or call a taxi from the rank in the town centre. 24-hour service available."
+  },
+  "houseRules": [
+    "No smoking anywhere inside the apartment",
+    "No parties or events — this is a residential building",
+    "Maximum occupancy: 5 guests",
+    "No pets allowed",
+    "Quiet hours from 11pm to 8am — please respect neighbours in the building",
+    "Please do not slam doors — the building has noise-sensitive walls",
+    "Keep the balcony tidy — no laundry hanging visible from the street",
+    "Checkout by 11:00 AM sharp",
+    "Report any damage or breakages as soon as they occur",
+    "Please separate recycling — bins are labelled in the car park"
+  ],
+  "appliances": [
+    {
+      "name": "Air Conditioning",
+      "icon": "❄️",
+      "instructions": "There are three AC units: one in the living room, one in each bedroom. Each has its own remote stored in the respective room. Press POWER, select COOL, and set temperature to 22–24°C. All units can run simultaneously. Keep all doors and windows closed when running. Switch off all units before leaving."
+    },
+    {
+      "name": "Washing Machine",
+      "icon": "🫧",
+      "instructions": "Full-size washing machine in the laundry room next to the bathroom. Detergent (liquid) is under the sink — add to the drawer labelled II. Set the dial to 40°C Cotton for normal loads. Press START. The machine also has a separate dryer function — select DRAIN+SPIN then tumble dry at low heat."
+    },
+    {
+      "name": "Smart TV",
+      "icon": "📺",
+      "instructions": "65-inch smart TV in the living room. Press the power button on the remote. Netflix and YouTube are loaded — use our guest profile or log into your own. A second, smaller TV is in the master bedroom. Both TVs are on the same network. HDMI cable in the drawer beneath the TV stand."
+    },
+    {
+      "name": "Full Kitchen",
+      "icon": "🍳",
+      "instructions": "Full-size 4-ring ceramic hob with oven. Pots, pans and utensils in the lower cabinets. The oven preheats in about 15 minutes — set the top dial to your desired temperature and the lower dial to the symbol for your cooking method (fan oven recommended). Dishwasher under the sink — tablets in the cupboard above."
+    },
+    {
+      "name": "BBQ / Grill",
+      "icon": "🔥",
+      "instructions": "Charcoal BBQ on the balcony (provided during summer months). Charcoal is in the terracotta pot beside it. Use firelighters to start — in the kitchen drawer. Light the firelighter, place under the charcoal pyramid, and wait 20 minutes before cooking. Always extinguish fully with water after use."
+    },
+    {
+      "name": "Dishwasher",
+      "icon": "🍽️",
+      "instructions": "Integrated dishwasher beneath the sink. Tablets are in the box under the counter. Load dishes (cups upside down in top rack, plates in bottom), add one tablet to the dispenser, and select ECO for a full load or QUICK 45 for light use. Press START. Empty when cool."
+    }
+  ],
+  "thingsToDo": [
+    {
+      "category": "Beaches",
+      "items": [
+        { "name": "Fig Tree Bay", "distance": "12 min walk", "tip": "The crown jewel of Protaras. Walk down early and claim sunbeds. Snorkel gear hire on the beach." },
+        { "name": "Pernera Beach", "distance": "18 min walk", "tip": "Calmer and more laid-back. The kids' pool area and gentle waves are perfect for young children." },
+        { "name": "Konnos Bay", "distance": "15 min drive", "tip": "A sheltered sandy cove. The drive through the national park is beautiful. Excellent snorkelling." },
+        { "name": "Makronissos Beach", "distance": "25 min drive", "tip": "Near Ayia Napa — long sandy stretch with a quieter atmosphere than Fig Tree Bay." }
+      ]
+    },
+    {
+      "category": "Sightseeing",
+      "items": [
+        { "name": "Cape Greco National Park", "distance": "15 min drive", "tip": "Cyprus's most dramatic coastal scenery. Explore caves, arches and clifftop trails. Bring plenty of water." },
+        { "name": "Protaras Windmill", "distance": "10 min walk", "tip": "A local icon. Great views over the town and the sea. Especially lovely around sunset." },
+        { "name": "Ayia Napa Monastery & Square", "distance": "20 min drive", "tip": "See the medieval monastery and enjoy the lively main square with restaurants and boutiques." },
+        { "name": "Thalassa Municipal Museum", "distance": "20 min drive", "tip": "Award-winning museum about the seas and marine life of Cyprus. Perfect for a half-day trip." }
+      ]
+    },
+    {
+      "category": "Activities",
+      "items": [
+        { "name": "Waterworld Waterpark", "distance": "20 min drive", "tip": "One of Europe's biggest themed waterparks. A full-day family adventure. Bring sun cream!" },
+        { "name": "Jeep Safari", "distance": "Book from apartment", "tip": "Half-day or full-day jeep safaris into the Troodos foothills — stunning scenery and Cypriot village stops." },
+        { "name": "Sunset Boat Cruise", "distance": "Fig Tree Bay pier", "tip": "Captain Andreas runs a wonderful 3-hour evening cruise. Snorkelling stop included. Book in advance." },
+        { "name": "Family Cycling Tour", "distance": "Start from property", "tip": "Bike rental shop on Protaras Avenue (8 min walk). Child seats and tag-alongs available. Coastal path is flat and safe." }
+      ]
+    }
+  ],
+  "eatAndDrink": [
+    { "name": "Spartiatis Tavern", "type": "Traditional Cypriot", "distance": "8 min walk", "tip": "A must for meze — endless small plates of Cypriot delicacies. Ideal for groups. Reserve ahead.", "priceRange": "€€" },
+    { "name": "Pernera Beach Restaurant", "type": "Seafood", "distance": "18 min walk", "tip": "Fresh fish on the terrace. Watch the sun set over your dinner. The seafood linguine is excellent.", "priceRange": "€€€" },
+    { "name": "Sunrise Supermarket", "type": "Grocery Store", "distance": "10 min walk", "tip": "The best-stocked local supermarket. Great range of Cypriot produce, wine and beer. Open daily 7am–10pm.", "priceRange": "€" },
+    { "name": "Meze Village", "type": "Cypriot", "distance": "12 min drive", "tip": "Spectacular meze in an open-air village setting. Amazing value. Live music on weekend evenings.", "priceRange": "€€" },
+    { "name": "La Terrazza", "type": "Italian", "distance": "10 min walk", "tip": "Excellent wood-fired pizza and home-made pasta. Great for families — large portions and a children's menu.", "priceRange": "€€" },
+    { "name": "The Windmill Lounge", "type": "Bar & Light Bites", "distance": "10 min walk", "tip": "Lovely rooftop bar with cocktails and small plates. Perfect for a romantic evening drink.", "priceRange": "€€" }
+  ],
+  "emergency": {
+    "contacts": [
+      { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire — free from any phone" },
+      { "name": "Your Host", "number": "+30 XXX XXX XXXX", "note": "Available 24/7 via call or WhatsApp" },
+      { "name": "Famagusta General Hospital", "number": "+357 23 200 000", "note": "Nearest hospital — 25 min drive" },
+      { "name": "Local Police", "number": "+357 23 831 111", "note": "Protaras Police Station" },
+      { "name": "Building Supervisor", "number": "+357 99 XXX XXX", "note": "On-site supervisor for building issues" },
+      { "name": "Property Manager", "number": "+30 XXX XXX XXXX", "note": "Local contact for all maintenance" }
+    ],
+    "nearestHospital": "Famagusta General Hospital — 25 min drive. Take Protaras Avenue north, then follow signs for Famagusta via the B6 highway.",
+    "nearestPharmacy": "Kypros Street Pharmacy — 2 min walk at the end of the street. Mon–Fri 8:30am–7pm, Sat 9am–2pm. Night pharmacy on rotation — 112 operator can advise."
+  },
+  "checkout": {
+    "time": "11:00 AM",
+    "steps": [
+      "Strip all bed linens in both bedrooms and leave on the respective beds",
+      "Empty the fridge and cupboards of all your food",
+      "Bag all rubbish and take to the labelled bins in the car park",
+      "Run the dishwasher one final cycle and leave it open to air",
+      "Wipe down the kitchen hob and counter surfaces",
+      "Close and lock all windows, balcony doors and shutters",
+      "Switch off all AC units, lights, and the TV",
+      "Leave the parking space clear for the next guests",
+      "Lock the apartment door and return the key to the lockbox (code: 2468)",
+      "Send us a WhatsApp to let us know you're safely on your way. Reviews mean the world to us — thank you!"
+    ],
+    "lateCheckout": "Late checkout until 1pm may be possible depending on same-day arrivals. Please ask by 9pm the evening before and we'll confirm. A small fee may apply in peak season."
+  }
+}

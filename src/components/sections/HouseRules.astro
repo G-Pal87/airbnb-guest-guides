@@ -1,0 +1,33 @@
+---
+interface Props {
+  property: {
+    houseRules: string[];
+  };
+}
+
+const { property } = Astro.props;
+---
+
+<section id="house-rules" class="py-12 bg-white" aria-labelledby="house-rules-heading">
+  <div class="max-w-2xl mx-auto px-4">
+    <h2 id="house-rules-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+      House Rules
+    </h2>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      {property.houseRules.map((rule: string) => (
+        <div class="bg-surface rounded-2xl shadow-md p-4 border border-stone-100 flex items-start gap-3">
+          <span
+            class="flex-shrink-0 w-6 h-6 rounded-full bg-primary/10 flex items-center justify-center mt-0.5"
+            aria-hidden="true"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-primary" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+            </svg>
+          </span>
+          <p class="text-stone-700 text-sm leading-relaxed">{rule}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

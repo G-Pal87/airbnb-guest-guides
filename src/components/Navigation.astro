@@ -1,0 +1,44 @@
+---
+const navLinks = [
+  { href: '#getting-here', label: 'Getting Here' },
+  { href: '#checkin', label: 'Check-in' },
+  { href: '#house-rules', label: 'House Rules' },
+  { href: '#wifi', label: 'WiFi & Appliances' },
+  { href: '#things-to-do', label: 'Things To Do' },
+  { href: '#eat-drink', label: 'Eat & Drink' },
+  { href: '#emergency', label: 'Emergencies' },
+  { href: '#checkout', label: 'Check-out' },
+  { href: '#contact', label: 'Contact' },
+];
+---
+
+<nav
+  id="main-nav"
+  class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-sm border-b border-stone-100"
+  aria-label="Property guide navigation"
+>
+  <div class="overflow-x-auto scrollbar-hide">
+    <ul class="flex flex-row items-center gap-1 px-3 py-2 min-w-max md:min-w-0 md:justify-center md:flex-wrap">
+      {navLinks.map((link) => (
+        <li>
+          <a
+            href={link.href}
+            class="nav-link inline-block text-sm font-medium text-primary px-3 py-2 rounded-lg whitespace-nowrap transition-colors duration-150 hover:bg-primary hover:text-white active:bg-primary active:text-white focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-1 min-h-[44px] flex items-center"
+          >
+            {link.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</nav>
+
+<style>
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+</style>

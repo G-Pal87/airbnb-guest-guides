@@ -1,0 +1,137 @@
+{
+  "id": "beach-side-studio",
+  "name": "Beach Side Studio",
+  "subtitle": "Sea Views & Terrace",
+  "tagline": "Wake up to the sound of the waves",
+  "heroImage": "",
+  "welcomeMessage": "Welcome to the Beach Side Studio! You've chosen one of our most special properties — a bright, airy studio just steps from the sea with a private terrace where you can watch the waves roll in over your morning coffee. This is coastal living at its simplest and most beautiful. Relax, unwind, and let the Mediterranean charm do the rest. We're always just a message away!",
+  "host": {
+    "name": "Your Host",
+    "phone": "+30 XXX XXX XXXX",
+    "whatsapp": "+30 XXX XXX XXXX",
+    "email": "host@example.com"
+  },
+  "address": {
+    "display": "1A Thalassa Lane, Paralimni Coast, Cyprus",
+    "googleMapsUrl": "https://maps.google.com/?q=Paralimni+Coast+Cyprus",
+    "nearestLandmark": "Direct beach access — 50m to the water"
+  },
+  "quickRef": {
+    "checkoutTime": "11:00 AM",
+    "emergencyPhone": "112"
+  },
+  "wifi": {
+    "networkName": "BeachStudio_WiFi",
+    "password": "wavesandmore24"
+  },
+  "checkin": {
+    "keyLocation": "Combination lockbox on the studio door (blue door, ground floor)",
+    "accessCode": "7890",
+    "steps": [
+      "From the car park, take the path to the right toward the seafront building",
+      "Look for the blue door on the ground floor — it's the studio closest to the beach",
+      "Enter code 7890 on the black lockbox attached to the door handle",
+      "Pull open the lockbox and take the key",
+      "Use the key for the door lock and the terrace gate padlock",
+      "Replace the key in the lockbox when you check out"
+    ],
+    "notes": "The terrace gate padlock uses the same key as the door. The terrace is semi-private and shared with the upstairs guest — please be mindful of noise, especially in the evenings."
+  },
+  "gettingHere": {
+    "directions": "From Larnaca Airport, take the A3 motorway east to Ayia Napa. Continue on the coastal road B3 heading north toward Paralimni. Follow signs for Paralimni Coast / Thalassa Beach. Turn left onto Thalassa Lane just after the small white chapel. The studio building is right at the end of the lane with a blue gate.",
+    "parking": "Small private car park at the end of Thalassa Lane — space for 1 car per studio. Your space is marked '1A'.",
+    "publicTransport": "The nearest bus stop is on the main coastal road, a 10-minute walk away. Route 101 connects to Protaras and Ayia Napa.",
+    "taxi": "Recommended: Paralimni Cabs (+357 23 821 999). Around 45 minutes from Larnaca Airport."
+  },
+  "houseRules": [
+    "No smoking inside or on the terrace",
+    "No parties or events — quiet hours 10pm to 8am",
+    "Maximum occupancy: 2 guests",
+    "No pets",
+    "The terrace is semi-shared — please respect the privacy of other guests",
+    "Do not hang laundry on the terrace railings facing the seafront",
+    "Please conserve water — sea-facing properties use desalinated water",
+    "Checkout by 11:00 AM",
+    "Please report any maintenance issues immediately"
+  ],
+  "appliances": [
+    {
+      "name": "Air Conditioning",
+      "icon": "❄️",
+      "instructions": "Split AC unit on the ceiling. Remote is on the bedside table. Press POWER, choose COOL, and set to 22–24°C. The breeze from the sea is often enough in the evenings — open the terrace door for natural ventilation. Switch off when leaving."
+    },
+    {
+      "name": "Smart TV",
+      "icon": "📺",
+      "instructions": "32-inch smart TV on the dresser. Press the Netflix shortcut button on the remote for instant streaming — no password required on the guest profile. For live TV, press HOME and select Channels. HDMI port on the side if you wish to connect a device."
+    },
+    {
+      "name": "Mini Kitchen",
+      "icon": "🍳",
+      "instructions": "Two-ring ceramic hob, small oven, microwave, and a well-stocked set of utensils. The oven dial goes from 50–250°C. Fan oven icon is the swirling arrow. Microwave: place your food inside, press the time pad and hit START. All cookware is in the cupboard below the hob."
+    },
+    {
+      "name": "Coffee Maker",
+      "icon": "☕",
+      "instructions": "Classic drip coffee maker on the counter. Ground coffee is in the small tin beside it (refill from the kitchen cupboard if needed). Fill the water tank to the MAX line. Place a filter in the basket, add 2 tablespoons of coffee, press BREW. Ready in 5 minutes."
+    }
+  ],
+  "thingsToDo": [
+    {
+      "category": "Beaches",
+      "items": [
+        { "name": "Thalassa Beach", "distance": "50m from studio", "tip": "Your private slice of paradise. Uncrowded, golden sand, crystal clear shallow water. Heaven." },
+        { "name": "Fig Tree Bay", "distance": "15 min drive", "tip": "Protaras's flagship beach. Busier, with sunbeds for hire and water sports available." },
+        { "name": "Agia Triada Beach", "distance": "10 min drive", "tip": "Less well known but beautiful. The Blue Flag water quality is exceptional." }
+      ]
+    },
+    {
+      "category": "Sightseeing",
+      "items": [
+        { "name": "Cape Greco Caves", "distance": "20 min drive", "tip": "The most dramatic sea caves in Cyprus. Go by kayak for the best views of the arches." },
+        { "name": "Paralimni Village", "distance": "10 min drive", "tip": "Authentic Cypriot village with a lovely central square and excellent local tavernas." },
+        { "name": "Deryneia Ghost Town View", "distance": "15 min drive", "tip": "A sobering and unique view of the abandoned Varosha district from the rooftop café." }
+      ]
+    },
+    {
+      "category": "Activities",
+      "items": [
+        { "name": "Kayak to Cape Greco", "distance": "Beach departure", "tip": "Rent a kayak from the beach vendor. The paddle to Cape Greco takes 1.5 hrs each way — worth every stroke." },
+        { "name": "Snorkelling off the rocks", "distance": "100m from studio", "tip": "The rocky point to the north is teeming with fish. Bring your own mask and fins or hire from the beach shop." },
+        { "name": "Cycling the coastal path", "distance": "Start from property", "tip": "Bike hire next to the car park. Flat coastal path stretches for 12km. Perfect morning activity." }
+      ]
+    }
+  ],
+  "eatAndDrink": [
+    { "name": "Thalassa Café", "type": "Beachfront Café", "distance": "2 min walk", "tip": "Right on the beach. Fresh coffee, local pastries and incredible views. Opens 7:30am.", "priceRange": "€" },
+    { "name": "Akrotiri Fish Tavern", "type": "Seafood", "distance": "8 min walk", "tip": "Superb fresh fish. Very popular — arrive early or book ahead. The grilled sea bream is unforgettable.", "priceRange": "€€€" },
+    { "name": "Paralimni Supermarket", "type": "Grocery Store", "distance": "10 min drive", "tip": "Large well-stocked supermarket. Best for big grocery shops. Open daily 8am–9pm.", "priceRange": "€" },
+    { "name": "The Cove Bistro", "type": "Mediterranean Fusion", "distance": "12 min walk", "tip": "Creative cooking using local ingredients. The mezze platter for two is sensational.", "priceRange": "€€" },
+    { "name": "Beach Kiosk", "type": "Snacks & Ice Cream", "distance": "1 min walk", "tip": "Cold drinks, snacks and ice cream. Perfect after a swim. Cash only.", "priceRange": "€" }
+  ],
+  "emergency": {
+    "contacts": [
+      { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire — free from any phone" },
+      { "name": "Your Host", "number": "+30 XXX XXX XXXX", "note": "Call or WhatsApp anytime" },
+      { "name": "Famagusta General Hospital", "number": "+357 23 200 000", "note": "30 min drive from the studio" },
+      { "name": "Local Police", "number": "+357 23 821 222", "note": "Paralimni Police Station — 10 min drive" },
+      { "name": "Property Manager", "number": "+30 XXX XXX XXXX", "note": "Local contact for maintenance emergencies" }
+    ],
+    "nearestHospital": "Famagusta General Hospital — 30 min drive. Head north on the coastal road then follow signs to Famagusta.",
+    "nearestPharmacy": "Paralimni Pharmacy — 10 min drive in the village centre. Open Mon–Sat 8:30am–7pm. 24h emergency service on rotation."
+  },
+  "checkout": {
+    "time": "11:00 AM",
+    "steps": [
+      "Clear the fridge of all food and drinks",
+      "Strip the bed and leave linens in a pile on the mattress",
+      "Wash up any dishes and leave them on the drying rack",
+      "Dispose of rubbish in the bins provided in the car park",
+      "Close all windows, the terrace door, and the padlocked terrace gate",
+      "Switch off the AC, all lights, and unplug any chargers",
+      "Return the key to the lockbox on the door (code: 7890)",
+      "WhatsApp us when you're on your way — and thank you for choosing us!"
+    ],
+    "lateCheckout": "Late checkout is sometimes possible — please ask by 9pm the evening before. We'll confirm availability as soon as we can."
+  }
+}

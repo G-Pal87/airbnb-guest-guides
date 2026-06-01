@@ -1,0 +1,108 @@
+---
+interface Props {
+  property: {
+    wifi: { networkName: string; password: string };
+    quickRef: { checkoutTime: string; emergencyPhone: string };
+  };
+}
+
+const { property } = Astro.props;
+---
+
+<section class="bg-primary py-8" aria-labelledby="quickref-heading">
+  <div class="max-w-2xl mx-auto px-4">
+    <h2 id="quickref-heading" class="font-serif text-2xl font-bold text-white mb-6 text-center">
+      At a Glance
+    </h2>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <!-- WiFi -->
+      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="text-xl" aria-hidden="true">📶</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">WiFi</span>
+        </div>
+        <p class="font-medium text-sm truncate" title={property.wifi.networkName}>
+          {property.wifi.networkName}
+        </p>
+        <div class="flex items-center gap-2 mt-1">
+          <p
+            id="wifi-password-quickref"
+            class="font-mono text-accent font-bold text-base break-all"
+          >
+            {property.wifi.password}
+          </p>
+          <button
+            data-copy-target="wifi-password-quickref"
+            class="copy-btn flex-shrink-0 bg-white/20 hover:bg-white/30 rounded-lg p-1.5 transition-colors"
+            aria-label="Copy WiFi password"
+            title="Copy password"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+            </svg>
+          </button>
+        </div>
+        <p id="copy-feedback-quickref" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300">Copied!</p>
+      </div>
+
+      <!-- Checkout -->
+      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="text-xl" aria-hidden="true">🕙</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">Checkout</span>
+        </div>
+        <p class="font-bold text-2xl text-accent">
+          {property.quickRef.checkoutTime}
+        </p>
+        <p class="text-sm text-white/70 mt-1">Please be out by this time</p>
+      </div>
+
+      <!-- Emergency -->
+      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="text-xl" aria-hidden="true">🚨</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">Emergency</span>
+        </div>
+        <a
+          href={`tel:${property.quickRef.emergencyPhone}`}
+          class="font-bold text-2xl text-accent hover:text-yellow-300 transition-colors"
+          aria-label={`Call emergency number ${property.quickRef.emergencyPhone}`}
+        >
+          {property.quickRef.emergencyPhone}
+        </a>
+        <p class="text-sm text-white/70 mt-1">Tap to call</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('.copy-btn').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const targetId = btn.getAttribute('data-copy-target');
+      if (!targetId) return;
+      const targetEl = document.getElementById(targetId);
+      if (!targetEl) return;
+      const text = targetEl.textContent?.trim() ?? '';
+      try {
+        await navigator.clipboard.writeText(text);
+        const feedbackId = targetId.replace('wifi-password', 'copy-feedback');
+        const feedback = document.getElementById(feedbackId);
+        if (feedback) {
+          feedback.classList.remove('opacity-0');
+          setTimeout(() => feedback.classList.add('opacity-0'), 2000);
+        }
+        const origHtml = btn.innerHTML;
+        btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>`;
+        setTimeout(() => { btn.innerHTML = origHtml; }, 2000);
+      } catch {
+        // fallback: select text
+        const range = document.createRange();
+        range.selectNode(targetEl);
+        window.getSelection()?.removeAllRanges();
+        window.getSelection()?.addRange(range);
+      }
+    });
+  });
+</script>

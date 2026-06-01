@@ -1,0 +1,22 @@
+---
+import GuideLayout from '../layouts/GuideLayout.astro';
+---
+
+<GuideLayout title="Airbnb Guest Guides" propertyName="Guest Guide">
+  <main class="min-h-screen bg-surface flex items-center justify-center px-4">
+    <div class="text-center max-w-md mx-auto">
+      <div class="text-7xl mb-6">🏖️</div>
+      <h1 class="font-serif text-3xl font-bold text-charcoal mb-4">
+        Welcome, Guest!
+      </h1>
+      <p class="text-lg text-stone-600 leading-relaxed">
+        Please use the personalised link provided by your host to access your property guide.
+      </p>
+      <div class="mt-8 inline-block bg-primary/10 border border-primary/20 rounded-2xl px-6 py-4">
+        <p class="text-sm text-primary font-medium">
+          Your link looks like: <span class="font-mono bg-white rounded px-2 py-0.5">/guide/xxxxxxxx</span>
+        </p>
+      </div>
+    </div>
+  </main>
+</GuideLayout>

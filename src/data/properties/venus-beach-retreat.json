@@ -1,0 +1,146 @@
+{
+  "id": "venus-beach-retreat",
+  "name": "Colourful Venus Beach Retreat",
+  "subtitle": "Pool & 2 Terraces",
+  "tagline": "Your sun-drenched retreat awaits",
+  "heroImage": "",
+  "welcomeMessage": "Welcome to the Venus Beach Retreat! We're so happy to have you here. This vibrant, colourful home is our pride and joy — we hope it becomes your home away from home. You'll find everything you need to relax, explore, and soak up the best of the Mediterranean. If anything comes up, we're just a message away. Enjoy every moment!",
+  "host": {
+    "name": "Your Host",
+    "phone": "+30 XXX XXX XXXX",
+    "whatsapp": "+30 XXX XXX XXXX",
+    "email": "host@example.com"
+  },
+  "address": {
+    "display": "12 Aphrodite Lane, Protaras, Cyprus",
+    "googleMapsUrl": "https://maps.google.com/?q=Protaras+Cyprus",
+    "nearestLandmark": "500m from Fig Tree Bay Beach"
+  },
+  "quickRef": {
+    "checkoutTime": "11:00 AM",
+    "emergencyPhone": "112"
+  },
+  "wifi": {
+    "networkName": "VenusRetreat_WiFi",
+    "password": "sunshine2024"
+  },
+  "checkin": {
+    "keyLocation": "Lockbox on the front gate",
+    "accessCode": "1234",
+    "steps": [
+      "Park in the designated spot to the left of the entrance",
+      "Find the grey lockbox on the iron gate",
+      "Enter code 1234 and press the button to open",
+      "The key opens both the gate and the front door",
+      "Replace the key in the lockbox when you leave"
+    ],
+    "notes": "If you have any trouble accessing the property, call or WhatsApp us immediately and we'll help you straight away."
+  },
+  "gettingHere": {
+    "directions": "From Larnaca Airport, take the A3 motorway east toward Ayia Napa. Exit at Protaras and follow signs toward Fig Tree Bay. Turn right on Kavo Gkreko Avenue, then left onto Aphrodite Lane. We are the colourful blue house with the terracotta pots on the right-hand side.",
+    "parking": "Free dedicated parking directly in front of the property. Space for 2 cars.",
+    "publicTransport": "Bus line 101 stops 200m away at the Fig Tree Bay stop. Buses run every 30 minutes from 7am to 10pm.",
+    "taxi": "Recommended: Protaras Taxi (+357 23 831 444). Journey from Larnaca Airport is approximately 50 minutes."
+  },
+  "houseRules": [
+    "No smoking inside the property — outdoor terrace areas only",
+    "No parties or events — quiet hours 11pm to 8am",
+    "Maximum occupancy: 4 guests",
+    "No pets allowed",
+    "Please remove shoes at the entrance",
+    "Pool area: no glass bottles, no diving",
+    "Air conditioning: please keep windows and doors closed when running",
+    "Checkout by 11:00 AM — late checkout by prior arrangement only",
+    "Please conserve water — Cyprus is a water-scarce island",
+    "Treat the property as your own — with care and respect"
+  ],
+  "appliances": [
+    {
+      "name": "Air Conditioning",
+      "icon": "❄️",
+      "instructions": "Remote control is on the bedroom nightstand. Press POWER, then select COOL mode using the MODE button. Use the arrows to adjust temperature — 22–24°C is most comfortable. Please turn off when you leave any room and close all windows while running."
+    },
+    {
+      "name": "Washing Machine",
+      "icon": "🫧",
+      "instructions": "Located in the utility room off the kitchen. Add laundry detergent (provided under the sink) to the top drawer. Select a 40°C Cotton cycle for most loads. Press START. A standard cycle takes approximately 90 minutes. Feel free to use the outdoor line to dry your laundry."
+    },
+    {
+      "name": "Smart TV",
+      "icon": "📺",
+      "instructions": "Netflix and YouTube are pre-loaded on the smart TV. Use our guest profile (no password needed) or log in with your own account. The HDMI cable on the TV stand connects your phone or laptop. Press the HOME button on the remote to access all apps."
+    },
+    {
+      "name": "BBQ / Grill",
+      "icon": "🔥",
+      "instructions": "Located on the main upper terrace. Use the long lighter stored in the kitchen drawer. Turn the gas valve on the right side of the BBQ to open. Light the burners one at a time. After cooking, turn off gas fully and clean the grill with the brush provided. Please do not move the BBQ."
+    },
+    {
+      "name": "Pool",
+      "icon": "🏊",
+      "instructions": "The pool is cleaned and maintained weekly. Pool towels are in the storage chest by the pool steps — please use these rather than the bathroom towels. The pool light can be switched on via the box on the wall near the pool pump. No glass in or near the pool, please."
+    }
+  ],
+  "thingsToDo": [
+    {
+      "category": "Beaches",
+      "items": [
+        { "name": "Fig Tree Bay", "distance": "5 min walk", "tip": "Arrive before 10am for the best spot. Crystal clear water and white sand — perfect for snorkelling." },
+        { "name": "Konnos Bay", "distance": "10 min drive", "tip": "Quieter and more sheltered. Ideal for families with young children. Sunbeds for hire." },
+        { "name": "Nissi Beach", "distance": "20 min drive", "tip": "Lively beach with water sports, beach bars and a famous club. Buzzing in summer." },
+        { "name": "Pernera Beach", "distance": "8 min walk", "tip": "A quieter local favourite. Less crowded than Fig Tree Bay with a lovely taverna nearby." }
+      ]
+    },
+    {
+      "category": "Sightseeing",
+      "items": [
+        { "name": "Cape Greco National Park", "distance": "15 min drive", "tip": "Stunning sea caves, dramatic cliffs and coastal walking trails. Magical at sunrise." },
+        { "name": "Ayia Napa Monastery", "distance": "20 min drive", "tip": "A beautifully preserved 16th-century monastery in the town centre. Free entry, worth a visit." },
+        { "name": "Protaras Windmill Viewpoint", "distance": "10 min walk", "tip": "The best spot in the area for sunset photos. Bring a drink and enjoy the view." },
+        { "name": "Thalassa Museum", "distance": "20 min drive", "tip": "Fascinating museum about the sea and maritime heritage of Cyprus. Great for a rainy day." }
+      ]
+    },
+    {
+      "category": "Activities",
+      "items": [
+        { "name": "Snorkelling & Diving", "distance": "5 min walk", "tip": "Blue Lagoon Divers at Fig Tree Bay offer excellent guided dives and snorkel trips for all levels." },
+        { "name": "Quad & Buggy Rental", "distance": "10 min walk", "tip": "A fun way to explore the coastline. Several rental shops on the main road — prices are negotiable." },
+        { "name": "Sunset Boat Cruise", "distance": "Fig Tree Bay pier", "tip": "Book 'Captain Andreas' boat trips — a 3-hour cruise along the coast. Book ahead in peak summer." },
+        { "name": "Waterworld Waterpark", "distance": "20 min drive", "tip": "One of Europe's largest themed waterparks. Great for families and a full day out." }
+      ]
+    }
+  ],
+  "eatAndDrink": [
+    { "name": "Spartiatis Tavern", "type": "Traditional Cypriot", "distance": "5 min walk", "tip": "The best meze in Protaras. Warm atmosphere and generous portions. Book ahead for dinner.", "priceRange": "€€" },
+    { "name": "Pernera Beach Restaurant", "type": "Seafood", "distance": "10 min walk", "tip": "Freshly caught fish daily. Ask for the catch of the day. Sit on the terrace at sunset for the full experience.", "priceRange": "€€€" },
+    { "name": "Fig Tree Bay Kiosk", "type": "Snacks & Coffee", "distance": "5 min walk", "tip": "Perfect for a quick breakfast, fresh juice or an afternoon snack. Grab and go.", "priceRange": "€" },
+    { "name": "Meze Village", "type": "Cypriot", "distance": "15 min drive", "tip": "Huge portions of authentic meze in a village setting. Ideal for groups. Outdoor courtyard is lovely.", "priceRange": "€€" },
+    { "name": "Sunrise Supermarket", "type": "Grocery Store", "distance": "8 min walk", "tip": "Well stocked supermarket. Open daily 7am–10pm. Great for breakfast supplies, local cheese and wine.", "priceRange": "€" },
+    { "name": "Noodle House", "type": "Asian Fusion", "distance": "12 min walk", "tip": "A nice change of pace. Fresh noodle dishes, good vegetarian options. Great value lunch.", "priceRange": "€€" }
+  ],
+  "emergency": {
+    "contacts": [
+      { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire — free call from any phone" },
+      { "name": "Your Host", "number": "+30 XXX XXX XXXX", "note": "Call or WhatsApp anytime, day or night" },
+      { "name": "Famagusta General Hospital", "number": "+357 23 200 000", "note": "Nearest hospital — approximately 25 min drive" },
+      { "name": "Local Police", "number": "+357 23 831 111", "note": "Protaras Police Station" },
+      { "name": "Property Manager", "number": "+30 XXX XXX XXXX", "note": "Local contact for any maintenance issues" }
+    ],
+    "nearestHospital": "Famagusta General Hospital — 25 min drive, heading toward Famagusta on the B6 road",
+    "nearestPharmacy": "Protaras Pharmacy — 10 min walk on the main Protaras Avenue. Open Mon–Sat 8am–8pm."
+  },
+  "checkout": {
+    "time": "11:00 AM",
+    "steps": [
+      "Strip the bed linens and leave them folded on the bed",
+      "Empty the fridge and dispose of any leftover food",
+      "Take all rubbish bags to the large bins by the main gate",
+      "Run the dishwasher one last time if needed",
+      "Close all windows and shutters throughout the property",
+      "Switch off all air conditioning units and lights",
+      "Lock the front door and return the key to the lockbox (code: 1234)",
+      "Send us a quick WhatsApp message so we know you've left safely — and we'd love a review!"
+    ],
+    "lateCheckout": "Late checkout until 1:00 PM may be available depending on the next guests — just ask us the evening before and we'll do our best!"
+  }
+}

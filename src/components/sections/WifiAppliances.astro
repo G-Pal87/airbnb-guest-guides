@@ -1,0 +1,111 @@
+---
+interface Appliance {
+  name: string;
+  icon: string;
+  instructions: string;
+}
+
+interface Props {
+  property: {
+    wifi: { networkName: string; password: string };
+    appliances: Appliance[];
+  };
+}
+
+const { property } = Astro.props;
+---
+
+<section id="wifi" class="py-12 bg-surface" aria-labelledby="wifi-heading">
+  <div class="max-w-2xl mx-auto px-4">
+    <h2 id="wifi-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+      WiFi & Appliances
+    </h2>
+
+    <!-- WiFi card -->
+    <div class="bg-primary rounded-2xl shadow-md p-5 mb-8 text-white">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="text-2xl" aria-hidden="true">📶</span>
+        <h3 class="font-semibold text-lg">WiFi Details</h3>
+      </div>
+      <div class="bg-white/15 rounded-xl p-4 space-y-3">
+        <div>
+          <p class="text-xs text-white/70 font-semibold uppercase tracking-wide mb-0.5">Network Name</p>
+          <p class="font-medium text-white" id="wifi-network-name">{property.wifi.networkName}</p>
+        </div>
+        <div>
+          <p class="text-xs text-white/70 font-semibold uppercase tracking-wide mb-0.5">Password</p>
+          <div class="flex items-center gap-2">
+            <p class="font-mono font-bold text-xl text-accent break-all" id="wifi-password-appliances">
+              {property.wifi.password}
+            </p>
+            <button
+              data-copy-id="wifi-password-appliances"
+              class="wifi-copy-btn flex-shrink-0 bg-white/20 hover:bg-white/30 rounded-lg p-2 transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
+              aria-label="Copy WiFi password"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              </svg>
+            </button>
+          </div>
+          <p id="wifi-copy-feedback" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300">✓ Password copied!</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Appliances -->
+    <h3 class="font-serif text-xl font-semibold text-charcoal mb-4">Appliances</h3>
+    <div class="space-y-3">
+      {property.appliances.map((appliance: Appliance) => (
+        <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">
+          <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer list-none select-none min-h-[56px] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset rounded-2xl">
+            <span class="text-2xl flex-shrink-0" aria-hidden="true">{appliance.icon}</span>
+            <span class="font-semibold text-charcoal flex-1">{appliance.name}</span>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-5 w-5 text-stone-400 flex-shrink-0 transition-transform duration-200 group-open:rotate-180"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              aria-hidden="true"
+            >
+              <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+          </summary>
+          <div class="px-5 pb-5 pt-1">
+            <div class="border-t border-stone-100 pt-4">
+              <p class="text-stone-600 text-sm leading-relaxed">{appliance.instructions}</p>
+            </div>
+          </div>
+        </details>
+      ))}
+    </div>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('.wifi-copy-btn').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const targetId = btn.getAttribute('data-copy-id');
+      if (!targetId) return;
+      const targetEl = document.getElementById(targetId);
+      if (!targetEl) return;
+      const text = targetEl.textContent?.trim() ?? '';
+      try {
+        await navigator.clipboard.writeText(text);
+        const feedback = document.getElementById('wifi-copy-feedback');
+        if (feedback) {
+          feedback.classList.remove('opacity-0');
+          setTimeout(() => feedback.classList.add('opacity-0'), 2000);
+        }
+        const origContent = btn.innerHTML;
+        btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>`;
+        setTimeout(() => { btn.innerHTML = origContent; }, 2000);
+      } catch {
+        const range = document.createRange();
+        range.selectNode(targetEl);
+        window.getSelection()?.removeAllRanges();
+        window.getSelection()?.addRange(range);
+      }
+    });
+  });
+</script>

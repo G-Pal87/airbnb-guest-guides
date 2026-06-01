@@ -1,0 +1,55 @@
+---
+import { readFileSync } from 'fs';
+import { join } from 'path';
+import GuideLayout from '../../layouts/GuideLayout.astro';
+import Hero from '../../components/sections/Hero.astro';
+import QuickRef from '../../components/sections/QuickRef.astro';
+import Navigation from '../../components/Navigation.astro';
+import GettingHere from '../../components/sections/GettingHere.astro';
+import CheckIn from '../../components/sections/CheckIn.astro';
+import HouseRules from '../../components/sections/HouseRules.astro';
+import WifiAppliances from '../../components/sections/WifiAppliances.astro';
+import ThingsToDo from '../../components/sections/ThingsToDo.astro';
+import EatAndDrink from '../../components/sections/EatAndDrink.astro';
+import Emergency from '../../components/sections/Emergency.astro';
+import Checkout from '../../components/sections/Checkout.astro';
+import ContactHost from '../../components/sections/ContactHost.astro';
+import BackToTop from '../../components/BackToTop.astro';
+
+export async function getStaticPaths() {
+  const tokensPath = join(process.cwd(), 'src/data/tokens.json');
+  const tokens: Record<string, string> = JSON.parse(readFileSync(tokensPath, 'utf-8'));
+
+  const paths = Object.entries(tokens).map(([token, propertyId]) => {
+    const propertyPath = join(process.cwd(), `src/data/properties/${propertyId}.json`);
+    const property = JSON.parse(readFileSync(propertyPath, 'utf-8'));
+    return {
+      params: { token },
+      props: { property },
+    };
+  });
+
+  return paths;
+}
+
+const { property } = Astro.props;
+---
+
+<GuideLayout
+  title={`${property.name} — Guest Guide`}
+  propertyName={property.name}
+>
+  <Hero property={property} />
+  <QuickRef property={property} />
+  <Navigation />
+  <GettingHere property={property} />
+  <CheckIn property={property} />
+  <HouseRules property={property} />
+  <WifiAppliances property={property} />
+  <ThingsToDo property={property} />
+  <EatAndDrink property={property} />
+  <Emergency property={property} />
+  <Checkout property={property} />
+  <ContactHost property={property} />
+  <BackToTop />
+</GuideLayout>

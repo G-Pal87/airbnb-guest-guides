@@ -28,6 +28,8 @@ const categoryIcons: Record<string, string> = {
 function getCategoryIcon(category: string): string {
   return categoryIcons[category] ?? '✨';
 }
+
+const VISIBLE_COUNT = 6;
 ---
 
 <section id="things-to-do" class="py-12 bg-white" aria-labelledby="things-to-do-heading">
@@ -37,15 +39,17 @@ function getCategoryIcon(category: string): string {
     </h2>
 
     <div class="space-y-8">
-      {property.thingsToDo.map((group: ActivityCategory) => (
+      {property.thingsToDo.map((group: ActivityCategory, gi: number) => (
         <div>
           <h3 class="font-serif text-xl font-semibold text-primary mb-4 flex items-center gap-2">
             <span aria-hidden="true">{getCategoryIcon(group.category)}</span>
             {group.category}
           </h3>
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {group.items.map((item: ActivityItem) => (
-              <div class="bg-surface rounded-2xl shadow-md p-4 border border-stone-100">
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" data-group={gi}>
+            {group.items.map((item: ActivityItem, i: number) => (
+              <div
+                class={`bg-surface rounded-2xl shadow-md p-4 border border-stone-100${i >= VISIBLE_COUNT ? ' extra-item hidden' : ''}`}
+              >
                 <div class="flex items-start justify-between gap-2 mb-2">
                   <h4 class="font-semibold text-charcoal text-sm leading-snug">{item.name}</h4>
                   <span class="flex-shrink-0 bg-primary/10 text-primary text-xs font-semibold px-2.5 py-1 rounded-full whitespace-nowrap">
@@ -70,8 +74,43 @@ function getCategoryIcon(category: string): string {
               </div>
             ))}
           </div>
+          {group.items.length > VISIBLE_COUNT && (
+            <button
+              type="button"
+              data-toggle-group={gi}
+              data-hidden-count={group.items.length - VISIBLE_COUNT}
+              class="toggle-btn mt-4 w-full flex items-center justify-center gap-2 text-primary text-sm font-semibold py-3 rounded-2xl border border-primary/30 hover:bg-primary/5 transition-colors"
+            >
+              <span class="toggle-label">Show {group.items.length - VISIBLE_COUNT} more</span>
+              <svg class="toggle-chevron h-4 w-4 transition-transform duration-200" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+          )}
         </div>
       ))}
     </div>
   </div>
 </section>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('.toggle-btn').forEach((btn) => {
+    const groupId = btn.getAttribute('data-toggle-group');
+    const hiddenCount = parseInt(btn.getAttribute('data-hidden-count') ?? '0', 10);
+    const grid = document.querySelector<HTMLElement>(`[data-group="${groupId}"]`);
+    if (!grid) return;
+
+    let expanded = false;
+
+    btn.addEventListener('click', () => {
+      expanded = !expanded;
+      grid.querySelectorAll<HTMLElement>('.extra-item').forEach((el) => {
+        el.classList.toggle('hidden', !expanded);
+      });
+      const label = btn.querySelector('.toggle-label');
+      const chevron = btn.querySelector<HTMLElement>('.toggle-chevron');
+      if (label) label.textContent = expanded ? 'Show less' : `Show ${hiddenCount} more`;
+      if (chevron) chevron.style.transform = expanded ? 'rotate(180deg)' : '';
+    });
+  });
+</script>

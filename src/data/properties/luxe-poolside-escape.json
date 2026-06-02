@@ -148,9 +148,17 @@
     {
       "category": "Historical Sites & Scenic Walks 🏰",
       "items": [
-        { "name": "Tombs of the Kings", "distance": "8 min walk", "tip": "UNESCO World Heritage site. Ancient tombs carved from solid rock, offering a unique look at Paphos's rich history. Free to explore the area." },
-        { "name": "Paphos Castle & Harbor (Limani)", "distance": "30 min walk", "tip": "Historic castle right by the harbour. Lovely for exploring and waterfront dining." },
-        { "name": "Harbor Promenade", "distance": "30 min walk", "tip": "Follow the promenade from the Castle along the Limani for scenic views, shops and dining. Especially charming at sunset. 🌅" }
+        { "name": "Tombs of the Kings", "distance": "250m-1km, walk", "tip": "Closest and most important historical site. Rock-cut tombs from the Hellenistic and Roman periods, part of the UNESCO listed Paphos archaeological area.", "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus" },
+        { "name": "Paphos Coastal Walkway", "distance": "Starts nearby, walk", "tip": "Walk along the coastline toward Lighthouse Beach, the harbour, and Paphos Castle. Easy and scenic, especially at sunset.", "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus" },
+        { "name": "Lighthouse Beach & Lighthouse", "distance": "2.0-2.5 km, walk or car", "tip": "Relaxed halfway point between Avlida and the harbour. Good for a scenic walk with a beach stop.", "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus" },
+        { "name": "Old Town Paphos & Kennedy Square", "distance": "2-3 km, car or bus", "tip": "Good for cafes, local streets, small shops, and a more authentic Paphos feel. Best visited late afternoon.", "mapsUrl": "https://www.google.com/maps/search/Kennedy+Square+Paphos+Cyprus" },
+        { "name": "Kato Paphos Archaeological Park", "distance": "3-4 km, car or bus", "tip": "Top cultural site in Cyprus. Roman mosaics considered among the finest in the eastern Mediterranean, UNESCO listed.", "mapsUrl": "https://www.google.com/maps/search/Kato+Paphos+Archaeological+Park+Cyprus" },
+        { "name": "Paphos Harbour & Castle", "distance": "3.5-4 km, car or scenic walk", "tip": "Easy evening plan. Byzantine fort rebuilt by the Lusignans, then Venetians, then Ottomans in the 16th century.", "mapsUrl": "https://www.google.com/maps/search/Paphos+Castle+Harbour+Cyprus" },
+        { "name": "Agios Neophytos Monastery", "distance": "10-12 km, car", "tip": "Beautiful half-day stop. Founded in the 12th century by Saint Neophytos in a secluded valley north of Paphos.", "mapsUrl": "https://www.google.com/maps/search/Agios+Neophytos+Monastery+Paphos+Cyprus" },
+        { "name": "Sea Caves & Edro III Shipwreck", "distance": "17-20 km, car", "tip": "Scenic coast, great for photos and sunset. Combine with Oniro by the Sea and Agios Georgios.", "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus" },
+        { "name": "Agios Georgios Archaeological Site", "distance": "20-22 km, car", "tip": "Quiet ruins with sea views, off the tourist trail. Good if already heading toward Sea Caves or Lara.", "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Archaeological+Site+Peyia+Cyprus" },
+        { "name": "Petra tou Romiou (Aphrodite's Rock)", "distance": "27-30 km, car", "tip": "Most iconic scenic stop in Cyprus. Better for views and mythology than swimming.", "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus" },
+        { "name": "Akamas Peninsula", "distance": "30-45 km, car or guided tour", "tip": "Wild nature, viewpoints, walking trails. Road conditions vary. Best for adventurous guests.", "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus" }
       ]
     },
     {

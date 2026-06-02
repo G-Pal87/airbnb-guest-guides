@@ -6,10 +6,10 @@
   "heroImage": "",
   "welcomeMessage": "Welcome to the Beach Side Studio! You've chosen one of our most special properties — a bright, airy studio just steps from the sea with a private terrace where you can watch the waves roll in over your morning coffee. This is coastal living at its simplest and most beautiful. Relax, unwind, and let the Mediterranean charm do the rest. We're always just a message away!",
   "host": {
-    "name": "Rita",
-    "phone": "+49 151 114 707 30",
-    "whatsapp": "+49 151 114 707 30",
-    "email": "katonarita90@gmail.com"
+    "name": "Giorgos",
+    "phone": "+357 940 495 35",
+    "whatsapp": "+420 731 139 854",
+    "email": "giorgos.koutoulo@gmail.com"
   },
   "address": {
     "display": "1A Thalassa Lane, Paralimni Coast, Cyprus",
@@ -645,7 +645,7 @@
         "note": "Police, Ambulance, Fire. Free from any phone"
       },
       {
-        "name": "Rita (Your Host)",
+        "name": "Rita (Co-host)",
         "number": "+49 151 114 707 30",
         "note": "Call or WhatsApp anytime, available 24/7"
       },
@@ -679,10 +679,10 @@
     "lateCheckout": "Late checkout is sometimes possible — please ask by 9pm the evening before. We'll confirm availability as soon as we can."
   },
   "cohost": {
-    "name": "Giorgos",
+    "name": "Rita",
     "role": "Co-host",
-    "phone": "+357 940 495 35",
-    "whatsapp": "+420 731 139 854",
-    "email": "giorgos.koutoulo@gmail.com"
+    "phone": "+49 151 114 707 30",
+    "whatsapp": "+49 151 114 707 30",
+    "email": "katonarita90@gmail.com"
   }
 }

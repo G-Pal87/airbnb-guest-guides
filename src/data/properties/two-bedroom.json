@@ -6,10 +6,10 @@
   "heroImage": "",
   "welcomeMessage": "Welcome to our beautiful 2 Bedroom Apartment! We're so glad you chose to spend your time here. This spacious apartment has been designed with families and groups in mind — plenty of room to relax together and space to spread out. Two bedrooms, a large living area, a fully equipped kitchen, and a wide private balcony with garden views. We want your stay to be perfect, so don't hesitate to get in touch with anything you need.",
   "host": {
-    "name": "Rita",
-    "phone": "+49 151 114 707 30",
-    "whatsapp": "+49 151 114 707 30",
-    "email": "katonarita90@gmail.com"
+    "name": "Giorgos",
+    "phone": "+357 940 495 35",
+    "whatsapp": "+420 731 139 854",
+    "email": "giorgos.koutoulo@gmail.com"
   },
   "address": {
     "display": "14 Kypros Street, Protaras, Cyprus",
@@ -656,7 +656,7 @@
         "note": "Police, Ambulance, Fire. Free from any phone"
       },
       {
-        "name": "Rita (Your Host)",
+        "name": "Rita (Co-host)",
         "number": "+49 151 114 707 30",
         "note": "Call or WhatsApp anytime, available 24/7"
       },
@@ -692,10 +692,10 @@
     "lateCheckout": "Late checkout until 1pm may be possible depending on same-day arrivals. Please ask by 9pm the evening before and we'll confirm. A small fee may apply in peak season."
   },
   "cohost": {
-    "name": "Giorgos",
+    "name": "Rita",
     "role": "Co-host",
-    "phone": "+357 940 495 35",
-    "whatsapp": "+420 731 139 854",
-    "email": "giorgos.koutoulo@gmail.com"
+    "phone": "+49 151 114 707 30",
+    "whatsapp": "+49 151 114 707 30",
+    "email": "katonarita90@gmail.com"
   }
 }

@@ -6,10 +6,10 @@
   "heroImage": "",
   "welcomeMessage": "Welcome to the Poolside Central Studio! This chic, compact studio is perfectly positioned right in the heart of Protaras, a short stroll from the beach and all the best restaurants and cafés. Everything you need is here — fresh linens, a fully equipped kitchen, a sunny balcony, and a shared pool to cool off in. Make yourself at home and enjoy every sun-soaked moment!",
   "host": {
-    "name": "Rita",
-    "phone": "+49 151 114 707 30",
-    "whatsapp": "+49 151 114 707 30",
-    "email": "katonarita90@gmail.com"
+    "name": "Giorgos",
+    "phone": "+357 940 495 35",
+    "whatsapp": "+420 731 139 854",
+    "email": "giorgos.koutoulo@gmail.com"
   },
   "address": {
     "display": "3B Helios Court, Protaras Avenue, Protaras, Cyprus",
@@ -650,7 +650,7 @@
         "note": "Police, Ambulance, Fire. Free from any phone"
       },
       {
-        "name": "Rita (Your Host)",
+        "name": "Rita (Co-host)",
         "number": "+49 151 114 707 30",
         "note": "Call or WhatsApp anytime, available 24/7"
       },
@@ -684,10 +684,10 @@
     "lateCheckout": "Late checkout is generally not available due to our tight housekeeping schedule. Please let us know if you have a special circumstance and we'll try our best."
   },
   "cohost": {
-    "name": "Giorgos",
+    "name": "Rita",
     "role": "Co-host",
-    "phone": "+357 940 495 35",
-    "whatsapp": "+420 731 139 854",
-    "email": "giorgos.koutoulo@gmail.com"
+    "phone": "+49 151 114 707 30",
+    "whatsapp": "+49 151 114 707 30",
+    "email": "katonarita90@gmail.com"
   }
 }

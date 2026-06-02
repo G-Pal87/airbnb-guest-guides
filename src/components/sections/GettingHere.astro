@@ -91,6 +91,17 @@ const gettingAround = property.gettingAround ?? [];
         </div>
       )}
 
+      <!-- Public Transport -->
+      <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
+        <div class="flex items-start gap-3">
+          <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚌</span>
+          <div>
+            <h3 class="font-semibold text-charcoal mb-1.5">By Public Transport</h3>
+            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.publicTransport}</p>
+          </div>
+        </div>
+      </div>
+
       <!-- Photo walkthrough -->
       {photos.length > 0 && (
         <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
@@ -128,17 +139,6 @@ const gettingAround = property.gettingAround ?? [];
           <div>
             <h3 class="font-semibold text-charcoal mb-1.5">Parking</h3>
             <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.parking}</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Public Transport -->
-      <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-        <div class="flex items-start gap-3">
-          <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚌</span>
-          <div>
-            <h3 class="font-semibold text-charcoal mb-1.5">By Public Transport</h3>
-            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.publicTransport}</p>
           </div>
         </div>
       </div>

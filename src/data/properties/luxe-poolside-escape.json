@@ -21,7 +21,8 @@
     "emergencyPhone": "112"
   },
   "wifi": {
-    "networkName": "Lux Poolside Escape  /  D14-WIFI",
+    "networkName": "Lux Poolside Escape",
+    "networkNames": ["Lux Poolside Escape", "D14-WIFI"],
     "password": "D141231231233",
     "notes": "If you experience connection issues, flip the switch on the socket next to the router to restart it. If the problem persists, let us know."
   },

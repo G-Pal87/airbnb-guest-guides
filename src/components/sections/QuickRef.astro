@@ -1,7 +1,7 @@
 ---
 interface Props {
   property: {
-    wifi: { networkName: string; password: string };
+    wifi: { networkName: string; networkNames?: string[]; password: string };
     quickRef: { checkoutTime: string; emergencyPhone: string };
   };
 }
@@ -22,9 +22,17 @@ const { property } = Astro.props;
           <span class="text-xl" aria-hidden="true">📶</span>
           <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">WiFi</span>
         </div>
-        <p class="font-medium text-sm truncate" title={property.wifi.networkName}>
-          {property.wifi.networkName}
-        </p>
+        {property.wifi.networkNames && property.wifi.networkNames.length > 1 ? (
+          <div class="space-y-0.5">
+            {property.wifi.networkNames.map((n: string) => (
+              <p class="font-medium text-sm truncate" title={n}>{n}</p>
+            ))}
+          </div>
+        ) : (
+          <p class="font-medium text-sm truncate" title={property.wifi.networkName}>
+            {property.wifi.networkName}
+          </p>
+        )}
         <div class="flex items-center gap-2 mt-1">
           <p
             id="wifi-password-quickref"

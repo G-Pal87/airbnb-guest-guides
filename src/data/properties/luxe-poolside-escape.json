@@ -129,10 +129,20 @@
     {
       "category": "Beaches 🏝️",
       "items": [
-        { "name": "Venus Beach", "distance": "5 min walk", "tip": "Sandy beach perfect for swimming and sunbathing. Famous for some of the most beautiful sunsets on the whole island!" },
-        { "name": "Faros (Lighthouse) Beach", "distance": "15 min walk", "tip": "Calm atmosphere with sun beds and umbrellas. Crystal-clear waters, great for families and quiet days by the sea." },
-        { "name": "Alykes Beach", "distance": "Near Paphos harbor", "tip": "Lively beach with easy access to cafes and restaurants along the waterfront." },
-        { "name": "White River Beach", "distance": "Short drive", "tip": "A hidden gem with stunning natural beauty. Unique zen stone art installations scattered around make this place truly special." }
+        { "name": "Venus Beach", "distance": "1.0-1.3 km, walk or car", "tip": "Closest useful beach. 15-20 min on foot. Quick swim, sunset, convenience.", "mapsUrl": "https://www.google.com/maps/search/Venus+Beach+Paphos+Cyprus" },
+        { "name": "Faros Beach", "distance": "1.8-2.3 km, walk or car", "tip": "25-35 min on foot or a short drive. Sunset, casual swim.", "mapsUrl": "https://www.google.com/maps/search/Faros+Beach+Paphos+Cyprus" },
+        { "name": "Sandy Beach, Chloraka", "distance": "3.5-4.5 km, car", "tip": "Less touristy, local feel. Good for sunset. Better when the sea is calm.", "mapsUrl": "https://www.google.com/maps/search/Sandy+Beach+Chloraka+Paphos" },
+        { "name": "Municipal Baths, Kato Paphos", "distance": "3.0-4.0 km, car", "tip": "City swimming spot, not a sandy beach. Handy for a quick dip near the promenade.", "mapsUrl": "https://www.google.com/maps/search/Municipal+Baths+Kato+Paphos" },
+        { "name": "Alykes Beach, Kato Paphos", "distance": "3.5-4.5 km, car or bus", "tip": "Organised beach with facilities, good for families. Easier by car or bus than on foot.", "mapsUrl": "https://www.google.com/maps/search/Alykes+Beach+Kato+Paphos+Cyprus" },
+        { "name": "Coral Bay Beach", "distance": "11-12 km, car or bus", "tip": "The safest best beach choice near Paphos. Sandy, organised, easy. Hard to go wrong.", "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus" },
+        { "name": "Laourou / Corallia Beach", "distance": "12-13 km, car or bus", "tip": "My preferred alternative to Coral Bay. Similar convenience, usually calmer.", "mapsUrl": "https://www.google.com/maps/search/Corallia+Beach+Paphos+Cyprus" },
+        { "name": "Sea Caves, Peyia", "distance": "17-19 km, car", "tip": "Dramatic coastline. Better for scenery and sunset photos than a classic beach day.", "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus" },
+        { "name": "Agios Georgios Beach, Peyia", "distance": "20-22 km, car", "tip": "Small beach, good for snorkelling. Combine with Sea Caves and Oniro by the Sea.", "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Beach+Peyia+Cyprus" },
+        { "name": "White River Beach / Toxeftra", "distance": "23-26 km, car (higher clearance)", "tip": "Raw and beautiful, wild coast. Better for exploring than sunbeds.", "mapsUrl": "https://www.google.com/maps/search/Toxeftra+Beach+Cyprus" },
+        { "name": "Lara Beach / Lara Bay", "distance": "28-32 km, 4x4 or guided tour", "tip": "One of the most special beaches in the Paphos area. Turtle nesting site. Rough access, no facilities.", "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus" },
+        { "name": "Petra tou Romiou (Aphrodite's Rock)", "distance": "27-30 km, car", "tip": "Legendary birthplace of Aphrodite. Beautiful scenery and photos, but rocky and not always ideal for swimming.", "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus" },
+        { "name": "Latchi Harbour (Blue Lagoon boat trips)", "distance": "38-42 km, car then boat", "tip": "Best starting point for Blue Lagoon without off-road driving. Boat trips depart from here.", "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus" },
+        { "name": "Blue Lagoon, Akamas", "distance": "38-42 km + boat", "tip": "Most impressive water in the Paphos area. Not a drive-up beach. Take a boat from Latchi.", "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus" }
       ]
     },
     {

@@ -57,6 +57,11 @@
   ],
   "appliances": [
     {
+      "name": "Electricity",
+      "icon": "💡",
+      "instructions": "To have electricity, place the metallic key in the key plug on the wall next to the door, just like in hotels. Remember to remove it and take your keys with you every time you leave the apartment. Important: every socket in Cyprus has its own switch on the wall next to it. If an appliance is not working, check that the socket switch is turned on. You will also find EU adapters around the apartment for your convenience."
+    },
+    {
       "name": "Air Conditioning",
       "icon": "❄️",
       "instructions": "Wall-mounted AC unit above the door. Use the remote on the windowsill. Press ON/OFF, select COOL, and set to 22°C. The unit is powerful for the room size — 23–24°C may feel more comfortable. Always switch off when leaving and keep the balcony door closed."

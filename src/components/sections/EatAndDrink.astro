@@ -5,15 +5,25 @@ interface EatItem {
   distance: string;
   tip: string;
   priceRange: string;
+  mapsUrl?: string;
+}
+
+interface ShopItem {
+  name: string;
+  distance: string;
+  tip: string;
+  mapsUrl?: string;
 }
 
 interface Props {
   property: {
     eatAndDrink: EatItem[];
+    shopping?: ShopItem[];
   };
 }
 
 const { property } = Astro.props;
+const shopping = property.shopping ?? [];
 
 function priceRangeColor(range: string): string {
   switch (range) {
@@ -31,7 +41,7 @@ function typeIcon(type: string): string {
   if (t.includes('café') || t.includes('cafe') || t.includes('coffee')) return '☕';
   if (t.includes('bar') || t.includes('cocktail')) return '🍹';
   if (t.includes('pizza') || t.includes('italian')) return '🍕';
-  if (t.includes('cypriot') || t.includes('greek') || t.includes('meze') || t.includes('grill')) return '🍽️';
+  if (t.includes('cypriot') || t.includes('greek') || t.includes('meze') || t.includes('grill') || t.includes('tavern')) return '🍽️';
   if (t.includes('bakery') || t.includes('pastry')) return '🥐';
   if (t.includes('snack') || t.includes('kiosk')) return '🍦';
   return '🍴';
@@ -70,10 +80,69 @@ function typeIcon(type: string): string {
                 </span>
               </div>
               <p class="text-stone-500 text-sm leading-relaxed">{place.tip}</p>
+              {place.mapsUrl && (
+                <a
+                  href={place.mapsUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="inline-flex items-center gap-1.5 mt-2.5 text-primary text-xs font-semibold hover:underline min-h-[44px] focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-1 rounded"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                  </svg>
+                  View on Google Maps
+                </a>
+              )}
             </div>
           </div>
         </div>
       ))}
     </div>
+
+    <!-- Shopping section -->
+    {shopping.length > 0 && (
+      <div class="mt-10">
+        <h3 class="font-serif text-2xl font-bold text-charcoal mb-5">
+          Shopping 🛍️
+        </h3>
+        <div class="space-y-3">
+          {shopping.map((shop: ShopItem) => (
+            <div class="bg-white rounded-2xl shadow-md p-4 border border-stone-100">
+              <div class="flex items-start gap-3">
+                <span class="text-2xl flex-shrink-0 mt-0.5" aria-hidden="true">🛍️</span>
+                <div class="flex-1 min-w-0">
+                  <div class="flex flex-wrap items-center gap-2 mb-1.5">
+                    <h4 class="font-semibold text-charcoal text-base">{shop.name}</h4>
+                    <span class="text-xs text-stone-500 font-medium flex items-center gap-1">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                      </svg>
+                      {shop.distance}
+                    </span>
+                  </div>
+                  <p class="text-stone-500 text-sm leading-relaxed">{shop.tip}</p>
+                  {shop.mapsUrl && (
+                    <a
+                      href={shop.mapsUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="inline-flex items-center gap-1.5 mt-2.5 text-primary text-xs font-semibold hover:underline min-h-[44px] focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-1 rounded"
+                    >
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                      </svg>
+                      View on Google Maps
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
   </div>
 </section>

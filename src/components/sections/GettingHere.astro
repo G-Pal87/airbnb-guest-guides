@@ -1,21 +1,31 @@
 ---
+interface DirectionPhoto {
+  src: string;
+  caption: string;
+}
+
 interface Props {
   property: {
     address: {
       display: string;
       googleMapsUrl: string;
       nearestLandmark: string;
+      addressNote?: string;
     };
     gettingHere: {
-      directions: string;
+      directions?: string;
+      byCar?: string;
       parking: string;
       publicTransport: string;
-      taxi: string;
+      taxi?: string;
+      directionPhotos?: DirectionPhoto[];
     };
   };
 }
 
 const { property } = Astro.props;
+const directions = property.gettingHere.byCar ?? property.gettingHere.directions ?? '';
+const photos = property.gettingHere.directionPhotos ?? [];
 ---
 
 <section id="getting-here" class="py-12 bg-white" aria-labelledby="getting-here-heading">
@@ -35,6 +45,11 @@ const { property } = Astro.props;
           <p class="text-sm text-stone-500 mt-1">
             {property.address.nearestLandmark}
           </p>
+          {property.address.addressNote && (
+            <p class="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-xl px-3 py-2 mt-3">
+              ⚠️ {property.address.addressNote}
+            </p>
+          )}
           <a
             href={property.address.googleMapsUrl}
             target="_blank"
@@ -51,18 +66,50 @@ const { property } = Astro.props;
       </div>
     </div>
 
-    <!-- Info items -->
+    <!-- Info cards -->
     <div class="space-y-4">
-      <!-- Directions -->
-      <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-        <div class="flex items-start gap-3">
-          <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🗺️</span>
-          <div>
-            <h3 class="font-semibold text-charcoal mb-1.5">Directions</h3>
-            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.directions}</p>
+      <!-- By Car -->
+      {directions && (
+        <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
+          <div class="flex items-start gap-3">
+            <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚗</span>
+            <div>
+              <h3 class="font-semibold text-charcoal mb-1.5">By Car</h3>
+              <p class="text-stone-600 text-sm leading-relaxed">{directions}</p>
+            </div>
           </div>
         </div>
-      </div>
+      )}
+
+      <!-- Photo walkthrough -->
+      {photos.length > 0 && (
+        <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
+          <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2">
+            <span aria-hidden="true">📸</span> Step-by-Step Photo Guide
+          </h3>
+          <div class="space-y-4">
+            {photos.map((photo: DirectionPhoto, i: number) => (
+              <div class="flex items-start gap-3">
+                <span
+                  class="flex-shrink-0 w-7 h-7 rounded-full bg-primary text-white font-bold text-xs flex items-center justify-center mt-1"
+                  aria-hidden="true"
+                >
+                  {i + 1}
+                </span>
+                <div class="flex-1 min-w-0">
+                  <img
+                    src={photo.src}
+                    alt={photo.caption}
+                    loading="lazy"
+                    class="w-full rounded-xl object-cover max-h-52 mb-2"
+                  />
+                  <p class="text-stone-600 text-sm leading-relaxed">{photo.caption}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       <!-- Parking -->
       <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
@@ -80,22 +127,24 @@ const { property } = Astro.props;
         <div class="flex items-start gap-3">
           <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚌</span>
           <div>
-            <h3 class="font-semibold text-charcoal mb-1.5">Public Transport</h3>
+            <h3 class="font-semibold text-charcoal mb-1.5">By Public Transport</h3>
             <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.publicTransport}</p>
           </div>
         </div>
       </div>
 
-      <!-- Taxi -->
-      <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-        <div class="flex items-start gap-3">
-          <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚕</span>
-          <div>
-            <h3 class="font-semibold text-charcoal mb-1.5">Taxi</h3>
-            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.taxi}</p>
+      <!-- Taxi (optional) -->
+      {property.gettingHere.taxi && (
+        <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
+          <div class="flex items-start gap-3">
+            <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚕</span>
+            <div>
+              <h3 class="font-semibold text-charcoal mb-1.5">Taxi</h3>
+              <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.taxi}</p>
+            </div>
           </div>
         </div>
-      </div>
+      )}
     </div>
   </div>
 </section>

@@ -7,15 +7,16 @@
   "welcomeMessage": "Welcome to the Luxe Poolside Escape! We're thrilled to host you in this beautifully designed retreat. Styled for comfort and elegance, this home is your private sanctuary on the Mediterranean. Everything has been prepared with care. Dive into the pool, sip coffee on the terrace, and let the island work its magic. We're always a message away if you need anything at all.",
   "host": {
     "name": "Rita",
-    "phone": "+49 15111470730",
-    "whatsapp": "+49 15111470730",
+    "phone": "+49 151 114 707 30",
+    "whatsapp": "+49 151 114 707 30",
     "email": "katonarita90@gmail.com"
   },
   "cohost": {
     "name": "Giorgos",
     "role": "Co-host",
-    "phone": "+35794049535",
-    "whatsapp": "+420731139854"
+    "phone": "+357 940 495 35",
+    "whatsapp": "+420 731 139 854",
+    "email": "giorgos.koutoulo@gmail.com"
   },
   "address": {
     "display": "Morphou 27, King's Park Complex, Paphos",
@@ -244,7 +245,7 @@
   "emergency": {
     "contacts": [
       { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire. Free from any phone" },
-      { "name": "Rita (Your Host)", "number": "+49 15111470730", "note": "Call or WhatsApp anytime, available 24/7" },
+      { "name": "Rita (Your Host)", "number": "+49 151 114 707 30", "note": "Call or WhatsApp anytime, available 24/7" },
       { "name": "Paphos District Hospital", "number": "+357 26 803 100", "note": "Main hospital in Paphos, approx. 10 min drive" },
       { "name": "Paphos Police", "number": "+357 26 306 060", "note": "Paphos Police Station" }
     ],

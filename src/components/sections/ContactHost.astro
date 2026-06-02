@@ -7,6 +7,7 @@ interface ContactPerson {
   email?: string;
 }
 
+
 interface Props {
   property: {
     host: ContactPerson;
@@ -83,6 +84,21 @@ const hasCohost = !!property.cohost;
               <p class="font-semibold text-xs truncate">{property.cohost!.whatsapp}</p>
             </div>
           </a>
+          {property.cohost!.email && (
+            <a
+              href={`mailto:${property.cohost!.email}`}
+              class="flex items-center gap-2 bg-stone-100 text-charcoal rounded-xl px-3 py-2.5 hover:bg-stone-200 transition-colors focus:outline-none focus:ring-2 focus:ring-stone-400 focus:ring-offset-1 min-h-[48px]"
+              aria-label={`Email ${property.cohost!.name}`}
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 flex-shrink-0 text-stone-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+              </svg>
+              <div class="min-w-0">
+                <p class="text-xs text-stone-500 font-medium">Email</p>
+                <p class="font-semibold text-xs truncate">{property.cohost!.email}</p>
+              </div>
+            </a>
+          )}
         </div>
 
         {/* Rita (host) */}

@@ -131,7 +131,7 @@
     { "name": "Old Town", "distance": "Walking distance", "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops." }
   ],
   "gettingAround": [
-    { "icon": "🚌", "name": "Bus", "info": "The central bus station (Tombs of the Kings) is a 10-min walk away, with direct connections to main attractions, the airport, and nearby towns.", "linkText": "Bus timetables & routes", "linkUrl": "https://www.pafosbuses.com/main-bus-stations-1/tombs-of-the-kings-bus-station" },
+    { "icon": "🚌", "name": "Bus", "info": "The central bus station (Tombs of the Kings) is a 10-min walk away, with direct connections to main attractions, the airport, and nearby towns.", "linkText": "Bus timetables & routes", "linkUrl": "https://www.pafosbuses.com/routes" },
     { "icon": "🚗", "name": "RideNow (Car Sharing)", "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes. Cars typically available within a 5–10 min walk.", "linkText": "Download the app", "linkUrl": "https://ridenow.tech" },
     { "icon": "🚕", "name": "Bolt (Taxi)", "info": "Budget-friendly taxi app. Recommended for getting around Paphos without the uncertainty of metered cabs.", "linkText": "Download Bolt", "linkUrl": "https://bolt.eu/en/cities/paphos/" }
   ],

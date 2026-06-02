@@ -6,10 +6,10 @@
   "heroImage": "",
   "welcomeMessage": "Welcome to our beautiful 2 Bedroom Apartment! We're so glad you chose to spend your time here. This spacious apartment has been designed with families and groups in mind — plenty of room to relax together and space to spread out. Two bedrooms, a large living area, a fully equipped kitchen, and a wide private balcony with garden views. We want your stay to be perfect, so don't hesitate to get in touch with anything you need.",
   "host": {
-    "name": "Your Host",
-    "phone": "+30 XXX XXX XXXX",
-    "whatsapp": "+30 XXX XXX XXXX",
-    "email": "host@example.com"
+    "name": "Rita",
+    "phone": "+49 15111470730",
+    "whatsapp": "+49 15111470730",
+    "email": "katonarita90@gmail.com"
   },
   "address": {
     "display": "14 Kypros Street, Protaras, Cyprus",
@@ -45,15 +45,16 @@
   },
   "houseRules": [
     "No smoking anywhere inside the apartment",
-    "No parties or events — this is a residential building",
+    "No parties or events — quiet hours 11pm to 8am",
     "Maximum occupancy: 5 guests",
     "No pets allowed",
-    "Quiet hours from 11pm to 8am — please respect neighbours in the building",
-    "Please do not slam doors — the building has noise-sensitive walls",
-    "Keep the balcony tidy — no laundry hanging visible from the street",
-    "Checkout by 11:00 AM sharp",
-    "Report any damage or breakages as soon as they occur",
-    "Please separate recycling — bins are labelled in the car park"
+    "Clean dishes immediately and keep the kitchen counter clear — Cyprus's warm weather can attract insects",
+    "Please use the bin next to the toilet — do not flush toilet paper (Cyprus plumbing cannot handle it)",
+    "Place the metallic key in the electricity plug by the door when inside; remove it every time you leave",
+    "Close all windows and balcony doors when air conditioning is running",
+    "Close and tie the patio umbrella at night and in windy conditions",
+    "Return keys to the keybox and reset the code at checkout",
+    "Treat the apartment with care — please report any breakages promptly"
   ],
   "appliances": [
     {
@@ -89,52 +90,71 @@
   ],
   "thingsToDo": [
     {
-      "category": "Beaches",
+      "category": "Beaches 🏝️",
       "items": [
-        { "name": "Fig Tree Bay", "distance": "12 min walk", "tip": "The crown jewel of Protaras. Walk down early and claim sunbeds. Snorkel gear hire on the beach." },
-        { "name": "Pernera Beach", "distance": "18 min walk", "tip": "Calmer and more laid-back. The kids' pool area and gentle waves are perfect for young children." },
-        { "name": "Konnos Bay", "distance": "15 min drive", "tip": "A sheltered sandy cove. The drive through the national park is beautiful. Excellent snorkelling." },
-        { "name": "Makronissos Beach", "distance": "25 min drive", "tip": "Near Ayia Napa — long sandy stretch with a quieter atmosphere than Fig Tree Bay." }
+        { "name": "Venus Beach", "distance": "Short walk", "tip": "Sandy beach perfect for swimming and sunbathing. Famous for some of the most beautiful sunsets on the whole island!" },
+        { "name": "Faros (Lighthouse) Beach", "distance": "15 min walk", "tip": "Calm atmosphere with sun beds and umbrellas. Crystal-clear waters — great for families and quiet days by the sea." },
+        { "name": "Alykes Beach", "distance": "Near Paphos harbor", "tip": "Lively beach with easy access to cafes and restaurants along the waterfront." },
+        { "name": "White River Beach", "distance": "Short drive", "tip": "A hidden gem with stunning natural beauty. Unique zen stone art installations scattered around make this place truly special." }
       ]
     },
     {
-      "category": "Sightseeing",
+      "category": "Historical Sites & Scenic Walks 🏰",
       "items": [
-        { "name": "Cape Greco National Park", "distance": "15 min drive", "tip": "Cyprus's most dramatic coastal scenery. Explore caves, arches and clifftop trails. Bring plenty of water." },
-        { "name": "Protaras Windmill", "distance": "10 min walk", "tip": "A local icon. Great views over the town and the sea. Especially lovely around sunset." },
-        { "name": "Ayia Napa Monastery & Square", "distance": "20 min drive", "tip": "See the medieval monastery and enjoy the lively main square with restaurants and boutiques." },
-        { "name": "Thalassa Municipal Museum", "distance": "20 min drive", "tip": "Award-winning museum about the seas and marine life of Cyprus. Perfect for a half-day trip." }
+        { "name": "Tombs of the Kings", "distance": "8 min walk", "tip": "UNESCO World Heritage site. Ancient tombs carved from solid rock — a unique look at Paphos's rich history." },
+        { "name": "Paphos Castle & Harbor (Limani)", "distance": "30 min walk", "tip": "Historic castle right by the harbour — lovely for exploring and waterfront dining." },
+        { "name": "Harbor Promenade", "distance": "30 min walk", "tip": "Follow the promenade from the Castle along the Limani for scenic views, shops and dining. Especially charming at sunset. 🌅" }
       ]
     },
     {
-      "category": "Activities",
+      "category": "Attractions & Excursions 📸",
       "items": [
-        { "name": "Waterworld Waterpark", "distance": "20 min drive", "tip": "One of Europe's biggest themed waterparks. A full-day family adventure. Bring sun cream!" },
-        { "name": "Jeep Safari", "distance": "Book from apartment", "tip": "Half-day or full-day jeep safaris into the Troodos foothills — stunning scenery and Cypriot village stops." },
-        { "name": "Sunset Boat Cruise", "distance": "Fig Tree Bay pier", "tip": "Captain Andreas runs a wonderful 3-hour evening cruise. Snorkelling stop included. Book in advance." },
-        { "name": "Family Cycling Tour", "distance": "Start from property", "tip": "Bike rental shop on Protaras Avenue (8 min walk). Child seats and tag-alongs available. Coastal path is flat and safe." }
+        { "name": "Blue Lagoon (Akamas)", "distance": "30 min drive + boat from Latchi", "tip": "Breathtaking turquoise waters — ideal for snorkelling and swimming. Take a boat trip from Latchi harbour." },
+        { "name": "Paphos Wreck (MV Demetrios II)", "distance": "15 min drive", "tip": "Shipwreck visible from shore near Chloraka. A favourite for photographers." },
+        { "name": "Aphrodite's Rock (Petra tou Romiou)", "distance": "25 min drive", "tip": "The legendary birthplace of Aphrodite. Iconic rock formation with fantastic photo opportunities." },
+        { "name": "Akamas Peninsula", "distance": "45 min drive", "tip": "Nature reserve ideal for hiking, with the Blue Lagoon accessible by foot trail or boat." },
+        { "name": "Troodos Mountains", "distance": "1 hour drive", "tip": "Stunning mountain scenery, great for hiking and exploring traditional villages." },
+        { "name": "Wine Tasting", "distance": "Varies", "tip": "Try Vouni Panayia Winery for an authentic local wine experience." }
+      ]
+    },
+    {
+      "category": "Hiking & Nature Trails ⛰️",
+      "items": [
+        { "name": "Avakas Gorge", "distance": "Akamas Peninsula", "tip": "Scenic 2–3 hour hike through impressive rock formations. Best enjoyed early in the morning." },
+        { "name": "Kremiotis Waterfall", "distance": "30 min drive", "tip": "Hidden waterfall near Kritou Terra — peaceful hike through lush surroundings." },
+        { "name": "Aphrodite & Adonis Nature Trails", "distance": "Akamas Peninsula", "tip": "Breathtaking coastal views and views of the Blue Lagoon. Start near the Baths of Aphrodite." }
       ]
     }
   ],
   "eatAndDrink": [
-    { "name": "Spartiatis Tavern", "type": "Traditional Cypriot", "distance": "8 min walk", "tip": "A must for meze — endless small plates of Cypriot delicacies. Ideal for groups. Reserve ahead.", "priceRange": "€€" },
-    { "name": "Pernera Beach Restaurant", "type": "Seafood", "distance": "18 min walk", "tip": "Fresh fish on the terrace. Watch the sun set over your dinner. The seafood linguine is excellent.", "priceRange": "€€€" },
-    { "name": "Sunrise Supermarket", "type": "Grocery Store", "distance": "10 min walk", "tip": "The best-stocked local supermarket. Great range of Cypriot produce, wine and beer. Open daily 7am–10pm.", "priceRange": "€" },
-    { "name": "Meze Village", "type": "Cypriot", "distance": "12 min drive", "tip": "Spectacular meze in an open-air village setting. Amazing value. Live music on weekend evenings.", "priceRange": "€€" },
-    { "name": "La Terrazza", "type": "Italian", "distance": "10 min walk", "tip": "Excellent wood-fired pizza and home-made pasta. Great for families — large portions and a children's menu.", "priceRange": "€€" },
-    { "name": "The Windmill Lounge", "type": "Bar & Light Bites", "distance": "10 min walk", "tip": "Lovely rooftop bar with cocktails and small plates. Perfect for a romantic evening drink.", "priceRange": "€€" }
+    { "name": "O Firis", "type": "Cypriot Tavern", "distance": "Short drive", "tip": "Modern twist on Cypriot cuisine with generous portions at great prices. Live music almost every evening. Very popular — book ahead!", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/bkobzXcbYZ2pXZaF9" },
+    { "name": "Georgia", "type": "Cypriot", "distance": "Nearby", "tip": "Very local and authentically Cypriot family-run restaurant. Simple, honest food at great prices.", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/xZ63a5NV5aoKE7EG8" },
+    { "name": "Three Little Pigs", "type": "Cypriot", "distance": "Walking distance", "tip": "Local favourite with high-quality food, great service. Their house wine is a treat!", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/dsi6B8b2kJ6L7o3q8" },
+    { "name": "Psarou Fish Tavern", "type": "Seafood", "distance": "Near Tombs of the Kings", "tip": "Cozy tavern known for fresh fish, traditional meze, and a friendly local vibe.", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/fTLfXHaodxiNTSBn8" },
+    { "name": "Kingfisher Taverna", "type": "Seafood", "distance": "Near Tombs of the Kings", "tip": "Small, relaxed taverna serving high-quality fish dishes in a more upscale setting.", "priceRange": "€€€", "mapsUrl": "https://maps.app.goo.gl/Au7TVerkHzFipkJPA" },
+    { "name": "West End Hotel & Restaurant", "type": "Seafood", "distance": "Agios Georgios", "tip": "Family-run with generous portions and delicious seafood — steps from the sea.", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/tNS9wHgJtweZJUmSA" },
+    { "name": "Lidl", "type": "Grocery Store", "distance": "5 min walk", "tip": "Budget-friendly with a wide range of groceries.", "priceRange": "€" },
+    { "name": "AlphaMega", "type": "Supermarket", "distance": "7 min by car", "tip": "Large supermarket with fresh produce and local Cypriot items.", "priceRange": "€" }
+  ],
+  "shopping": [
+    { "name": "Kings Avenue Mall", "distance": "5 min drive", "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.", "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7" },
+    { "name": "Paphos Market", "distance": "Nearby", "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.", "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8" },
+    { "name": "Old Town", "distance": "Walking distance", "tip": "Wander through the beautiful Old Town and discover many small boutique stores." }
+  ],
+  "gettingAround": [
+    { "icon": "🚌", "name": "Bus", "info": "The central bus station (Tombs of the Kings) is a 10-min walk away, with direct connections to main attractions, the airport, and nearby towns.", "linkText": "Bus timetables & routes", "linkUrl": "https://www.pafosbuses.com/main-bus-stations-1/tombs-of-the-kings-bus-station" },
+    { "icon": "🚗", "name": "RideNow (Car Sharing)", "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes.", "linkText": "Download the app", "linkUrl": "https://ridenow.tech" },
+    { "icon": "🚕", "name": "Bolt (Taxi)", "info": "Budget-friendly taxi app. Recommended for getting around Paphos.", "linkText": "Download Bolt", "linkUrl": "https://bolt.eu/en/cities/paphos/" }
   ],
   "emergency": {
     "contacts": [
       { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire — free from any phone" },
-      { "name": "Your Host", "number": "+30 XXX XXX XXXX", "note": "Available 24/7 via call or WhatsApp" },
-      { "name": "Famagusta General Hospital", "number": "+357 23 200 000", "note": "Nearest hospital — 25 min drive" },
-      { "name": "Local Police", "number": "+357 23 831 111", "note": "Protaras Police Station" },
-      { "name": "Building Supervisor", "number": "+357 99 XXX XXX", "note": "On-site supervisor for building issues" },
-      { "name": "Property Manager", "number": "+30 XXX XXX XXXX", "note": "Local contact for all maintenance" }
+      { "name": "Rita (Your Host)", "number": "+49 15111470730", "note": "Call or WhatsApp anytime — available 24/7" },
+      { "name": "Paphos District Hospital", "number": "+357 26 803 100", "note": "Main hospital in Paphos — approx. 10 min drive" },
+      { "name": "Paphos Police", "number": "+357 26 306 060", "note": "Paphos Police Station" }
     ],
-    "nearestHospital": "Famagusta General Hospital — 25 min drive. Take Protaras Avenue north, then follow signs for Famagusta via the B6 highway.",
-    "nearestPharmacy": "Kypros Street Pharmacy — 2 min walk at the end of the street. Mon–Fri 8:30am–7pm, Sat 9am–2pm. Night pharmacy on rotation — 112 operator can advise."
+    "nearestHospital": "Paphos District Hospital — approx. 10 min drive. Ask Google Maps for 'Paphos General Hospital'.",
+    "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
   },
   "checkout": {
     "time": "11:00 AM",

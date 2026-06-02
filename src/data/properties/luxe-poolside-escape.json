@@ -248,7 +248,8 @@
       { "name": "Paphos District Hospital", "number": "+357 26 803 100", "note": "Main hospital in Paphos, approx. 10 min drive" },
       { "name": "Paphos Police", "number": "+357 26 306 060", "note": "Paphos Police Station" }
     ],
-    "nearestHospital": "Paphos District Hospital, approx. 10 min drive. Ask Google Maps for 'Paphos General Hospital'.",
+    "nearestHospital": "Paphos District Hospital, approx. 10 min drive.",
+    "nearestHospitalUrl": "https://maps.app.goo.gl/91BFKhKL7bZWVVHg6",
     "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
   },
   "checkout": {

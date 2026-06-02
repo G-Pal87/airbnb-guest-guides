@@ -7,7 +7,7 @@ interface Appliance {
 
 interface Props {
   property: {
-    wifi: { networkName: string; password: string };
+    wifi: { networkName: string; password: string; notes?: string };
     appliances: Appliance[];
   };
 }
@@ -51,6 +51,9 @@ const { property } = Astro.props;
           <p id="wifi-copy-feedback" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300">✓ Password copied!</p>
         </div>
       </div>
+      {property.wifi.notes && (
+        <p class="text-white/80 text-xs mt-3 leading-relaxed">ℹ️ {property.wifi.notes}</p>
+      )}
     </div>
 
     <!-- Appliances -->

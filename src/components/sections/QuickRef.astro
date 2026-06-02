@@ -3,10 +3,16 @@ interface Props {
   property: {
     wifi: { networkName: string; networkNames?: string[]; password: string };
     quickRef: { checkoutTime: string; emergencyPhone: string };
+    host: { name: string; phone: string };
+    cohost?: { name: string; phone: string };
   };
 }
 
 const { property } = Astro.props;
+
+function formatTelLink(n: string): string {
+  return n.replace(/\s/g, '');
+}
 ---
 
 <section class="bg-primary py-8" aria-labelledby="quickref-heading">
@@ -15,7 +21,7 @@ const { property } = Astro.props;
       At a Glance
     </h2>
 
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+    <div class="grid grid-cols-2 gap-3">
       <!-- WiFi -->
       <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
         <div class="flex items-center gap-2 mb-2">
@@ -25,18 +31,18 @@ const { property } = Astro.props;
         {property.wifi.networkNames && property.wifi.networkNames.length > 1 ? (
           <div class="space-y-0.5">
             {property.wifi.networkNames.map((n: string) => (
-              <p class="font-medium text-sm truncate" title={n}>{n}</p>
+              <p class="font-medium text-xs truncate" title={n}>{n}</p>
             ))}
           </div>
         ) : (
-          <p class="font-medium text-sm truncate" title={property.wifi.networkName}>
+          <p class="font-medium text-xs truncate" title={property.wifi.networkName}>
             {property.wifi.networkName}
           </p>
         )}
         <div class="flex items-center gap-2 mt-1">
           <p
             id="wifi-password-quickref"
-            class="font-mono text-accent font-bold text-base break-all"
+            class="font-mono text-accent font-bold text-sm break-all"
           >
             {property.wifi.password}
           </p>
@@ -63,7 +69,7 @@ const { property } = Astro.props;
         <p class="font-bold text-2xl text-accent">
           {property.quickRef.checkoutTime}
         </p>
-        <p class="text-sm text-white/70 mt-1">Please be out by this time</p>
+        <p class="text-xs text-white/70 mt-1">Please be out by this time</p>
       </div>
 
       <!-- Emergency -->
@@ -79,7 +85,39 @@ const { property } = Astro.props;
         >
           {property.quickRef.emergencyPhone}
         </a>
-        <p class="text-sm text-white/70 mt-1">Tap to call</p>
+        <p class="text-xs text-white/70 mt-1">Tap to call</p>
+      </div>
+
+      <!-- Contacts -->
+      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="text-xl" aria-hidden="true">📞</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">Contacts</span>
+        </div>
+        <div class="space-y-2">
+          {property.cohost && (
+            <div>
+              <p class="text-xs text-white/60 mb-0.5">{property.cohost.name}</p>
+              <a
+                href={`tel:${formatTelLink(property.cohost.phone)}`}
+                class="font-semibold text-accent hover:text-yellow-300 transition-colors text-sm"
+                aria-label={`Call ${property.cohost.name}`}
+              >
+                {property.cohost.phone}
+              </a>
+            </div>
+          )}
+          <div>
+            <p class="text-xs text-white/60 mb-0.5">{property.host.name}</p>
+            <a
+              href={`tel:${formatTelLink(property.host.phone)}`}
+              class="font-semibold text-accent hover:text-yellow-300 transition-colors text-sm"
+              aria-label={`Call ${property.host.name}`}
+            >
+              {property.host.phone}
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -105,7 +143,6 @@ const { property } = Astro.props;
         btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>`;
         setTimeout(() => { btn.innerHTML = origHtml; }, 2000);
       } catch {
-        // fallback: select text
         const range = document.createRange();
         range.selectNode(targetEl);
         window.getSelection()?.removeAllRanges();

@@ -7,8 +7,8 @@
   "welcomeMessage": "Welcome to the Poolside Central Studio! This chic, compact studio is perfectly positioned right in the heart of Protaras, a short stroll from the beach and all the best restaurants and cafés. Everything you need is here — fresh linens, a fully equipped kitchen, a sunny balcony, and a shared pool to cool off in. Make yourself at home and enjoy every sun-soaked moment!",
   "host": {
     "name": "Rita",
-    "phone": "+49 15111470730",
-    "whatsapp": "+49 15111470730",
+    "phone": "+49 151 114 707 30",
+    "whatsapp": "+49 151 114 707 30",
     "email": "katonarita90@gmail.com"
   },
   "address": {
@@ -81,68 +81,587 @@
     {
       "category": "Beaches 🏝️",
       "items": [
-        { "name": "Venus Beach", "distance": "Short walk", "tip": "Sandy beach perfect for swimming and sunbathing. Famous for some of the most beautiful sunsets on the whole island!" },
-        { "name": "Faros (Lighthouse) Beach", "distance": "15 min walk", "tip": "Calm atmosphere with sun beds and umbrellas. Crystal-clear waters — great for families and quiet days by the sea." },
-        { "name": "Alykes Beach", "distance": "Near Paphos harbor", "tip": "Lively beach with easy access to cafes and restaurants along the waterfront." },
-        { "name": "White River Beach", "distance": "Short drive", "tip": "A hidden gem with stunning natural beauty. Unique zen stone art installations scattered around make this place truly special." }
+        {
+          "name": "Venus Beach",
+          "distance": "1.0-1.3 km, walk or car",
+          "tip": "Closest useful beach. 15-20 min on foot. Quick swim, sunset, convenience.",
+          "mapsUrl": "https://www.google.com/maps/search/Venus+Beach+Paphos+Cyprus"
+        },
+        {
+          "name": "Faros Beach",
+          "distance": "1.8-2.3 km, walk or car",
+          "tip": "25-35 min on foot or a short drive. Sunset, casual swim.",
+          "mapsUrl": "https://www.google.com/maps/search/Faros+Beach+Paphos+Cyprus"
+        },
+        {
+          "name": "Sandy Beach, Chloraka",
+          "distance": "3.5-4.5 km, car",
+          "tip": "Less touristy, local feel. Good for sunset. Better when the sea is calm.",
+          "mapsUrl": "https://www.google.com/maps/search/Sandy+Beach+Chloraka+Paphos"
+        },
+        {
+          "name": "Municipal Baths, Kato Paphos",
+          "distance": "3.0-4.0 km, car",
+          "tip": "City swimming spot, not a sandy beach. Handy for a quick dip near the promenade.",
+          "mapsUrl": "https://www.google.com/maps/search/Municipal+Baths+Kato+Paphos"
+        },
+        {
+          "name": "Alykes Beach, Kato Paphos",
+          "distance": "3.5-4.5 km, car or bus",
+          "tip": "Organised beach with facilities, good for families. Easier by car or bus than on foot.",
+          "mapsUrl": "https://www.google.com/maps/search/Alykes+Beach+Kato+Paphos+Cyprus"
+        },
+        {
+          "name": "Coral Bay Beach",
+          "distance": "11-12 km, car or bus",
+          "tip": "The safest best beach choice near Paphos. Sandy, organised, easy. Hard to go wrong.",
+          "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus"
+        },
+        {
+          "name": "Laourou / Corallia Beach",
+          "distance": "12-13 km, car or bus",
+          "tip": "My preferred alternative to Coral Bay. Similar convenience, usually calmer.",
+          "mapsUrl": "https://www.google.com/maps/search/Corallia+Beach+Paphos+Cyprus"
+        },
+        {
+          "name": "Sea Caves, Peyia",
+          "distance": "17-19 km, car",
+          "tip": "Dramatic coastline. Better for scenery and sunset photos than a classic beach day.",
+          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
+        },
+        {
+          "name": "Agios Georgios Beach, Peyia",
+          "distance": "20-22 km, car",
+          "tip": "Small beach, good for snorkelling. Combine with Sea Caves and Oniro by the Sea.",
+          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Beach+Peyia+Cyprus"
+        },
+        {
+          "name": "White River Beach / Toxeftra",
+          "distance": "23-26 km, car (higher clearance)",
+          "tip": "Raw and beautiful, wild coast. Better for exploring than sunbeds.",
+          "mapsUrl": "https://www.google.com/maps/search/Toxeftra+Beach+Cyprus"
+        },
+        {
+          "name": "Lara Beach / Lara Bay",
+          "distance": "28-32 km, 4x4 or guided tour",
+          "tip": "One of the most special beaches in the Paphos area. Turtle nesting site. Rough access, no facilities.",
+          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
+        },
+        {
+          "name": "Petra tou Romiou (Aphrodite's Rock)",
+          "distance": "27-30 km, car",
+          "tip": "Legendary birthplace of Aphrodite. Beautiful scenery and photos, but rocky and not always ideal for swimming.",
+          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+        },
+        {
+          "name": "Latchi Harbour (Blue Lagoon boat trips)",
+          "distance": "38-42 km, car then boat",
+          "tip": "Best starting point for Blue Lagoon without off-road driving. Boat trips depart from here.",
+          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus"
+        },
+        {
+          "name": "Blue Lagoon, Akamas",
+          "distance": "38-42 km + boat",
+          "tip": "Most impressive water in the Paphos area. Not a drive-up beach. Take a boat from Latchi.",
+          "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus"
+        }
       ]
     },
     {
       "category": "Historical Sites & Scenic Walks 🏰",
       "items": [
-        { "name": "Tombs of the Kings", "distance": "8 min walk", "tip": "UNESCO World Heritage site. Ancient tombs carved from solid rock — a unique look at Paphos's rich history." },
-        { "name": "Paphos Castle & Harbor (Limani)", "distance": "30 min walk", "tip": "Historic castle right by the harbour — lovely for exploring and waterfront dining." },
-        { "name": "Harbor Promenade", "distance": "30 min walk", "tip": "Follow the promenade from the Castle along the Limani for scenic views, shops and dining. Especially charming at sunset. 🌅" }
+        {
+          "name": "Tombs of the Kings",
+          "distance": "250m-1km, walk",
+          "tip": "Closest and most important historical site. Rock-cut tombs from the Hellenistic and Roman periods, part of the UNESCO listed Paphos archaeological area.",
+          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+        },
+        {
+          "name": "Paphos Coastal Walkway",
+          "distance": "Starts nearby, walk",
+          "tip": "Walk along the coastline toward Lighthouse Beach, the harbour, and Paphos Castle. Easy and scenic, especially at sunset.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+        },
+        {
+          "name": "Lighthouse Beach & Lighthouse",
+          "distance": "2.0-2.5 km, walk or car",
+          "tip": "Relaxed halfway point between Avlida and the harbour. Good for a scenic walk with a beach stop.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+        },
+        {
+          "name": "Old Town Paphos & Kennedy Square",
+          "distance": "2-3 km, car or bus",
+          "tip": "Good for cafes, local streets, small shops, and a more authentic Paphos feel. Best visited late afternoon.",
+          "mapsUrl": "https://www.google.com/maps/search/Kennedy+Square+Paphos+Cyprus"
+        },
+        {
+          "name": "Kato Paphos Archaeological Park",
+          "distance": "3-4 km, car or bus",
+          "tip": "Top cultural site in Cyprus. Roman mosaics considered among the finest in the eastern Mediterranean, UNESCO listed.",
+          "mapsUrl": "https://www.google.com/maps/search/Kato+Paphos+Archaeological+Park+Cyprus"
+        },
+        {
+          "name": "Paphos Harbour & Castle",
+          "distance": "3.5-4 km, car or scenic walk",
+          "tip": "Easy evening plan. Byzantine fort rebuilt by the Lusignans, then Venetians, then Ottomans in the 16th century.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Castle+Harbour+Cyprus"
+        },
+        {
+          "name": "Agios Neophytos Monastery",
+          "distance": "10-12 km, car",
+          "tip": "Beautiful half-day stop. Founded in the 12th century by Saint Neophytos in a secluded valley north of Paphos.",
+          "mapsUrl": "https://www.google.com/maps/search/Agios+Neophytos+Monastery+Paphos+Cyprus"
+        },
+        {
+          "name": "Sea Caves & Edro III Shipwreck",
+          "distance": "17-20 km, car",
+          "tip": "Scenic coast, great for photos and sunset. Combine with Oniro by the Sea and Agios Georgios.",
+          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+        },
+        {
+          "name": "Agios Georgios Archaeological Site",
+          "distance": "20-22 km, car",
+          "tip": "Quiet ruins with sea views, off the tourist trail. Good if already heading toward Sea Caves or Lara.",
+          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Archaeological+Site+Peyia+Cyprus"
+        },
+        {
+          "name": "Petra tou Romiou (Aphrodite's Rock)",
+          "distance": "27-30 km, car",
+          "tip": "Most iconic scenic stop in Cyprus. Better for views and mythology than swimming.",
+          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+        },
+        {
+          "name": "Akamas Peninsula",
+          "distance": "30-45 km, car or guided tour",
+          "tip": "Wild nature, viewpoints, walking trails. Road conditions vary. Best for adventurous guests.",
+          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+        }
       ]
     },
     {
       "category": "Attractions & Excursions 📸",
       "items": [
-        { "name": "Blue Lagoon (Akamas)", "distance": "30 min drive + boat from Latchi", "tip": "Breathtaking turquoise waters — ideal for snorkelling and swimming. Take a boat trip from Latchi harbour." },
-        { "name": "Paphos Wreck (MV Demetrios II)", "distance": "15 min drive", "tip": "Shipwreck visible from shore near Chloraka. A favourite for photographers — adds a touch of maritime mystery to the coastline." },
-        { "name": "Aphrodite's Rock (Petra tou Romiou)", "distance": "25 min drive", "tip": "The legendary birthplace of Aphrodite. Iconic rock formation with fantastic photo opportunities." },
-        { "name": "Akamas Peninsula", "distance": "45 min drive", "tip": "Nature reserve ideal for hiking, with the Blue Lagoon accessible by foot trail or boat." },
-        { "name": "Troodos Mountains", "distance": "1 hour drive", "tip": "Stunning mountain scenery, great for hiking and exploring traditional villages. A world apart from the coast." },
-        { "name": "Wine Tasting", "distance": "Varies", "tip": "Nearby wineries offer tastings and tours. Try Vouni Panayia Winery for an authentic local wine experience." }
+        {
+          "name": "Kings Avenue Mall",
+          "distance": "1.5-2 km, walk or bus",
+          "tip": "Shopping, food court, cinema. Practical for an indoor break on hot or very windy days.",
+          "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
+        },
+        {
+          "name": "Paphos Harbour",
+          "distance": "3.5-4 km, car or scenic walk",
+          "tip": "One of the easiest evening plans from Avlida. Dinner, drinks, and a relaxed walk by the sea.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+Cyprus"
+        },
+        {
+          "name": "Paphos Aphrodite Waterpark",
+          "distance": "6-7 km, car or taxi",
+          "tip": "Best family attraction nearby. Easy half-day or full-day option on hot days.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Aphrodite+Waterpark+Cyprus"
+        },
+        {
+          "name": "Coral Bay & Corallia Beach",
+          "distance": "11-13 km, car or bus",
+          "tip": "Easiest classic beach excursion. Sand, sunbeds, and facilities. Hard to go wrong.",
+          "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus"
+        },
+        {
+          "name": "Horse Riding",
+          "distance": "10-25 km, car",
+          "tip": "Nice alternative to beach and history. Book in advance, especially in high season.",
+          "mapsUrl": "https://www.google.com/maps/search/horse+riding+Paphos+Cyprus"
+        },
+        {
+          "name": "Adonis Baths Waterfalls",
+          "distance": "15-18 km, car",
+          "tip": "Popular excursion, road can be rough. Better for adventurous guests than polished sightseeing.",
+          "mapsUrl": "https://www.google.com/maps/search/Adonis+Baths+Waterfalls+Cyprus"
+        },
+        {
+          "name": "Sea Caves & Edro III Shipwreck",
+          "distance": "17-20 km, car",
+          "tip": "Easy scenic excursion. Great for photos and sunset. Combine with Oniro by the Sea.",
+          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+        },
+        {
+          "name": "Paphos Zoo",
+          "distance": "18-20 km, car or taxi",
+          "tip": "Good family option near Coral Bay. Easy to combine with Sea Caves or a beach day.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Zoo+Cyprus"
+        },
+        {
+          "name": "Avakas Gorge",
+          "distance": "25-30 km, car then walk",
+          "tip": "One of the best nature walks in the region. Wear proper shoes. Avoid after heavy rain or extreme heat.",
+          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
+        },
+        {
+          "name": "Wine Villages around Kathikas",
+          "distance": "22-28 km, car or tour",
+          "tip": "Great for adults wanting a local experience. Better with a tour if everyone is tasting.",
+          "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+Paphos+Cyprus"
+        },
+        {
+          "name": "Akamas Jeep Safari",
+          "distance": "30-45 km, 4x4 or buggy tour",
+          "tip": "Best for guests who want wild nature without driving difficult roads themselves. One of the best preserved areas in Cyprus.",
+          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+        },
+        {
+          "name": "Polis & Latchi",
+          "distance": "35-42 km, car",
+          "tip": "Calmer, more local side of Cyprus. Good for lunch, a coastal walk, and Blue Lagoon boat departures.",
+          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus"
+        },
+        {
+          "name": "Blue Lagoon Boat Trip from Latchi",
+          "distance": "38-42 km + boat, car or tour",
+          "tip": "One of the best full-day excursions from Paphos. Many tours combine with Akamas and Baths of Aphrodite.",
+          "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus"
+        },
+        {
+          "name": "Baths of Aphrodite",
+          "distance": "40-45 km, car or tour",
+          "tip": "Small site, but beautiful surroundings. Best combined with Latchi, Blue Lagoon, and Polis.",
+          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+        },
+        {
+          "name": "Omodos Village",
+          "distance": "60-70 km, car or tour",
+          "tip": "One of the prettiest village excursions from Paphos. Works well as part of a Troodos or wine route day.",
+          "mapsUrl": "https://www.google.com/maps/search/Omodos+Village+Cyprus"
+        },
+        {
+          "name": "Kourion Archaeological Site",
+          "distance": "55-65 km, car",
+          "tip": "Excellent day trip toward Limassol. Ancient theatre with sea views is the highlight.",
+          "mapsUrl": "https://www.google.com/maps/search/Kourion+Archaeological+Site+Cyprus"
+        },
+        {
+          "name": "Limassol Marina & Old Town",
+          "distance": "70-75 km, car",
+          "tip": "More urban and polished than Paphos. Best combined with Kourion or Omodos.",
+          "mapsUrl": "https://www.google.com/maps/search/Limassol+Marina+Cyprus"
+        },
+        {
+          "name": "Troodos Mountains & Villages",
+          "distance": "70-90 km, car or tour",
+          "tip": "Best full-day escape from the coast. Villages, monasteries, wine routes, and cooler air.",
+          "mapsUrl": "https://www.google.com/maps/search/Troodos+Mountains+Cyprus"
+        }
       ]
     },
     {
       "category": "Hiking & Nature Trails ⛰️",
       "items": [
-        { "name": "Avakas Gorge", "distance": "Akamas Peninsula", "tip": "Scenic 2–3 hour hike through impressive rock formations and diverse flora. Best enjoyed early in the morning." },
-        { "name": "Kremiotis Waterfall", "distance": "30 min drive", "tip": "Hidden waterfall near Kritou Terra — peaceful hike through lush surroundings. Especially beautiful after the rainy season." },
-        { "name": "Aphrodite & Adonis Nature Trails", "distance": "Akamas Peninsula", "tip": "Interconnected trails with breathtaking coastal views and views of the Blue Lagoon below. Start near the Baths of Aphrodite. Moderately challenging." }
+        {
+          "name": "Paphos Coastal Walkway",
+          "distance": "Starts nearby, walk · Easy",
+          "tip": "Best no-car option. Walk from the Tombs of the Kings area toward Lighthouse Beach, the harbour, and Paphos Castle.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+        },
+        {
+          "name": "Lighthouse Beach Coastal Walk",
+          "distance": "2-2.5 km, walk · Easy",
+          "tip": "Practical from Avlida. Good for guests who want nature without a proper hike.",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+        },
+        {
+          "name": "Tombs of the Kings coastal loop",
+          "distance": "250m-1 km, walk · Easy",
+          "tip": "Combines ancient tombs, open landscape, and coastline. Not a formal trail, but a very nice loop.",
+          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+        },
+        {
+          "name": "Sea Caves coastal walk, Peyia",
+          "distance": "17-20 km, car · Easy-Moderate",
+          "tip": "Easy scenic outing. Combine with Edro III Shipwreck and Oniro by the Sea.",
+          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
+        },
+        {
+          "name": "Avakas Gorge Nature Trail",
+          "distance": "25-30 km, car · Moderate",
+          "tip": "Best nature trail near Paphos. Follows Avgas River through limestone formations. Wear proper shoes. Avoid after heavy rain.",
+          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
+        },
+        {
+          "name": "Aphrodite's Rock coastal walk",
+          "distance": "27-30 km, car · Easy",
+          "tip": "Scenic stop, not a long hike. Good when driving toward Limassol or the airport.",
+          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+        },
+        {
+          "name": "Lara Beach & Toxeftra coastal area",
+          "distance": "28-35 km, 4x4 or tour · Moderate",
+          "tip": "Beautiful but rough access. Wild coast and turtle nesting areas. Respect the environment.",
+          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
+        },
+        {
+          "name": "Smigies Nature Trail, Neo Chorio",
+          "distance": "38-42 km, car · Moderate",
+          "tip": "Less demanding than Aphrodite or Adonis. Short route 2.5 km (1hr), long route 6 km (2hrs).",
+          "mapsUrl": "https://www.google.com/maps/search/Smigies+Nature+Trail+Cyprus"
+        },
+        {
+          "name": "Baths of Aphrodite short walk",
+          "distance": "40-45 km, car · Easy",
+          "tip": "Gentle nature stop, not a real hike. Best combined with Latchi or a Blue Lagoon boat trip.",
+          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+        },
+        {
+          "name": "Aphrodite Nature Trail, Akamas",
+          "distance": "40-45 km, car · Moderate-Hard",
+          "tip": "One of the most beautiful hikes in the region. Wide views over Polis, Latchi, and Akamas.",
+          "mapsUrl": "https://www.google.com/maps/search/Aphrodite+Nature+Trail+Akamas+Cyprus"
+        },
+        {
+          "name": "Adonis Nature Trail, Akamas",
+          "distance": "40-45 km, car · Moderate-Hard",
+          "tip": "Views over Polis Chrysochous, Paphos Forest, and Akamas. Connects with Smigies and Aphrodite trails.",
+          "mapsUrl": "https://www.google.com/maps/search/Adonis+Nature+Trail+Akamas+Cyprus"
+        },
+        {
+          "name": "Troodos Nature Trails",
+          "distance": "75-95 km, car · Easy-Hard",
+          "tip": "Best full-day hiking option in summer when the coast is too hot. Cooler forest trails and mountain scenery.",
+          "mapsUrl": "https://www.google.com/maps/search/Troodos+Nature+Trails+Cyprus"
+        }
       ]
     }
   ],
   "eatAndDrink": [
-    { "name": "O Firis", "type": "Cypriot Tavern", "distance": "Short drive", "tip": "Modern twist on Cypriot cuisine with generous portions at great prices. Live music almost every evening. Very popular — book ahead!", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/bkobzXcbYZ2pXZaF9" },
-    { "name": "Georgia", "type": "Cypriot", "distance": "Nearby", "tip": "Very local and authentically Cypriot family-run restaurant. Simple, honest food at great prices.", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/xZ63a5NV5aoKE7EG8" },
-    { "name": "Three Little Pigs", "type": "Cypriot", "distance": "Walking distance", "tip": "Local favourite with high-quality food, great service, and a lovely atmosphere. Their house wine is a treat!", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/dsi6B8b2kJ6L7o3q8" },
-    { "name": "Psarou Fish Tavern", "type": "Seafood", "distance": "Near Tombs of the Kings", "tip": "Cozy tavern known for fresh fish, traditional meze, and a friendly local vibe.", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/fTLfXHaodxiNTSBn8" },
-    { "name": "Kingfisher Taverna", "type": "Seafood", "distance": "Near Tombs of the Kings", "tip": "Small, relaxed taverna serving high-quality fish dishes and local favourites in a more upscale setting.", "priceRange": "€€€", "mapsUrl": "https://maps.app.goo.gl/Au7TVerkHzFipkJPA" },
-    { "name": "West End Hotel & Restaurant", "type": "Seafood", "distance": "Agios Georgios", "tip": "Family-run with generous portions and delicious seafood — steps from the sea.", "priceRange": "€€", "mapsUrl": "https://maps.app.goo.gl/tNS9wHgJtweZJUmSA" },
-    { "name": "Lidl", "type": "Grocery Store", "distance": "5 min walk", "tip": "Budget-friendly with a wide range of groceries. Great for stocking up on basics.", "priceRange": "€" },
-    { "name": "AlphaMega", "type": "Supermarket", "distance": "7 min by car", "tip": "Large supermarket with a wide variety of fresh produce and local Cypriot items.", "priceRange": "€" }
+    {
+      "name": "Karlina Restaurant",
+      "type": "Greek / Mediterranean",
+      "distance": "300-500m, walk",
+      "tip": "Easiest no-car dinner option near Avlida. Ranked among the top restaurants near Tombs of the Kings.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Karlina+Restaurant+Paphos+Cyprus"
+    },
+    {
+      "name": "Dias Zeus Greek Restaurant",
+      "type": "Greek / Meze",
+      "distance": "500-800m, walk",
+      "tip": "Reliable nearby option on Tombs of the Kings Avenue. Greek and Mediterranean with strong guest ratings.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Dias+Zeus+Restaurant+Paphos+Cyprus"
+    },
+    {
+      "name": "Tea for Two",
+      "type": "Café / Brunch",
+      "distance": "700m-1km, walk",
+      "tip": "Good for an easy breakfast or lunch close to home. Friendly service and great value.",
+      "priceRange": "€",
+      "mapsUrl": "https://www.google.com/maps/search/Tea+for+Two+Tombs+of+the+Kings+Paphos"
+    },
+    {
+      "name": "Psarou Fish Tavern",
+      "type": "Seafood",
+      "distance": "Near Tombs of the Kings",
+      "tip": "Cozy tavern known for fresh fish, traditional meze, and a friendly local vibe.",
+      "priceRange": "€€",
+      "mapsUrl": "https://maps.app.goo.gl/fTLfXHaodxiNTSBn8"
+    },
+    {
+      "name": "Kingfisher Taverna",
+      "type": "Seafood",
+      "distance": "Near Tombs of the Kings",
+      "tip": "Small, relaxed taverna serving high-quality fish dishes and local favourites in a more upscale setting.",
+      "priceRange": "€€€",
+      "mapsUrl": "https://maps.app.goo.gl/Au7TVerkHzFipkJPA"
+    },
+    {
+      "name": "Three Little Pigs",
+      "type": "Cypriot",
+      "distance": "Walking distance",
+      "tip": "Local favourite with high-quality food, great service, and a lovely atmosphere. Their house wine is a treat!",
+      "priceRange": "€€",
+      "mapsUrl": "https://maps.app.goo.gl/dsi6B8b2kJ6L7o3q8"
+    },
+    {
+      "name": "Kings Avenue Mall Food Court",
+      "type": "Food Court",
+      "distance": "1.5-2km, walk or bus",
+      "tip": "Not special, but very practical. Good for families, quick food, coffee, or escaping the heat.",
+      "priceRange": "€",
+      "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
+    },
+    {
+      "name": "Old Town Paphos cafés",
+      "type": "Café / Local",
+      "distance": "2-3km, car or bus",
+      "tip": "More local feeling than the harbour. Nice for brunch, coffee, or early evening drinks.",
+      "mapsUrl": "https://www.google.com/maps/search/Old+Town+Paphos+cafes+Cyprus"
+    },
+    {
+      "name": "Pallia Ilektriki",
+      "type": "Cypriot / Café",
+      "distance": "2.5-3km, car or bus",
+      "tip": "A good Old Town option. Ranked among popular places near Old Town Paphos.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Pallia+Ilektriki+Paphos+Cyprus"
+    },
+    {
+      "name": "Ta Pinakia",
+      "type": "Greek / Cypriot",
+      "distance": "2.5-3km, car or bus",
+      "tip": "Good if you want something less harbour-focused. Well-rated near Old Town Paphos.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Ta+Pinakia+Paphos+Cyprus"
+    },
+    {
+      "name": "O Firis",
+      "type": "Cypriot Tavern",
+      "distance": "Short drive",
+      "tip": "Modern twist on Cypriot cuisine with generous portions. Live music almost every evening. Book ahead!",
+      "priceRange": "€€",
+      "mapsUrl": "https://maps.app.goo.gl/bkobzXcbYZ2pXZaF9"
+    },
+    {
+      "name": "Paphos Harbour restaurants",
+      "type": "Various / Harbour",
+      "distance": "3.5-4km, car or scenic walk",
+      "tip": "Touristy but reliable. Many options for dinner, drinks, and a sunset walk by the sea.",
+      "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+restaurants+Cyprus"
+    },
+    {
+      "name": "King's Restaurant",
+      "type": "Cypriot / Seafood",
+      "distance": "3.5-4km, car or walk",
+      "tip": "Popular harbour area choice. Good fish and Cypriot food.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Kings+Restaurant+Paphos+Harbour+Cyprus"
+    },
+    {
+      "name": "Theo's Restaurant",
+      "type": "Seafood",
+      "distance": "3.5-4km, car or walk",
+      "tip": "Good for seafood near the harbour. Sea bass, octopus, prawns, and calamari.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Theos+Restaurant+Paphos+Harbour+Cyprus"
+    },
+    {
+      "name": "The Moorings Café Restaurant",
+      "type": "Café / Restaurant",
+      "distance": "3.5-4km, car or walk",
+      "tip": "More about the harbour atmosphere than fine dining. Easy and relaxed.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/The+Moorings+Cafe+Paphos+Cyprus"
+    },
+    {
+      "name": "West End Hotel & Restaurant",
+      "type": "Seafood",
+      "distance": "Agios Georgios, ~20km",
+      "tip": "Family-run with generous portions and delicious seafood, steps from the sea.",
+      "priceRange": "€€",
+      "mapsUrl": "https://maps.app.goo.gl/tNS9wHgJtweZJUmSA"
+    },
+    {
+      "name": "Oniro by the Sea",
+      "type": "Bar / Restaurant",
+      "distance": "17-20km, car",
+      "tip": "One of the best scenic spots in the Paphos area. Combine with Sea Caves and Edro III shipwreck.",
+      "priceRange": "€€€",
+      "mapsUrl": "https://www.google.com/maps/search/Oniro+by+the+Sea+Paphos+Cyprus"
+    },
+    {
+      "name": "Kathikas wine village restaurants",
+      "type": "Cypriot / Wine",
+      "distance": "22-28km, car",
+      "tip": "More authentic than the seafront. Best for a longer lunch or early dinner with wine tasting.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+restaurant+Cyprus"
+    },
+    {
+      "name": "Latchi Harbour tavernas",
+      "type": "Seafood / Tavern",
+      "distance": "38-42km, car",
+      "tip": "Best combined with a Blue Lagoon boat trip, Baths of Aphrodite, or a Polis day trip.",
+      "priceRange": "€€",
+      "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+taverna+Cyprus"
+    },
+    {
+      "name": "Lidl",
+      "type": "Grocery Store",
+      "distance": "5 min walk",
+      "tip": "Budget-friendly with a wide range of groceries. Great for stocking up on basics.",
+      "priceRange": "€"
+    },
+    {
+      "name": "AlphaMega",
+      "type": "Supermarket",
+      "distance": "7 min by car",
+      "tip": "Large supermarket with a wide variety of fresh produce and local Cypriot items.",
+      "priceRange": "€"
+    }
   ],
   "shopping": [
-    { "name": "Kings Avenue Mall", "distance": "5 min drive", "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.", "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7" },
-    { "name": "Paphos Market", "distance": "Nearby", "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.", "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8" },
-    { "name": "Old Town", "distance": "Walking distance", "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops." }
+    {
+      "name": "Kings Avenue Mall",
+      "distance": "5 min drive",
+      "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.",
+      "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7"
+    },
+    {
+      "name": "Paphos Market",
+      "distance": "Nearby",
+      "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.",
+      "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8"
+    },
+    {
+      "name": "Old Town",
+      "distance": "Walking distance",
+      "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops."
+    }
   ],
   "gettingAround": [
-    { "icon": "🚌", "name": "Bus", "info": "The central bus station (Tombs of the Kings) is a 10-min walk away, with direct connections to main attractions, the airport, and nearby towns.", "linkText": "Bus timetables & routes", "linkUrl": "https://www.pafosbuses.com/routes" },
-    { "icon": "🚗", "name": "RideNow (Car Sharing)", "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes. Cars typically available within a 5–10 min walk.", "linkText": "Download the app", "linkUrl": "https://ridenow.tech" },
-    { "icon": "🚕", "name": "Bolt (Taxi)", "info": "Budget-friendly taxi app. Recommended for getting around Paphos without the uncertainty of metered cabs.", "linkText": "Download Bolt", "linkUrl": "https://bolt.eu/en/cities/paphos/" }
+    {
+      "icon": "🚌",
+      "name": "Bus",
+      "info": "The central bus station (Tombs of the Kings) is a 10-min walk away, with direct connections to main attractions, the airport, and nearby towns.",
+      "linkText": "Bus timetables & routes",
+      "linkUrl": "https://www.pafosbuses.com/routes"
+    },
+    {
+      "icon": "🚗",
+      "name": "RideNow (Car Sharing)",
+      "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes. Cars typically available within a 5-10 min walk.",
+      "linkText": "Download the app",
+      "linkUrl": "https://ridenow.tech"
+    },
+    {
+      "icon": "🚕",
+      "name": "Bolt (Taxi)",
+      "info": "Budget-friendly taxi app. Recommended for getting around Paphos without the uncertainty of metered cabs.",
+      "linkText": "Download Bolt",
+      "linkUrl": "https://bolt.eu/en/cities/paphos/"
+    }
   ],
   "emergency": {
     "contacts": [
-      { "name": "Emergency Services", "number": "112", "note": "Police, Ambulance, Fire — free from any phone" },
-      { "name": "Rita (Your Host)", "number": "+49 15111470730", "note": "Call or WhatsApp anytime — available 24/7" },
-      { "name": "Paphos District Hospital", "number": "+357 26 803 100", "note": "Main hospital in Paphos — approx. 10 min drive" },
-      { "name": "Paphos Police", "number": "+357 26 306 060", "note": "Paphos Police Station" }
+      {
+        "name": "Emergency Services",
+        "number": "112",
+        "note": "Police, Ambulance, Fire. Free from any phone"
+      },
+      {
+        "name": "Rita (Your Host)",
+        "number": "+49 151 114 707 30",
+        "note": "Call or WhatsApp anytime, available 24/7"
+      },
+      {
+        "name": "Paphos District Hospital",
+        "number": "+357 26 803 100",
+        "note": "Main hospital in Paphos, approx. 10 min drive"
+      },
+      {
+        "name": "Paphos Police",
+        "number": "+357 26 306 060",
+        "note": "Paphos Police Station"
+      }
     ],
-    "nearestHospital": "Paphos District Hospital — approx. 10 min drive. Ask Google Maps for 'Paphos General Hospital'.",
+    "nearestHospital": "Paphos District Hospital, approx. 10 min drive.",
+    "nearestHospitalUrl": "https://maps.app.goo.gl/91BFKhKL7bZWVVHg6",
     "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
   },
   "checkout": {
@@ -158,5 +677,12 @@
       "WhatsApp us to let us know you've left — thanks so much for staying!"
     ],
     "lateCheckout": "Late checkout is generally not available due to our tight housekeeping schedule. Please let us know if you have a special circumstance and we'll try our best."
+  },
+  "cohost": {
+    "name": "Giorgos",
+    "role": "Co-host",
+    "phone": "+357 940 495 35",
+    "whatsapp": "+420 731 139 854",
+    "email": "giorgos.koutoulo@gmail.com"
   }
 }

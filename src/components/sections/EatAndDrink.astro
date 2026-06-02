@@ -4,7 +4,7 @@ interface EatItem {
   type: string;
   distance: string;
   tip: string;
-  priceRange: string;
+  priceRange?: string;
   mapsUrl?: string;
 }
 
@@ -25,6 +25,8 @@ interface Props {
 const { property } = Astro.props;
 const shopping = property.shopping ?? [];
 
+const VISIBLE_COUNT = 6;
+
 function priceRangeColor(range: string): string {
   switch (range) {
     case '€': return 'bg-green-100 text-green-700';
@@ -38,10 +40,12 @@ function typeIcon(type: string): string {
   const t = type.toLowerCase();
   if (t.includes('seafood') || t.includes('fish')) return '🐟';
   if (t.includes('grocery') || t.includes('supermarket') || t.includes('market')) return '🛒';
-  if (t.includes('café') || t.includes('cafe') || t.includes('coffee')) return '☕';
+  if (t.includes('café') || t.includes('cafe') || t.includes('coffee') || t.includes('brunch')) return '☕';
   if (t.includes('bar') || t.includes('cocktail')) return '🍹';
   if (t.includes('pizza') || t.includes('italian')) return '🍕';
+  if (t.includes('food court')) return '🏬';
   if (t.includes('cypriot') || t.includes('greek') || t.includes('meze') || t.includes('grill') || t.includes('tavern')) return '🍽️';
+  if (t.includes('wine')) return '🍷';
   if (t.includes('bakery') || t.includes('pastry')) return '🥐';
   if (t.includes('snack') || t.includes('kiosk')) return '🍦';
   return '🍴';
@@ -54,17 +58,19 @@ function typeIcon(type: string): string {
       Eat & Drink
     </h2>
 
-    <div class="space-y-3">
-      {property.eatAndDrink.map((place: EatItem) => (
-        <div class="bg-white rounded-2xl shadow-md p-4 border border-stone-100">
+    <div id="eat-drink-list" class="space-y-3">
+      {property.eatAndDrink.map((place: EatItem, i: number) => (
+        <div class={`bg-white rounded-2xl shadow-md p-4 border border-stone-100${i >= VISIBLE_COUNT ? ' eat-extra hidden' : ''}`}>
           <div class="flex items-start gap-3">
             <span class="text-2xl flex-shrink-0 mt-0.5" aria-hidden="true">{typeIcon(place.type)}</span>
             <div class="flex-1 min-w-0">
               <div class="flex flex-wrap items-center gap-2 mb-1.5">
                 <h3 class="font-semibold text-charcoal text-base">{place.name}</h3>
-                <span class={`text-xs font-semibold px-2 py-0.5 rounded-full ${priceRangeColor(place.priceRange)}`}>
-                  {place.priceRange}
-                </span>
+                {place.priceRange && (
+                  <span class={`text-xs font-semibold px-2 py-0.5 rounded-full ${priceRangeColor(place.priceRange)}`}>
+                    {place.priceRange}
+                  </span>
+                )}
               </div>
               <div class="flex flex-wrap items-center gap-2 mb-2">
                 <span class="text-xs bg-stone-100 text-stone-600 px-2.5 py-1 rounded-full font-medium">
@@ -99,6 +105,20 @@ function typeIcon(type: string): string {
         </div>
       ))}
     </div>
+
+    {property.eatAndDrink.length > VISIBLE_COUNT && (
+      <button
+        type="button"
+        id="eat-toggle-btn"
+        data-hidden-count={property.eatAndDrink.length - VISIBLE_COUNT}
+        class="mt-4 w-full flex items-center justify-center gap-2 text-primary text-sm font-semibold py-3 rounded-2xl border border-primary/30 hover:bg-primary/5 transition-colors"
+      >
+        <span id="eat-toggle-label">Show {property.eatAndDrink.length - VISIBLE_COUNT} more</span>
+        <svg id="eat-toggle-chevron" class="h-4 w-4 transition-transform duration-200" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+    )}
 
     <!-- Shopping section -->
     {shopping.length > 0 && (
@@ -146,3 +166,22 @@ function typeIcon(type: string): string {
     )}
   </div>
 </section>
+
+<script>
+  const btn = document.getElementById('eat-toggle-btn');
+  if (btn) {
+    const hiddenCount = parseInt(btn.getAttribute('data-hidden-count') ?? '0', 10);
+    const label = document.getElementById('eat-toggle-label');
+    const chevron = document.getElementById('eat-toggle-chevron') as HTMLElement | null;
+    let expanded = false;
+
+    btn.addEventListener('click', () => {
+      expanded = !expanded;
+      document.querySelectorAll<HTMLElement>('.eat-extra').forEach((el) => {
+        el.classList.toggle('hidden', !expanded);
+      });
+      if (label) label.textContent = expanded ? 'Show less' : `Show ${hiddenCount} more`;
+      if (chevron) chevron.style.transform = expanded ? 'rotate(180deg)' : '';
+    });
+  }
+</script>

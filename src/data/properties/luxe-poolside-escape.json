@@ -164,12 +164,24 @@
     {
       "category": "Attractions & Excursions 📸",
       "items": [
-        { "name": "Blue Lagoon (Akamas)", "distance": "30 min drive + boat from Latchi", "tip": "Breathtaking turquoise waters, ideal for snorkelling and swimming. Take a boat trip from Latchi harbour." },
-        { "name": "Paphos Wreck (MV Demetrios II)", "distance": "15 min drive", "tip": "Shipwreck visible from shore near Chloraka. A favourite for photographers, it adds a touch of maritime mystery to the coastline." },
-        { "name": "Aphrodite's Rock (Petra tou Romiou)", "distance": "25 min drive", "tip": "The legendary birthplace of Aphrodite. Iconic rock formation with fantastic photo opportunities." },
-        { "name": "Akamas Peninsula", "distance": "45 min drive", "tip": "Nature reserve ideal for hiking, with the Blue Lagoon accessible by foot trail or boat." },
-        { "name": "Troodos Mountains", "distance": "1 hour drive", "tip": "Stunning mountain scenery, great for hiking and exploring traditional villages. A world apart from the coast." },
-        { "name": "Wine Tasting", "distance": "Varies", "tip": "Nearby wineries offer tastings and tours. Try Vouni Panayia Winery for an authentic local wine experience." }
+        { "name": "Kings Avenue Mall", "distance": "1.5-2 km, walk or bus", "tip": "Shopping, food court, cinema. Practical for an indoor break on hot or very windy days.", "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus" },
+        { "name": "Paphos Harbour", "distance": "3.5-4 km, car or scenic walk", "tip": "One of the easiest evening plans from Avlida. Dinner, drinks, and a relaxed walk by the sea.", "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+Cyprus" },
+        { "name": "Paphos Aphrodite Waterpark", "distance": "6-7 km, car or taxi", "tip": "Best family attraction nearby. Easy half-day or full-day option on hot days.", "mapsUrl": "https://www.google.com/maps/search/Paphos+Aphrodite+Waterpark+Cyprus" },
+        { "name": "Coral Bay & Corallia Beach", "distance": "11-13 km, car or bus", "tip": "Easiest classic beach excursion. Sand, sunbeds, and facilities. Hard to go wrong.", "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus" },
+        { "name": "Horse Riding", "distance": "10-25 km, car", "tip": "Nice alternative to beach and history. Book in advance, especially in high season.", "mapsUrl": "https://www.google.com/maps/search/horse+riding+Paphos+Cyprus" },
+        { "name": "Adonis Baths Waterfalls", "distance": "15-18 km, car", "tip": "Popular excursion, road can be rough. Better for adventurous guests than polished sightseeing.", "mapsUrl": "https://www.google.com/maps/search/Adonis+Baths+Waterfalls+Cyprus" },
+        { "name": "Sea Caves & Edro III Shipwreck", "distance": "17-20 km, car", "tip": "Easy scenic excursion. Great for photos and sunset. Combine with Oniro by the Sea.", "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus" },
+        { "name": "Paphos Zoo", "distance": "18-20 km, car or taxi", "tip": "Good family option near Coral Bay. Easy to combine with Sea Caves or a beach day.", "mapsUrl": "https://www.google.com/maps/search/Paphos+Zoo+Cyprus" },
+        { "name": "Avakas Gorge", "distance": "25-30 km, car then walk", "tip": "One of the best nature walks in the region. Wear proper shoes. Avoid after heavy rain or extreme heat.", "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus" },
+        { "name": "Wine Villages around Kathikas", "distance": "22-28 km, car or tour", "tip": "Great for adults wanting a local experience. Better with a tour if everyone is tasting.", "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+Paphos+Cyprus" },
+        { "name": "Akamas Jeep Safari", "distance": "30-45 km, 4x4 or buggy tour", "tip": "Best for guests who want wild nature without driving difficult roads themselves. One of the best preserved areas in Cyprus.", "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus" },
+        { "name": "Polis & Latchi", "distance": "35-42 km, car", "tip": "Calmer, more local side of Cyprus. Good for lunch, a coastal walk, and Blue Lagoon boat departures.", "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus" },
+        { "name": "Blue Lagoon Boat Trip from Latchi", "distance": "38-42 km + boat, car or tour", "tip": "One of the best full-day excursions from Paphos. Many tours combine with Akamas and Baths of Aphrodite.", "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus" },
+        { "name": "Baths of Aphrodite", "distance": "40-45 km, car or tour", "tip": "Small site, but beautiful surroundings. Best combined with Latchi, Blue Lagoon, and Polis.", "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus" },
+        { "name": "Omodos Village", "distance": "60-70 km, car or tour", "tip": "One of the prettiest village excursions from Paphos. Works well as part of a Troodos or wine route day.", "mapsUrl": "https://www.google.com/maps/search/Omodos+Village+Cyprus" },
+        { "name": "Kourion Archaeological Site", "distance": "55-65 km, car", "tip": "Excellent day trip toward Limassol. Ancient theatre with sea views is the highlight.", "mapsUrl": "https://www.google.com/maps/search/Kourion+Archaeological+Site+Cyprus" },
+        { "name": "Limassol Marina & Old Town", "distance": "70-75 km, car", "tip": "More urban and polished than Paphos. Best combined with Kourion or Omodos.", "mapsUrl": "https://www.google.com/maps/search/Limassol+Marina+Cyprus" },
+        { "name": "Troodos Mountains & Villages", "distance": "70-90 km, car or tour", "tip": "Best full-day escape from the coast. Villages, monasteries, wine routes, and cooler air.", "mapsUrl": "https://www.google.com/maps/search/Troodos+Mountains+Cyprus" }
       ]
     },
     {

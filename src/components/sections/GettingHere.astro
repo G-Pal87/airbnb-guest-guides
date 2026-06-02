@@ -157,34 +157,5 @@ const gettingAround = property.gettingAround ?? [];
       )}
     </div>
 
-    <!-- Getting Around -->
-    {gettingAround.length > 0 && (
-      <div class="mt-10">
-        <h3 class="font-serif text-2xl font-bold text-charcoal mb-5">Getting Around</h3>
-        <div class="space-y-3">
-          {gettingAround.map((item: GettingAroundItem) => (
-            <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-              <div class="flex items-start gap-3">
-                <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">{item.icon}</span>
-                <div>
-                  <h4 class="font-semibold text-charcoal mb-1">{item.name}</h4>
-                  <p class="text-stone-600 text-sm leading-relaxed">{item.info}</p>
-                  {item.linkUrl && item.linkText && (
-                    <a
-                      href={item.linkUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="inline-flex items-center gap-1 mt-2 text-primary text-xs font-semibold hover:underline focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-1 rounded min-h-[44px]"
-                    >
-                      {item.linkText} →
-                    </a>
-                  )}
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-    )}
   </div>
 </section>

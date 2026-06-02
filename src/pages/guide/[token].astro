@@ -6,6 +6,7 @@ import Hero from '../../components/sections/Hero.astro';
 import QuickRef from '../../components/sections/QuickRef.astro';
 import Navigation from '../../components/Navigation.astro';
 import GettingHere from '../../components/sections/GettingHere.astro';
+import GettingAround from '../../components/sections/GettingAround.astro';
 import CheckIn from '../../components/sections/CheckIn.astro';
 import HouseRules from '../../components/sections/HouseRules.astro';
 import WifiAppliances from '../../components/sections/WifiAppliances.astro';
@@ -44,6 +45,7 @@ const { property } = Astro.props;
   <Navigation />
   <GettingHere property={property} />
   <CheckIn property={property} />
+  <GettingAround property={property} />
   <HouseRules property={property} />
   <WifiAppliances property={property} />
   <ThingsToDo property={property} />

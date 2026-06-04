@@ -87,12 +87,12 @@ const gettingAround = property.gettingAround ?? [];
             <div class="flex-1">
               <h3 class="font-semibold text-charcoal mb-1.5">By Car</h3>
               <p class="text-stone-600 text-sm leading-relaxed">{directions}</p>
-              {photos.length >= 4 && (
+              {photos.length > 0 && (
                 <a
                   href="#photo-guide"
                   class="inline-flex items-center gap-1.5 mt-3 bg-amber-50 text-amber-700 border border-amber-200 text-xs font-semibold px-3 py-1.5 rounded-full hover:bg-amber-100 transition-colors"
                 >
-                  📸 See photos 4 onwards below
+                  📸 See step-by-step photos below
                 </a>
               )}
             </div>

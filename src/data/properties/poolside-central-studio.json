@@ -30,15 +30,18 @@
   },
   "checkin": {
     "keyLocation": "The key box is located on the left side of the wall as you face the main gate. For more details see photos 3 & 4 in the Getting Here section above.",
-    "accessCode": "4321",
+    "accessCode": "9900",
     "steps": [
-      "Enter the main building through the glass doors on Protaras Avenue",
-      "The studio is on the ground floor — door number 3B on the left",
-      "Use the key provided at reception to open the studio door",
-      "For after-hours arrival, use the key drop box (code: 4321) next to the lobby door",
-      "The pool access card is in the welcome envelope on the kitchen counter"
+      "Head to Byzantium Gardens — the complex is right next to Kings Avenue Mall (see photo 1 for map overview)",
+      "At the entrance, find the key boxes on the left-hand wall (photo 2)",
+      "Tap the chip/proxy on the reader to open the entrance door (photo 3)",
+      "Open the left box in the 2nd row using code: 9900 to collect your keys (photo 4)",
+      "If arriving by car, use the machine on your right-hand side as you face the main gate to open it (photo 5)",
+      "Drive in, pass Block B — Block C and parking are just ahead (photo 6)",
+      "At Block C, take the entrance on the left and head up to the 1st floor — lift available (photo 7)",
+      "Your apartment is door No. 106, right next to the elevator (photo 8)"
     ],
-    "notes": "The shared pool is open 8am–9pm. Pool towels are NOT provided — please bring your own beach towels. The pool area has sunbeds for all guests."
+    "notes": "Pool towels are provided in the apartment — please use those, not the bathroom towels. The pool area has sunbeds for all guests."
   },
   "gettingHere": {
     "byCar": "Head to the Kings Avenue Mall in Paphos — the Byzantium Gardens complex is right next door. Use the Google Maps link above to navigate to the entrance. ⚠️ Google Maps navigation can be misleading for this address — for the last stretch it may route you through a road that is now a pedestrian promenade. Go around the block instead to reach the front entrance. See the step-by-step photo guide below for full directions.",
@@ -767,7 +770,7 @@
     "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
   },
   "checkout": {
-    "time": "10:30 AM",
+    "time": "11:00 AM",
     "steps": [
       "Remove all items from the fridge and dispose of leftover food",
       "Strip the bed and leave linens folded at the foot of the bed",

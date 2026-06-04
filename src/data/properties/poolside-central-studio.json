@@ -38,11 +38,41 @@
     "notes": "The shared pool is open 8am–9pm. Pool towels are NOT provided — please bring your own beach towels. The pool area has sunbeds for all guests."
   },
   "gettingHere": {
-    "byCar": "Head to the Kings Avenue Mall in Paphos — the Byzantium Gardens complex is right next door. Use the Google Maps link above to navigate to the entrance. ⚠️ Google Maps navigation can be misleading for this address — for accurate step-by-step directions, scroll down to the photo guide below.",
-    "parking": "Once you have the keys, use the chip/proxy on the keychain to open the main gate. Parking is free — you can park anywhere in Block C.",
+    "byCar": "Head to the Kings Avenue Mall in Paphos — the Byzantium Gardens complex is right next door. Use the Google Maps link above to navigate to the entrance. ⚠️ Google Maps navigation can be misleading for this address — for the last stretch it may route you through a road that is now a pedestrian promenade. Go around the block instead to reach the front entrance. See the step-by-step photo guide below for full directions.",
+    "parking": "Once you have the keys, use the chip/proxy on the keychain to open the main gate. Parking is free — you can park anywhere under Block C. To exit by car, pull up in front of the STOP / WAIT sign at the main gate — the doors open automatically.",
     "publicTransport": "From Paphos Airport, take Bus 612 directly and get off at the Kings Avenue Mall bus stop — just a 3-min walk from the apartment. From there, follow the Google Maps link above to navigate to the complex entrance. ⚠️ Buses only accept cash — cards are not accepted. Fare is €2.50 per ride per person, so make sure to have coins or small notes on you.",
-    "taxi": "Recommended: City Cab Protaras (+357 23 833 000). Taxis also available at the Protaras roundabout 5 min walk away.",
-    "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus"
+    "taxi": "Recommended: City Cab Paphos (+357 26 933 333). Journey from Paphos Airport is approximately 15 minutes.",
+    "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
+    "directionPhotos": [
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/entrance-keyboxes.jpeg",
+        "caption": "Once you reach the entrance, find the key boxes on the left-hand wall. You'll see a red sign saying 'Access for Residents Only' — ignore it, you are allowed to enter."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/keybox-code.jpeg",
+        "caption": "Open the left box of the 2nd row with the code: 9900 to collect your keys."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/proxy-reader.jpeg",
+        "caption": "Use the small plastic chip (proxy) on the keychain — tap it on this reader to open the entrance door."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/car-gate-machine.jpeg",
+        "caption": "Arriving by car? Use this keypad/machine on the opposite side of the road to open the main gate and drive in."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/block-b-straight.jpeg",
+        "caption": "Once inside, keep going straight past Block B — Block C (your apartment) is just ahead."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/block-c-entrance.jpeg",
+        "caption": "At Block C, take the entrance and head to the first floor — there is a lift available."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/door-106.jpeg",
+        "caption": "Look for door No. 106, right next to the elevator."
+      }
+    ]
   },
   "houseRules": [
     "No smoking inside — balcony only",

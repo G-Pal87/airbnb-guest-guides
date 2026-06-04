@@ -132,6 +132,19 @@ const gettingAround = property.gettingAround ?? [];
         </div>
       </div>
 
+      <!-- Taxi (optional) -->
+      {property.gettingHere.taxi && (
+        <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
+          <div class="flex items-start gap-3">
+            <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚕</span>
+            <div>
+              <h3 class="font-semibold text-charcoal mb-1.5">Taxi</h3>
+              <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.taxi}</p>
+            </div>
+          </div>
+        </div>
+      )}
+
       <!-- Photo walkthrough -->
       {photos.length > 0 && (
         <div id="photo-guide" class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
@@ -158,19 +171,6 @@ const gettingAround = property.gettingAround ?? [];
                 </div>
               </div>
             ))}
-          </div>
-        </div>
-      )}
-
-      <!-- Taxi (optional) -->
-      {property.gettingHere.taxi && (
-        <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-          <div class="flex items-start gap-3">
-            <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚕</span>
-            <div>
-              <h3 class="font-semibold text-charcoal mb-1.5">Taxi</h3>
-              <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.taxi}</p>
-            </div>
           </div>
         </div>
       )}

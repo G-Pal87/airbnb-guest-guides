@@ -99,13 +99,20 @@ const gettingAround = property.gettingAround ?? [];
         </div>
       )}
 
-      <!-- Public Transport -->
+      <!-- Public Transport + Parking -->
       <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
         <div class="flex items-start gap-3">
           <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚌</span>
-          <div>
+          <div class="flex-1">
             <h3 class="font-semibold text-charcoal mb-1.5">By Public Transport</h3>
             <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.publicTransport}</p>
+          </div>
+        </div>
+        <div class="border-t border-stone-100 mt-4 pt-4 flex items-start gap-3">
+          <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🅿️</span>
+          <div class="flex-1">
+            <h3 class="font-semibold text-charcoal mb-1.5">Parking</h3>
+            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.parking}</p>
           </div>
         </div>
       </div>
@@ -139,17 +146,6 @@ const gettingAround = property.gettingAround ?? [];
           </div>
         </div>
       )}
-
-      <!-- Parking -->
-      <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-        <div class="flex items-start gap-3">
-          <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🅿️</span>
-          <div>
-            <h3 class="font-semibold text-charcoal mb-1.5">Parking</h3>
-            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.parking}</p>
-          </div>
-        </div>
-      </div>
 
       <!-- Taxi (optional) -->
       {property.gettingHere.taxi && (

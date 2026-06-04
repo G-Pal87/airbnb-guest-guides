@@ -95,7 +95,6 @@
     "No pets allowed",
     "Clean dishes immediately and keep the kitchen counter clear — Cyprus's warm weather can attract insects",
     "Please use the bin next to the toilet — do not flush toilet paper (Cyprus plumbing cannot handle it)",
-    "Place the metallic key in the electricity plug by the door when inside; remove it every time you leave",
     "Shared pool: no glass, no diving, be mindful of other guests",
     "Close balcony door and windows when air conditioning is running",
     "Return keys to the keybox and reset the code at checkout",
@@ -105,12 +104,7 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "To have electricity, place the metallic key in the key plug on the wall next to the door, just like in hotels. Remember to remove it and take your keys with you every time you leave the apartment. Important: every socket in Cyprus has its own switch on the wall next to it. If an appliance is not working, check that the socket switch is turned on. You will also find EU adapters around the apartment for your convenience."
-    },
-    {
-      "name": "Induction Hob",
-      "icon": "🍳",
-      "instructions": "Touch the ON button in the centre of the hob to activate. Tap the zone you want to use and press + to increase heat level. Use 3–4 for most cooking, 7–9 for boiling. Always use the induction-compatible pots and pans provided. Wipe the surface clean after each use with the cloth in the drawer."
+      "instructions": "Every socket in Cyprus has its own switch on the wall next to it. If an appliance is not working, check that the socket switch is turned on. You will also find EU adapters around the apartment for your convenience."
     },
     {
       "name": "Kitchen",
@@ -123,24 +117,14 @@
       "instructions": "You'll find the washing machine in the kitchen. The Quick Wash setting works well for most loads. If you have any questions, don't hesitate to reach out!"
     },
     {
-      "name": "Dishwasher",
-      "icon": "🍽️",
-      "instructions": "The dishwasher is available for your convenience. Tabs are provided under the sink. We recommend using the Eco program: it's energy-efficient and works perfectly for everyday dishes."
-    },
-    {
       "name": "Shower & Hot Water",
       "icon": "🚿",
       "instructions": "It usually takes 2-3 minutes for the water to get warm, this is normal. If the water doesn't warm up, there may not have been enough sun for the solar panels that day. In that case, press the heating button next to the bathroom door and wait 20 minutes. Important: turn off the heating system before stepping into the shower. (This is only needed around 10% of the time. Cyprus is usually very sunny! ☀️)"
     },
     {
-      "name": "Terraces & Umbrella",
-      "icon": "🪴",
-      "instructions": "The apartment has two terraces. Feel free to set them up as you like. Outdoor cushions and décor are stored inside and can be arranged on the terraces. For the large patio umbrella: do not use it in windy conditions, close it at night or when not in use, and make sure it is securely closed and tied before checkout."
-    },
-    {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "The pool key is on the key chain with your apartment keys. The shared pool is usually quiet. Please be mindful of other guests and observe any rules posted in the pool area. Use the beach towels provided in the apartment for the pool, not the bathroom towels."
+      "instructions": "No key needed — the pool is open to all guests. Pool rules are posted on the notice board next to the elevator on the ground floor. Please be mindful of other guests. Use the beach towels provided in the apartment for the pool, not the bathroom towels."
     },
     {
       "name": "Bathroom",

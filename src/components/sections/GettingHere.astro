@@ -28,6 +28,7 @@ interface Props {
       busStationUrl?: string;
       taxi?: string;
       directionPhotos?: DirectionPhoto[];
+      directionPhotosStart?: number;
     };
     gettingAround?: GettingAroundItem[];
   };
@@ -37,6 +38,7 @@ const { property } = Astro.props;
 const directions = property.gettingHere.byCar ?? property.gettingHere.directions ?? '';
 const photos = property.gettingHere.directionPhotos ?? [];
 const gettingAround = property.gettingAround ?? [];
+const photoStart = property.gettingHere.directionPhotosStart ?? 1;
 ---
 
 <section id="getting-here" class="py-12 bg-white" aria-labelledby="getting-here-heading">
@@ -89,10 +91,10 @@ const gettingAround = property.gettingAround ?? [];
               <p class="text-stone-600 text-sm leading-relaxed" data-i18n="gettingHere.byCar">{directions}</p>
               {photos.length > 0 && (
                 <a
-                  href="#photo-guide"
+                  href={`#direction-photo-${photoStart}`}
                   class="inline-flex items-center gap-1.5 mt-3 bg-amber-50 text-amber-700 border border-amber-200 text-xs font-semibold px-3 py-1.5 rounded-full hover:bg-amber-100 transition-colors"
                 >
-                  📸 See photos 1 onwards below
+                  📸 See photos {photoStart} onwards below
                 </a>
               )}
             </div>

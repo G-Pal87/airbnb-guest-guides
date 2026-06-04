@@ -102,7 +102,8 @@
         "caption": "First door on the left (ground floor). The white door is yours!"
       }
     ],
-    "taxi": "Taxis are available directly outside the arrivals hall at Paphos Airport. A typical fare to Paphos is €40–45 during daytime hours and €45–50 after hours. Journey time from the airport is approximately 20–25 minutes."
+    "taxi": "Taxis are available directly outside the arrivals hall at Paphos Airport. A typical fare to Paphos is €40–45 during daytime hours and €45–50 after hours. Journey time from the airport is approximately 20–25 minutes.",
+    "directionPhotosStart": 4
   },
   "houseRules": [
     "No smoking inside, balconies and terraces only",

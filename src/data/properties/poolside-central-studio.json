@@ -458,75 +458,75 @@
       "items": [
         {
           "name": "Paphos Coastal Walkway",
-          "distance": "Starts nearby, walk · Easy",
-          "tip": "Best no-car option. Walk from the Tombs of the Kings area toward Lighthouse Beach, the harbour, and Paphos Castle.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+          "distance": "1–1.5 km, walk",
+          "tip": "Best no-car option. Walk towards Lighthouse Beach, the harbour, and Paphos Castle. Easy, great for sea views and sunset.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paphos+Coastal+Walkway+Cyprus"
         },
         {
           "name": "Lighthouse Beach Coastal Walk",
-          "distance": "2-2.5 km, walk · Easy",
-          "tip": "Practical from Avlida. Good for guests who want nature without a proper hike.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+          "distance": "1–1.5 km, walk or car",
+          "tip": "Very practical from this location. Good for guests who want nature without a proper hike. Short scenic walk with a sea breeze and sunset views.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lighthouse+Beach+Paphos+Cyprus"
         },
         {
           "name": "Tombs of the Kings coastal loop",
-          "distance": "250m-1 km, walk · Easy",
-          "tip": "Combines ancient tombs, open landscape, and coastline. Not a formal trail, but a very nice loop.",
-          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+          "distance": "2.2–3 km, walk, car, or bus",
+          "tip": "Not a pure nature trail, but a lovely easy walk combining open landscape, coastline, and ancient tombs. History plus sea views.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tombs+of+the+Kings+Paphos+Cyprus"
         },
         {
           "name": "Sea Caves coastal walk, Peyia",
-          "distance": "17-20 km, car · Easy-Moderate",
-          "tip": "Easy scenic outing. Combine with Edro III Shipwreck and Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
+          "distance": "18–21 km, car",
+          "tip": "One of the easiest scenic nature outings by car. Easy to moderate. Combine with Edro III Shipwreck and Oniro by the Sea. Sea cliffs, photos, great at sunset.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sea+Caves+Peyia+Cyprus"
         },
         {
           "name": "Avakas Gorge Nature Trail",
-          "distance": "25-30 km, car · Moderate",
-          "tip": "Best nature trail near Paphos. Follows Avgas River through limestone formations. Wear proper shoes. Avoid after heavy rain.",
-          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
-        },
-        {
-          "name": "Aphrodite's Rock coastal walk",
-          "distance": "27-30 km, car · Easy",
-          "tip": "Scenic stop, not a long hike. Good when driving toward Limassol or the airport.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+          "distance": "25–30 km, car then walk",
+          "tip": "Probably the best nature trail near Paphos. Moderate difficulty. Wear proper shoes and avoid after heavy rain or extreme heat. Dramatic gorge and rock walls.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avakas+Gorge+Trail+Cyprus"
         },
         {
           "name": "Lara Beach & Toxeftra coastal area",
-          "distance": "28-35 km, 4x4 or tour · Moderate",
-          "tip": "Beautiful but rough access. Wild coast and turtle nesting areas. Respect the environment.",
-          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
+          "distance": "30–35 km, 4x4, buggy, or guided tour",
+          "tip": "Beautiful but not polished. Moderate. Better for adventurous guests — access roads can be rough and turtle nesting areas should be respected.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lara+Beach+Akamas+Cyprus"
         },
         {
           "name": "Smigies Nature Trail, Neo Chorio",
-          "distance": "38-42 km, car · Moderate",
-          "tip": "Less demanding than Aphrodite or Adonis. Short route 2.5 km (1hr), long route 6 km (2hrs).",
-          "mapsUrl": "https://www.google.com/maps/search/Smigies+Nature+Trail+Cyprus"
-        },
-        {
-          "name": "Baths of Aphrodite short walk",
-          "distance": "40-45 km, car · Easy",
-          "tip": "Gentle nature stop, not a real hike. Best combined with Latchi or a Blue Lagoon boat trip.",
-          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+          "distance": "38–43 km, car",
+          "tip": "Good if guests want Akamas scenery but something less demanding than Aphrodite or Adonis trails. Moderate, forest and Akamas views.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Smigies+Nature+Trail+Neo+Chorio+Cyprus"
         },
         {
           "name": "Aphrodite Nature Trail, Akamas",
-          "distance": "40-45 km, car · Moderate-Hard",
-          "tip": "One of the most beautiful hikes in the region. Wide views over Polis, Latchi, and Akamas.",
-          "mapsUrl": "https://www.google.com/maps/search/Aphrodite+Nature+Trail+Akamas+Cyprus"
+          "distance": "40–45 km, car",
+          "tip": "One of the most beautiful hikes in the Paphos region. Moderate to hard. Starts near the Baths of Aphrodite with wide views over Polis, Latchi, and Akamas.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aphrodite+Nature+Trail+Akamas+Cyprus"
         },
         {
           "name": "Adonis Nature Trail, Akamas",
-          "distance": "40-45 km, car · Moderate-Hard",
-          "tip": "Views over Polis Chrysochous, Paphos Forest, and Akamas. Connects with Smigies and Aphrodite trails.",
-          "mapsUrl": "https://www.google.com/maps/search/Adonis+Nature+Trail+Akamas+Cyprus"
+          "distance": "40–45 km, car",
+          "tip": "A good alternative to the Aphrodite Trail. Moderate to hard. Best for guests who want a proper Akamas hike and are comfortable with a more active route.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adonis+Nature+Trail+Akamas+Cyprus"
+        },
+        {
+          "name": "Baths of Aphrodite short walk",
+          "distance": "40–45 km, car",
+          "tip": "Good for guests who want a gentle nature stop rather than a real hike. Easy. Best combined with Latchi or a Blue Lagoon boat trip.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baths+of+Aphrodite+Cyprus"
+        },
+        {
+          "name": "Aphrodite's Rock coastal viewpoint walk",
+          "distance": "25–28 km, car",
+          "tip": "Not a long hike, but a very scenic easy stop. Good for guests driving towards Limassol or the airport. Photos, mythology, dramatic coast.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aphrodite%27s+Rock+Cyprus"
         },
         {
           "name": "Troodos Nature Trails",
-          "distance": "75-95 km, car · Easy-Hard",
-          "tip": "Best full-day hiking option in summer when the coast is too hot. Cooler forest trails and mountain scenery.",
-          "mapsUrl": "https://www.google.com/maps/search/Troodos+Nature+Trails+Cyprus"
+          "distance": "75–95 km depending on trail, car",
+          "tip": "Best full day hiking option, especially in summer when the coast is too hot. Easy to hard difficulty. Troodos offers real forest trails and cooler air.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Troodos+Nature+Trails+Cyprus"
         }
       ]
     }

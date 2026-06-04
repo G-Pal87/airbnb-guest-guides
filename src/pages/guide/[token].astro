@@ -24,21 +24,31 @@ export async function getStaticPaths() {
   const paths = Object.entries(tokens).map(([token, propertyId]) => {
     const propertyPath = join(process.cwd(), `src/data/properties/${propertyId}.json`);
     const property = JSON.parse(readFileSync(propertyPath, 'utf-8'));
+
+    let translations: Record<string, unknown> = {};
+    try {
+      const translationsPath = join(process.cwd(), `src/data/translations/${propertyId}.json`);
+      translations = JSON.parse(readFileSync(translationsPath, 'utf-8'));
+    } catch {
+      // No translations file — use empty object
+    }
+
     return {
       params: { token },
-      props: { property },
+      props: { property, translations },
     };
   });
 
   return paths;
 }
 
-const { property } = Astro.props;
+const { property, translations } = Astro.props;
 ---
 
 <GuideLayout
   title={`${property.name} — Guest Guide`}
   propertyName={property.name}
+  translations={translations}
 >
   <Hero property={property} />
   <QuickRef property={property} />

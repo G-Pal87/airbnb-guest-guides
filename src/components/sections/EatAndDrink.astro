@@ -54,7 +54,7 @@ function priceRangeColor(range: string): string {
 
 <section id="eat-drink" class="py-12 bg-surface" aria-labelledby="eat-drink-heading">
   <div class="max-w-2xl mx-auto px-4">
-    <h2 id="eat-drink-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+    <h2 id="eat-drink-heading" class="font-serif text-3xl font-bold text-charcoal mb-8" data-i18n="ui.eatAndDrink">
       Eat & Drink
     </h2>
 
@@ -71,7 +71,7 @@ function priceRangeColor(range: string): string {
             </span>
           </div>
           <div class="flex items-center gap-1.5 mb-2">
-            <span class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full font-medium">{place.type}</span>
+            <span class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full font-medium" data-i18n={`eatAndDrink.${i}.type`}>{place.type}</span>
             {place.priceRange && (
               <span class={`text-xs font-semibold px-2 py-0.5 rounded-full ${priceRangeColor(place.priceRange)}`}>
                 {place.priceRange}

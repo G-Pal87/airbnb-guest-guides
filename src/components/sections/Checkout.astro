@@ -14,7 +14,7 @@ const { property } = Astro.props;
 
 <section id="checkout" class="py-12 bg-surface" aria-labelledby="checkout-heading">
   <div class="max-w-2xl mx-auto px-4">
-    <h2 id="checkout-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+    <h2 id="checkout-heading" class="font-serif text-3xl font-bold text-charcoal mb-8" data-i18n="ui.checkout">
       Check-out
     </h2>
 
@@ -22,7 +22,7 @@ const { property } = Astro.props;
     <div class="bg-white rounded-2xl shadow-md p-5 mb-6 border border-stone-100 flex items-center gap-4">
       <span class="text-3xl flex-shrink-0" aria-hidden="true">🕙</span>
       <div>
-        <p class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-0.5">Checkout Time</p>
+        <p class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-0.5" data-i18n="ui.checkoutTime">Checkout Time</p>
         <p class="font-bold text-4xl text-primary" aria-label={`Checkout by ${property.checkout.time}`}>
           {property.checkout.time}
         </p>
@@ -31,7 +31,7 @@ const { property } = Astro.props;
 
     <!-- Steps -->
     <div class="bg-white rounded-2xl shadow-md p-5 mb-5 border border-stone-100">
-      <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2">
+      <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2" data-i18n="ui.checkoutChecklist">
         <span aria-hidden="true">✅</span> Checkout Checklist
       </h3>
       <ol class="space-y-4">
@@ -43,7 +43,7 @@ const { property } = Astro.props;
             >
               {i + 1}
             </span>
-            <p class="text-stone-700 text-sm leading-relaxed pt-1">{step}</p>
+            <p class="text-stone-700 text-sm leading-relaxed pt-1" data-i18n={`checkout.steps.${i}`}>{step}</p>
           </li>
         ))}
       </ol>
@@ -53,7 +53,7 @@ const { property } = Astro.props;
     {property.checkout.lateCheckout && (
       <div class="bg-amber-50 border border-amber-200 rounded-2xl p-4 flex items-start gap-3">
         <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">💡</span>
-        <p class="text-amber-800 text-sm leading-relaxed">{property.checkout.lateCheckout}</p>
+        <p class="text-amber-800 text-sm leading-relaxed" data-i18n="checkout.lateCheckout">{property.checkout.lateCheckout}</p>
       </div>
     )}
   </div>

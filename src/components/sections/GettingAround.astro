@@ -20,17 +20,17 @@ const items = property.gettingAround ?? [];
 {items.length > 0 && (
   <section id="getting-around" class="py-12 bg-white" aria-labelledby="getting-around-heading">
     <div class="max-w-2xl mx-auto px-4">
-      <h2 id="getting-around-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+      <h2 id="getting-around-heading" class="font-serif text-3xl font-bold text-charcoal mb-8" data-i18n="ui.gettingAround">
         Getting Around
       </h2>
       <div class="space-y-3">
-        {items.map((item: GettingAroundItem) => (
+        {items.map((item: GettingAroundItem, idx: number) => (
           <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
             <div class="flex items-start gap-3">
               <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">{item.icon}</span>
               <div>
                 <h3 class="font-semibold text-charcoal mb-1">{item.name}</h3>
-                <p class="text-stone-600 text-sm leading-relaxed">{item.info}</p>
+                <p class="text-stone-600 text-sm leading-relaxed" data-i18n={`gettingAround.${idx}.info`}>{item.info}</p>
                 {item.linkUrl && item.linkText && (
                   <a
                     href={item.linkUrl}

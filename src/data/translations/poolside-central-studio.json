@@ -1,0 +1,707 @@
+{
+  "de": {
+    "ui": {
+      "welcome": "Willkommen!",
+      "gettingHere": "Anreise",
+      "checkIn": "Check-in",
+      "houseRules": "Hausordnung",
+      "appliances": "WLAN & Ausstattung",
+      "thingsToDo": "Ausflüge & Aktivitäten",
+      "eatAndDrink": "Essen & Trinken",
+      "checkout": "Check-out",
+      "emergency": "Notfallkontakte",
+      "gettingAround": "Mobilität vor Ort",
+      "contactHost": "Kontakt",
+      "byCar": "Mit dem Auto",
+      "parking": "Parken",
+      "publicTransport": "Öffentliche Verkehrsmittel",
+      "taxi": "Taxi",
+      "photoGuide": "Schritt-für-Schritt Fotoanleitung",
+      "openGoogleMaps": "In Google Maps öffnen",
+      "stepByStep": "Schritt-für-Schritt",
+      "keyLocation": "Schlüsselstandort",
+      "accessCode": "Zugangscode",
+      "wifi": "WLAN",
+      "checkoutTime": "Check-out Zeit",
+      "checkoutChecklist": "Check-out Checkliste",
+      "emergency_number": "Notfallnummer",
+      "host": "Gastgeber",
+      "cohost": "Mitgastgeber",
+      "callWhatsapp": "Anrufen oder WhatsApp",
+      "sendEmail": "E-Mail senden",
+      "nearestHospital": "Nächstes Krankenhaus",
+      "nearestPharmacy": "Nächste Apotheke",
+      "lateCheckout": "Später Check-out"
+    },
+    "welcomeMessage": "Willkommen im Poolside Central Studio! Dieses schicke, kompakte Studio liegt ideal im Herzen von Paphos, nur wenige Schritte vom historischen Hafen entfernt. Alles, was Sie brauchen, ist hier: frische Bettwäsche, eine voll ausgestattete Küche, einen sonnigen Balkon und einen Gemeinschaftspool zum Abkühlen. Fühlen Sie sich wie zu Hause und genießen Sie jeden sonnenverwöhnten Moment!",
+    "gettingHere": {
+      "byCar": "Fahren Sie zum Kings Avenue Mall in Paphos. Der Byzantium Gardens-Komplex befindet sich direkt nebenan. Nutzen Sie den Google Maps-Link oben, um zur Einfahrt zu navigieren. ⚠️ Die Google Maps-Navigation kann für diese Adresse irreführend sein. Auf den letzten Metern könnte sie Sie durch eine Straße leiten, die heute eine Fußgängerpromenade ist. Fahren Sie stattdessen um den Block, um zur Haupteinfahrt zu gelangen. Die Schritt-für-Schritt-Fotoanleitung unten zeigt den genauen Weg.",
+      "parking": "Sobald Sie die Schlüssel haben, öffnen Sie das Haupttor mit dem Chip/Transponder am Schlüsselbund. Parken ist kostenlos. Am besten parken Sie unter Block C, Sie können Ihr Auto aber auch überall im Komplex abstellen, sogar am Zaun, solange Sie nichts blockieren. Um mit dem Auto zu fahren, fahren Sie vor das STOP/WARTEN-Schild am Haupttor. Die Türen öffnen sich automatisch.",
+      "publicTransport": "Vom Flughafen Paphos nehmen Sie den Bus 612 direkt bis zur Haltestelle Kings Avenue Mall. Nur 3 Minuten Fußweg bis zur Wohnung. Von dort nutzen Sie den Google Maps-Link oben, um zur Komplexeinfahrt zu navigieren. Falls Sie nicht wissen, wo Sie aussteigen sollen, fragen Sie einfach den Busfahrer. Haltestelle verpasst? Kein Problem – die nächste Haltestelle ist die Hauptstation bei den Königsgräbern, nur 5 Minuten Fußweg zur Wohnung. ⚠️ Busse akzeptieren nur Bargeld. Karten werden nicht akzeptiert. Der Fahrpreis beträgt 2,50 € pro Person und Fahrt. Bitte halten Sie Kleingeld oder kleine Scheine bereit.",
+      "taxi": "Taxis stehen direkt vor der Ankunftshalle des Flughafens Paphos bereit. Ein typischer Fahrpreis nach Paphos beträgt tagsüber 40–45 € und außerhalb der Hauptzeiten 45–50 €. Die Fahrzeit vom Flughafen beträgt etwa 20–25 Minuten.",
+      "directionPhotos": [
+        { "caption": "Navigieren Sie zum Google Maps-Standort. Der Komplex liegt 2 Blocks links vom Kings Avenue Mall. Die roten Markierungen zeigen zu meidende Straßen; folgen Sie der richtigen Route zur Haupteinfahrt. Sie werden auch ein Einfahrt-verboten-Schild sehen – das gilt nur für Nicht-Bewohner. Als Gast dürfen Sie einfahren." },
+        { "caption": "Sobald Sie die Einfahrt erreichen, finden Sie die Schlüsselboxen an der linken Wand." },
+        { "caption": "Verwenden Sie den kleinen Plastikchip (Transponder) am Schlüsselbund. Halten Sie ihn an dieses Lesegerät, um die Eingangstür zu öffnen." },
+        { "caption": "Öffnen Sie die linke Box in der 2. Reihe (rot markiert) mit dem Code: 9900, um Ihre Schlüssel zu entnehmen." },
+        { "caption": "Mit dem Auto? Nutzen Sie dieses Gerät, um das Haupttor zu öffnen. Sie finden es auf der rechten Seite, wenn Sie dem Tor gegenüberstehen." },
+        { "caption": "Drinnen: geradeaus fahren und an Block B vorbei. Block C (Ihre Wohnung) liegt direkt dahinter." },
+        { "caption": "Bei Block C: nehmen Sie den Eingang links und fahren Sie in das erste Obergeschoss. Es gibt einen Aufzug." },
+        { "caption": "Suchen Sie nach Tür Nr. 106, direkt neben dem Aufzug." },
+        { "caption": "Ausfahrt mit dem Auto: fahren Sie vor das STOP/WARTEN-Schild am Haupttor. Die Türen öffnen sich automatisch." }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "Die Schlüsselbox befindet sich an der linken Seite der Wand, wenn Sie dem Haupttor gegenüberstehen. Weitere Details finden Sie in <a href=\"#direction-photo-3\" class=\"underline text-primary hover:text-teal-700\">Foto 3</a> &amp; <a href=\"#direction-photo-4\" class=\"underline text-primary hover:text-teal-700\">Foto 4</a> im Abschnitt Anreise oben.",
+      "steps": [
+        "Fahren Sie zu den Byzantium Gardens. Der Komplex liegt direkt neben dem Kings Avenue Mall (siehe Foto 1 für Kartenübersicht)",
+        "Finden Sie am Eingang die Schlüsselboxen an der linken Wand (Foto 2)",
+        "Halten Sie den Chip/Transponder an das Lesegerät, um die Eingangstür zu öffnen (Foto 3)",
+        "Öffnen Sie die linke Box in der 2. Reihe mit Code: 9900, um Ihre Schlüssel zu entnehmen (Foto 4)",
+        "Bei Anreise mit dem Auto: nutzen Sie das Gerät auf der rechten Seite, wenn Sie dem Haupttor gegenüberstehen (Foto 5)",
+        "Einfahren, Block B passieren. Block C und Parkplatz liegen direkt dahinter (Foto 6)",
+        "Bei Block C: Eingang links nehmen und ins 1. Obergeschoss. Aufzug vorhanden (Foto 7)",
+        "Ihre Wohnung ist Tür Nr. 106, direkt neben dem Aufzug (Foto 8)"
+      ],
+      "notes": "Handtücher für den Pool sind in der Wohnung bereitgestellt. Bitte verwenden Sie diese und nicht die Badetücher. Im Poolbereich stehen Liegestühle für alle Gäste bereit."
+    },
+    "houseRules": [
+      "Kein Rauchen im Inneren. Nur auf dem Balkon",
+      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00–8:00 Uhr",
+      "Maximale Belegung: 2 Gäste",
+      "Keine Haustiere erlaubt",
+      "Geschirr sofort spülen und die Küchenarbeitsfläche freihalten. Das warme Wetter auf Zypern kann Insekten anlocken",
+      "Bitte benutzen Sie den Mülleimer neben der Toilette. Kein Toilettenpapier in die Toilette werfen (die Abwasserleitungen auf Zypern können das nicht verarbeiten)",
+      "Gemeinschaftspool: kein Glas, kein Springen, auf andere Gäste Rücksicht nehmen",
+      "Balkontür und Fenster bei laufender Klimaanlage geschlossen halten",
+      "Schlüssel bei Check-out in die Schlüsselbox zurücklegen und den Code zurücksetzen",
+      "Gehen Sie sorgsam mit der Wohnung um. Bitte melden Sie Schäden umgehend",
+      "Schlüssel sicher aufbewahren. Bei Verlust oder versehentlichem Einsperren wird ein Schlüsseldienst benötigt, dessen Kosten weitergegeben werden"
+    ],
+    "appliances": [
+      { "name": "Strom", "instructions": "Jede Steckdose auf Zypern hat einen eigenen Schalter an der Wand daneben. Wenn ein Gerät nicht funktioniert, prüfen Sie, ob der Steckdosenschalter eingeschaltet ist. Im Apartment finden Sie auch EU-Adapter für Ihre Bequemlichkeit." },
+      { "name": "Küche", "instructions": "Die Küche verfügt über ein Elektroherd, einen Elektroofen, eine einfache Kaffeemaschine und eine Mühle. Sie dürfen alles benutzen, reinigen Sie die Geräte bitte nach der Nutzung. Grundlegende Kochzutaten (Salz, Pfeffer, Olivenöl) und Kaffeebohnen sind vorhanden – bedienen Sie sich! Wichtig: Das warme Wetter auf Zypern kann Insekten anlocken. Bitte spülen Sie das Geschirr umgehend, entsorgen Sie Speisereste sofort und achten Sie darauf, dass nichts auf der Arbeitsfläche liegt oder auf den Boden fällt." },
+      { "name": "Waschmaschine", "instructions": "Die Waschmaschine befindet sich in der Küche. Das Schnellwaschprogramm funktioniert für die meisten Wäscheladungen gut. Bei Fragen zögern Sie nicht, uns zu kontaktieren!" },
+      { "name": "Dusche & Warmwasser", "instructions": "Es dauert normalerweise 2–3 Minuten, bis das Wasser warm wird – das ist normal. Wenn das Wasser nicht warm wird, hat die Sonne möglicherweise nicht ausgereicht, um die Solarpaneele aufzuladen. In diesem Fall drücken Sie den Heiztaster neben der Badezimmertür und warten Sie 20 Minuten. Wichtig: Schalten Sie das Heizsystem aus, bevor Sie unter die Dusche steigen. (Dies ist nur in ca. 10 % der Fälle nötig. Zypern ist normalerweise sehr sonnig! ☀️)" },
+      { "name": "Poolzugang", "instructions": "Kein Schlüssel nötig. Der Pool steht allen Gästen offen. Poolregeln sind auf dem Aushang neben dem Aufzug im Erdgeschoss zu finden. Bitte nehmen Sie Rücksicht auf andere Gäste. Nutzen Sie die im Apartment bereitgestellten Strandtücher für den Pool, nicht die Badetücher." },
+      { "name": "Badezimmer", "instructions": "Frische Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Wenn Sie etwas Zusätzliches benötigen, teilen Sie uns das einfach mit. Wichtig: Die Abwasserleitungen auf Zypern können kein Toilettenpapier verarbeiten. Bitte verwenden Sie den Mülleimer neben der Toilette. Danke!" },
+      { "name": "Trinkwasser", "instructions": "Leitungswasser auf Zypern ist im Allgemeinen trinkbar, viele Gäste bevorzugen jedoch Flaschenwasser. Große Flaschen sind in jedem Supermarkt in der Nähe erhältlich." },
+      { "name": "Pflanzen", "instructions": "Im Apartment finden Sie einige Pflanzen – sie sorgen für eine natürliche und gemütliche Atmosphäre. Bei einem längeren Aufenthalt würden wir uns freuen, wenn Sie sie alle 3–4 Tage gießen. Vielen Dank! 🌿" }
+    ],
+    "thingsToDo": [
+      { "category": "Strände 🏝️" },
+      { "category": "Historische Stätten & Spazierwege 🏰" },
+      { "category": "Sehenswürdigkeiten & Ausflüge 📸" },
+      { "category": "Wandern & Naturpfade ⛰️" }
+    ],
+    "eatAndDrink": [
+      { "type": "Schnellessen, Kaffee, Familien" },
+      { "type": "Grill, schnelles Abendessen" },
+      { "type": "Frühstück, Brunch, einfache Mahlzeiten" },
+      { "type": "Griechisches Essen, unkompliziertes Abendessen" },
+      { "type": "Griechisches Essen, Meze, traditionelles Abendessen" },
+      { "type": "Meeresblick, Abendessen, Abendspaziergang" },
+      { "type": "Meeresfrüchte, Hafenblick, klassisches Paphos-Abendessen" },
+      { "type": "Meeresfrüchte, mediterrane Küche, Hafenessen" },
+      { "type": "Hafen, Drinks, lockere Atmosphäre" },
+      { "type": "Cafés, lokale Atmosphäre, entspanntes Abendessen" },
+      { "type": "Altstadt-Abendessen, zypriotische Küche, lokales Flair" },
+      { "type": "Traditionelle zypriotische Küche, lokales Abendessen" },
+      { "type": "Meze, Drinks, Altstadt-Flair" },
+      { "type": "Sonnenuntergang, Aussicht, Abendessen" },
+      { "type": "Sonnenuntergang, Meereshöhlen, besonderes Abendessen" },
+      { "type": "Wein, Dorfessen, lokales Erlebnis" },
+      { "type": "Fisch, Hafen-Mittagessen, Blue-Lagoon-Tag" }
+    ],
+    "gettingAround": [
+      { "info": "Der zentrale Busbahnhof (Königsgräber) ist 18 Minuten zu Fuß entfernt (~1,3 km) und bietet direkte Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Orten." },
+      { "info": "Carsharing funktioniert gut rund um Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind in der Regel innerhalb von 5–10 Minuten Fußweg verfügbar." },
+      { "info": "Günstige Taxi-App. Empfohlen für Fahrten in Paphos ohne die Unsicherheit von Taxametern." }
+    ],
+    "emergency": {
+      "contacts": [
+        { "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon" },
+        { "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt" },
+        { "note": "Polizeiwache Paphos" }
+      ],
+      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung benötigen."
+    },
+    "checkout": {
+      "steps": [
+        "Alle Lebensmittel aus dem Kühlschrank nehmen und Reste entsorgen",
+        "Bettwäsche abziehen und am Fußende des Bettes gefaltet ablegen",
+        "Benutztes Geschirr spülen und auf dem Abtropfgitter lassen",
+        "Den Mülleimer leeren und den Beutel zu den Mülltonnen auf dem Parkplatz bringen",
+        "Alle Fenster und die Balkontür schließen",
+        "Klimaanlage, alle Lichter und den Fernseher ausschalten",
+        "Schlüssel in die Schlüsselbox zurücklegen und den Code zurücksetzen",
+        "Schreiben Sie uns eine WhatsApp, um uns mitzuteilen, dass Sie abgereist sind. Vielen Dank für Ihren Aufenthalt!"
+      ],
+      "lateCheckout": "Ein später Check-out ist aufgrund unseres straffen Reinigungsplans in der Regel nicht möglich. Bitte teilen Sie uns besondere Umstände mit und wir werden unser Bestes tun."
+    }
+  },
+  "fr": {
+    "ui": {
+      "welcome": "Bienvenue !",
+      "gettingHere": "Comment nous trouver",
+      "checkIn": "Arrivée",
+      "houseRules": "Règlement intérieur",
+      "appliances": "WiFi & Équipements",
+      "thingsToDo": "Activités & Excursions",
+      "eatAndDrink": "Restaurants & Bars",
+      "checkout": "Départ",
+      "emergency": "Contacts d'urgence",
+      "gettingAround": "Se déplacer",
+      "contactHost": "Contacter l'hôte",
+      "byCar": "En voiture",
+      "parking": "Stationnement",
+      "publicTransport": "Transports en commun",
+      "taxi": "Taxi",
+      "photoGuide": "Guide photo étape par étape",
+      "openGoogleMaps": "Ouvrir dans Google Maps",
+      "stepByStep": "Étape par étape",
+      "keyLocation": "Emplacement des clés",
+      "accessCode": "Code d'accès",
+      "wifi": "WiFi",
+      "checkoutTime": "Heure de départ",
+      "checkoutChecklist": "Liste de contrôle départ",
+      "emergency_number": "Numéro d'urgence",
+      "host": "Hôte",
+      "cohost": "Co-hôte",
+      "callWhatsapp": "Appeler ou WhatsApp",
+      "sendEmail": "Envoyer un e-mail",
+      "nearestHospital": "Hôpital le plus proche",
+      "nearestPharmacy": "Pharmacie la plus proche",
+      "lateCheckout": "Départ tardif"
+    },
+    "welcomeMessage": "Bienvenue au Poolside Central Studio ! Ce studio chic et compact est idéalement situé au cœur de Paphos, à deux pas du port historique. Tout ce dont vous avez besoin est là : du linge de lit frais, une cuisine entièrement équipée, un balcon ensoleillé et une piscine commune pour vous rafraîchir. Faites comme chez vous et profitez de chaque instant baigné de soleil !",
+    "gettingHere": {
+      "byCar": "Dirigez-vous vers le Kings Avenue Mall à Paphos. Le complexe Byzantium Gardens se trouve juste à côté. Utilisez le lien Google Maps ci-dessus pour naviguer jusqu'à l'entrée. ⚠️ La navigation Google Maps peut être trompeuse pour cette adresse. Sur le dernier tronçon, elle pourrait vous faire passer par une rue qui est maintenant une promenade piétonne. Faites le tour du pâté de maisons pour atteindre l'entrée principale. Consultez le guide photo étape par étape ci-dessous pour les instructions complètes.",
+      "parking": "Une fois que vous avez les clés, utilisez la puce/le badge sur le trousseau pour ouvrir le portail principal. Le stationnement est gratuit. De préférence, garez-vous sous le Bloc C, mais vous pouvez laisser votre voiture n'importe où dans le complexe, même près de la clôture, du moment que vous ne bloquez rien. Pour sortir en voiture, avancez devant le panneau STOP / ATTENDRE à l'entrée principale. Les portes s'ouvrent automatiquement.",
+      "publicTransport": "Depuis l'aéroport de Paphos, prenez le Bus 612 directement et descendez à l'arrêt Kings Avenue Mall. Seulement 3 minutes à pied de l'appartement. Ensuite, suivez le lien Google Maps ci-dessus pour naviguer jusqu'à l'entrée du complexe. Si vous ne savez pas où descendre, demandez au chauffeur. Vous avez raté l'arrêt ? Pas de souci. L'arrêt suivant est la station principale des Tombes des Rois, à seulement 5 minutes à pied de l'appartement. ⚠️ Les bus n'acceptent que les espèces. Les cartes ne sont pas acceptées. Le tarif est de 2,50 € par trajet et par personne, alors assurez-vous d'avoir de la monnaie ou de petits billets.",
+      "taxi": "Des taxis sont disponibles directement devant le hall des arrivées de l'aéroport de Paphos. Le tarif typique vers Paphos est de 40–45 € de jour et de 45–50 € en dehors des heures normales. Le trajet depuis l'aéroport dure environ 20–25 minutes.",
+      "directionPhotos": [
+        { "caption": "Naviguez vers l'emplacement Google Maps. Le complexe se trouve à 2 pâtés de maisons à gauche du Kings Avenue Mall. Les marques rouges indiquent les routes à éviter ; suivez le bon itinéraire pour atteindre l'entrée principale. Vous verrez aussi un panneau Sens interdit à l'entrée – il ne s'applique qu'aux non-résidents. En tant que locataire, vous avez le droit d'entrer." },
+        { "caption": "Une fois à l'entrée, trouvez les boîtes à clés sur le mur de gauche." },
+        { "caption": "Utilisez la petite puce en plastique (badge) sur le trousseau. Posez-la sur ce lecteur pour ouvrir la porte d'entrée." },
+        { "caption": "Ouvrez la boîte de gauche de la 2e rangée (en rouge) avec le code : 9900 pour récupérer vos clés." },
+        { "caption": "En voiture ? Utilisez cette machine pour ouvrir le portail principal. Vous la trouverez sur votre droite face au portail." },
+        { "caption": "Une fois à l'intérieur, continuez tout droit et dépassez le Bloc B. Le Bloc C (votre appartement) est juste devant." },
+        { "caption": "Au Bloc C, prenez l'entrée à gauche et montez au premier étage. Un ascenseur est disponible." },
+        { "caption": "Cherchez la porte n° 106, juste à côté de l'ascenseur." },
+        { "caption": "Pour sortir en voiture : avancez devant le panneau STOP / ATTENDRE à l'entrée principale. Les portes s'ouvrent automatiquement." }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "La boîte à clés se trouve sur le côté gauche du mur face au portail principal. Pour plus de détails, consultez <a href=\"#direction-photo-3\" class=\"underline text-primary hover:text-teal-700\">la photo 3</a> &amp; <a href=\"#direction-photo-4\" class=\"underline text-primary hover:text-teal-700\">la photo 4</a> dans la section Arrivée ci-dessus.",
+      "steps": [
+        "Rendez-vous aux Byzantium Gardens. Le complexe se trouve juste à côté du Kings Avenue Mall (voir photo 1 pour la vue d'ensemble)",
+        "À l'entrée, trouvez les boîtes à clés sur le mur de gauche (photo 2)",
+        "Posez la puce/le badge sur le lecteur pour ouvrir la porte d'entrée (photo 3)",
+        "Ouvrez la boîte de gauche de la 2e rangée avec le code : 9900 pour récupérer vos clés (photo 4)",
+        "Si vous arrivez en voiture, utilisez la machine sur votre droite face au portail principal pour l'ouvrir (photo 5)",
+        "Entrez, dépassez le Bloc B. Le Bloc C et le parking sont juste devant (photo 6)",
+        "Au Bloc C, prenez l'entrée à gauche et montez au 1er étage. Ascenseur disponible (photo 7)",
+        "Votre appartement est la porte n° 106, juste à côté de l'ascenseur (photo 8)"
+      ],
+      "notes": "Des serviettes de piscine sont fournies dans l'appartement. Utilisez-les plutôt que les serviettes de bain. La zone piscine dispose de chaises longues pour tous les clients."
+    },
+    "houseRules": [
+      "Pas de tabac à l'intérieur. Balcon uniquement",
+      "Pas de fêtes ni d'événements. Heures de silence de 23h à 8h",
+      "Capacité maximale : 2 personnes",
+      "Pas d'animaux de compagnie",
+      "Lavez la vaisselle immédiatement et gardez le plan de travail libre. La chaleur de Chypre peut attirer des insectes",
+      "Utilisez la poubelle à côté des toilettes. Ne jetez pas le papier toilette dans la cuvette (la plomberie chypriote ne peut pas le traiter)",
+      "Piscine commune : pas de verre, pas de plongeon, respectez les autres clients",
+      "Fermez la porte du balcon et les fenêtres lorsque la climatisation fonctionne",
+      "Remettez les clés dans la boîte et réinitialisez le code lors du départ",
+      "Traitez l'appartement avec soin. Signalez tout dommage rapidement",
+      "Gardez les clés en sécurité. En cas de perte ou d'oubli à l'intérieur, un serrurier devra intervenir et les frais vous seront facturés"
+    ],
+    "appliances": [
+      { "name": "Électricité", "instructions": "Chaque prise à Chypre possède son propre interrupteur sur le mur à côté. Si un appareil ne fonctionne pas, vérifiez que l'interrupteur de la prise est allumé. Vous trouverez également des adaptateurs européens dans l'appartement." },
+      { "name": "Cuisine", "instructions": "La cuisine comprend une plaque électrique, un four électrique, une cafetière simple et un moulin à café. Vous pouvez tout utiliser, merci de nettoyer les appareils après usage. Des ingrédients de base (sel, poivre, huile d'olive) et des grains de café sont fournis. Important : la chaleur de Chypre peut attirer des insectes. Lavez la vaisselle rapidement, jetez les restes alimentaires immédiatement et veillez à ne rien laisser sur le plan de travail ou tomber par terre." },
+      { "name": "Machine à laver", "instructions": "Vous trouverez la machine à laver dans la cuisine. Le programme lavage rapide convient à la plupart des chargements. N'hésitez pas à nous contacter si vous avez des questions !" },
+      { "name": "Douche & eau chaude", "instructions": "Il faut généralement 2–3 minutes pour que l'eau chauffe, c'est normal. Si l'eau reste froide, le soleil n'a peut-être pas été suffisant pour les panneaux solaires ce jour-là. Dans ce cas, appuyez sur le bouton de chauffe à côté de la porte de salle de bain et attendez 20 minutes. Important : éteignez le système de chauffage avant de prendre la douche. (Cela n'est nécessaire que dans environ 10 % des cas. Chypre est généralement très ensoleillée ! ☀️)" },
+      { "name": "Accès piscine", "instructions": "Pas de clé nécessaire. La piscine est ouverte à tous les clients. Les règles de la piscine sont affichées sur le tableau d'affichage à côté de l'ascenseur au rez-de-chaussée. Respectez les autres clients. Utilisez les serviettes de plage fournies dans l'appartement pour la piscine." },
+      { "name": "Salle de bain", "instructions": "Des serviettes fraîches, un sèche-cheveux et des articles de toilette de base sont fournis. Si vous avez besoin de quoi que ce soit d'autre, dites-le nous. Important : la plomberie chypriote ne peut pas traiter le papier toilette. Utilisez la poubelle à côté des toilettes. Merci !" },
+      { "name": "Eau potable", "instructions": "L'eau du robinet à Chypre est généralement potable, mais beaucoup de clients préfèrent l'eau en bouteille. De grandes bouteilles sont disponibles dans n'importe quel supermarché à proximité." },
+      { "name": "Plantes", "instructions": "Vous trouverez quelques plantes dans l'appartement – elles contribuent à créer une atmosphère naturelle et chaleureuse. Si vous restez plus de quelques jours, nous vous serions reconnaissants de les arroser tous les 3–4 jours. Merci ! 🌿" }
+    ],
+    "thingsToDo": [
+      { "category": "Plages 🏝️" },
+      { "category": "Sites historiques & promenades 🏰" },
+      { "category": "Attractions & excursions 📸" },
+      { "category": "Randonnées & sentiers nature ⛰️" }
+    ],
+    "eatAndDrink": [
+      { "type": "Restauration rapide, café, familles" },
+      { "type": "Grill, dîner rapide" },
+      { "type": "Petit-déjeuner, brunch, repas simples" },
+      { "type": "Cuisine grecque, dîner décontracté" },
+      { "type": "Cuisine grecque, mezze, dîner traditionnel" },
+      { "type": "Vue mer, dîner, promenade en soirée" },
+      { "type": "Fruits de mer, vue port, dîner classique" },
+      { "type": "Fruits de mer, cuisine méditerranéenne" },
+      { "type": "Drinks au port, ambiance décontractée" },
+      { "type": "Cafés, ambiance locale, dîner détendu" },
+      { "type": "Vieille ville, cuisine chypriote" },
+      { "type": "Cuisine chypriote traditionnelle" },
+      { "type": "Mezze, drinks, ambiance vieille ville" },
+      { "type": "Drinks coucher de soleil, vue panoramique" },
+      { "type": "Coucher de soleil, grottes marines, dîner spécial" },
+      { "type": "Vin, cuisine villageoise, expérience locale" },
+      { "type": "Poisson, déjeuner au port, journée Blue Lagoon" }
+    ],
+    "gettingAround": [
+      { "info": "La gare centrale (Tombes des Rois) est à 18 min à pied (~1,3 km), avec des connexions directes vers les principales attractions, l'aéroport et les villes voisines." },
+      { "info": "Le covoiturage fonctionne bien autour de Paphos, y compris vers et depuis l'aéroport. Téléchargez l'appli, inscrivez-vous en 5 minutes. Des voitures sont généralement disponibles à 5–10 min à pied." },
+      { "info": "Application de taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs." }
+    ],
+    "emergency": {
+      "contacts": [
+        { "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone" },
+        { "note": "Hôpital principal de Paphos, environ 10 min en voiture" },
+        { "note": "Commissariat de Paphos" }
+      ],
+      "nearestPharmacy": "Plusieurs pharmacies à quelques minutes à pied sur la rue principale. Contactez-nous si vous avez besoin d'une recommandation."
+    },
+    "checkout": {
+      "steps": [
+        "Retirer tous les aliments du réfrigérateur et jeter les restes",
+        "Défaire le lit et laisser le linge plié au pied du lit",
+        "Laver la vaisselle utilisée et la laisser sécher sur l'égouttoir",
+        "Vider la poubelle et apporter le sac aux conteneurs à ordures du parking",
+        "Fermer toutes les fenêtres et la porte du balcon",
+        "Éteindre la climatisation, toutes les lumières et la télévision",
+        "Remettre les clés dans la boîte et réinitialiser le code",
+        "Envoyez-nous un WhatsApp pour nous informer de votre départ. Merci infiniment pour votre séjour !"
+      ],
+      "lateCheckout": "Un départ tardif n'est généralement pas possible en raison de notre planning de ménage serré. Dites-nous si vous avez une situation particulière et nous ferons de notre mieux."
+    }
+  },
+  "es": {
+    "ui": {
+      "welcome": "¡Bienvenido!",
+      "gettingHere": "Cómo llegar",
+      "checkIn": "Llegada",
+      "houseRules": "Normas de la casa",
+      "appliances": "WiFi & Electrodomésticos",
+      "thingsToDo": "Actividades & Excursiones",
+      "eatAndDrink": "Dónde comer y beber",
+      "checkout": "Salida",
+      "emergency": "Contactos de emergencia",
+      "gettingAround": "Moverse por la zona",
+      "contactHost": "Contactar al anfitrión",
+      "byCar": "En coche",
+      "parking": "Aparcamiento",
+      "publicTransport": "Transporte público",
+      "taxi": "Taxi",
+      "photoGuide": "Guía fotográfica paso a paso",
+      "openGoogleMaps": "Abrir en Google Maps",
+      "stepByStep": "Paso a paso",
+      "keyLocation": "Ubicación de las llaves",
+      "accessCode": "Código de acceso",
+      "wifi": "WiFi",
+      "checkoutTime": "Hora de salida",
+      "checkoutChecklist": "Lista de salida",
+      "emergency_number": "Número de emergencia",
+      "host": "Anfitrión",
+      "cohost": "Co-anfitrión",
+      "callWhatsapp": "Llamar o WhatsApp",
+      "sendEmail": "Enviar correo",
+      "nearestHospital": "Hospital más cercano",
+      "nearestPharmacy": "Farmacia más cercana",
+      "lateCheckout": "Salida tardía"
+    },
+    "welcomeMessage": "¡Bienvenido al Poolside Central Studio! Este estudio chic y compacto está perfectamente ubicado en el corazón de Paphos, a pocos pasos del histórico puerto. Todo lo que necesitas está aquí: ropa de cama fresca, una cocina totalmente equipada, un soleado balcón y una piscina comunitaria para refrescarte. ¡Siéntete como en casa y disfruta de cada momento bajo el sol!",
+    "gettingHere": {
+      "byCar": "Dirígete al Kings Avenue Mall en Paphos. El complejo Byzantium Gardens está justo al lado. Usa el enlace de Google Maps arriba para navegar hasta la entrada. ⚠️ La navegación de Google Maps puede ser engañosa para esta dirección. En el último tramo puede llevarte por una calle que ahora es una promenade peatonal. Da la vuelta a la manzana para llegar a la entrada principal. Consulta la guía fotográfica paso a paso más abajo para instrucciones completas.",
+      "parking": "Una vez que tengas las llaves, usa el chip/llavero en el llavero para abrir la puerta principal. El aparcamiento es gratuito. Idealmente aparca bajo el Bloque C, pero puedes dejar el coche en cualquier lugar del complejo, incluso junto a la valla, siempre que no bloquees nada. Para salir en coche, avanza frente a la señal STOP / ESPERA en la puerta principal. Las puertas se abren automáticamente.",
+      "publicTransport": "Desde el Aeropuerto de Paphos, toma el Bus 612 directamente y baja en la parada Kings Avenue Mall. A solo 3 minutos a pie del apartamento. Desde allí, sigue el enlace de Google Maps arriba para navegar hasta la entrada del complejo. Si no sabes dónde bajarte, pregunta al conductor. ¿Has pasado la parada? Sin problema. La siguiente parada es la estación principal de las Tumbas de los Reyes, a solo 5 minutos a pie del apartamento. ⚠️ Los autobuses solo aceptan efectivo. No se aceptan tarjetas. La tarifa es de 2,50 € por viaje y persona, así que lleva monedas o billetes pequeños.",
+      "taxi": "Los taxis están disponibles directamente frente a la sala de llegadas del Aeropuerto de Paphos. Una tarifa típica a Paphos es de 40–45 € durante el día y 45–50 € en horario nocturno. El trayecto desde el aeropuerto dura aproximadamente 20–25 minutos.",
+      "directionPhotos": [
+        { "caption": "Navega a la ubicación de Google Maps. El complejo está a 2 manzanas a la izquierda del Kings Avenue Mall. Las marcas rojas muestran calles a evitar; sigue la ruta correcta para llegar a la entrada principal. También verás una señal de entrada prohibida — solo se aplica a no residentes. Como huésped tienes derecho a entrar." },
+        { "caption": "Al llegar a la entrada, encuentra las cajas de llaves en la pared izquierda." },
+        { "caption": "Usa el pequeño chip de plástico (llave) del llavero. Acércalo a este lector para abrir la puerta de entrada." },
+        { "caption": "Abre la caja izquierda de la 2ª fila (marcada en rojo) con el código: 9900 para recoger tus llaves." },
+        { "caption": "¿Llegas en coche? Usa esta máquina para abrir la puerta principal. La encontrarás a tu derecha frente a la puerta." },
+        { "caption": "Una vez dentro, sigue recto y pasa el Bloque B. El Bloque C (tu apartamento) está justo delante." },
+        { "caption": "En el Bloque C, toma la entrada de la izquierda y sube al primer piso. Hay ascensor disponible." },
+        { "caption": "Busca la puerta n.° 106, justo al lado del ascensor." },
+        { "caption": "Para salir en coche: avanza frente a la señal STOP / ESPERA en la puerta principal. Las puertas se abren automáticamente." }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "La caja de llaves está en el lado izquierdo de la pared frente a la puerta principal. Para más detalles consulta <a href=\"#direction-photo-3\" class=\"underline text-primary hover:text-teal-700\">la foto 3</a> &amp; <a href=\"#direction-photo-4\" class=\"underline text-primary hover:text-teal-700\">la foto 4</a> en la sección Cómo llegar arriba.",
+      "steps": [
+        "Dirígete a Byzantium Gardens. El complejo está justo al lado del Kings Avenue Mall (ver foto 1 para vista general)",
+        "En la entrada, encuentra las cajas de llaves en la pared izquierda (foto 2)",
+        "Acerca el chip/llave al lector para abrir la puerta de entrada (foto 3)",
+        "Abre la caja izquierda de la 2ª fila con el código: 9900 para recoger tus llaves (foto 4)",
+        "Si llegas en coche, usa la máquina a tu derecha frente a la puerta principal para abrirla (foto 5)",
+        "Entra, pasa el Bloque B. El Bloque C y el aparcamiento están justo delante (foto 6)",
+        "En el Bloque C, toma la entrada izquierda y sube al 1er piso. Ascensor disponible (foto 7)",
+        "Tu apartamento es la puerta n.° 106, justo al lado del ascensor (foto 8)"
+      ],
+      "notes": "Las toallas de piscina se proporcionan en el apartamento. Por favor úsalas, no las toallas de baño. La zona de piscina dispone de tumbonas para todos los huéspedes."
+    },
+    "houseRules": [
+      "Prohibido fumar en el interior. Solo en el balcón",
+      "Prohibidas las fiestas o eventos. Silencio de 23:00 a 8:00",
+      "Ocupación máxima: 2 personas",
+      "No se admiten mascotas",
+      "Lava la vajilla inmediatamente y mantén la encimera despejada. El calor de Chipre puede atraer insectos",
+      "Usa el cubo junto al inodoro. No tires papel higiénico por el váter (la fontanería chipriota no puede manejarlo)",
+      "Piscina comunitaria: sin cristal, sin saltos, respeta a los demás huéspedes",
+      "Cierra la puerta del balcón y las ventanas cuando el aire acondicionado esté en funcionamiento",
+      "Devuelve las llaves a la caja y resetea el código al hacer el check-out",
+      "Trata el apartamento con cuidado. Comunica cualquier daño sin demora",
+      "Cuida las llaves. Si se pierden o te quedas fuera, será necesario llamar a un cerrajero y los costes te serán repercutidos"
+    ],
+    "appliances": [
+      { "name": "Electricidad", "instructions": "Cada enchufe en Chipre tiene su propio interruptor en la pared. Si un aparato no funciona, comprueba que el interruptor esté encendido. También encontrarás adaptadores europeos en el apartamento." },
+      { "name": "Cocina", "instructions": "La cocina incluye una placa eléctrica, un horno eléctrico, una cafetera básica y un molinillo. Puedes usar todo, por favor limpia los aparatos tras su uso. Se proporcionan ingredientes básicos (sal, pimienta, aceite de oliva) y granos de café. Importante: el calor de Chipre puede atraer insectos. Lava la vajilla rápidamente, desecha los restos de comida de inmediato y asegúrate de no dejar nada en la encimera ni en el suelo." },
+      { "name": "Lavadora", "instructions": "Encontrarás la lavadora en la cocina. El programa de lavado rápido funciona bien para la mayoría de cargas. Si tienes alguna pregunta, no dudes en contactarnos." },
+      { "name": "Ducha & Agua caliente", "instructions": "Normalmente tarda 2–3 minutos en salir agua caliente, es lo habitual. Si el agua no se calienta, puede que no haya habido suficiente sol para los paneles solares ese día. En ese caso, pulsa el botón de calefacción junto a la puerta del baño y espera 20 minutos. Importante: apaga el sistema de calefacción antes de ducharte. (Solo es necesario en torno al 10 % de las veces. ¡Chipre suele ser muy soleada! ☀️)" },
+      { "name": "Acceso a la piscina", "instructions": "No se necesita llave. La piscina está abierta para todos los huéspedes. Las normas de la piscina están publicadas en el tablón junto al ascensor en la planta baja. Por favor, respeta a los demás huéspedes. Usa las toallas de playa del apartamento para la piscina, no las toallas de baño." },
+      { "name": "Baño", "instructions": "Se proporcionan toallas frescas, secador de pelo y artículos de aseo básicos. Si necesitas algo más, avísanos. Importante: la fontanería chipriota no puede manejar el papel higiénico. Por favor, usa el cubo junto al inodoro. ¡Gracias!" },
+      { "name": "Agua potable", "instructions": "El agua del grifo en Chipre es generalmente potable, pero muchos huéspedes prefieren agua embotellada. Grandes botellas disponibles en cualquier supermercado cercano." },
+      { "name": "Plantas", "instructions": "Encontrarás algunas plantas en el apartamento que ayudan a mantener un ambiente natural y acogedor. Si te quedas más de unos días, te agradeceríamos mucho que las riegues cada 3–4 días. ¡Gracias! 🌿" }
+    ],
+    "thingsToDo": [
+      { "category": "Playas 🏝️" },
+      { "category": "Sitios históricos & paseos escénicos 🏰" },
+      { "category": "Atracciones & excursiones 📸" },
+      { "category": "Senderismo & senderos naturales ⛰️" }
+    ],
+    "eatAndDrink": [
+      { "type": "Comida rápida, café, familias" },
+      { "type": "Parrilla, cena rápida" },
+      { "type": "Desayuno, brunch, comidas sencillas" },
+      { "type": "Cocina griega, cena casual" },
+      { "type": "Cocina griega, meze, cena tradicional" },
+      { "type": "Vistas al mar, cena, paseo nocturno" },
+      { "type": "Mariscos, vistas al puerto, cena clásica" },
+      { "type": "Mariscos, cocina mediterránea" },
+      { "type": "Drinks en el puerto, ambiente relajado" },
+      { "type": "Cafés, ambiente local, cena tranquila" },
+      { "type": "Cena en casco antiguo, cocina chipriota" },
+      { "type": "Cocina chipriota tradicional" },
+      { "type": "Meze, drinks, ambiente casco antiguo" },
+      { "type": "Drinks al atardecer, vistas" },
+      { "type": "Atardecer, cuevas del mar, cena especial" },
+      { "type": "Vino, comida de pueblo, experiencia local" },
+      { "type": "Pescado, almuerzo en el puerto, día Blue Lagoon" }
+    ],
+    "gettingAround": [
+      { "info": "La estación central de autobuses (Tumbas de los Reyes) está a 18 min a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos." },
+      { "info": "El carsharing funciona bien por Paphos, incluso hacia y desde el aeropuerto. Descarga la app y regístrate en 5 minutos. Coches disponibles normalmente en un radio de 5–10 min a pie." },
+      { "info": "App de taxi económica. Recomendada para moverse por Paphos sin la incertidumbre de los taxímetros." }
+    ],
+    "emergency": {
+      "contacts": [
+        { "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono" },
+        { "note": "Hospital principal de Paphos, aprox. 10 min en coche" },
+        { "note": "Comisaría de policía de Paphos" }
+      ],
+      "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntanos si necesitas una recomendación."
+    },
+    "checkout": {
+      "steps": [
+        "Sacar todos los alimentos de la nevera y desechar los restos",
+        "Deshacer la cama y dejar la ropa de cama doblada al pie de la cama",
+        "Lavar la vajilla usada y dejarla secando en el escurridor",
+        "Vaciar el cubo de basura y llevar la bolsa a los contenedores del aparcamiento",
+        "Cerrar todas las ventanas y la puerta del balcón",
+        "Apagar el aire acondicionado, todas las luces y el televisor",
+        "Devolver la llave a la caja y resetear el código",
+        "Mándanos un WhatsApp para avisarnos de tu salida. ¡Muchas gracias por alojarte con nosotros!"
+      ],
+      "lateCheckout": "El check-out tardío generalmente no está disponible debido a nuestro ajustado horario de limpieza. Infórmanos si tienes una circunstancia especial e intentaremos hacer lo posible."
+    }
+  },
+  "pl": {
+    "ui": {
+      "welcome": "Witamy!",
+      "gettingHere": "Jak dojechać",
+      "checkIn": "Zameldowanie",
+      "houseRules": "Regulamin",
+      "appliances": "WiFi i urządzenia",
+      "thingsToDo": "Atrakcje i wycieczki",
+      "eatAndDrink": "Gdzie zjeść i napić się",
+      "checkout": "Wymeldowanie",
+      "emergency": "Kontakty alarmowe",
+      "gettingAround": "Komunikacja",
+      "contactHost": "Kontakt z gospodarzem",
+      "byCar": "Samochodem",
+      "parking": "Parkowanie",
+      "publicTransport": "Transport publiczny",
+      "taxi": "Taxi",
+      "photoGuide": "Przewodnik fotograficzny krok po kroku",
+      "openGoogleMaps": "Otwórz w Google Maps",
+      "stepByStep": "Krok po kroku",
+      "keyLocation": "Miejsce przechowywania kluczy",
+      "accessCode": "Kod dostępu",
+      "wifi": "WiFi",
+      "checkoutTime": "Godzina wymeldowania",
+      "checkoutChecklist": "Lista kontrolna wymeldowania",
+      "emergency_number": "Numer alarmowy",
+      "host": "Gospodarz",
+      "cohost": "Współgospodarz",
+      "callWhatsapp": "Zadzwoń lub WhatsApp",
+      "sendEmail": "Wyślij e-mail",
+      "nearestHospital": "Najbliższy szpital",
+      "nearestPharmacy": "Najbliższa apteka",
+      "lateCheckout": "Późne wymeldowanie"
+    },
+    "welcomeMessage": "Witamy w Poolside Central Studio! To eleganckie, kompaktowe studio jest idealnie położone w sercu Pafos, zaledwie kilka kroków od historycznego portu. Wszystko czego potrzebujesz jest tu dostępne: świeża pościel, w pełni wyposażona kuchnia, słoneczny balkon i wspólny basen do ochłody. Czuj się jak w domu i ciesz się każdą słoneczną chwilą!",
+    "gettingHere": {
+      "byCar": "Jedź do Kings Avenue Mall w Pafos. Kompleks Byzantium Gardens znajduje się tuż obok. Skorzystaj z linku Google Maps powyżej, aby nawigować do wejścia. ⚠️ Nawigacja Google Maps może być myląca dla tego adresu. Na ostatnim odcinku może poprowadzić Cię przez drogę, która jest teraz promenadą dla pieszych. Zamiast tego jedź dookoła bloku, aby dotrzeć do głównego wejścia. Szczegółowy przewodnik fotograficzny poniżej zawiera pełne wskazówki.",
+      "parking": "Gdy już masz klucze, użyj chipu/breloka na kluczach, aby otworzyć główną bramę. Parkowanie jest bezpłatne. Najlepiej zaparkuj pod Blokiem C, ale możesz zostawić samochód wszędzie w kompleksie, nawet przy ogrodzeniu, o ile nic nie blokujesz. Aby wyjechać samochodem, podjedź przed znak STOP / CZEKAJ przy głównej bramie. Drzwi otwierają się automatycznie.",
+      "publicTransport": "Z lotniska w Pafos weź autobus 612 bezpośrednio i wysiądź na przystanku Kings Avenue Mall. Zaledwie 3 minuty piechotą od mieszkania. Stamtąd skorzystaj z linku Google Maps powyżej, aby nawigować do wejścia kompleksu. Jeśli nie wiesz gdzie wysiąść, zapytaj kierowcę. Przegapiłeś przystanek? Nie ma problemu. Następny przystanek to główna stacja przy Grobowcach Królów, zaledwie 5 minut pieszo od mieszkania. ⚠️ Autobusy przyjmują tylko gotówkę. Karty nie są akceptowane. Cena biletu wynosi 2,50 € za kurs na osobę, więc pamiętaj o drobnych lub małych banknotach.",
+      "taxi": "Taksówki są dostępne bezpośrednio przed halą przylotów na lotnisku w Pafos. Typowa stawka do Pafos wynosi 40–45 € w ciągu dnia i 45–50 € poza godzinami szczytu. Czas podróży z lotniska wynosi około 20–25 minut.",
+      "directionPhotos": [
+        { "caption": "Nawiguj do lokalizacji Google Maps. Kompleks znajduje się 2 bloki na lewo od Kings Avenue Mall. Czerwone oznaczenia wskazują drogi do ominięcia; podążaj właściwą trasą do głównego wejścia. Zobaczysz też znak zakazu wjazdu — dotyczy on tylko osób niebędących mieszkańcami. Jako gość masz prawo wjechać." },
+        { "caption": "Gdy dotrzesz do wejścia, znajdź skrzynki na klucze na lewej ścianie." },
+        { "caption": "Użyj małego plastikowego chipu (klucza) na kluczach. Przyłóż go do tego czytnika, aby otworzyć drzwi wejściowe." },
+        { "caption": "Otwórz lewą skrzynkę w 2. rzędzie (zaznaczoną na czerwono) kodem: 9900, aby odebrać klucze." },
+        { "caption": "Przyjeżdżasz samochodem? Użyj tej maszyny, aby otworzyć główną bramę. Znajdziesz ją po prawej stronie stojąc frontem do bramy." },
+        { "caption": "Wewnątrz: jedź prosto i miń Blok B. Blok C (Twoje mieszkanie) jest tuż przed Tobą." },
+        { "caption": "Przy Bloku C: wejdź od lewej strony i wyjdź na 1. piętro. Winda jest dostępna." },
+        { "caption": "Szukaj drzwi nr 106, tuż obok windy." },
+        { "caption": "Wyjazd samochodem: podjedź przed znak STOP / CZEKAJ przy głównej bramie. Drzwi otwierają się automatycznie." }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "Skrzynka z kluczem znajduje się po lewej stronie ściany naprzeciwko głównej bramy. Więcej szczegółów znajdziesz w <a href=\"#direction-photo-3\" class=\"underline text-primary hover:text-teal-700\">zdjęciu 3</a> &amp; <a href=\"#direction-photo-4\" class=\"underline text-primary hover:text-teal-700\">zdjęciu 4</a> w sekcji Jak dojechać powyżej.",
+      "steps": [
+        "Jedź do Byzantium Gardens. Kompleks znajduje się tuż obok Kings Avenue Mall (patrz zdjęcie 1 — przegląd mapy)",
+        "Przy wejściu znajdź skrzynki na klucze na lewej ścianie (zdjęcie 2)",
+        "Przyłóż chip/brelok do czytnika, aby otworzyć drzwi wejściowe (zdjęcie 3)",
+        "Otwórz lewą skrzynkę w 2. rzędzie kodem: 9900, aby odebrać klucze (zdjęcie 4)",
+        "Przyjeżdżasz samochodem? Użyj maszyny po prawej stronie stojąc frontem do głównej bramy (zdjęcie 5)",
+        "Wjedź, miń Blok B. Blok C i parking są tuż przed Tobą (zdjęcie 6)",
+        "Przy Bloku C: wejście po lewej stronie, 1. piętro. Winda dostępna (zdjęcie 7)",
+        "Twoje mieszkanie to drzwi nr 106, tuż obok windy (zdjęcie 8)"
+      ],
+      "notes": "Ręczniki basenowe są dostępne w mieszkaniu. Proszę używać ich, a nie ręczników łazienkowych. Przy basenie dostępne są leżaki dla wszystkich gości."
+    },
+    "houseRules": [
+      "Zakaz palenia wewnątrz. Tylko na balkonie",
+      "Zakaz imprez i głośnych spotkań. Cisza nocna od 23:00 do 8:00",
+      "Maksymalna liczba gości: 2 osoby",
+      "Zakaz wprowadzania zwierząt",
+      "Myj naczynia od razu i utrzymuj blat kuchenny w porządku. Ciepły klimat Cypru może przyciągać owady",
+      "Korzystaj z kosza przy toalecie. Nie wrzucaj papieru toaletowego do muszli (cypryjska kanalizacja nie jest w stanie tego obsłużyć)",
+      "Wspólny basen: zakaz używania szklanych naczyń, zakaz skoków do wody, szanuj innych gości",
+      "Zamykaj drzwi balkonu i okna podczas pracy klimatyzacji",
+      "Przy wymeldowaniu odłóż klucze do skrzynki i zresetuj kod",
+      "Dbaj o mieszkanie. Zgłaszaj wszelkie uszkodzenia niezwłocznie",
+      "Pilnuj kluczy. W razie zgubienia lub przypadkowego zamknięcia w środku konieczna będzie wizyta ślusarza, a koszty zostaną przeniesione na Ciebie"
+    ],
+    "appliances": [
+      { "name": "Elektryczność", "instructions": "Każde gniazdko na Cyprze ma własny włącznik na ścianie obok. Jeśli urządzenie nie działa, sprawdź czy włącznik jest włączony. W mieszkaniu znajdziesz też adaptery EU dla Twojej wygody." },
+      { "name": "Kuchnia", "instructions": "Kuchnia wyposażona jest w kuchenkę elektryczną, piekarnik elektryczny, podstawowy ekspres do kawy i młynek. Możesz korzystać ze wszystkiego, proszę czyścić urządzenia po użyciu. Dostępne są podstawowe produkty kuchenne (sól, pieprz, oliwa z oliwek) i ziarna kawy. Ważne: ciepły klimat Cypru może przyciągać owady. Myj naczynia od razu, wyrzucaj resztki jedzenia natychmiast i upewnij się, że nic nie leży na blacie ani na podłodze." },
+      { "name": "Pralka", "instructions": "Pralka znajduje się w kuchni. Program szybkiego prania sprawdza się w większości przypadków. W razie pytań nie wahaj się z nami skontaktować!" },
+      { "name": "Prysznic i ciepła woda", "instructions": "Zazwyczaj potrzeba 2–3 minut, aby woda się ogrzała — to normalne. Jeśli woda nie jest ciepła, możliwe że słońce tego dnia nie wystarczyło do naładowania paneli słonecznych. W takim przypadku naciśnij przycisk grzewczy obok drzwi łazienki i poczekaj 20 minut. Ważne: wyłącz system grzewczy przed wejściem pod prysznic. (Potrzebne jest to tylko w około 10% przypadków. Cypr jest zazwyczaj bardzo słoneczny! ☀️)" },
+      { "name": "Dostęp do basenu", "instructions": "Nie potrzeba klucza. Basen jest otwarty dla wszystkich gości. Zasady korzystania z basenu są wywieszone na tablicy przy windzie na parterze. Szanuj innych gości. Używaj ręczników plażowych dostępnych w mieszkaniu, a nie ręczników łazienkowych." },
+      { "name": "Łazienka", "instructions": "Dostępne są świeże ręczniki, suszarka do włosów i podstawowe artykuły toaletowe. Jeśli potrzebujesz czegoś dodatkowego, daj nam znać. Ważne: cypryjska kanalizacja nie radzi sobie z papierem toaletowym. Korzystaj z kosza przy toalecie. Dziękujemy!" },
+      { "name": "Woda pitna", "instructions": "Woda z kranu na Cyprze jest ogólnie bezpieczna, jednak wielu gości woli wodę butelkowaną. Duże butelki dostępne są w każdym pobliskim supermarkecie." },
+      { "name": "Rośliny", "instructions": "W mieszkaniu znajdziesz kilka roślin — dodają przestrzeni naturalnego i przytulnego charakteru. Jeśli zostajesz dłużej niż kilka dni, bardzo byśmy docenili podlewanie ich co 3–4 dni. Dziękujemy! 🌿" }
+    ],
+    "thingsToDo": [
+      { "category": "Plaże 🏝️" },
+      { "category": "Zabytki i malownicze trasy 🏰" },
+      { "category": "Atrakcje i wycieczki 📸" },
+      { "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️" }
+    ],
+    "eatAndDrink": [
+      { "type": "Szybkie jedzenie, kawa, rodziny" },
+      { "type": "Grill, szybka kolacja" },
+      { "type": "Śniadanie, brunch, proste posiłki" },
+      { "type": "Kuchnia grecka, nieformalna kolacja" },
+      { "type": "Kuchnia grecka, meze, tradycyjna kolacja" },
+      { "type": "Widok na morze, kolacja, wieczorny spacer" },
+      { "type": "Owoce morza, widok na port, klasyczna kolacja" },
+      { "type": "Owoce morza, kuchnia śródziemnomorska" },
+      { "type": "Drinki w porcie, relaksująca atmosfera" },
+      { "type": "Kawiarnie, lokalna atmosfera, spokojny obiad" },
+      { "type": "Kolacja w Starym Mieście, kuchnia cypryjska" },
+      { "type": "Tradycyjna kuchnia cypryjska" },
+      { "type": "Meze, drinki, klimat Starego Miasta" },
+      { "type": "Drinki o zachodzie słońca, widoki" },
+      { "type": "Zachód słońca, jaskinie morskie, specjalna kolacja" },
+      { "type": "Wino, kuchnia wiejska, lokalne doświadczenie" },
+      { "type": "Ryby, lunch w porcie, dzień w Błękitnej Lagunie" }
+    ],
+    "gettingAround": [
+      { "info": "Centralny dworzec autobusowy (Grobowce Królów) jest oddalony o 18 minut pieszo (~1,3 km) i oferuje bezpośrednie połączenia z głównymi atrakcjami, lotniskiem i okolicznymi miastami." },
+      { "info": "Carsharing sprawdza się dobrze w okolicach Pafos, w tym na trasie do/z lotniska. Pobierz aplikację i zarejestruj się w 5 minut. Samochody zazwyczaj dostępne w promieniu 5–10 minut piechotą." },
+      { "info": "Ekonomiczna aplikacja taxi. Polecana do poruszania się po Pafos bez niepewności co do liczników." }
+    ],
+    "emergency": {
+      "contacts": [
+        { "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu" },
+        { "note": "Główny szpital w Pafos, ok. 10 minut jazdy" },
+        { "note": "Komisariat policji w Pafos" }
+      ],
+      "nearestPharmacy": "Kilka aptek w zasięgu spaceru przy głównej drodze. Pytaj nas, jeśli potrzebujesz rekomendacji."
+    },
+    "checkout": {
+      "steps": [
+        "Wyjąć wszystkie produkty z lodówki i wyrzucić resztki jedzenia",
+        "Ściągnąć pościel i złożyć ją u stóp łóżka",
+        "Umyć używane naczynia i pozostawić je na suszarce",
+        "Opróżnić kosz na śmieci i zanieść worek do pojemników na śmieci na parkingu",
+        "Zamknąć wszystkie okna i drzwi balkonu",
+        "Wyłączyć klimatyzację, wszystkie światła i telewizor",
+        "Odłożyć klucz do skrzynki i zresetować kod",
+        "Wyślij nam WhatsApp, żebyśmy wiedzieli, że wyjechałeś. Bardzo dziękujemy za pobyt!"
+      ],
+      "lateCheckout": "Późne wymeldowanie jest zazwyczaj niedostępne ze względu na napięty harmonogram sprzątania. Daj nam znać, jeśli masz szczególne okoliczności, a postaramy się jak najlepiej."
+    }
+  },
+  "ru": {
+    "ui": {
+      "welcome": "Добро пожаловать!",
+      "gettingHere": "Как добраться",
+      "checkIn": "Заезд",
+      "houseRules": "Правила проживания",
+      "appliances": "WiFi и оборудование",
+      "thingsToDo": "Активности и экскурсии",
+      "eatAndDrink": "Где поесть и выпить",
+      "checkout": "Выезд",
+      "emergency": "Экстренные контакты",
+      "gettingAround": "Передвижение по городу",
+      "contactHost": "Связаться с хозяином",
+      "byCar": "На машине",
+      "parking": "Парковка",
+      "publicTransport": "Общественный транспорт",
+      "taxi": "Такси",
+      "photoGuide": "Фотогид шаг за шагом",
+      "openGoogleMaps": "Открыть в Google Maps",
+      "stepByStep": "Пошаговая инструкция",
+      "keyLocation": "Где ключи",
+      "accessCode": "Код доступа",
+      "wifi": "WiFi",
+      "checkoutTime": "Время выезда",
+      "checkoutChecklist": "Чеклист при выезде",
+      "emergency_number": "Номер экстренной службы",
+      "host": "Хозяин",
+      "cohost": "Со-хозяин",
+      "callWhatsapp": "Позвонить или WhatsApp",
+      "sendEmail": "Написать письмо",
+      "nearestHospital": "Ближайшая больница",
+      "nearestPharmacy": "Ближайшая аптека",
+      "lateCheckout": "Поздний выезд"
+    },
+    "welcomeMessage": "Добро пожаловать в Poolside Central Studio! Этот стильный компактный студио идеально расположен в самом сердце Пафоса, в нескольких шагах от исторического порта. Здесь есть всё необходимое: свежее постельное бельё, полностью оборудованная кухня, солнечный балкон и общий бассейн. Чувствуйте себя как дома и наслаждайтесь каждым солнечным моментом!",
+    "gettingHere": {
+      "byCar": "Следуйте к Kings Avenue Mall в Пафосе. Комплекс Byzantium Gardens находится прямо рядом. Используйте ссылку Google Maps выше для навигации к въезду. ⚠️ Навигация Google Maps может быть неточной для этого адреса. На последнем отрезке она может направить вас по дороге, которая теперь является пешеходной зоной. Вместо этого объедьте квартал, чтобы добраться до главного входа. Пошаговый фотогид ниже содержит подробные указания.",
+      "parking": "Когда у вас будут ключи, используйте чип/брелок на связке ключей для открытия главных ворот. Парковка бесплатная. Предпочтительно паркуйтесь под Блоком C, но можете оставить машину в любом месте комплекса, даже у забора, если не мешаете проезду. Для выезда на машине подъедьте к знаку СТОП / ОЖИДАНИЕ у главных ворот. Двери открываются автоматически.",
+      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 и выйдите на остановке Kings Avenue Mall. Всего 3 минуты пешком до квартиры. Оттуда используйте ссылку Google Maps выше для навигации к входу комплекса. Если не знаете где выходить, просто спросите водителя. Пропустили остановку? Не беда. Следующая остановка — главная станция у Гробниц Королей, всего в 5 минутах ходьбы от квартиры. ⚠️ Автобусы принимают только наличные. Карты не принимаются. Стоимость проезда 2,50 € за поездку на человека, поэтому возьмите мелочь или мелкие купюры.",
+      "taxi": "Такси доступно прямо перед залом прилётов аэропорта Пафоса. Типичная стоимость поездки до Пафоса составляет 40–45 € в дневное время и 45–50 € в ночное. Время в пути от аэропорта — примерно 20–25 минут.",
+      "directionPhotos": [
+        { "caption": "Навигируйте к местоположению в Google Maps. Комплекс находится в 2 кварталах слева от Kings Avenue Mall. Красные метки показывают дороги, которые следует избегать; следуйте правильному маршруту к главному входу. Вы также увидите знак «Въезд запрещён» — он действует только для не-жильцов. Как гость вы имеете право въехать." },
+        { "caption": "Когда доберётесь до въезда, найдите ящики с ключами на левой стене." },
+        { "caption": "Используйте маленький пластиковый чип (ключ) на связке. Приложите его к этому считывателю, чтобы открыть входную дверь." },
+        { "caption": "Откройте левый ящик во 2-м ряду (выделен красным) кодом: 9900, чтобы забрать ключи." },
+        { "caption": "Приезжаете на машине? Используйте этот аппарат для открытия главных ворот. Он находится справа, когда вы стоите лицом к воротам." },
+        { "caption": "Внутри: езжайте прямо мимо Блока B. Блок C (ваша квартира) находится прямо впереди." },
+        { "caption": "У Блока C: вход слева, поднимитесь на 1-й этаж. Лифт доступен." },
+        { "caption": "Ищите дверь № 106, прямо рядом с лифтом." },
+        { "caption": "Выезд на машине: подъедьте к знаку СТОП / ОЖИДАНИЕ у главных ворот. Двери открываются автоматически." }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "Ключница находится с левой стороны стены напротив главных ворот. Подробности смотрите в <a href=\"#direction-photo-3\" class=\"underline text-primary hover:text-teal-700\">фото 3</a> &amp; <a href=\"#direction-photo-4\" class=\"underline text-primary hover:text-teal-700\">фото 4</a> в разделе «Как добраться» выше.",
+      "steps": [
+        "Езжайте к Byzantium Gardens. Комплекс находится рядом с Kings Avenue Mall (см. фото 1 для обзора на карте)",
+        "У входа найдите ящики с ключами на левой стене (фото 2)",
+        "Приложите чип/брелок к считывателю, чтобы открыть входную дверь (фото 3)",
+        "Откройте левый ящик во 2-м ряду с кодом: 9900, чтобы забрать ключи (фото 4)",
+        "Если приезжаете на машине, используйте аппарат справа, стоя лицом к главным воротам (фото 5)",
+        "Въезжайте, проезжайте мимо Блока B. Блок C и парковка находятся прямо впереди (фото 6)",
+        "У Блока C: вход слева, поднимитесь на 1-й этаж. Лифт доступен (фото 7)",
+        "Ваша квартира — дверь № 106, прямо рядом с лифтом (фото 8)"
+      ],
+      "notes": "В квартире предоставлены полотенца для бассейна. Пожалуйста, используйте их, а не банные полотенца. В зоне бассейна есть шезлонги для всех гостей."
+    },
+    "houseRules": [
+      "Курение внутри запрещено. Только на балконе",
+      "Вечеринки и мероприятия запрещены. Тихие часы с 23:00 до 8:00",
+      "Максимальная вместимость: 2 гостя",
+      "Животные не допускаются",
+      "Мойте посуду сразу и держите кухонную столешницу чистой. Тёплый климат Кипра может привлекать насекомых",
+      "Используйте мусорное ведро рядом с унитазом. Не смывайте туалетную бумагу (канализация на Кипре не предназначена для этого)",
+      "Общий бассейн: стеклянная посуда запрещена, прыжки запрещены, соблюдайте уважение к другим гостям",
+      "Закрывайте дверь балкона и окна при работающем кондиционере",
+      "При выезде верните ключи в ключницу и сбросьте код",
+      "Бережно относитесь к квартире. Незамедлительно сообщайте о любых повреждениях",
+      "Берегите ключи. В случае потери или случайного запирания понадобится вызов слесаря, и расходы будут переданы вам"
+    ],
+    "appliances": [
+      { "name": "Электричество", "instructions": "Каждая розетка на Кипре имеет собственный выключатель на стене рядом. Если прибор не работает, проверьте, включён ли выключатель розетки. В квартире также найдёте европейские адаптеры для удобства." },
+      { "name": "Кухня", "instructions": "На кухне есть электрическая плита, электрическая духовка, простая кофемашина и кофемолка. Вы можете ими пользоваться, пожалуйста, очищайте приборы после использования. Предоставлены базовые продукты (соль, перец, оливковое масло) и кофейные зёрна. Важно: тёплый климат Кипра может привлекать насекомых. Мойте посуду сразу, немедленно выбрасывайте остатки еды и следите, чтобы ничего не оставалось на столешнице или полу." },
+      { "name": "Стиральная машина", "instructions": "Стиральная машина находится на кухне. Режим быстрой стирки подходит для большинства загрузок. Если у вас есть вопросы, не стесняйтесь обращаться к нам!" },
+      { "name": "Душ и горячая вода", "instructions": "Обычно требуется 2–3 минуты, чтобы вода стала горячей — это нормально. Если вода не нагревается, возможно, в этот день солнца было недостаточно для солнечных панелей. В этом случае нажмите кнопку нагрева рядом с дверью ванной и подождите 20 минут. Важно: выключите систему нагрева перед тем, как заходить в душ. (Это нужно примерно в 10% случаев. На Кипре обычно очень солнечно! ☀️)" },
+      { "name": "Доступ к бассейну", "instructions": "Ключ не нужен. Бассейн открыт для всех гостей. Правила пользования бассейном вывешены на доске объявлений рядом с лифтом на первом этаже. Пожалуйста, уважайте других гостей. Используйте пляжные полотенца из квартиры, а не банные." },
+      { "name": "Ванная комната", "instructions": "Предоставлены свежие полотенца, фен и базовые туалетные принадлежности. Если вам что-то нужно дополнительно, просто сообщите нам. Важно: канализация на Кипре не предназначена для туалетной бумаги. Используйте мусорное ведро рядом с унитазом. Спасибо!" },
+      { "name": "Питьевая вода", "instructions": "Водопроводная вода на Кипре в целом безопасна, однако многие гости предпочитают бутилированную воду. Большие бутылки доступны в любом ближайшем супермаркете." },
+      { "name": "Растения", "instructions": "В квартире вы найдёте несколько растений — они помогают создавать естественную и уютную атмосферу. Если вы остаётесь больше нескольких дней, мы будем очень благодарны, если вы будете поливать их раз в 3–4 дня. Спасибо! 🌿" }
+    ],
+    "thingsToDo": [
+      { "category": "Пляжи 🏝️" },
+      { "category": "Исторические места и живописные прогулки 🏰" },
+      { "category": "Достопримечательности и экскурсии 📸" },
+      { "category": "Походы и природные маршруты ⛰️" }
+    ],
+    "eatAndDrink": [
+      { "type": "Быстрое питание, кофе, семьи" },
+      { "type": "Гриль, быстрый ужин" },
+      { "type": "Завтрак, бранч, простые блюда" },
+      { "type": "Греческая кухня, неформальный ужин" },
+      { "type": "Греческая кухня, мезе, традиционный ужин" },
+      { "type": "Вид на море, ужин, вечерняя прогулка" },
+      { "type": "Морепродукты, вид на гавань, классический ужин" },
+      { "type": "Морепродукты, средиземноморская кухня" },
+      { "type": "Напитки у гавани, расслабленная атмосфера" },
+      { "type": "Кафе, местная атмосфера, спокойный ужин" },
+      { "type": "Ужин в Старом городе, кипрская кухня" },
+      { "type": "Традиционная кипрская кухня" },
+      { "type": "Мезе, напитки, атмосфера Старого города" },
+      { "type": "Напитки на закате, виды" },
+      { "type": "Закат, морские пещеры, особый ужин" },
+      { "type": "Вино, деревенская еда, местный колорит" },
+      { "type": "Рыба, обед у гавани, день на Голубой лагуне" }
+    ],
+    "gettingAround": [
+      { "info": "Центральная автобусная станция (Гробницы Королей) находится в 18 минутах ходьбы (~1,3 км) с прямыми маршрутами к главным достопримечательностям, аэропорту и соседним городам." },
+      { "info": "Каршеринг хорошо работает по всему Пафосу, в том числе до и от аэропорта. Скачайте приложение и зарегистрируйтесь за 5 минут. Машины обычно доступны в радиусе 5–10 минут ходьбы." },
+      { "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости с счётчиками." }
+    ],
+    "emergency": {
+      "contacts": [
+        { "note": "Полиция, скорая помощь, пожарная служба. Бесплатно с любого телефона" },
+        { "note": "Главная больница Пафоса, около 10 минут на машине" },
+        { "note": "Полицейский участок Пафоса" }
+      ],
+      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спросите нас, если нужна рекомендация."
+    },
+    "checkout": {
+      "steps": [
+        "Достать все продукты из холодильника и выбросить остатки еды",
+        "Снять постельное бельё и сложить его в ногах кровати",
+        "Вымыть использованную посуду и оставить сушиться на сушилке",
+        "Опустошить мусорное ведро и отнести пакет к мусорным контейнерам на парковке",
+        "Закрыть все окна и дверь балкона",
+        "Выключить кондиционер, весь свет и телевизор",
+        "Вернуть ключ в ключницу и сбросить код",
+        "Напишите нам в WhatsApp, чтобы сообщить об отъезде. Огромное спасибо за ваш визит!"
+      ],
+      "lateCheckout": "Поздний выезд, как правило, недоступен из-за плотного графика уборки. Пожалуйста, сообщите нам, если у вас особые обстоятельства, и мы сделаем всё возможное."
+    }
+  }
+}

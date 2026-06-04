@@ -1,0 +1,677 @@
+{
+  "de": {
+    "ui": {
+      "welcome": "Willkommen!",
+      "checkIn": "Check-in",
+      "keyLocation": "Schlüsselstandort",
+      "accessCode": "Zugangscode",
+      "stepByStep": "Schritt für Schritt",
+      "houseRules": "Hausregeln",
+      "gettingHere": "Anreise",
+      "openGoogleMaps": "In Google Maps öffnen",
+      "byCar": "Mit dem Auto",
+      "parking": "Parken",
+      "publicTransport": "Mit öffentlichen Verkehrsmitteln",
+      "taxi": "Taxi",
+      "photoGuide": "Schritt-für-Schritt-Fotoguide",
+      "appliances": "WLAN & Ausstattung",
+      "wifi": "WLAN-Details",
+      "thingsToDo": "Aktivitäten",
+      "eatAndDrink": "Essen & Trinken",
+      "gettingAround": "Fortbewegung",
+      "emergency": "Notfallkontakte",
+      "nearestHospital": "Nächstes Krankenhaus",
+      "nearestPharmacy": "Nächste Apotheke",
+      "checkout": "Check-out",
+      "checkoutTime": "Check-out-Zeit",
+      "checkoutChecklist": "Check-out-Checkliste",
+      "contactHost": "Gastgeber kontaktieren"
+    },
+    "welcomeMessage": "Willkommen im Beach Side Studio! Sie haben sich für eine unserer schönsten Unterkünfte entschieden. Ein helles, luftiges Studio, nur wenige Schritte vom Meer entfernt, mit einer privaten Terrasse, auf der Sie beim Morgenkaffee dem Wellenrauschen lauschen können. Das ist Küstenleben in seiner einfachsten und schönsten Form. Entspannen Sie, erholen Sie sich und lassen Sie den mediterranen Charme den Rest erledigen. Wir sind immer nur eine Nachricht entfernt!",
+    "gettingHere": {
+      "byCar": "Vom Flughafen Larnaka nehmen Sie die Autobahn A3 in Richtung Ayia Napa. Fahren Sie auf der Küstenstraße B3 Richtung Paralimni weiter. Folgen Sie den Schildern zur Paralimni-Küste / Thalassa Beach. Biegen Sie links in die Thalassa Lane, kurz nach der kleinen weißen Kapelle ab. Das Studiogebäude befindet sich am Ende der Lane mit einem blauen Tor.",
+      "parking": "Kleiner privater Parkplatz am Ende der Thalassa Lane. Platz für 1 Auto pro Studio. Ihr Stellplatz ist mit '1A' gekennzeichnet.",
+      "publicTransport": "Ab dem Flughafen Paphos nehmen Sie den Bus 612 bis zur Haltestelle Tombs of the Kings. Von dort sind es 18 Gehminuten (~1,3 km). Alternativ können Sie den Bus 615 für eine Haltestelle (~2 Min.) nehmen. ⚠️ Busse akzeptieren nur Bargeld. Der Fahrpreis beträgt €2,50 pro Person und Fahrt.",
+      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40–45 tagsüber und €45–50 nachts. Die Fahrtdauer beträgt etwa 20–25 Minuten.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Kombinations-Schlüsselbox am Studiotürgriff (blaue Tür, Erdgeschoss)",
+      "steps": [
+        "Vom Parkplatz den Weg rechts Richtung Meerfront nehmen",
+        "Die blaue Tür im Erdgeschoss suchen. Das ist das Studio am nächsten am Strand",
+        "Code 7890 auf der schwarzen Schlüsselbox am Türgriff eingeben",
+        "Schlüsselbox aufziehen und Schlüssel entnehmen",
+        "Den Schlüssel für Türschloss und Terrassentorvorhängeschloss verwenden",
+        "Den Schlüssel beim Check-out in die Schlüsselbox zurücklegen"
+      ],
+      "notes": "Das Terrassentor-Vorhängeschloss verwendet denselben Schlüssel wie die Tür. Die Terrasse ist halbprivat und wird mit dem Gast oben geteilt. Bitte lärmmäßig rücksichtsvoll sein, besonders abends."
+    },
+    "houseRules": [
+      "Kein Rauchen im Inneren – nur auf der Terrasse",
+      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00–8:00 Uhr",
+      "Maximale Belegung: 2 Gäste",
+      "Keine Haustiere erlaubt",
+      "Geschirr sofort spülen und Küchenarbeitsfläche freihalten. Das warme Wetter Zyperns kann Insekten anlocken",
+      "Bitte den Eimer neben der Toilette verwenden. Kein Toilettenpapier spülen (zyprisches Leitungsnetz verarbeitet es nicht)",
+      "Den Metallschlüssel in der Steckdose neben der Tür belassen, wenn Sie drin sind; herausnehmen, wenn Sie gehen",
+      "Terrassentür und Fenster schließen, wenn Klimaanlage läuft",
+      "Schlüssel bei Check-out in die Schlüsselbox zurücklegen und Code zurücksetzen",
+      "Mit dem Studio sorgfältig umgehen. Bitte Schäden umgehend melden",
+      "Schlüssel sorgfältig aufbewahren. Bei Verlust oder Aussperren wird ein Schlüsseldienst benötigt und die Kosten werden weitergegeben"
+    ],
+    "appliances": [
+      {
+        "name": "Klimaanlage",
+        "instructions": "Split-Klimaanlage an der Decke. Fernbedienung liegt auf dem Nachttisch. POWER drücken, COOL wählen, auf 22–24°C einstellen. Die Meeresbrise reicht abends oft aus. Terrassentür für natürliche Belüftung öffnen. Beim Verlassen ausschalten."
+      },
+      {
+        "name": "Smart-TV",
+        "instructions": "32-Zoll-Smart-TV auf der Kommode. Netflix-Direkttaste auf der Fernbedienung für sofortiges Streaming drücken. Kein Passwort für das Gastprofil. Für TV live HOME drücken und Kanäle auswählen. HDMI-Anschluss an der Seite für eigene Geräte."
+      },
+      {
+        "name": "Mini-Küche",
+        "instructions": "Zwei-Platten-Keramikkochfeld, kleiner Backofen, Mikrowelle und gut ausgestattetes Kochgeschirr. Das Ofenrad geht von 50–250°C. Umluft-Symbol ist der spiralförmige Pfeil. Mikrowelle: Essen hineinstellen, Zeitpad drücken und START. Alle Kochgeschirre im Unterschrank."
+      },
+      {
+        "name": "Kaffeemaschine",
+        "instructions": "Klassische Filterkaffeemaschine auf der Arbeitsplatte. Gemahlener Kaffee in der kleinen Dose daneben (Nachschub im Küchenschrank). Wassertank bis MAX-Linie füllen. Filter in den Korb legen, 2 Esslöffel Kaffee hinzufügen, BREW drücken. In 5 Minuten fertig."
+      }
+    ],
+    "thingsToDo": [
+      {"category": "Strände 🏝️"},
+      {"category": "Historische Stätten & Spaziergänge 🏰"},
+      {"category": "Attraktionen & Ausflüge 📸"},
+      {"category": "Wandern & Naturpfade ⛰️"}
+    ],
+    "eatAndDrink": [
+      {"type": "Griechisch / Mediterran"},
+      {"type": "Griechisch / Meze"},
+      {"type": "Café / Brunch"},
+      {"type": "Meeresfrüchte"},
+      {"type": "Meeresfrüchte"},
+      {"type": "Zyprisch"},
+      {"type": "Food Court"},
+      {"type": "Café / Lokal"},
+      {"type": "Zyprisch / Café"},
+      {"type": "Griechisch / Zyprisch"},
+      {"type": "Zyprische Taverne"},
+      {"type": "Verschiedenes / Hafen"},
+      {"type": "Zyprisch / Meeresfrüchte"},
+      {"type": "Meeresfrüchte"},
+      {"type": "Café / Restaurant"},
+      {"type": "Meeresfrüchte"},
+      {"type": "Bar / Restaurant"},
+      {"type": "Zyprisch / Wein"},
+      {"type": "Meeresfrüchte / Taverne"},
+      {"type": "Lebensmittelgeschäft"},
+      {"type": "Supermarkt"}
+    ],
+    "gettingAround": [
+      {"info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."},
+      {"info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."},
+      {"info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."}
+    ],
+    "emergency": {
+      "contacts": [
+        {"note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"},
+        {"note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"},
+        {"note": "Polizeistation Paphos"}
+      ],
+      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung brauchen."
+    },
+    "checkout": {
+      "steps": [
+        "Kühlschrank von allen Speisen und Getränken leeren",
+        "Bett abziehen und Bettwäsche auf der Matratze stapeln",
+        "Geschirr spülen und auf dem Abtropfgitter lassen",
+        "Müll in den bereitgestellten Behältern auf dem Parkplatz entsorgen",
+        "Alle Fenster, die Terrassentür und das gesicherte Terrassentor schließen",
+        "Klimaanlage, alle Lichter ausschalten und Ladegeräte ausstecken",
+        "Schlüssel in die Schlüsselbox an der Tür zurücklegen (Code: 7890)",
+        "Uns eine WhatsApp schicken, wenn Sie auf dem Weg sind. Und danke, dass Sie uns gewählt haben!"
+      ],
+      "lateCheckout": "Später Check-out ist manchmal möglich. Bitte bis 21 Uhr am Vorabend fragen. Wir bestätigen die Verfügbarkeit so schnell wie möglich."
+    }
+  },
+  "fr": {
+    "ui": {
+      "welcome": "Bienvenue !",
+      "checkIn": "Arrivée",
+      "keyLocation": "Emplacement de la clé",
+      "accessCode": "Code d'accès",
+      "stepByStep": "Étape par étape",
+      "houseRules": "Règles de la maison",
+      "gettingHere": "Comment nous rejoindre",
+      "openGoogleMaps": "Ouvrir dans Google Maps",
+      "byCar": "En voiture",
+      "parking": "Stationnement",
+      "publicTransport": "En transport en commun",
+      "taxi": "Taxi",
+      "photoGuide": "Guide photo étape par étape",
+      "appliances": "WiFi & Équipements",
+      "wifi": "Détails WiFi",
+      "thingsToDo": "Activités",
+      "eatAndDrink": "Manger & Boire",
+      "gettingAround": "Se déplacer",
+      "emergency": "Contacts d'urgence",
+      "nearestHospital": "Hôpital le plus proche",
+      "nearestPharmacy": "Pharmacie la plus proche",
+      "checkout": "Départ",
+      "checkoutTime": "Heure de départ",
+      "checkoutChecklist": "Liste de départ",
+      "contactHost": "Contacter l'hôte"
+    },
+    "welcomeMessage": "Bienvenue au Beach Side Studio ! Vous avez choisi l'une de nos propriétés les plus spéciales. Un studio lumineux et aéré à quelques pas de la mer, avec une terrasse privée où vous pouvez regarder les vagues arriver avec votre café du matin. C'est la vie côtière dans sa forme la plus simple et la plus belle. Détendez-vous, reposez-vous et laissez le charme méditerranéen faire le reste. Nous sommes toujours à portée d'un message !",
+    "gettingHere": {
+      "byCar": "Depuis l'aéroport de Larnaca, prenez l'autoroute A3 en direction d'Ayia Napa. Continuez sur la route côtière B3 en direction de Paralimni. Suivez les panneaux pour la côte de Paralimni / Thalassa Beach. Tournez à gauche sur Thalassa Lane juste après la petite chapelle blanche. Le bâtiment du studio est au bout de l'allée avec un portail bleu.",
+      "parking": "Petit parking privé au bout de Thalassa Lane. Place pour 1 voiture par studio. Votre place est marquée '1A'.",
+      "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 jusqu'à l'arrêt Tombs of the Kings. De là, l'appartement est à 18 minutes à pied (~1,3 km). ⚠️ Les bus n'acceptent que l'argent liquide. Tarif : 2,50 € par personne et par trajet.",
+      "taxi": "Des taxis sont disponibles directement à la sortie de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40–45 € en journée et 45–50 € en soirée. Le trajet dure environ 20–25 minutes.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Boîte à clés à combinaison sur la poignée de la porte du studio (porte bleue, rez-de-chaussée)",
+      "steps": [
+        "Depuis le parking, prendre le chemin à droite vers le bâtiment en bord de mer",
+        "Chercher la porte bleue au rez-de-chaussée. C'est le studio le plus proche de la plage",
+        "Entrer le code 7890 sur la boîte à clés noire fixée à la poignée de porte",
+        "Tirer pour ouvrir la boîte à clés et prendre la clé",
+        "Utiliser la clé pour la serrure de porte et le cadenas du portail de terrasse",
+        "Remettre la clé dans la boîte à votre départ"
+      ],
+      "notes": "Le cadenas du portail de terrasse utilise la même clé que la porte. La terrasse est semi-privée et partagée avec les clients du dessus. Merci d'être attentif au bruit, surtout le soir."
+    },
+    "houseRules": [
+      "Interdiction de fumer à l'intérieur. Terrasse uniquement",
+      "Pas de fêtes ni d'événements. Heures de silence 23h–8h",
+      "Capacité maximale : 2 personnes",
+      "Pas d'animaux de compagnie",
+      "Faire la vaisselle immédiatement et garder le comptoir dégagé. Le climat chaud de Chypre peut attirer des insectes",
+      "Utilisez la poubelle à côté des toilettes. Ne pas jeter de papier toilette (la plomberie chypriote ne peut pas le gérer)",
+      "Insérer la clé métallique dans la fiche d'alimentation quand vous êtes à l'intérieur ; la retirer à chaque départ",
+      "Fermer la porte de terrasse et les fenêtres quand la climatisation est en marche",
+      "Remettre les clés dans la boîte et réinitialiser le code au départ",
+      "Traiter le studio avec soin. Merci de signaler tout dommage rapidement",
+      "Conserver les clés précieusement. En cas de perte ou d'enfermement, un serrurier sera nécessaire et les frais vous seront facturés"
+    ],
+    "appliances": [
+      {
+        "name": "Climatisation",
+        "instructions": "Climatisation split au plafond. La télécommande est sur la table de nuit. Appuyez sur POWER, choisissez COOL, réglez à 22–24°C. La brise marine suffit souvent le soir. Ouvrez la porte de terrasse pour une ventilation naturelle. Éteignez en partant."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "Smart TV 32 pouces sur la commode. Appuyez sur le bouton raccourci Netflix de la télécommande pour un streaming instantané. Pas de mot de passe requis sur le profil invité. Pour la TV en direct, appuyez sur HOME et sélectionnez Chaînes. Port HDMI sur le côté si vous souhaitez connecter un appareil."
+      },
+      {
+        "name": "Mini-cuisine",
+        "instructions": "Plaque céramique 2 feux, petit four, micro-ondes et ustensiles bien garnis. Le cadran du four va de 50 à 250°C. L'icône four à convection est la flèche tourbillonnante. Micro-ondes : placez votre aliment, appuyez sur le pad temps puis START. Toute la batterie de cuisine est dans le placard sous la plaque."
+      },
+      {
+        "name": "Cafetière",
+        "instructions": "Cafetière filtre classique sur le comptoir. Café moulu dans la petite boîte à côté (recharge dans le placard de cuisine). Remplir le réservoir jusqu'à la ligne MAX. Placer un filtre dans le panier, ajouter 2 cuillères à soupe de café, appuyer sur BREW. Prêt en 5 minutes."
+      }
+    ],
+    "thingsToDo": [
+      {"category": "Plages 🏝️"},
+      {"category": "Sites historiques & promenades 🏰"},
+      {"category": "Attractions & Excursions 📸"},
+      {"category": "Randonnées & sentiers naturels ⛰️"}
+    ],
+    "eatAndDrink": [
+      {"type": "Grec / Méditerranéen"},
+      {"type": "Grec / Meze"},
+      {"type": "Café / Brunch"},
+      {"type": "Fruits de mer"},
+      {"type": "Fruits de mer"},
+      {"type": "Chypriote"},
+      {"type": "Restauration rapide"},
+      {"type": "Café / Local"},
+      {"type": "Chypriote / Café"},
+      {"type": "Grec / Chypriote"},
+      {"type": "Taverne chypriote"},
+      {"type": "Divers / Port"},
+      {"type": "Chypriote / Fruits de mer"},
+      {"type": "Fruits de mer"},
+      {"type": "Café / Restaurant"},
+      {"type": "Fruits de mer"},
+      {"type": "Bar / Restaurant"},
+      {"type": "Chypriote / Vin"},
+      {"type": "Fruits de mer / Taverne"},
+      {"type": "Épicerie"},
+      {"type": "Supermarché"}
+    ],
+    "gettingAround": [
+      {"info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."},
+      {"info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5–10 minutes à pied."},
+      {"info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."}
+    ],
+    "emergency": {
+      "contacts": [
+        {"note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"},
+        {"note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"},
+        {"note": "Poste de police de Paphos"}
+      ],
+      "nearestPharmacy": "Plusieurs pharmacies à distance de marche sur la route principale. Demandez-nous si vous avez besoin d'une recommandation."
+    },
+    "checkout": {
+      "steps": [
+        "Vider le réfrigérateur de tous les aliments et boissons",
+        "Défaire le lit et laisser le linge en tas sur le matelas",
+        "Faire la vaisselle et la laisser sur l'égouttoir",
+        "Jeter les ordures dans les poubelles du parking",
+        "Fermer toutes les fenêtres, la porte de terrasse et le portail à cadenas",
+        "Éteindre la clim, toutes les lumières et débrancher les chargeurs",
+        "Remettre la clé dans la boîte à clés sur la porte (code : 7890)",
+        "Nous envoyer un WhatsApp quand vous êtes en route. Et merci de nous avoir choisis !"
+      ],
+      "lateCheckout": "Un départ tardif est parfois possible. Veuillez demander avant 21h la veille. Nous confirmerons la disponibilité dès que possible."
+    }
+  },
+  "es": {
+    "ui": {
+      "welcome": "¡Bienvenido!",
+      "checkIn": "Entrada",
+      "keyLocation": "Ubicación de la llave",
+      "accessCode": "Código de acceso",
+      "stepByStep": "Paso a paso",
+      "houseRules": "Normas de la casa",
+      "gettingHere": "Cómo llegar",
+      "openGoogleMaps": "Abrir en Google Maps",
+      "byCar": "En coche",
+      "parking": "Aparcamiento",
+      "publicTransport": "En transporte público",
+      "taxi": "Taxi",
+      "photoGuide": "Guía fotográfica paso a paso",
+      "appliances": "WiFi y electrodomésticos",
+      "wifi": "Detalles del WiFi",
+      "thingsToDo": "Qué hacer",
+      "eatAndDrink": "Comer y beber",
+      "gettingAround": "Moverse por la ciudad",
+      "emergency": "Contactos de emergencia",
+      "nearestHospital": "Hospital más cercano",
+      "nearestPharmacy": "Farmacia más cercana",
+      "checkout": "Salida",
+      "checkoutTime": "Hora de salida",
+      "checkoutChecklist": "Lista de salida",
+      "contactHost": "Contactar al anfitrión"
+    },
+    "welcomeMessage": "¡Bienvenido al Beach Side Studio! Ha elegido una de nuestras propiedades más especiales. Un estudio luminoso y aireado a pocos pasos del mar con una terraza privada donde puede ver las olas mientras toma su café de la mañana. Esto es la vida costera en su forma más simple y hermosa. Relájese, descanse y deje que el encanto mediterráneo haga el resto. ¡Siempre estamos a un mensaje de distancia!",
+    "gettingHere": {
+      "byCar": "Desde el aeropuerto de Larnaca, tome la autopista A3 hacia el este hasta Ayia Napa. Continúe por la carretera costera B3 hacia el norte hacia Paralimni. Siga las indicaciones para la Costa de Paralimni / Thalassa Beach. Gire a la izquierda en Thalassa Lane justo después de la pequeña capilla blanca. El edificio del estudio está al final del callejón con una puerta azul.",
+      "parking": "Pequeño aparcamiento privado al final de Thalassa Lane. Espacio para 1 coche por estudio. Su plaza está marcada '1A'.",
+      "publicTransport": "Desde el aeropuerto de Pafos, tome el autobús 612 hasta la parada Tombs of the Kings. Desde allí, a 18 minutos a pie (~1,3 km). ⚠️ Los autobuses solo aceptan efectivo. Tarifa: 2,50 € por persona y trayecto.",
+      "taxi": "Taxis disponibles directamente a la salida del aeropuerto de Pafos. Tarifa típica a Pafos: 40–45 € de día, 45–50 € de noche. Tiempo de viaje aproximado: 20–25 minutos.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Caja de llaves combinada en el pomo de la puerta del estudio (puerta azul, planta baja)",
+      "steps": [
+        "Desde el aparcamiento, tome el camino de la derecha hacia el edificio frente al mar",
+        "Busque la puerta azul en la planta baja. Es el estudio más cercano a la playa",
+        "Introduzca el código 7890 en la caja negra de llaves unida al tirador",
+        "Tire para abrir la caja y tome la llave",
+        "Use la llave para la cerradura de la puerta y el candado de la puerta de la terraza",
+        "Devuelva la llave a la caja al hacer el check-out"
+      ],
+      "notes": "El candado de la puerta de la terraza usa la misma llave que la puerta. La terraza es semiprivada y compartida con el huésped de arriba. Por favor, sea considerado con el ruido, especialmente por las noches."
+    },
+    "houseRules": [
+      "Prohibido fumar en el interior. Solo en la terraza",
+      "No se permiten fiestas ni eventos. Horas de silencio de 23h a 8h",
+      "Ocupación máxima: 2 huéspedes",
+      "No se admiten mascotas",
+      "Lavar los platos inmediatamente y mantener la encimera despejada. El clima cálido de Chipre puede atraer insectos",
+      "Use el cubo junto al inodoro. No tire papel higiénico (la fontanería chipriota no puede gestionarlo)",
+      "Colocar la llave metálica en el enchufe junto a la puerta cuando esté dentro; quitarla al salir",
+      "Cerrar la puerta de la terraza y las ventanas cuando el aire acondicionado esté en marcha",
+      "Devolver las llaves a la caja y restablecer el código al hacer el check-out",
+      "Tratar el estudio con cuidado. Por favor, informe de cualquier daño de inmediato",
+      "Guardar las llaves con cuidado. Si las pierde o se queda encerrado, necesitará un cerrajero y el coste se le repercutirá"
+    ],
+    "appliances": [
+      {
+        "name": "Aire acondicionado",
+        "instructions": "Unidad de AC en el techo. El mando está en la mesilla. Pulse POWER, seleccione COOL y ajuste a 22–24°C. La brisa del mar suele ser suficiente por las noches. Abra la puerta de la terraza para ventilación natural. Apague al salir."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "Smart TV de 32 pulgadas en la cómoda. Pulse el botón de acceso directo a Netflix para streaming inmediato. No se necesita contraseña en el perfil de invitado. Para TV en directo, pulse HOME y seleccione Canales. Puerto HDMI en el lateral si desea conectar un dispositivo."
+      },
+      {
+        "name": "Mini cocina",
+        "instructions": "Vitrocerámica de dos fuegos, horno pequeño, microondas y utensilios completos. El dial del horno va de 50 a 250°C. El icono de ventilador es la flecha en espiral. Microondas: coloque el alimento, pulse el pad de tiempo y START. Todos los utensilios en el armario bajo la vitro."
+      },
+      {
+        "name": "Cafetera",
+        "instructions": "Cafetera de goteo clásica en la encimera. Café molido en la pequeña lata junto a ella (repuesto en el armario de cocina). Llenar el depósito hasta la línea MAX. Colocar un filtro en la cesta, añadir 2 cucharadas de café, pulsar BREW. Listo en 5 minutos."
+      }
+    ],
+    "thingsToDo": [
+      {"category": "Playas 🏝️"},
+      {"category": "Sitios históricos y paseos escénicos 🏰"},
+      {"category": "Atracciones y excursiones 📸"},
+      {"category": "Senderismo y rutas naturales ⛰️"}
+    ],
+    "eatAndDrink": [
+      {"type": "Griego / Mediterráneo"},
+      {"type": "Griego / Meze"},
+      {"type": "Cafetería / Brunch"},
+      {"type": "Mariscos"},
+      {"type": "Mariscos"},
+      {"type": "Chipriota"},
+      {"type": "Patio de comidas"},
+      {"type": "Cafetería / Local"},
+      {"type": "Chipriota / Cafetería"},
+      {"type": "Griego / Chipriota"},
+      {"type": "Taberna chipriota"},
+      {"type": "Varios / Puerto"},
+      {"type": "Chipriota / Mariscos"},
+      {"type": "Mariscos"},
+      {"type": "Cafetería / Restaurante"},
+      {"type": "Mariscos"},
+      {"type": "Bar / Restaurante"},
+      {"type": "Chipriota / Vino"},
+      {"type": "Mariscos / Taberna"},
+      {"type": "Tienda de alimentación"},
+      {"type": "Supermercado"}
+    ],
+    "gettingAround": [
+      {"info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."},
+      {"info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5–10 minutos a pie."},
+      {"info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."}
+    ],
+    "emergency": {
+      "contacts": [
+        {"note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"},
+        {"note": "Hospital principal de Pafos, a unos 10 minutos en coche"},
+        {"note": "Comisaría de Pafos"}
+      ],
+      "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntenos si necesita una recomendación."
+    },
+    "checkout": {
+      "steps": [
+        "Vaciar la nevera de todos los alimentos y bebidas",
+        "Retirar la ropa de cama y dejarla en un montón sobre el colchón",
+        "Lavar los platos y dejarlos en el escurridor",
+        "Depositar la basura en los contenedores del aparcamiento",
+        "Cerrar todas las ventanas, la puerta de la terraza y el candado",
+        "Apagar el AC, todas las luces y desenchufar los cargadores",
+        "Devolver la llave a la caja de la puerta (código: 7890)",
+        "Enviarnos un WhatsApp cuando esté de camino. ¡Y gracias por elegirnos!"
+      ],
+      "lateCheckout": "La salida tardía a veces es posible. Por favor, pregunte antes de las 21h del día anterior. Confirmaremos la disponibilidad lo antes posible."
+    }
+  },
+  "pl": {
+    "ui": {
+      "welcome": "Witamy!",
+      "checkIn": "Zameldowanie",
+      "keyLocation": "Lokalizacja klucza",
+      "accessCode": "Kod dostępu",
+      "stepByStep": "Krok po kroku",
+      "houseRules": "Regulamin",
+      "gettingHere": "Jak dojechać",
+      "openGoogleMaps": "Otwórz w Google Maps",
+      "byCar": "Samochodem",
+      "parking": "Parking",
+      "publicTransport": "Transportem publicznym",
+      "taxi": "Taxi",
+      "photoGuide": "Przewodnik fotograficzny krok po kroku",
+      "appliances": "WiFi i urządzenia",
+      "wifi": "Szczegóły WiFi",
+      "thingsToDo": "Co robić",
+      "eatAndDrink": "Jedzenie i napoje",
+      "gettingAround": "Poruszanie się po mieście",
+      "emergency": "Kontakty alarmowe",
+      "nearestHospital": "Najbliższy szpital",
+      "nearestPharmacy": "Najbliższa apteka",
+      "checkout": "Wymeldowanie",
+      "checkoutTime": "Godzina wymeldowania",
+      "checkoutChecklist": "Lista wymeldowania",
+      "contactHost": "Kontakt z gospodarzem"
+    },
+    "welcomeMessage": "Witamy w Beach Side Studio! Wybraliście jedną z naszych najwyjątkowniejszych nieruchomości. Jasne, przewiewne studio zaledwie kilka kroków od morza z prywatnym tarasem, gdzie możecie obserwować fale przy porannej kawie. To życie nad brzegiem morza w swojej najprostszej i najpiękniejszej formie. Odpoczywajcie, relaksujcie się i pozwólcie śródziemnomorskiemu urokowi zrobić resztę. Jesteśmy zawsze o wiadomość dalej!",
+    "gettingHere": {
+      "byCar": "Z lotniska w Larnace jedźcie autostradą A3 na wschód do Ayia Napa. Kontynuujcie drogą przybrzeżną B3 na północ w kierunku Paralimni. Podążajcie za znakami do wybrzeża Paralimni / Thalassa Beach. Skręćcie w lewo w Thalassa Lane zaraz po małej białej kaplicy. Budynek studia jest na końcu uliczki z niebieską bramą.",
+      "parking": "Mały prywatny parking na końcu Thalassa Lane. Miejsce dla 1 samochodu na studio. Wasze miejsce jest oznaczone '1A'.",
+      "publicTransport": "Z lotniska w Pafos weźcie autobus 612 do przystanku Tombs of the Kings. Stamtąd 18 minut pieszo (~1,3 km). ⚠️ Autobusy akceptują tylko gotówkę. Opłata: 2,50 € za osobę za kurs.",
+      "taxi": "Taksówki są dostępne przy wyjściu z hali przyletów lotniska Pafos. Typowa opłata do Pafos: 40–45 € w ciągu dnia, 45–50 € po godzinach. Czas podróży: ok. 20–25 minut.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Skrzynka z kombinacją na klamce drzwi studia (niebieskie drzwi, parter)",
+      "steps": [
+        "Z parkingu weźcie ścieżkę po prawej stronie w kierunku budynku przy morzu",
+        "Szukajcie niebieskich drzwi na parterze. To studio najbliżej plaży",
+        "Wprowadźcie kod 7890 w czarnej skrzynce na klucze przymocowanej do klamki",
+        "Pociągnijcie, aby otworzyć skrzynkę i weźcie klucz",
+        "Użyjcie klucza do zamka drzwi i kłódki bramy tarasowej",
+        "Zwróćcie klucz do skrzynki przy wymeldowaniu"
+      ],
+      "notes": "Kłódka bramy tarasowej używa tego samego klucza co drzwi. Taras jest półprywatny i dzielony z gościem na górze. Prosimy o dbanie o ciszę, szczególnie wieczorami."
+    },
+    "houseRules": [
+      "Zakaz palenia wewnątrz. Tylko na tarasie",
+      "Zakaz imprez i wydarzeń. Cisza nocna 23:00–8:00",
+      "Maksymalna liczba gości: 2",
+      "Zakaz zwierząt",
+      "Myjcie naczynia od razu i trzymajcie blat kuchenny wolny. Ciepły klimat Cypru może przyciągać owady",
+      "Używajcie pojemnika obok toalety. Nie spłukujcie papieru toaletowego (cypryjska kanalizacja nie radzi sobie z tym)",
+      "Wkładajcie metalowy klucz do gniazda przy drzwiach, gdy jesteście w środku; wyjmujcie przy każdym wyjściu",
+      "Zamykajcie drzwi tarasowe i okna, gdy działa klimatyzacja",
+      "Zwróćcie klucze do skrzynki i przywróćcie kod przy wymeldowaniu",
+      "Traktujcie studio z troską. Prosimy o niezwłoczne zgłaszanie uszkodzeń",
+      "Przechowujcie klucze bezpiecznie. W przypadku zagubienia lub zablokowania potrzebny będzie ślusarz, a koszt zostanie przeniesiony na Was"
+    ],
+    "appliances": [
+      {
+        "name": "Klimatyzacja",
+        "instructions": "Jednostka AC na suficie. Pilot leży na nocnym stoliku. Naciśnijcie POWER, wybierzcie COOL i ustawcie na 22–24°C. Morska bryza często wystarczy wieczorami. Otwórzcie drzwi tarasowe dla naturalnej wentylacji. Wyłączcie przy wychodzeniu."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "32-calowy Smart TV na komodzie. Naciśnijcie przycisk skrótu Netflix na pilocie dla natychmiastowego streamingu. Nie potrzeba hasła dla profilu gościa. Dla TV na żywo naciśnijcie HOME i wybierzcie Kanały. Port HDMI z boku, jeśli chcecie podłączyć urządzenie."
+      },
+      {
+        "name": "Mini kuchnia",
+        "instructions": "Dwupłytowa ceramiczna płyta, mały piekarnik, mikrofalówka i dobrze wyposażone przybory kuchenne. Pokrętło piekarnika: od 50 do 250°C. Ikona wentylatora to spiralnie zakręcona strzałka. Mikrofalówka: umieśćcie jedzenie, naciśnijcie pad czasu i START. Wszystkie garnki w szafce pod płytą."
+      },
+      {
+        "name": "Ekspres do kawy",
+        "instructions": "Klasyczny ekspres przelewowy na blacie. Mielona kawa w małej puszce obok (uzupełnienie w szafce kuchennej). Napełnijcie zbiornik wody do linii MAX. Umieśćcie filtr w koszyku, dodajcie 2 łyżki kawy, naciśnijcie BREW. Gotowe w 5 minutach."
+      }
+    ],
+    "thingsToDo": [
+      {"category": "Plaże 🏝️"},
+      {"category": "Miejsca historyczne i malownicze spacery 🏰"},
+      {"category": "Atrakcje i wycieczki 📸"},
+      {"category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"}
+    ],
+    "eatAndDrink": [
+      {"type": "Greckie / Śródziemnomorskie"},
+      {"type": "Greckie / Meze"},
+      {"type": "Kawiarnia / Brunch"},
+      {"type": "Owoce morza"},
+      {"type": "Owoce morza"},
+      {"type": "Cypryjskie"},
+      {"type": "Food court"},
+      {"type": "Kawiarnia / Lokalne"},
+      {"type": "Cypryjskie / Kawiarnia"},
+      {"type": "Greckie / Cypryjskie"},
+      {"type": "Cypryjska tawerna"},
+      {"type": "Różne / Port"},
+      {"type": "Cypryjskie / Owoce morza"},
+      {"type": "Owoce morza"},
+      {"type": "Kawiarnia / Restauracja"},
+      {"type": "Owoce morza"},
+      {"type": "Bar / Restauracja"},
+      {"type": "Cypryjskie / Wino"},
+      {"type": "Owoce morza / Tawerna"},
+      {"type": "Sklep spożywczy"},
+      {"type": "Supermarket"}
+    ],
+    "gettingAround": [
+      {"info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."},
+      {"info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5–10 minutach pieszo."},
+      {"info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."}
+    ],
+    "emergency": {
+      "contacts": [
+        {"note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"},
+        {"note": "Główny szpital w Pafos, ok. 10 minut jazdy"},
+        {"note": "Posterunek policji w Pafos"}
+      ],
+      "nearestPharmacy": "Kilka aptek w odległości krótkiego spaceru przy głównej drodze. Zapytajcie nas, jeśli potrzebujecie rekomendacji."
+    },
+    "checkout": {
+      "steps": [
+        "Opróżnijcie lodówkę ze wszystkich produktów spożywczych i napojów",
+        "Zdejmijcie pościel i zostawcie ją w stosie na materacu",
+        "Umyjcie naczynia i zostawcie je na suszarce",
+        "Wyrzućcie śmieci do pojemników na parkingu",
+        "Zamknijcie wszystkie okna, drzwi tarasowe i bramę z kłódką",
+        "Wyłączcie AC, wszystkie światła i odłączcie ładowarki",
+        "Zwróćcie klucz do skrzynki przy drzwiach (kod: 7890)",
+        "Wyślijcie nam WhatsApp, kiedy będziecie w drodze. I dziękujemy, że nas wybraliście!"
+      ],
+      "lateCheckout": "Późniejsze wymeldowanie jest czasem możliwe. Prosimy o pytanie do 21:00 poprzedniego wieczoru. Potwierdzimy dostępność tak szybko, jak to możliwe."
+    }
+  },
+  "ru": {
+    "ui": {
+      "welcome": "Добро пожаловать!",
+      "checkIn": "Заезд",
+      "keyLocation": "Расположение ключа",
+      "accessCode": "Код доступа",
+      "stepByStep": "Пошаговая инструкция",
+      "houseRules": "Правила дома",
+      "gettingHere": "Как добраться",
+      "openGoogleMaps": "Открыть в Google Maps",
+      "byCar": "На машине",
+      "parking": "Парковка",
+      "publicTransport": "На общественном транспорте",
+      "taxi": "Такси",
+      "photoGuide": "Пошаговый фотогид",
+      "appliances": "WiFi и техника",
+      "wifi": "Данные WiFi",
+      "thingsToDo": "Чем заняться",
+      "eatAndDrink": "Еда и напитки",
+      "gettingAround": "Передвижение по городу",
+      "emergency": "Экстренные контакты",
+      "nearestHospital": "Ближайшая больница",
+      "nearestPharmacy": "Ближайшая аптека",
+      "checkout": "Выезд",
+      "checkoutTime": "Время выезда",
+      "checkoutChecklist": "Список при выезде",
+      "contactHost": "Связаться с хозяином"
+    },
+    "welcomeMessage": "Добро пожаловать в Beach Side Studio! Вы выбрали одну из наших самых особенных недвижимостей. Светлая, просторная студия в нескольких шагах от моря с частной террасой, где можно наблюдать за волнами за утренним кофе. Это прибрежная жизнь в её простейшей и прекраснейшей форме. Расслабьтесь, отдохните и позвольте средиземноморскому очарованию сделать всё остальное. Мы всегда на расстоянии одного сообщения!",
+    "gettingHere": {
+      "byCar": "Из аэропорта Ларнаки возьмите шоссе A3 на восток до Айя-Напы. Продолжайте по прибрежной дороге B3 на север к Паралимни. Следуйте указателям к побережью Паралимни / пляжу Таласса. Поверните налево на Thalassa Lane сразу после маленькой белой часовни. Здание студии находится в конце переулка с синими воротами.",
+      "parking": "Небольшая частная парковка в конце Thalassa Lane. Место для 1 автомобиля на студию. Ваше место обозначено '1A'.",
+      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда 18 минут пешком (~1,3 км). ⚠️ Автобусы принимают только наличные. Стоимость — 2,50 € за человека за поездку.",
+      "taxi": "Такси доступны у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость до Пафоса: 40–45 € днём, 45–50 € в нерабочее время. Время в пути: около 20–25 минут.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Кодовый ящик для ключей на ручке двери студии (синяя дверь, первый этаж)",
+      "steps": [
+        "С парковки возьмите дорожку направо к зданию на берегу",
+        "Ищите синюю дверь на первом этаже. Это студия, ближайшая к пляжу",
+        "Введите код 7890 на чёрном ящике для ключей, прикреплённом к ручке двери",
+        "Потяните ящик для ключей и возьмите ключ",
+        "Используйте ключ для замка двери и навесного замка ворот террасы",
+        "Верните ключ в ящик при выезде"
+      ],
+      "notes": "Навесной замок ворот террасы использует тот же ключ, что и дверь. Терраса полуприватная и общая с гостем на верхнем этаже. Пожалуйста, следите за уровнем шума, особенно вечерами."
+    },
+    "houseRules": [
+      "Курение запрещено внутри. Только на террасе",
+      "Вечеринки и мероприятия запрещены. Тихие часы с 23:00 до 8:00",
+      "Максимальная вместимость: 2 гостя",
+      "Животные не допускаются",
+      "Мойте посуду сразу и держите столешницу свободной. Тёплый климат Кипра может привлекать насекомых",
+      "Используйте корзину рядом с унитазом. Не смывайте туалетную бумагу (кипрская канализация не справляется)",
+      "Вставляйте металлический ключ в розетку у двери, когда находитесь внутри; вынимайте при каждом уходе",
+      "Закрывайте дверь террасы и окна при работающем кондиционере",
+      "Верните ключи в ящик и сбросьте код при выезде",
+      "Обращайтесь со студией бережно. Сообщайте о любых повреждениях незамедлительно",
+      "Бережно храните ключи. В случае потери или блокировки внутри потребуется слесарь, и расходы будут переданы вам"
+    ],
+    "appliances": [
+      {
+        "name": "Кондиционер",
+        "instructions": "Сплит-кондиционер на потолке. Пульт лежит на тумбочке. Нажмите POWER, выберите COOL и установите 22–24°C. Морской бриз часто достаточен по вечерам. Откройте дверь террасы для естественной вентиляции. Выключайте при уходе."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "32-дюймовый Smart TV на комоде. Нажмите кнопку быстрого доступа Netflix на пульте для мгновенного стриминга. Пароль не нужен для гостевого профиля. Для прямого ТВ нажмите HOME и выберите Каналы. Порт HDMI сбоку для подключения устройства."
+      },
+      {
+        "name": "Мини-кухня",
+        "instructions": "Двухконфорочная керамическая плита, небольшая духовка, микроволновка и полный набор посуды. Ручка духовки от 50 до 250°C. Значок конвекции — спиральная стрелка. Микроволновка: положите еду, нажмите цифры времени и СТАРТ. Вся посуда в шкафу под плитой."
+      },
+      {
+        "name": "Кофеварка",
+        "instructions": "Классическая капельная кофеварка на столешнице. Молотый кофе в маленькой банке рядом (запас в кухонном шкафу). Наполните резервуар до линии MAX. Вставьте фильтр в корзину, добавьте 2 ложки кофе, нажмите BREW. Готово за 5 минут."
+      }
+    ],
+    "thingsToDo": [
+      {"category": "Пляжи 🏝️"},
+      {"category": "Исторические места и живописные прогулки 🏰"},
+      {"category": "Достопримечательности и экскурсии 📸"},
+      {"category": "Пешие прогулки и природные тропы ⛰️"}
+    ],
+    "eatAndDrink": [
+      {"type": "Греческая / Средиземноморская"},
+      {"type": "Греческая / Мезе"},
+      {"type": "Кафе / Бранч"},
+      {"type": "Морепродукты"},
+      {"type": "Морепродукты"},
+      {"type": "Кипрская"},
+      {"type": "Фуд-корт"},
+      {"type": "Кафе / Местная"},
+      {"type": "Кипрская / Кафе"},
+      {"type": "Греческая / Кипрская"},
+      {"type": "Кипрская таверна"},
+      {"type": "Разное / Гавань"},
+      {"type": "Кипрская / Морепродукты"},
+      {"type": "Морепродукты"},
+      {"type": "Кафе / Ресторан"},
+      {"type": "Морепродукты"},
+      {"type": "Бар / Ресторан"},
+      {"type": "Кипрская / Вино"},
+      {"type": "Морепродукты / Таверна"},
+      {"type": "Продуктовый магазин"},
+      {"type": "Супермаркет"}
+    ],
+    "gettingAround": [
+      {"info": "Центральная автобусная станция (Tombs of the Kings) в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."},
+      {"info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5–10 минутах ходьбы."},
+      {"info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."}
+    ],
+    "emergency": {
+      "contacts": [
+        {"note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"},
+        {"note": "Главная больница Пафоса, примерно 10 минут езды"},
+        {"note": "Полицейский участок Пафоса"}
+      ],
+      "nearestPharmacy": "Несколько аптек в нескольких минутах ходьбы на главной дороге. Спросите нас, если нужна рекомендация."
+    },
+    "checkout": {
+      "steps": [
+        "Освободить холодильник от всех продуктов и напитков",
+        "Снять постельное бельё и оставить его в куче на матрасе",
+        "Вымыть посуду и оставить её на сушилке",
+        "Выбросить мусор в контейнеры на парковке",
+        "Закрыть все окна, дверь террасы и навесной замок ворот",
+        "Выключить кондиционер, все светильники и отключить зарядные устройства",
+        "Вернуть ключ в ящик на двери (код: 7890)",
+        "Напишите нам WhatsApp, когда будете в пути. И спасибо, что выбрали нас!"
+      ],
+      "lateCheckout": "Поздний выезд иногда возможен. Пожалуйста, спрашивайте до 21:00 накануне вечером. Мы подтвердим доступность как можно скорее."
+    }
+  }
+}

@@ -15,7 +15,7 @@ const { property } = Astro.props;
 
 <section id="checkin" class="py-12 bg-surface" aria-labelledby="checkin-heading">
   <div class="max-w-2xl mx-auto px-4">
-    <h2 id="checkin-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+    <h2 id="checkin-heading" class="font-serif text-3xl font-bold text-charcoal mb-8" data-i18n="ui.checkIn">
       Check-in
     </h2>
 
@@ -24,14 +24,14 @@ const { property } = Astro.props;
       <div class="flex items-start gap-3 mb-4">
         <span class="text-2xl flex-shrink-0" aria-hidden="true">🔑</span>
         <div>
-          <p class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-0.5">Key Location</p>
-          <p class="font-semibold text-charcoal text-base" set:html={property.checkin.keyLocation} />
+          <p class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-0.5" data-i18n="ui.keyLocation">Key Location</p>
+          <p class="font-semibold text-charcoal text-base" data-i18n="checkin.keyLocation" data-i18n-html set:html={property.checkin.keyLocation} />
         </div>
       </div>
       <div class="flex items-center gap-4 bg-white rounded-xl p-4">
         <span class="text-xl" aria-hidden="true">🔢</span>
         <div>
-          <p class="text-xs font-semibold text-stone-500 uppercase tracking-wide mb-0.5">Access Code</p>
+          <p class="text-xs font-semibold text-stone-500 uppercase tracking-wide mb-0.5" data-i18n="ui.accessCode">Access Code</p>
           <p class="font-mono font-bold text-3xl text-charcoal tracking-widest" aria-label={`Access code: ${property.checkin.accessCode}`}>
             {property.checkin.accessCode}
           </p>
@@ -41,7 +41,7 @@ const { property } = Astro.props;
 
     <!-- Steps -->
     <div class="bg-white rounded-2xl shadow-md p-5 mb-5 border border-stone-100">
-      <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2">
+      <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2" data-i18n="ui.stepByStep">
         <span aria-hidden="true">📋</span> Step-by-Step
       </h3>
       <ol class="space-y-4">
@@ -53,7 +53,7 @@ const { property } = Astro.props;
             >
               {i + 1}
             </span>
-            <p class="text-stone-700 text-sm leading-relaxed pt-1">{step}</p>
+            <p class="text-stone-700 text-sm leading-relaxed pt-1" data-i18n={`checkin.steps.${i}`}>{step}</p>
           </li>
         ))}
       </ol>
@@ -63,7 +63,7 @@ const { property } = Astro.props;
     {property.checkin.notes && (
       <div class="bg-blue-50 border border-blue-200 rounded-2xl p-4 flex items-start gap-3">
         <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">ℹ️</span>
-        <p class="text-blue-800 text-sm leading-relaxed">{property.checkin.notes}</p>
+        <p class="text-blue-800 text-sm leading-relaxed" data-i18n="checkin.notes">{property.checkin.notes}</p>
       </div>
     )}
   </div>

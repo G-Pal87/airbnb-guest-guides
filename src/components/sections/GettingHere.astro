@@ -41,7 +41,7 @@ const gettingAround = property.gettingAround ?? [];
 
 <section id="getting-here" class="py-12 bg-white" aria-labelledby="getting-here-heading">
   <div class="max-w-2xl mx-auto px-4">
-    <h2 id="getting-here-heading" class="font-serif text-3xl font-bold text-charcoal mb-8">
+    <h2 id="getting-here-heading" class="font-serif text-3xl font-bold text-charcoal mb-8" data-i18n="ui.gettingHere">
       Getting Here
     </h2>
 
@@ -71,7 +71,7 @@ const gettingAround = property.gettingAround ?? [];
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
             </svg>
-            Open in Google Maps
+            <span data-i18n="ui.openGoogleMaps">Open in Google Maps</span>
           </a>
         </div>
       </div>
@@ -85,8 +85,8 @@ const gettingAround = property.gettingAround ?? [];
           <div class="flex items-start gap-3">
             <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚗</span>
             <div class="flex-1">
-              <h3 class="font-semibold text-charcoal mb-1.5">By Car</h3>
-              <p class="text-stone-600 text-sm leading-relaxed">{directions}</p>
+              <h3 class="font-semibold text-charcoal mb-1.5" data-i18n="ui.byCar">By Car</h3>
+              <p class="text-stone-600 text-sm leading-relaxed" data-i18n="gettingHere.byCar">{directions}</p>
               {photos.length > 0 && (
                 <a
                   href="#photo-guide"
@@ -100,8 +100,8 @@ const gettingAround = property.gettingAround ?? [];
           <div class="border-t border-stone-100 mt-4 pt-4 flex items-start gap-3">
             <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🅿️</span>
             <div class="flex-1">
-              <h3 class="font-semibold text-charcoal mb-1.5">Parking</h3>
-              <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.parking}</p>
+              <h3 class="font-semibold text-charcoal mb-1.5" data-i18n="ui.parking">Parking</h3>
+              <p class="text-stone-600 text-sm leading-relaxed" data-i18n="gettingHere.parking">{property.gettingHere.parking}</p>
             </div>
           </div>
         </div>
@@ -112,8 +112,8 @@ const gettingAround = property.gettingAround ?? [];
         <div class="flex items-start gap-3">
           <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚌</span>
           <div class="flex-1">
-            <h3 class="font-semibold text-charcoal mb-1.5">By Public Transport</h3>
-            <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.publicTransport}</p>
+            <h3 class="font-semibold text-charcoal mb-1.5" data-i18n="ui.publicTransport">By Public Transport</h3>
+            <p class="text-stone-600 text-sm leading-relaxed" data-i18n="gettingHere.publicTransport">{property.gettingHere.publicTransport}</p>
             {property.gettingHere.busStationUrl && (
               <a
                 href={property.gettingHere.busStationUrl}
@@ -138,8 +138,8 @@ const gettingAround = property.gettingAround ?? [];
           <div class="flex items-start gap-3">
             <span class="text-xl flex-shrink-0 mt-0.5" aria-hidden="true">🚕</span>
             <div>
-              <h3 class="font-semibold text-charcoal mb-1.5">Taxi</h3>
-              <p class="text-stone-600 text-sm leading-relaxed">{property.gettingHere.taxi}</p>
+              <h3 class="font-semibold text-charcoal mb-1.5" data-i18n="ui.taxi">Taxi</h3>
+              <p class="text-stone-600 text-sm leading-relaxed" data-i18n="gettingHere.taxi">{property.gettingHere.taxi}</p>
             </div>
           </div>
         </div>
@@ -148,7 +148,7 @@ const gettingAround = property.gettingAround ?? [];
       <!-- Photo walkthrough -->
       {photos.length > 0 && (
         <div id="photo-guide" class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100">
-          <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2">
+          <h3 class="font-semibold text-charcoal mb-4 flex items-center gap-2" data-i18n="ui.photoGuide">
             <span aria-hidden="true">📸</span> Step-by-Step Photo Guide
           </h3>
           <div class="space-y-4">
@@ -167,7 +167,7 @@ const gettingAround = property.gettingAround ?? [];
                     loading="lazy"
                     class="w-full rounded-xl object-contain mb-2"
                   />
-                  <p class="text-stone-600 text-sm leading-relaxed">{photo.caption}</p>
+                  <p class="text-stone-600 text-sm leading-relaxed" data-i18n={`gettingHere.directionPhotos.${i}.caption`}>{photo.caption}</p>
                 </div>
               </div>
             ))}

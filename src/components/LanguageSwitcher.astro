@@ -1,0 +1,56 @@
+---
+// No props needed — purely client-side
+---
+
+<div
+  id="lang-switcher"
+  class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-stone-200 shadow-sm"
+  role="navigation"
+  aria-label="Language switcher"
+>
+  <div class="max-w-2xl mx-auto px-4 py-2 flex items-center gap-1.5 overflow-x-auto scrollbar-hide">
+    <span class="text-xs text-stone-400 font-medium mr-1 flex-shrink-0">Lang:</span>
+    <button
+      data-lang-btn="en"
+      class="flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold transition-colors bg-primary text-white border border-primary/20 min-h-[36px]"
+      aria-label="Switch to English"
+    >
+      🇬🇧 EN
+    </button>
+    <button
+      data-lang-btn="de"
+      class="flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold transition-colors bg-white text-stone-600 border border-stone-200 min-h-[36px]"
+      aria-label="Auf Deutsch wechseln"
+    >
+      🇩🇪 DE
+    </button>
+    <button
+      data-lang-btn="fr"
+      class="flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold transition-colors bg-white text-stone-600 border border-stone-200 min-h-[36px]"
+      aria-label="Passer en français"
+    >
+      🇫🇷 FR
+    </button>
+    <button
+      data-lang-btn="es"
+      class="flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold transition-colors bg-white text-stone-600 border border-stone-200 min-h-[36px]"
+      aria-label="Cambiar a español"
+    >
+      🇪🇸 ES
+    </button>
+    <button
+      data-lang-btn="pl"
+      class="flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold transition-colors bg-white text-stone-600 border border-stone-200 min-h-[36px]"
+      aria-label="Przełącz na polski"
+    >
+      🇵🇱 PL
+    </button>
+    <button
+      data-lang-btn="ru"
+      class="flex-shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-semibold transition-colors bg-white text-stone-600 border border-stone-200 min-h-[36px]"
+      aria-label="Переключить на русский"
+    >
+      🇷🇺 RU
+    </button>
+  </div>
+</div>

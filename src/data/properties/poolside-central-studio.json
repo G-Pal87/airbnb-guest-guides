@@ -48,32 +48,40 @@
     "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
     "directionPhotos": [
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/entrance-keyboxes.jpeg",
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Google Maps Screenshot.png",
+        "caption": "Navigate to Kings Avenue Mall in Paphos — the Byzantium Gardens complex is right next door. The red marks show roads to avoid; follow the correct route to reach the front entrance."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Entrance .jpeg",
         "caption": "Once you reach the entrance, find the key boxes on the left-hand wall. You'll see a red sign saying 'Access for Residents Only' — ignore it, you are allowed to enter."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/keybox-code.jpeg",
-        "caption": "Open the left box of the 2nd row with the code: 9900 to collect your keys."
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/LockBox.jpeg",
+        "caption": "Open the left box of the 2nd row (highlighted in red) with the code: 9900 to collect your keys."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/proxy-reader.jpeg",
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Locks.jpeg",
         "caption": "Use the small plastic chip (proxy) on the keychain — tap it on this reader to open the entrance door."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/car-gate-machine.jpeg",
-        "caption": "Arriving by car? Use this keypad/machine on the opposite side of the road to open the main gate and drive in."
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Car Tap.jpeg",
+        "caption": "Arriving by car? Use this machine across the road to open the main gate and drive in."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/block-b-straight.jpeg",
-        "caption": "Once inside, keep going straight past Block B — Block C (your apartment) is just ahead."
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Gateway.jpeg",
+        "caption": "Once inside, keep going straight and pass Block B — Block C (your apartment) is just ahead."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/block-c-entrance.jpeg",
-        "caption": "At Block C, take the entrance and head to the first floor — there is a lift available."
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Block Entrance.jpeg",
+        "caption": "At Block C, take the entrance on the left and head to the first floor — there is a lift available."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/door-106.jpeg",
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Door.png",
         "caption": "Look for door No. 106, right next to the elevator."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Exit Complex.png",
+        "caption": "Exiting by car: pull up in front of the STOP / WAIT sign at the main gate — the doors open automatically."
       }
     ]
   },

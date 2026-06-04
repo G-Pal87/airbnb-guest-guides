@@ -249,70 +249,70 @@
       "category": "Historical Sites & Scenic Walks 🏰",
       "items": [
         {
-          "name": "Tombs of the Kings",
-          "distance": "250m-1km, walk",
-          "tip": "Closest and most important historical site. Rock-cut tombs from the Hellenistic and Roman periods, part of the UNESCO listed Paphos archaeological area.",
-          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
-        },
-        {
           "name": "Paphos Coastal Walkway",
-          "distance": "Starts nearby, walk",
-          "tip": "Walk along the coastline toward Lighthouse Beach, the harbour, and Paphos Castle. Easy and scenic, especially at sunset.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+          "distance": "1–1.5 km, walk",
+          "tip": "One of the easiest scenic walks from this location. Walk towards Lighthouse Beach, the harbour, and Paphos Castle. Great for sea views and sunset.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paphos+Coastal+Walkway+Cyprus"
         },
         {
-          "name": "Lighthouse Beach & Lighthouse",
-          "distance": "2.0-2.5 km, walk or car",
-          "tip": "Relaxed halfway point between Avlida and the harbour. Good for a scenic walk with a beach stop.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+          "name": "Lighthouse Beach & Lighthouse area",
+          "distance": "1–1.5 km, walk or car",
+          "tip": "A very practical nearby walk with sea views. Good in the morning or before sunset. Scenic walk with a beach stop.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paphos+Lighthouse+Beach+Cyprus"
         },
         {
-          "name": "Old Town Paphos & Kennedy Square",
-          "distance": "2-3 km, car or bus",
-          "tip": "Good for cafes, local streets, small shops, and a more authentic Paphos feel. Best visited late afternoon.",
-          "mapsUrl": "https://www.google.com/maps/search/Kennedy+Square+Paphos+Cyprus"
+          "name": "Paphos Harbour & Paphos Castle",
+          "distance": "1.8–2.3 km, walk, car, or bus",
+          "tip": "Good for an easy evening plan. Combines history, sea views, food, and a relaxed walk. Great harbour views and restaurants nearby.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paphos+Harbour+Castle+Cyprus"
         },
         {
           "name": "Kato Paphos Archaeological Park",
-          "distance": "3-4 km, car or bus",
-          "tip": "Top cultural site in Cyprus. Roman mosaics considered among the finest in the eastern Mediterranean, UNESCO listed.",
-          "mapsUrl": "https://www.google.com/maps/search/Kato+Paphos+Archaeological+Park+Cyprus"
+          "distance": "1.8–2.5 km, walk, car, or bus",
+          "tip": "One of the top cultural sites in Cyprus and very convenient from this location. Roman mosaics and ruins. Best visited in the morning during hot months.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kato+Paphos+Archaeological+Park+Cyprus"
         },
         {
-          "name": "Paphos Harbour & Castle",
-          "distance": "3.5-4 km, car or scenic walk",
-          "tip": "Easy evening plan. Byzantine fort rebuilt by the Lusignans, then Venetians, then Ottomans in the 16th century.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Castle+Harbour+Cyprus"
+          "name": "Tombs of the Kings",
+          "distance": "2.2–3 km, car, bus, or long walk",
+          "tip": "One of the most important historical sites in Paphos. Worth visiting even if not usually into archaeology. Great sea views and a nice sunset walk.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tombs+of+the+Kings+Paphos+Cyprus"
+        },
+        {
+          "name": "Old Town Paphos & Kennedy Square",
+          "distance": "2–3 km, car, bus, or uphill walk",
+          "tip": "Nice for a cultural walk, cafés, small shops, and a more local Paphos feeling. Best late afternoon.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kennedy+Square+Paphos+Cyprus"
         },
         {
           "name": "Agios Neophytos Monastery",
-          "distance": "10-12 km, car",
-          "tip": "Beautiful half-day stop. Founded in the 12th century by Saint Neophytos in a secluded valley north of Paphos.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Neophytos+Monastery+Paphos+Cyprus"
+          "distance": "10–13 km, car or taxi",
+          "tip": "A beautiful half-day cultural stop. Quiet, scenic, and more local than the main tourist sites. Stunning frescoes and peaceful views.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agios+Neophytos+Monastery+Paphos+Cyprus"
         },
         {
-          "name": "Sea Caves & Edro III Shipwreck",
-          "distance": "17-20 km, car",
-          "tip": "Scenic coast, great for photos and sunset. Combine with Oniro by the Sea and Agios Georgios.",
-          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+          "name": "Sea Caves & Edro III Shipwreck viewpoint",
+          "distance": "18–21 km, car",
+          "tip": "More scenic than historical, but very guest friendly. Combine with Oniro by the Sea, Sea Caves, and Agios Georgios. Great for photos and sunset.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Edro+III+Shipwreck+Sea+Caves+Peyia+Cyprus"
         },
         {
-          "name": "Agios Georgios Archaeological Site",
-          "distance": "20-22 km, car",
-          "tip": "Quiet ruins with sea views, off the tourist trail. Good if already heading toward Sea Caves or Lara.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Archaeological+Site+Peyia+Cyprus"
+          "name": "Agios Georgios Archaeological Site, Peyia",
+          "distance": "21–24 km, car",
+          "tip": "A calmer alternative to the famous Paphos sites. Nice if already driving towards Sea Caves or Lara. Quiet ruins with sea views.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agios+Georgios+Archaeological+Site+Peyia+Cyprus"
         },
         {
           "name": "Petra tou Romiou (Aphrodite's Rock)",
-          "distance": "27-30 km, car",
-          "tip": "Most iconic scenic stop in Cyprus. Better for views and mythology than swimming.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+          "distance": "25–28 km, car",
+          "tip": "One of the most iconic scenic stops in Cyprus. Better for views and photos than swimming. Mythology, dramatic coast, unforgettable scenery.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petra+tou+Romiou+Aphrodite%27s+Rock+Cyprus"
         },
         {
-          "name": "Akamas Peninsula",
-          "distance": "30-45 km, car or guided tour",
-          "tip": "Wild nature, viewpoints, walking trails. Road conditions vary. Best for adventurous guests.",
-          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+          "name": "Akamas Peninsula scenic drive & walking stops",
+          "distance": "30–45 km depending on stop, car, buggy, or guided tour",
+          "tip": "Best for adventurous guests. The landscape feels much wilder than central Paphos. Road conditions vary — a buggy or guided tour is recommended for the rougher tracks.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akamas+Peninsula+Cyprus"
         }
       ]
     },

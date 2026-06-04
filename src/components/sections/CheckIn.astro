@@ -25,7 +25,7 @@ const { property } = Astro.props;
         <span class="text-2xl flex-shrink-0" aria-hidden="true">🔑</span>
         <div>
           <p class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-0.5">Key Location</p>
-          <p class="font-semibold text-charcoal text-base">{property.checkin.keyLocation}</p>
+          <p class="font-semibold text-charcoal text-base" set:html={property.checkin.keyLocation} />
         </div>
       </div>
       <div class="flex items-center gap-4 bg-white rounded-xl p-4">

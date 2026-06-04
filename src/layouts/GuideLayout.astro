@@ -92,11 +92,7 @@ const i18nJson = translations ? JSON.stringify(translations) : '{}';
             var lang = btn.getAttribute('data-lang-btn');
             if (lang === 'en') {
               localStorage.removeItem('lang');
-              if (localStorage.getItem('lang') !== null) {
-                location.reload();
-              } else {
-                applyLanguage('en');
-              }
+              location.reload();
             } else {
               localStorage.setItem('lang', lang);
               applyLanguage(lang);

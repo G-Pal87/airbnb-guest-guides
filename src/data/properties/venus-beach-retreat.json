@@ -28,13 +28,12 @@
     "emergencyPhone": "112"
   },
   "wifi": {
-    "networkName": "Lux Poolside Escape",
+    "networkName": "Venus Beach Retreat",
     "networkNames": [
-      "Lux Poolside Escape",
-      "D14-WIFI"
+      "TP-Link_011F",
+      "Venus Beach Retreat"
     ],
-    "password": "D141231231233",
-    "notes": "If you experience connection issues, flip the switch on the socket next to the router to restart it. If the problem persists, let us know."
+    "password": "77932303"
   },
   "checkin": {
     "keyLocation": "Two key boxes on the left wall, under Post Box 'D6'. Open the one on the right",

@@ -120,52 +120,52 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "Place the metallic key in the key plug by the door to power the apartment. Take it when you leave. Each socket has its own wall switch, if something isn't working, check it's turned on. EU adapters provided."
+      "instructions": "Pop the metallic key into the plug by the door to power the apartment, and remember to take it with you when you head out. Each socket also has its own wall switch: if something isn't turning on, that's usually why. EU adapters available if needed."
     },
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "Electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans provided, help yourself. ⚠️ Clean dishes promptly and keep counters clear, warm weather attracts insects."
+      "instructions": "Everything you need is here: electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans are all yours to use. One tip: please wash dishes promptly and keep the counters clear, warm weather can attract insects."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "In the kitchen. Quick Wash works for most loads."
+      "instructions": "Quick Wash works well for most loads. You'll find it in the kitchen."
     },
     {
       "name": "Dishwasher",
       "icon": "🍽️",
-      "instructions": "Tabs under the sink. Use the Eco program for everyday dishes."
+      "instructions": "Tabs are under the sink. The Eco programme works great for everyday dishes."
     },
     {
       "name": "Shower & Hot Water",
       "icon": "🚿",
-      "instructions": "Takes 2–3 min to warm up, normal. If no hot water, press the heating button next to the bathroom door and wait 20 min. Turn off the heater before stepping in."
+      "instructions": "Give the water a couple of minutes to warm up, that's completely normal. If there's no hot water at all, press the heating button next to the bathroom door and wait about 20 minutes. Just remember to switch the heater off before you step in."
     },
     {
       "name": "Terraces & Umbrella",
       "icon": "🪴",
-      "instructions": "Two terraces, outdoor cushions stored inside. Patio umbrella: keep closed in wind, at night, and before checkout."
+      "instructions": "Two terraces for you to enjoy! Outdoor cushions are stored inside when not in use. Please keep the patio umbrella closed in windy conditions, at night, and before you check out."
     },
     {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "Pool key is on your keychain. No glass, no diving from the edge. No pets in the pool. Be mindful of other guests. Use the pool towels from the sun lounger basket, not the bathroom towels. Rubbish bins are in the parking area, on your right as you walk out past the pool."
+      "instructions": "Your keychain includes the pool key. Please use the pool towels from the sun lounger basket rather than the bathroom ones. No glass or diving from the edge, and no pets in the pool please. Rubbish bins are in the parking area on your right as you walk out past the pool."
     },
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "Towels, hair dryer, and basic toiletries provided. ⚠️ Use the bin next to the toilet, do not flush toilet paper."
+      "instructions": "Towels, a hair dryer, and basic toiletries are all provided. Please use the bin next to the toilet rather than flushing paper, Cyprus plumbing really isn't built for it!"
     },
     {
       "name": "Drinking Water",
       "icon": "💧",
-      "instructions": "Tap water is safe, but many prefer bottled. Available at nearby supermarkets."
+      "instructions": "Tap water is safe to drink, though many guests prefer bottled. You'll find it at the nearby supermarkets."
     },
     {
       "name": "Plants",
       "icon": "🌱",
-      "instructions": "Water every 3–4 days if staying longer, they'll appreciate it!"
+      "instructions": "If you're staying a few days, the plants would love a little water every 3-4 days. They'll appreciate it!"
     }
   ],
   "thingsToDo": [

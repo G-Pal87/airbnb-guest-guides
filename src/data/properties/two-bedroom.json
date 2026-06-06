@@ -59,32 +59,32 @@
     {
       "name": "Air Conditioning",
       "icon": "❄️",
-      "instructions": "Three AC units (living room + 2 bedrooms), each with its own remote. Press POWER → COOL → 22–24°C. Keep windows closed when running. Switch off before leaving."
+      "instructions": "There are three AC units: one in the living room and one in each bedroom, each with its own remote. Press POWER, select COOL, and set to 22-24 degrees. Keep windows closed when running for best results, and please switch off before heading out."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "In the laundry room. Liquid detergent under the sink, add to drawer II. Set to 40°C Cotton, press START. Dryer: select DRAIN+SPIN then tumble dry at low heat."
+      "instructions": "You'll find the washing machine in the laundry room. Add liquid detergent (there's some under the sink) to drawer II, set to 40 degrees Cotton, and press START. For drying, select DRAIN+SPIN first, then tumble dry on low heat."
     },
     {
       "name": "Smart TV",
       "icon": "📺",
-      "instructions": "65\" TV in the living room with Netflix and YouTube, use the guest profile or log in to your own. Second TV in the master bedroom. HDMI cable in the drawer under the TV stand."
+      "instructions": "The living room has a 65-inch TV with Netflix and YouTube ready to go. Just use the guest profile or log in to your own account. There's also a second TV in the master bedroom. An HDMI cable is in the drawer under the TV stand if you need it."
     },
     {
       "name": "Full Kitchen",
       "icon": "🍳",
-      "instructions": "4-ring ceramic hob with oven. Pots and pans in lower cabinets. Oven preheats in ~15 min, fan symbol recommended. Dishwasher under the sink, tablets in the cupboard above."
+      "instructions": "You have a full 4-ring ceramic hob and oven. Pots and pans are in the lower cabinets. The oven takes about 15 minutes to preheat; the fan symbol is recommended. The dishwasher is under the sink with tablets in the cupboard above."
     },
     {
       "name": "BBQ / Grill",
       "icon": "🔥",
-      "instructions": "Charcoal BBQ on the balcony (summer only). Charcoal in the terracotta pot beside it. Firelighters in the kitchen drawer, light, place under charcoal pyramid, wait 20 min before cooking. Extinguish fully with water after use."
+      "instructions": "There's a charcoal BBQ on the balcony, perfect for a summer evening! Charcoal is in the terracotta pot beside it, and firelighters are in the kitchen drawer. Light the firelighters, place them under a charcoal pyramid, and wait about 20 minutes before cooking. Please extinguish fully with water after use."
     },
     {
       "name": "Dishwasher",
       "icon": "🍽️",
-      "instructions": "Under the sink. Tablets in the box below. ECO for full loads, QUICK 45 for light use. Empty when cool."
+      "instructions": "Tablets are in the box below the sink. ECO works great for full loads, QUICK 45 for lighter use. Leave it open to air when you're done."
     }
   ],
   "thingsToDo": [

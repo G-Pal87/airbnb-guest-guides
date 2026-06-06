@@ -101,37 +101,37 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "Each socket has its own wall switch, if an appliance isn't working, check it's turned on. EU adapters provided."
+      "instructions": "Each socket has its own wall switch: if something isn't working, the switch is usually the reason. EU adapters are available if you need them."
     },
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "Electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans provided, help yourself. ⚠️ Clean dishes promptly and keep counters clear, warm weather attracts insects."
+      "instructions": "Everything you need is here: electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans are all yours to use. One tip: please wash dishes promptly and keep the counters clear, warm weather can attract insects."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "In the kitchen. Quick Wash works for most loads."
+      "instructions": "Quick Wash works well for most loads. You'll find it in the kitchen."
     },
     {
       "name": "Shower & Hot Water",
       "icon": "🚿",
-      "instructions": "Takes 2–3 min to warm up, normal. If no hot water, press the heating button next to the bathroom door and wait 20 min. Turn off the heater before stepping in."
+      "instructions": "Give the water a couple of minutes to warm up, that's completely normal. If there's no hot water at all, press the heating button next to the bathroom door and wait about 20 minutes. Just remember to switch the heater off before you step in."
     },
     {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "No key needed, open to all guests. No glass, no diving. Be mindful of other guests. Use the provided beach towels, not bathroom towels."
+      "instructions": "The pool is open to all guests, no key needed, just head down whenever you like! Please use the beach towels provided rather than the bathroom ones, and keep glass and diving out of the pool area. Be mindful of other guests too."
     },
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "Towels, hair dryer, and basic toiletries provided. ⚠️ Use the bin next to the toilet, do not flush toilet paper."
+      "instructions": "Towels, a hair dryer, and basic toiletries are all provided. Please use the bin next to the toilet rather than flushing paper, Cyprus plumbing really isn't built for it!"
     },
     {
       "name": "Drinking Water",
       "icon": "💧",
-      "instructions": "Tap water is safe, but many prefer bottled. Available at nearby supermarkets."
+      "instructions": "Tap water is safe to drink, though many guests prefer bottled. You'll find it at the nearby supermarkets."
     }
   ],
   "thingsToDo": [

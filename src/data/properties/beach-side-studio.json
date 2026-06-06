@@ -58,22 +58,22 @@
     {
       "name": "Air Conditioning",
       "icon": "❄️",
-      "instructions": "Remote on the bedside table. Press POWER → COOL → set 22–24°C. Switch off when leaving."
+      "instructions": "The remote is on the bedside table. Press POWER, select COOL, and set to 22-24 degrees. Please remember to switch it off when you head out."
     },
     {
       "name": "Smart TV",
       "icon": "📺",
-      "instructions": "32-inch smart TV on the dresser. Press the Netflix shortcut button on the remote for instant streaming. No password required on the guest profile. For live TV, press HOME and select Channels. HDMI port on the side if you wish to connect a device."
+      "instructions": "There's a 32-inch smart TV on the dresser. Hit the Netflix shortcut on the remote for instant streaming, no password needed on the guest profile. For live TV, press HOME and select Channels. There's also an HDMI port on the side if you'd like to connect your own device."
     },
     {
       "name": "Mini Kitchen",
       "icon": "🍳",
-      "instructions": "Two-ring hob, small oven, microwave, and full utensils. Oven: 50–250°C, swirling arrow = fan mode. Cookware in the cupboard below."
+      "instructions": "You have a two-ring hob, small oven, microwave, and everything you need to cook. The oven goes up to 250 degrees (the swirling arrow is fan mode). Cookware is in the cupboard below."
     },
     {
       "name": "Coffee Maker",
       "icon": "☕",
-      "instructions": "Drip coffee maker on the counter. Coffee tin beside it. Fill to MAX, add filter and 2 tbsp coffee, press BREW, ready in ~5 min."
+      "instructions": "A drip coffee maker is on the counter with a coffee tin beside it. Fill to MAX, add a filter and about 2 tablespoons of coffee, press BREW, and it'll be ready in around 5 minutes. Enjoy your morning!"
     }
   ],
   "thingsToDo": [

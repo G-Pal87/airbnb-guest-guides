@@ -5,6 +5,7 @@ interface ContactPerson {
   phone: string;
   whatsapp: string;
   email?: string;
+  image?: string;
 }
 
 interface Props {
@@ -41,8 +42,11 @@ const hasCohost = !!property.cohost;
         {/* Host (Giorgos) — left */}
         <div class="bg-surface rounded-2xl shadow-md p-4 border border-stone-100 flex flex-col gap-3">
           <div class="flex items-center gap-2">
-            <div class="w-9 h-9 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0" aria-hidden="true">
-              <span class="text-lg">🏡</span>
+            <div class="w-9 h-9 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 overflow-hidden" aria-hidden="true">
+              {property.host.image
+                ? <img src={property.host.image} alt={property.host.name} class="w-full h-full object-cover" />
+                : <span class="text-lg">🏡</span>
+              }
             </div>
             <div class="min-w-0">
               <p class="font-bold text-charcoal text-sm leading-tight">{property.host.name}</p>
@@ -153,8 +157,11 @@ const hasCohost = !!property.cohost;
     ) : (
       <div class="bg-surface rounded-2xl shadow-md p-6 border border-stone-100 mb-6">
         <div class="flex items-center gap-4 mb-5">
-          <div class="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0" aria-hidden="true">
-            <span class="text-2xl">🏡</span>
+          <div class="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0 overflow-hidden" aria-hidden="true">
+            {property.host.image
+              ? <img src={property.host.image} alt={property.host.name} class="w-full h-full object-cover" />
+              : <span class="text-2xl">🏡</span>
+            }
           </div>
           <div>
             <p class="font-bold text-charcoal text-lg">{property.host.name}</p>

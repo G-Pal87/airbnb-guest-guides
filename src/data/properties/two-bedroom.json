@@ -85,6 +85,11 @@
       "name": "Dishwasher",
       "icon": "🍽️",
       "instructions": "Tablets are in the box below the sink. ECO works great for full loads, QUICK 45 for lighter use. Leave it open to air when you're done."
+    },
+    {
+      "name": "Shower & Hot Water",
+      "icon": "🚿",
+      "instructions": "Water is heated by solar panels on the roof, so it's warm and eco-friendly! Give it 2-3 minutes to come through, that's just the water making its way down from the panels. On overcast or cloudy days the solar may not be enough: press the boiler button next to the bathroom door and wait 20-30 minutes per person before showering. ⚠️ Always switch the boiler off before stepping in."
     }
   ],
   "thingsToDo": [

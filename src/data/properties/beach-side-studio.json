@@ -74,6 +74,11 @@
       "name": "Coffee Maker",
       "icon": "☕",
       "instructions": "A drip coffee maker is on the counter with a coffee tin beside it. Fill to MAX, add a filter and about 2 tablespoons of coffee, press BREW, and it'll be ready in around 5 minutes. Enjoy your morning!"
+    },
+    {
+      "name": "Shower & Hot Water",
+      "icon": "🚿",
+      "instructions": "Water is heated by solar panels on the roof, so it's warm and eco-friendly! Give it 2-3 minutes to come through, that's just the water making its way down from the panels. On overcast or cloudy days the solar may not be enough: press the boiler button next to the bathroom door and wait 20-30 minutes per person before showering. ⚠️ Always switch the boiler off before stepping in."
     }
   ],
   "thingsToDo": [

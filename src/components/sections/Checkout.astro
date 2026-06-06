@@ -14,7 +14,6 @@ const { property } = Astro.props;
 function stepIcon(step: string): string {
   const s = step.toLowerCase();
   if (s.includes('fridge') || s.includes('food')) return '🧊';
-  if (s.includes('bed') || s.includes('linen') || s.includes('sheet')) return '🛏️';
   if (s.includes('dish') || s.includes('washing')) return '🍽️';
   if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste')) return '🗑️';
   if (s.includes('window') || s.includes('balcony') || s.includes('door')) return '🪟';
@@ -27,7 +26,6 @@ function stepIcon(step: string): string {
 function stepTitle(step: string): string {
   const s = step.toLowerCase();
   if (s.includes('fridge') || s.includes('food')) return 'Please clear the fridge';
-  if (s.includes('bed') || s.includes('linen') || s.includes('sheet')) return 'Please strip the bed linens';
   if (s.includes('dish') || s.includes('washing')) return 'Please wash up the dishes';
   if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste')) return 'Please take out the rubbish';
   if (s.includes('window') || s.includes('balcony') || s.includes('close')) return 'Please close windows & doors';

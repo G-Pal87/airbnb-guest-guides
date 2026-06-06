@@ -4,7 +4,7 @@
   "subtitle": "Pool & 2 Terraces",
   "tagline": "Your sun-drenched retreat awaits",
   "heroImage": "",
-  "welcomeMessage": "Your vibrant, colourful home with pool and two terraces — all set for you. Relax, explore, and soak up the Mediterranean. We're just a message away.",
+  "welcomeMessage": "Your vibrant, colourful home with pool and two terraces, all set for you. Relax, explore, and soak up the Mediterranean. We're just a message away.",
   "host": {
     "name": "Giorgos",
     "phone": "+357 940 495 35",
@@ -53,8 +53,8 @@
     "notes": "If you have any trouble finding us, call or WhatsApp anytime, we're happy to guide you step by step."
   },
   "gettingHere": {
-    "byCar": "Follow the Google Maps link — it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
-    "parking": "Free parking at the pool area — spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
+    "byCar": "Follow the Google Maps link, it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
+    "parking": "Free parking at the pool area, spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
     "publicTransport": "From Paphos Airport, take Bus 612 and get off at the Tombs of the Kings bus station. From there you have two options: walk (~18 min, 1.3 km) or hop on Bus 615 for one stop to get a bit closer, then walk the rest (~4 min). On foot: head toward the AVLIDA Hotel → walk past it → turn right at the Esso gas station → the King's Park complex entrance is just behind it. ⚠️ Buses only accept cash. €2.50 per ride per person.",
     "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
     "directionPhotos": [
@@ -124,12 +124,12 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "Place the metallic key in the key plug by the door to power the apartment. Take it when you leave. Each socket has its own wall switch — if something isn't working, check it's turned on. EU adapters provided."
+      "instructions": "Place the metallic key in the key plug by the door to power the apartment. Take it when you leave. Each socket has its own wall switch, if something isn't working, check it's turned on. EU adapters provided."
     },
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "Electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans provided — help yourself. ⚠️ Clean dishes promptly and keep counters clear — warm weather attracts insects."
+      "instructions": "Electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans provided, help yourself. ⚠️ Clean dishes promptly and keep counters clear, warm weather attracts insects."
     },
     {
       "name": "Washing Machine",
@@ -139,7 +139,7 @@
     {
       "name": "Shower & Hot Water",
       "icon": "🚿",
-      "instructions": "Takes 2–3 min to warm up — normal. If no hot water, press the heating button next to the bathroom door and wait 20 min. Turn off the heater before stepping in."
+      "instructions": "Takes 2–3 min to warm up, normal. If no hot water, press the heating button next to the bathroom door and wait 20 min. Turn off the heater before stepping in."
     },
     {
       "name": "Pool Access",
@@ -149,7 +149,7 @@
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "Towels, hair dryer, and basic toiletries provided. ⚠️ Use the bin next to the toilet — do not flush toilet paper."
+      "instructions": "Towels, hair dryer, and basic toiletries provided. ⚠️ Use the bin next to the toilet, do not flush toilet paper."
     },
     {
       "name": "Drinking Water",
@@ -159,7 +159,7 @@
     {
       "name": "Plants",
       "icon": "🌱",
-      "instructions": "Water every 3–4 days if staying longer — they'll appreciate it!"
+      "instructions": "Water every 3–4 days if staying longer, they'll appreciate it!"
     }
   ],
   "thingsToDo": [

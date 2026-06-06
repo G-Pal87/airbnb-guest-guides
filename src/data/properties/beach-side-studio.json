@@ -39,7 +39,7 @@
     "notes": "The terrace gate padlock uses the same key as the door. The terrace is semi-private and shared with the upstairs guest. Please be mindful of noise, especially in the evenings."
   },
   "gettingHere": {
-    "directions": "From Larnaca Airport, take the A3 east to Ayia Napa, then coastal road B3 north toward Paralimni. Follow signs for Paralimni Coast / Thalassa Beach. Turn left onto Thalassa Lane just after the small white chapel — the studio is at the end of the lane with a blue gate.",
+    "directions": "From Larnaca Airport, take the A3 east to Ayia Napa, then coastal road B3 north toward Paralimni. Follow signs for Paralimni Coast / Thalassa Beach. Turn left onto Thalassa Lane just after the small white chapel, the studio is at the end of the lane with a blue gate.",
     "parking": "Small private car park at the end of Thalassa Lane. Space for 1 car per studio. Your space is marked '1A'.",
     "publicTransport": "Bus 612 from Paphos Airport stops at Tombs of the Kings (18-min walk, ~1.3 km). Alternatively, Bus 615 is one stop closer. ⚠️ Cash only. €2.50 per ride.",
     "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min.",
@@ -77,7 +77,7 @@
     {
       "name": "Coffee Maker",
       "icon": "☕",
-      "instructions": "Drip coffee maker on the counter. Coffee tin beside it. Fill to MAX, add filter and 2 tbsp coffee, press BREW — ready in ~5 min."
+      "instructions": "Drip coffee maker on the counter. Coffee tin beside it. Fill to MAX, add filter and 2 tbsp coffee, press BREW, ready in ~5 min."
     }
   ],
   "thingsToDo": [

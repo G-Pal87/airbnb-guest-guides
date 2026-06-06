@@ -836,10 +836,17 @@
     },
     {
       "icon": "🚕",
-      "name": "Bolt (Taxi)",
+      "name": "Bolt",
       "info": "Budget-friendly ride app. Good alternative to metered taxis around Paphos.",
       "linkText": "Download Bolt",
       "linkUrl": "https://bolt.eu/en/cities/paphos/"
+    },
+    {
+      "icon": "🚖",
+      "name": "Taxi",
+      "info": "Various taxi services are available online. One reliable option is Paphos Taxi Airport, where you can also arrange a pickup directly via WhatsApp: +357 99 460 829.",
+      "linkText": "Paphos Taxi Airport",
+      "linkUrl": "https://www.paphostaxiairport.com/"
     }
   ],
   "emergency": {

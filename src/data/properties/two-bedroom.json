@@ -18,7 +18,8 @@
   },
   "quickRef": {
     "checkoutTime": "11:00 AM",
-    "emergencyPhone": "112"
+    "emergencyPhone": "112",
+    "checkinTime": "15:00"
   },
   "wifi": {
     "networkName": "KyprosApt_WiFi",

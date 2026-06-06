@@ -56,8 +56,7 @@
   "gettingHere": {
     "byCar": "Follow the Google Maps link, it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
     "parking": "Free parking at the pool area, spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
-    "publicTransport": "From Paphos Airport, take Bus 612 and get off at the Tombs of the Kings bus station. From there you have two options: walk (~18 min, 1.3 km) or hop on Bus 615 for one stop to get a bit closer, then walk the rest (~4 min). On foot: head toward the AVLIDA Hotel → walk past it → turn right at the Esso gas station → the King's Park complex entrance is just behind it. ⚠️ Buses only accept cash. €2.50 per ride per person.",
-    "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
+    "publicTransport": "From Paphos Airport, take Bus 612. From the stop you have two options: walk (~18 min, 1.3 km) or hop on Bus 615 for one stop to get a bit closer, then walk the rest (~4 min). On foot: head toward the AVLIDA Hotel, walk past it, turn right at the Esso gas station, and the King's Park complex entrance is just behind it. ⚠️ Buses only accept cash. €2.50 per ride per person.",
     "directionPhotos": [
       {
         "src": "/airbnb-guest-guides/images/luxe-poolside-escape/esso-gas-station.jpeg",

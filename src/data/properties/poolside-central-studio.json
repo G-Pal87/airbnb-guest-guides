@@ -47,9 +47,8 @@
   "gettingHere": {
     "byCar": "Head to Kings Avenue Mall, Byzantium Gardens is right next door. ⚠️ Google Maps may route you through a pedestrian promenade on the last stretch, go around the block instead. See the photo guide below.",
     "parking": "Free parking anywhere in the complex. Use the chip on your keychain to open the main gate. To exit by car, pull up to the STOP/WAIT sign, the gate opens automatically.",
-    "publicTransport": "Bus 612 from Paphos Airport, get off at Kings Avenue Mall (3-min walk to the apartment). Missed it? Next stop is Tombs of the Kings, a 5-min walk. ⚠️ Cash only. €2.50 per ride.",
+    "publicTransport": "Bus 612 from Paphos Airport, get off at Kings Avenue Mall (3-min walk to the apartment). Missed it? The next stop is just a 5-min walk. ⚠️ Cash only. €2.50 per ride.",
     "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride.",
-    "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
     "directionPhotos": [
       {
         "src": "/airbnb-guest-guides/images/poolside-central-studio/Google%20Maps%20Screenshot.png",

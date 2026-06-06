@@ -110,14 +110,10 @@
   "houseRules": [
     "No smoking inside, balconies and terraces only",
     "No parties, events or loud music. Quiet hours 10pm to 8am",
-    "No pets allowed on the furniture or in the pool",
-    "Please use pool towels (in the sun lounger basket), not the bathroom towels",
-    "Pool area: absolutely no glass, no diving from the edge",
     "Keep air conditioning doors and windows closed when in use",
     "Make sure to ventilate the apartment regularly while you are inside. Open windows and doors when the AC is off",
     "Checkout strictly by 11:00 AM",
     "Any breakages must be reported, we understand accidents happen",
-    "Rubbish bins are in the parking area. As you walk out of the parking area, they are on your right hand side after the pool",
     "Return keys to the keybox and reset the code at checkout. Lost or locked-in keys will require a locksmith call-out at your cost."
   ],
   "appliances": [
@@ -154,7 +150,7 @@
     {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "Pool key is on your keychain. Be mindful of other guests. Use the beach towels for the pool, not bathroom towels."
+      "instructions": "Pool key is on your keychain. No glass, no diving from the edge. No pets in the pool. Be mindful of other guests. Use the pool towels from the sun lounger basket, not the bathroom towels. Rubbish bins are in the parking area, on your right as you walk out past the pool."
     },
     {
       "name": "Bathroom",

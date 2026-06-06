@@ -3,6 +3,7 @@ interface Props {
   property: {
     checkin: {
       keyLocation: string;
+      keyPhotoStart?: number;
       accessCode: string;
       steps: string[];
       notes: string;
@@ -38,6 +39,14 @@ const { property } = Astro.props;
       <div class="px-5 pb-5 pt-1">
         <div class="border-t border-accent/20 pt-4 space-y-4">
           <p class="font-semibold text-charcoal text-base" data-i18n="checkin.keyLocation" data-i18n-html set:html={property.checkin.keyLocation} />
+          {property.checkin.keyPhotoStart && (
+            <a
+              href={`#direction-photo-${property.checkin.keyPhotoStart}`}
+              class="inline-flex items-center gap-1.5 bg-amber-50 text-amber-700 border border-amber-200 text-xs font-semibold px-3 py-1.5 rounded-full hover:bg-amber-100 transition-colors"
+            >
+              📸 See photos {property.checkin.keyPhotoStart} onwards below
+            </a>
+          )}
           <div class="flex items-center gap-4 bg-white rounded-xl p-4">
             <span class="text-xl" aria-hidden="true">🔢</span>
             <div>

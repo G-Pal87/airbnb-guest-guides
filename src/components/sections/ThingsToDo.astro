@@ -8,6 +8,7 @@ interface ActivityItem {
 
 interface ActivityCategory {
   category: string;
+  icon?: string;
   items: ActivityItem[];
 }
 
@@ -19,17 +20,25 @@ interface Props {
 
 const { property } = Astro.props;
 
-const categoryIcons: Record<string, string> = {
-  'Beaches': '🏖️',
-  'Sightseeing': '🏛️',
-  'Activities': '🤿',
+const CATEGORY_ICONS: Record<string, string> = {
+  'Beaches': '🏝️',
+  'Historical Sites & Scenic Walks': '🏰',
+  'Attractions & Excursions': '📸',
+  'Hiking & Nature Trails': '⛰️',
+  'Eat & Drink': '🍽️',
+  'Shopping': '🛍️',
 };
 
 function getCategoryIcon(category: string): string {
-  return categoryIcons[category] ?? '✨';
+  for (const [key, icon] of Object.entries(CATEGORY_ICONS)) {
+    if (category.startsWith(key)) return icon;
+  }
+  return '✨';
 }
 
-const VISIBLE_COUNT = 6;
+function stripEmoji(text: string): string {
+  return text.replace(/[\u{1F300}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]/gu, '').trim();
+}
 ---
 
 <section id="things-to-do" class="py-12 bg-white" aria-labelledby="things-to-do-heading">
@@ -38,79 +47,70 @@ const VISIBLE_COUNT = 6;
       Things To Do
     </h2>
 
-    <div class="space-y-8">
+    <div class="space-y-3">
       {property.thingsToDo.map((group: ActivityCategory, gi: number) => (
-        <div>
-          <h3 class="font-serif text-xl font-semibold text-primary mb-4 flex items-center gap-2">
-            <span aria-hidden="true">{getCategoryIcon(group.category)}</span>
-            <span data-i18n={`thingsToDo.${gi}.category`}>{group.category}</span>
-          </h3>
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" data-group={gi}>
-            {group.items.map((item: ActivityItem, i: number) => (
-              <div
-                class={`bg-surface rounded-2xl shadow-md p-4 border border-stone-100${i >= VISIBLE_COUNT ? ' extra-item hidden' : ''}`}
-              >
-                <div class="flex items-start justify-between gap-2 mb-2">
-                  <h4 class="font-semibold text-charcoal text-sm leading-snug">{item.name}</h4>
-                  <span class="flex-shrink-0 bg-primary/10 text-primary text-xs font-semibold px-2.5 py-1 rounded-full whitespace-nowrap">
-                    {item.distance}
-                  </span>
-                </div>
-                <p class="text-stone-500 text-xs leading-relaxed">{item.tip}</p>
-                {item.mapsUrl && (
-                  <a
-                    href={item.mapsUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="inline-flex items-center gap-1 mt-2 text-primary text-xs font-semibold hover:underline"
-                  >
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                    </svg>
-                    Open in Maps
-                  </a>
-                )}
-              </div>
-            ))}
-          </div>
-          {group.items.length > VISIBLE_COUNT && (
-            <button
-              type="button"
-              data-toggle-group={gi}
-              data-hidden-count={group.items.length - VISIBLE_COUNT}
-              class="toggle-btn mt-4 w-full flex items-center justify-center gap-2 text-primary text-sm font-semibold py-3 rounded-2xl border border-primary/30 hover:bg-primary/5 transition-colors"
+        <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">
+          <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer list-none select-none min-h-[56px] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset rounded-2xl">
+            <span class="text-2xl flex-shrink-0" aria-hidden="true">{group.icon ?? getCategoryIcon(group.category)}</span>
+            <span class="font-semibold text-charcoal flex-1" data-i18n={`thingsToDo.${gi}.category`}>
+              {stripEmoji(group.category)}
+            </span>
+            <span class="flex-shrink-0 bg-primary/10 text-primary text-xs font-semibold px-2.5 py-1 rounded-full mr-2">
+              {group.items.length}
+            </span>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-5 w-5 text-stone-400 flex-shrink-0 transition-transform duration-200 group-open:rotate-180"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              aria-hidden="true"
             >
-              <span class="toggle-label">Show {group.items.length - VISIBLE_COUNT} more</span>
-              <svg class="toggle-chevron h-4 w-4 transition-transform duration-200" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-              </svg>
-            </button>
-          )}
-        </div>
+              <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+          </summary>
+          <div class="px-5 pb-5 pt-1">
+            <div class="border-t border-stone-100 pt-4 space-y-3">
+              {group.items.map((item: ActivityItem, i: number) => (
+                <div class="flex items-start gap-3">
+                  <span
+                    class="flex-shrink-0 w-6 h-6 rounded-full bg-primary/10 text-primary font-bold text-xs flex items-center justify-center mt-0.5"
+                    aria-hidden="true"
+                  >
+                    {i + 1}
+                  </span>
+                  <div class="flex-1 min-w-0">
+                    <div class="flex items-start justify-between gap-2 flex-wrap">
+                      <p class="font-semibold text-charcoal text-sm leading-snug" data-i18n={`thingsToDo.${gi}.items.${i}.name`}>
+                        {item.name}
+                      </p>
+                      <span class="flex-shrink-0 bg-stone-100 text-stone-500 text-xs font-medium px-2 py-0.5 rounded-full whitespace-nowrap">
+                        {item.distance}
+                      </span>
+                    </div>
+                    <p class="text-stone-500 text-xs leading-relaxed mt-1" data-i18n={`thingsToDo.${gi}.items.${i}.tip`}>
+                      {item.tip}
+                    </p>
+                    {item.mapsUrl && (
+                      <a
+                        href={item.mapsUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="inline-flex items-center gap-1 mt-1.5 text-primary text-xs font-semibold hover:underline"
+                      >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                        </svg>
+                        Open in Maps
+                      </a>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </details>
       ))}
     </div>
   </div>
 </section>
-
-<script>
-  document.querySelectorAll<HTMLButtonElement>('.toggle-btn').forEach((btn) => {
-    const groupId = btn.getAttribute('data-toggle-group');
-    const hiddenCount = parseInt(btn.getAttribute('data-hidden-count') ?? '0', 10);
-    const grid = document.querySelector<HTMLElement>(`[data-group="${groupId}"]`);
-    if (!grid) return;
-
-    let expanded = false;
-
-    btn.addEventListener('click', () => {
-      expanded = !expanded;
-      grid.querySelectorAll<HTMLElement>('.extra-item').forEach((el) => {
-        el.classList.toggle('hidden', !expanded);
-      });
-      const label = btn.querySelector('.toggle-label');
-      const chevron = btn.querySelector<HTMLElement>('.toggle-chevron');
-      if (label) label.textContent = expanded ? 'Show less' : `Show ${hiddenCount} more`;
-      if (chevron) chevron.style.transform = expanded ? 'rotate(180deg)' : '';
-    });
-  });
-</script>

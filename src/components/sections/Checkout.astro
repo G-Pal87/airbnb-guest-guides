@@ -25,12 +25,12 @@ function stepIcon(step: string): string {
 
 function stepTitle(step: string): string {
   const s = step.toLowerCase();
-  if (s.includes('fridge') || s.includes('food')) return 'Please clear the fridge';
-  if (s.includes('dish') || s.includes('washing')) return 'Please wash up the dishes';
-  if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste')) return 'Please take out the rubbish';
-  if (s.includes('window') || s.includes('balcony') || s.includes('close')) return 'Please close windows & doors';
-  if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return 'Please switch off lights & AC';
-  if (s.includes('key') || s.includes('keybox') || s.includes('reception')) return 'Please return the keys';
+  if (s.includes('fridge') || s.includes('food')) return 'Clear the fridge';
+  if (s.includes('dish') || s.includes('washing')) return 'Wash up the dishes';
+  if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste')) return 'Take out the rubbish';
+  if (s.includes('window') || s.includes('balcony') || s.includes('close')) return 'Close windows & doors';
+  if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return 'Switch off lights & AC';
+  if (s.includes('key') || s.includes('keybox') || s.includes('reception')) return 'Return the keys';
   if (s.includes('whatsapp') || s.includes('message') || s.includes('let us know')) return 'Drop us a message!';
   return step.split(/[.!,]/)[0].slice(0, 45);
 }

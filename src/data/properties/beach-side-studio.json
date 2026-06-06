@@ -430,6 +430,197 @@
           "mapsUrl": "https://www.google.com/maps/search/Troodos+Nature+Trails+Cyprus"
         }
       ]
+    },
+    {
+      "category": "Eat & Drink",
+      "items": [
+        {
+          "name": "Karlina Restaurant",
+          "distance": "300-500m, walk",
+          "tip": "Easiest no-car dinner option near Avlida. Ranked among the top restaurants near Tombs of the Kings.",
+          "type": "Greek / Mediterranean",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Karlina+Restaurant+Paphos+Cyprus"
+        },
+        {
+          "name": "Dias Zeus Greek Restaurant",
+          "distance": "500-800m, walk",
+          "tip": "Reliable nearby option on Tombs of the Kings Avenue. Greek and Mediterranean with strong guest ratings.",
+          "type": "Greek / Meze",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Dias+Zeus+Restaurant+Paphos+Cyprus"
+        },
+        {
+          "name": "Tea for Two",
+          "distance": "700m-1km, walk",
+          "tip": "Good for an easy breakfast or lunch close to home. Friendly service and great value.",
+          "type": "Café / Brunch",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/Tea+for+Two+Tombs+of+the+Kings+Paphos"
+        },
+        {
+          "name": "Psarou Fish Tavern",
+          "distance": "Near Tombs of the Kings",
+          "tip": "Cozy tavern known for fresh fish, traditional meze, and a friendly local vibe.",
+          "type": "Seafood",
+          "priceRange": "€€",
+          "mapsUrl": "https://maps.app.goo.gl/fTLfXHaodxiNTSBn8"
+        },
+        {
+          "name": "Kingfisher Taverna",
+          "distance": "Near Tombs of the Kings",
+          "tip": "Small, relaxed taverna serving high-quality fish dishes and local favourites in a more upscale setting.",
+          "type": "Seafood",
+          "priceRange": "€€€",
+          "mapsUrl": "https://maps.app.goo.gl/Au7TVerkHzFipkJPA"
+        },
+        {
+          "name": "Three Little Pigs",
+          "distance": "Walking distance",
+          "tip": "Local favourite with high-quality food, great service, and a lovely atmosphere. Their house wine is a treat!",
+          "type": "Cypriot",
+          "priceRange": "€€",
+          "mapsUrl": "https://maps.app.goo.gl/dsi6B8b2kJ6L7o3q8"
+        },
+        {
+          "name": "Kings Avenue Mall Food Court",
+          "distance": "1.5-2km, walk or bus",
+          "tip": "Not special, but very practical. Good for families, quick food, coffee, or escaping the heat.",
+          "type": "Food Court",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
+        },
+        {
+          "name": "Old Town Paphos cafés",
+          "distance": "2-3km, car or bus",
+          "tip": "More local feeling than the harbour. Nice for brunch, coffee, or early evening drinks.",
+          "type": "Café / Local",
+          "mapsUrl": "https://www.google.com/maps/search/Old+Town+Paphos+cafes+Cyprus"
+        },
+        {
+          "name": "Pallia Ilektriki",
+          "distance": "2.5-3km, car or bus",
+          "tip": "A good Old Town option. Ranked among popular places near Old Town Paphos.",
+          "type": "Cypriot / Café",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Pallia+Ilektriki+Paphos+Cyprus"
+        },
+        {
+          "name": "Ta Pinakia",
+          "distance": "2.5-3km, car or bus",
+          "tip": "Good if you want something less harbour-focused. Well-rated near Old Town Paphos.",
+          "type": "Greek / Cypriot",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Ta+Pinakia+Paphos+Cyprus"
+        },
+        {
+          "name": "O Firis",
+          "distance": "Short drive",
+          "tip": "Modern twist on Cypriot cuisine with generous portions. Live music almost every evening. Book ahead!",
+          "type": "Cypriot Tavern",
+          "priceRange": "€€",
+          "mapsUrl": "https://maps.app.goo.gl/bkobzXcbYZ2pXZaF9"
+        },
+        {
+          "name": "Paphos Harbour restaurants",
+          "distance": "3.5-4km, car or scenic walk",
+          "tip": "Touristy but reliable. Many options for dinner, drinks, and a sunset walk by the sea.",
+          "type": "Various / Harbour",
+          "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+restaurants+Cyprus"
+        },
+        {
+          "name": "King's Restaurant",
+          "distance": "3.5-4km, car or walk",
+          "tip": "Popular harbour area choice. Good fish and Cypriot food.",
+          "type": "Cypriot / Seafood",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Kings+Restaurant+Paphos+Harbour+Cyprus"
+        },
+        {
+          "name": "Theo's Restaurant",
+          "distance": "3.5-4km, car or walk",
+          "tip": "Good for seafood near the harbour. Sea bass, octopus, prawns, and calamari.",
+          "type": "Seafood",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Theos+Restaurant+Paphos+Harbour+Cyprus"
+        },
+        {
+          "name": "The Moorings Café Restaurant",
+          "distance": "3.5-4km, car or walk",
+          "tip": "More about the harbour atmosphere than fine dining. Easy and relaxed.",
+          "type": "Café / Restaurant",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/The+Moorings+Cafe+Paphos+Cyprus"
+        },
+        {
+          "name": "West End Hotel & Restaurant",
+          "distance": "Agios Georgios, ~20km",
+          "tip": "Family-run with generous portions and delicious seafood, steps from the sea.",
+          "type": "Seafood",
+          "priceRange": "€€",
+          "mapsUrl": "https://maps.app.goo.gl/tNS9wHgJtweZJUmSA"
+        },
+        {
+          "name": "Oniro by the Sea",
+          "distance": "17-20km, car",
+          "tip": "One of the best scenic spots in the Paphos area. Combine with Sea Caves and Edro III shipwreck.",
+          "type": "Bar / Restaurant",
+          "priceRange": "€€€",
+          "mapsUrl": "https://www.google.com/maps/search/Oniro+by+the+Sea+Paphos+Cyprus"
+        },
+        {
+          "name": "Kathikas wine village restaurants",
+          "distance": "22-28km, car",
+          "tip": "More authentic than the seafront. Best for a longer lunch or early dinner with wine tasting.",
+          "type": "Cypriot / Wine",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+restaurant+Cyprus"
+        },
+        {
+          "name": "Latchi Harbour tavernas",
+          "distance": "38-42km, car",
+          "tip": "Best combined with a Blue Lagoon boat trip, Baths of Aphrodite, or a Polis day trip.",
+          "type": "Seafood / Tavern",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+taverna+Cyprus"
+        },
+        {
+          "name": "Lidl",
+          "distance": "5 min walk",
+          "tip": "Budget-friendly with a wide range of groceries. Great for stocking up on basics.",
+          "type": "Grocery Store",
+          "priceRange": "€"
+        },
+        {
+          "name": "AlphaMega",
+          "distance": "7 min by car",
+          "tip": "Large supermarket with a wide variety of fresh produce and local Cypriot items.",
+          "type": "Supermarket",
+          "priceRange": "€"
+        }
+      ]
+    },
+    {
+      "category": "Shopping",
+      "items": [
+        {
+          "name": "Kings Avenue Mall",
+          "distance": "5 min drive",
+          "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.",
+          "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7"
+        },
+        {
+          "name": "Paphos Market",
+          "distance": "Nearby",
+          "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.",
+          "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8"
+        },
+        {
+          "name": "Old Town",
+          "distance": "Walking distance",
+          "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops."
+        }
+      ]
     }
   ],
   "eatAndDrink": [

@@ -4,6 +4,8 @@ interface ActivityItem {
   distance: string;
   tip: string;
   mapsUrl?: string;
+  type?: string;
+  priceRange?: string;
 }
 
 interface ActivityCategory {
@@ -38,6 +40,30 @@ function getCategoryIcon(category: string): string {
 
 function stripEmoji(text: string): string {
   return text.replace(/[\u{1F300}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]/gu, '').trim();
+}
+
+function typeIcon(type: string): string {
+  const t = type.toLowerCase();
+  if (t.includes('seafood') || t.includes('fish')) return '🐟';
+  if (t.includes('grocery') || t.includes('supermarket') || t.includes('market')) return '🛒';
+  if (t.includes('café') || t.includes('cafe') || t.includes('coffee') || t.includes('brunch')) return '☕';
+  if (t.includes('bar') || t.includes('cocktail')) return '🍹';
+  if (t.includes('pizza') || t.includes('italian')) return '🍕';
+  if (t.includes('food court')) return '🏬';
+  if (t.includes('cypriot') || t.includes('greek') || t.includes('meze') || t.includes('grill') || t.includes('tavern')) return '🍽️';
+  if (t.includes('wine')) return '🍷';
+  if (t.includes('bakery') || t.includes('pastry')) return '🥐';
+  if (t.includes('snack') || t.includes('kiosk')) return '🍦';
+  return '🍴';
+}
+
+function priceRangeColor(range: string): string {
+  switch (range) {
+    case '€': return 'bg-green-100 text-green-700';
+    case '€€': return 'bg-amber-100 text-amber-700';
+    case '€€€': return 'bg-orange-100 text-orange-700';
+    default: return 'bg-stone-100 text-stone-600';
+  }
 }
 ---
 
@@ -76,7 +102,7 @@ function stripEmoji(text: string): string {
                     class="flex-shrink-0 w-6 h-6 rounded-full bg-primary/10 text-primary font-bold text-xs flex items-center justify-center mt-0.5"
                     aria-hidden="true"
                   >
-                    {i + 1}
+                    {item.type ? typeIcon(item.type) : i + 1}
                   </span>
                   <div class="flex-1 min-w-0">
                     <div class="flex items-start justify-between gap-2 flex-wrap">
@@ -87,6 +113,16 @@ function stripEmoji(text: string): string {
                         {item.distance}
                       </span>
                     </div>
+                    {item.type && (
+                      <div class="flex items-center gap-1.5 mt-1">
+                        <span class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full font-medium">{item.type}</span>
+                        {item.priceRange && (
+                          <span class={`text-xs font-semibold px-2 py-0.5 rounded-full ${priceRangeColor(item.priceRange)}`}>
+                            {item.priceRange}
+                          </span>
+                        )}
+                      </div>
+                    )}
                     <p class="text-stone-500 text-xs leading-relaxed mt-1" data-i18n={`thingsToDo.${gi}.items.${i}.tip`}>
                       {item.tip}
                     </p>

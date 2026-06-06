@@ -11,39 +11,6 @@ interface Props {
 }
 
 const { property } = Astro.props;
-
-function stepIcon(step: string): string {
-  const s = step.toLowerCase();
-  if (s.includes('gate') || s.includes('entrance') || s.includes('enter')) return '🚪';
-  if (s.includes('keybox') || s.includes('key box') || s.includes('key')) return '🔑';
-  if (s.includes('code') || s.includes('password') || s.includes('digit')) return '🔢';
-  if (s.includes('lift') || s.includes('elevator') || s.includes('floor') || s.includes('stair')) return '🛗';
-  if (s.includes('pool')) return '🏊';
-  if (s.includes('post box') || s.includes('mailbox')) return '📬';
-  if (s.includes('park') || s.includes('car')) return '🚗';
-  if (s.includes('door')) return '🚪';
-  if (s.includes('reset') || s.includes('return')) return '↩️';
-  if (s.includes('welcome') || s.includes('enjoy')) return '🏠';
-  return '📍';
-}
-
-function stepTitle(step: string): string {
-  const s = step.toLowerCase();
-  if (s.includes('gate') || (s.includes('enter') && s.includes('main'))) return 'Enter the main gate';
-  if (s.includes('keybox') || s.includes('key box')) return 'Find the key box';
-  if (s.includes('key') && (s.includes('take') || s.includes('collect') || s.includes('pick'))) return 'Collect the key';
-  if (s.includes('post box')) return 'Find the post box';
-  if (s.includes('code') || s.includes('password')) return 'Enter the code';
-  if (s.includes('lift') || s.includes('elevator')) return 'Take the lift';
-  if (s.includes('floor')) return 'Go to the floor';
-  if (s.includes('apartment') || s.includes('door') || s.includes('entrance')) return 'Enter the apartment';
-  if (s.includes('reset') && s.includes('code')) return 'Reset the code';
-  if (s.includes('park')) return 'Parking';
-  if (s.includes('pool')) return 'Pool access';
-  if (s.includes('welcome') || s.includes('enjoy')) return 'Welcome!';
-  // Default: first clause
-  return step.split(/[.!,]/)[0].slice(0, 45);
-}
 ---
 
 <section id="checkin" class="py-12 bg-surface" aria-labelledby="checkin-heading">
@@ -83,35 +50,6 @@ function stepTitle(step: string): string {
         </div>
       </div>
     </details>
-
-    <!-- Steps as accordion -->
-    <h3 class="font-semibold text-charcoal mb-3 flex items-center gap-2" data-i18n="ui.stepByStep">
-      <span aria-hidden="true">📋</span> Step-by-Step
-    </h3>
-    <div class="space-y-3 mb-5">
-      {property.checkin.steps.map((step: string, i: number) => (
-        <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">
-          <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer list-none select-none min-h-[56px] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset rounded-2xl">
-            <span class="text-2xl flex-shrink-0" aria-hidden="true">{stepIcon(step)}</span>
-            <span class="font-semibold text-charcoal flex-1">{stepTitle(step)}</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              class="h-5 w-5 text-stone-400 flex-shrink-0 transition-transform duration-200 group-open:rotate-180"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-              aria-hidden="true"
-            >
-              <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
-            </svg>
-          </summary>
-          <div class="px-5 pb-5 pt-1">
-            <div class="border-t border-stone-100 pt-4">
-              <p class="text-stone-600 text-sm leading-relaxed" data-i18n={`checkin.steps.${i}`}>{step}</p>
-            </div>
-          </div>
-        </details>
-      ))}
-    </div>
 
     <!-- Notes -->
     {property.checkin.notes && (

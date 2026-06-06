@@ -160,11 +160,6 @@
       "name": "Plants",
       "icon": "🌱",
       "instructions": "You'll find a few plants around the apartment, they help keep the space feeling natural and cozy. If you're staying for more than a few days, we'd really appreciate a water every 3-4 days. Thank you! 🌿"
-    },
-    {
-      "icon": "🏊",
-      "name": "Pool & Towels",
-      "instructions": "Pool towels are provided in the apartment. Please use those, not the bathroom towels. The pool area has sunbeds for all guests."
     }
   ],
   "thingsToDo": [

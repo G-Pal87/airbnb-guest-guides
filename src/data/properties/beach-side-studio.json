@@ -864,12 +864,12 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "Clear the fridge of any food and drinks",
-      "Wash any dishes you've used and leave them on the drying rack",
-      "Dispose of any rubbish in the bins in the car park",
-      "Close all windows, the terrace door, and lock the terrace gate",
-      "Switch off the AC, all lights, and unplug any chargers",
-      "Return the key to the lockbox on the door (code: 7890)",
+      "If you could clear the fridge of any food and drinks, we'd appreciate it!",
+      "If you could give any dishes a quick wash and leave them on the drying rack, that would be great!",
+      "If you could dispose of any rubbish in the bins in the car park, that would be a big help!",
+      "Before you head off, please lock all windows, the terrace door, and the terrace gate.",
+      "Please switch off the AC, all lights, and unplug any chargers when you're done.",
+      "When you check out, please return the key to the lockbox on the door (code: 7890).",
       "Drop us a WhatsApp when you're on your way — thank you so much for staying with us!"
     ],
     "lateCheckout": "Late checkout is sometimes possible — just ask by 9pm the evening before and we'll confirm as soon as we can!"

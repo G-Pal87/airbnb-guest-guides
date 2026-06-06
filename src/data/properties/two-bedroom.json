@@ -875,14 +875,14 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "Clear the fridge and cupboards of all your food",
-      "Bag up any rubbish and take it to the labelled bins in the car park",
-      "Run the dishwasher one last time and leave it open to air",
-      "Give the kitchen hob and counters a quick wipe down",
-      "Close and lock all windows, balcony doors and shutters",
-      "Switch off all AC units, lights, and the TV",
-      "Leave the parking space clear for the next guests",
-      "Lock up and return the key to the lockbox (code: 2468)",
+      "If you could clear the fridge and cupboards of all your food, we'd appreciate it!",
+      "If you could bag up any rubbish and take it to the labelled bins in the car park, that would be a big help!",
+      "If you could run the dishwasher one last time and leave it open to air, that would be great!",
+      "If you could give the kitchen hob and counters a quick wipe down, we'd appreciate it!",
+      "Before heading off, please close and lock all windows, balcony doors and shutters.",
+      "Please switch off all AC units, lights, and the TV when you're done.",
+      "Please leave the parking space clear for the next guests — thank you!",
+      "When you're ready, please lock up and return the key to the lockbox (code: 2468).",
       "Drop us a WhatsApp to let us know you're safely on your way — reviews mean the world to us, thank you so much!"
     ],
     "lateCheckout": "Late checkout until 1pm may be possible depending on same-day arrivals. Just ask by 9pm the evening before and we'll confirm. A small fee may apply in peak season."

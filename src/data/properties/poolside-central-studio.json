@@ -851,12 +851,12 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "Clear the fridge and pop any leftover food in the bin",
-      "Wash any dishes you've used and leave them on the drying rack",
-      "Empty the rubbish bin and take the bag to the wheelie bins in the car park",
-      "Close the balcony door and all windows",
-      "Switch off the AC, all lights, and the TV",
-      "Return the key to the keybox and reset the code",
+      "If you could clear out the fridge and pop any leftover food in the bin, we'd appreciate it!",
+      "If you could give any dishes a quick wash and leave them on the drying rack, that would be great!",
+      "If you could empty the rubbish bin and take the bag to the wheelie bins in the car park, that would be a big help!",
+      "Before you head off, please lock the balcony door and all windows.",
+      "Please switch off the AC, all lights, and the TV when you're done.",
+      "When you check out, please return the key to the keybox and reset the code.",
       "Drop us a WhatsApp to let us know you're on your way — it was a real pleasure having you!"
     ],
     "lateCheckout": "Late checkout is generally not available due to our housekeeping schedule, but if you have a special circumstance just let us know and we'll do our very best!"

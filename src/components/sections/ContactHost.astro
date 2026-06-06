@@ -11,6 +11,7 @@ interface Props {
   property: {
     host: ContactPerson;
     cohost?: ContactPerson;
+    hostPhoto?: string;
   };
 }
 
@@ -32,9 +33,19 @@ const hasCohost = !!property.cohost;
     <h2 id="contact-heading" class="font-serif text-3xl font-bold text-charcoal mb-3" data-i18n="ui.contactHost">
       Contact Your Host
     </h2>
-    <p class="text-stone-500 text-base mb-8 leading-relaxed">
+    <p class="text-stone-500 text-base mb-6 leading-relaxed">
       We're here for you throughout your stay. Don't hesitate to reach out with any questions, requests, or if anything needs attention — we genuinely want you to have a wonderful time.
     </p>
+
+    {property.hostPhoto && (
+      <div class="mb-6 rounded-2xl overflow-hidden shadow-md border border-stone-100">
+        <img
+          src={property.hostPhoto}
+          alt="Your hosts"
+          class="w-full object-cover max-h-56"
+        />
+      </div>
+    )}
 
     {hasCohost ? (
       <div class="grid grid-cols-2 gap-3 mb-6">

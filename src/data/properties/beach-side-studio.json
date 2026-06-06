@@ -864,16 +864,16 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "Clear the fridge of all food and drinks",
-      "Strip the bed and leave linens in a pile on the mattress",
-      "Wash up any dishes and leave them on the drying rack",
-      "Dispose of rubbish in the bins provided in the car park",
-      "Close all windows, the terrace door, and the padlocked terrace gate",
+      "Clear the fridge of any food and drinks",
+      "Strip the bed and leave the linens in a pile on the mattress",
+      "Wash any dishes you've used and leave them on the drying rack",
+      "Dispose of any rubbish in the bins in the car park",
+      "Close all windows, the terrace door, and lock the terrace gate",
       "Switch off the AC, all lights, and unplug any chargers",
       "Return the key to the lockbox on the door (code: 7890)",
-      "WhatsApp us when you're on your way. And thank you for choosing us!"
+      "Drop us a WhatsApp when you're on your way — thank you so much for staying with us!"
     ],
-    "lateCheckout": "Late checkout is sometimes possible. Please ask by 9pm the evening before. We'll confirm availability as soon as we can."
+    "lateCheckout": "Late checkout is sometimes possible — just ask by 9pm the evening before and we'll confirm as soon as we can!"
   },
   "cohost": {
     "name": "Rita",

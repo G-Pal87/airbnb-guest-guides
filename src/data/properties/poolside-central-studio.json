@@ -851,16 +851,16 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "Remove all items from the fridge and dispose of leftover food",
-      "Strip the bed and leave linens folded at the foot of the bed",
-      "Wash any dishes used and leave them drying on the rack",
+      "Clear the fridge and pop any leftover food in the bin",
+      "Strip the bed and leave the linens folded at the foot of the bed",
+      "Wash any dishes you've used and leave them on the drying rack",
       "Empty the rubbish bin and take the bag to the wheelie bins in the car park",
-      "Close all windows and the balcony door",
-      "Switch off the air conditioning, all lights, and the TV",
-      "Return the key to the key box and reset the code",
-      "WhatsApp us to let us know you've left. Thanks so much for staying!"
+      "Close the balcony door and all windows",
+      "Switch off the AC, all lights, and the TV",
+      "Return the key to the keybox and reset the code",
+      "Drop us a WhatsApp to let us know you're on your way — it was a real pleasure having you!"
     ],
-    "lateCheckout": "Late checkout is generally not available due to our tight housekeeping schedule. Please let us know if you have a special circumstance and we'll try our best."
+    "lateCheckout": "Late checkout is generally not available due to our housekeeping schedule, but if you have a special circumstance just let us know and we'll do our very best!"
   },
   "cohost": {
     "name": "Rita",

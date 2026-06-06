@@ -875,18 +875,18 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "Strip all bed linens in both bedrooms and leave on the respective beds",
-      "Empty the fridge and cupboards of all your food",
-      "Bag all rubbish and take to the labelled bins in the car park",
-      "Run the dishwasher one final cycle and leave it open to air",
-      "Wipe down the kitchen hob and counter surfaces",
+      "Strip the bed linens in both bedrooms and leave them on the respective beds",
+      "Clear the fridge and cupboards of all your food",
+      "Bag up any rubbish and take it to the labelled bins in the car park",
+      "Run the dishwasher one last time and leave it open to air",
+      "Give the kitchen hob and counters a quick wipe down",
       "Close and lock all windows, balcony doors and shutters",
       "Switch off all AC units, lights, and the TV",
       "Leave the parking space clear for the next guests",
-      "Lock the apartment door and return the key to the lockbox (code: 2468)",
-      "Send us a WhatsApp to let us know you're safely on your way. Reviews mean the world to us. Thank you!"
+      "Lock up and return the key to the lockbox (code: 2468)",
+      "Drop us a WhatsApp to let us know you're safely on your way — reviews mean the world to us, thank you so much!"
     ],
-    "lateCheckout": "Late checkout until 1pm may be possible depending on same-day arrivals. Please ask by 9pm the evening before and we'll confirm. A small fee may apply in peak season."
+    "lateCheckout": "Late checkout until 1pm may be possible depending on same-day arrivals. Just ask by 9pm the evening before and we'll confirm. A small fee may apply in peak season."
   },
   "cohost": {
     "name": "Rita",

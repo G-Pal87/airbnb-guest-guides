@@ -78,6 +78,11 @@
       "name": "Coffee Maker",
       "icon": "☕",
       "instructions": "Classic drip coffee maker on the counter. Ground coffee is in the small tin beside it (refill from the kitchen cupboard if needed). Fill the water tank to the MAX line. Place a filter in the basket, add 2 tablespoons of coffee, press BREW. Ready in 5 minutes."
+    },
+    {
+      "icon": "🏊",
+      "name": "Pool & Towels",
+      "instructions": "Pool towels are provided in the apartment. Please use those, not the bathroom towels. The pool area has sunbeds for all guests."
     }
   ],
   "thingsToDo": [

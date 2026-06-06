@@ -89,6 +89,11 @@
       "name": "Dishwasher",
       "icon": "🍽️",
       "instructions": "Integrated dishwasher beneath the sink. Tablets are in the box under the counter. Load dishes (cups upside down in top rack, plates in bottom), add one tablet to the dispenser, and select ECO for a full load or QUICK 45 for light use. Press START. Empty when cool."
+    },
+    {
+      "icon": "🏊",
+      "name": "Pool & Towels",
+      "instructions": "Pool towels are provided in the apartment. Please use those, not the bathroom towels. The pool area has sunbeds for all guests."
     }
   ],
   "thingsToDo": [

@@ -137,11 +137,6 @@
       "name": "Drinking Water",
       "icon": "💧",
       "instructions": "Tap water is safe, but many prefer bottled. Available at nearby supermarkets."
-    },
-    {
-      "name": "Plants",
-      "icon": "🌱",
-      "instructions": "Water every 3–4 days if staying longer, they'll appreciate it!"
     }
   ],
   "thingsToDo": [

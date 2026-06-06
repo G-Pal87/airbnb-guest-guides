@@ -128,6 +128,11 @@
       "instructions": "Everything you need is here: electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans are all yours to use. One tip: please wash dishes promptly and keep the counters clear, warm weather can attract insects."
     },
     {
+      "name": "Air Conditioning",
+      "icon": "❄️",
+      "instructions": "The remote is on the bedside table. Press POWER, select COOL, and set to 22-24 degrees. Keep windows closed when running for best results. To turn it off, hold the power button down for a moment rather than just tapping it, and please switch off before heading out."
+    },
+    {
       "name": "Washing Machine",
       "icon": "🫧",
       "instructions": "Quick Wash works well for most loads. You'll find it in the kitchen."

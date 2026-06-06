@@ -30,6 +30,62 @@ const i18nJson = translations ? JSON.stringify(translations) : '{}';
     <script is:inline define:vars={{ i18nJson }}>
       window.__i18n__ = JSON.parse(i18nJson);
     </script>
+    <style is:global>
+/* Accordion slide-in animation */
+details > div {
+  animation: accordionSlide 0.2s ease-out;
+}
+@keyframes accordionSlide {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Open accordion: left accent border + elevated shadow */
+details[open] {
+  box-shadow: 0 4px 24px rgba(14,116,144,0.10), 0 1px 4px rgba(14,116,144,0.08) !important;
+  border-left: 3px solid #0E7490 !important;
+  border-radius: 1rem !important;
+}
+
+/* Emergency section: red accent when open */
+#emergency details[open] {
+  box-shadow: 0 4px 24px rgba(220,38,38,0.10) !important;
+  border-left: 3px solid #DC2626 !important;
+}
+
+/* Check-in key card: amber accent when open */
+#checkin details[open]:first-of-type {
+  box-shadow: 0 4px 24px rgba(245,158,11,0.12) !important;
+  border-left: 3px solid #F59E0B !important;
+}
+
+/* Section heading decorative underline */
+[id$="-heading"] {
+  position: relative;
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.75rem !important;
+}
+[id$="-heading"]::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 2.5rem;
+  height: 3px;
+  background: linear-gradient(to right, #0E7490, #06B6D4);
+  border-radius: 9999px;
+}
+/* Emergency heading keeps red underline */
+#emergency [id$="-heading"]::after {
+  background: linear-gradient(to right, #DC2626, #F87171);
+}
+
+/* Expanded content body text slightly larger */
+details[open] p {
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+    </style>
   </head>
   <body class="bg-surface font-sans text-charcoal antialiased">
     <LanguageSwitcher />

@@ -2,7 +2,7 @@
 interface Props {
   property: {
     wifi: { networkName: string; networkNames?: string[]; password: string };
-    quickRef: { checkoutTime: string; emergencyPhone: string };
+    quickRef: { checkoutTime: string; emergencyPhone: string; checkinTime: string };
   };
 }
 
@@ -16,6 +16,30 @@ const { property } = Astro.props;
     </h2>
 
     <div class="grid grid-cols-2 gap-3">
+      <!-- Check-in -->
+      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="text-xl" aria-hidden="true">🏠</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide" data-i18n="ui.checkIn">Check-in</span>
+        </div>
+        <p class="font-bold text-2xl text-accent">
+          {property.quickRef.checkinTime}
+        </p>
+        <p class="text-xs text-white/70 mt-1" data-i18n="ui.checkInNote">From this time onwards</p>
+      </div>
+
+      <!-- Checkout -->
+      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="text-xl" aria-hidden="true">🕙</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide" data-i18n="ui.checkout">Checkout</span>
+        </div>
+        <p class="font-bold text-2xl text-accent">
+          {property.quickRef.checkoutTime}
+        </p>
+        <p class="text-xs text-white/70 mt-1" data-i18n="ui.checkoutNote">Please be out by this time</p>
+      </div>
+
       <!-- WiFi -->
       <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
         <div class="flex items-center gap-2 mb-2">
@@ -51,49 +75,21 @@ const { property } = Astro.props;
             </svg>
           </button>
         </div>
-        <p id="copy-feedback-quickref" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300">Copied!</p>
+        <p id="copy-feedback-quickref" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300" data-i18n="ui.copied">Copied!</p>
       </div>
 
-      <!-- Checkout -->
-      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
-        <div class="flex items-center gap-2 mb-2">
-          <span class="text-xl" aria-hidden="true">🕙</span>
-          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">Checkout</span>
-        </div>
-        <p class="font-bold text-2xl text-accent">
-          {property.quickRef.checkoutTime}
-        </p>
-        <p class="text-xs text-white/70 mt-1">Please be out by this time</p>
-      </div>
-
-      <!-- Emergency -->
-      <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white">
-        <div class="flex items-center gap-2 mb-2">
-          <span class="text-xl" aria-hidden="true">🚨</span>
-          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">Emergency</span>
-        </div>
-        <a
-          href={`tel:${property.quickRef.emergencyPhone}`}
-          class="font-bold text-2xl text-accent hover:text-yellow-300 transition-colors"
-          aria-label={`Call emergency number ${property.quickRef.emergencyPhone}`}
-        >
-          {property.quickRef.emergencyPhone}
-        </a>
-        <p class="text-xs text-white/70 mt-1">Tap to call</p>
-      </div>
-
-      <!-- Contacts -->
+      <!-- Contact Us -->
       <div class="bg-white/15 backdrop-blur-sm rounded-2xl p-4 text-white flex flex-col justify-between">
         <div class="flex items-center gap-2 mb-3">
           <span class="text-xl" aria-hidden="true">📞</span>
-          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide">Contacts</span>
+          <span class="text-sm font-semibold text-white/80 uppercase tracking-wide" data-i18n="ui.contacts">Contacts</span>
         </div>
-        <p class="text-xs text-white/70 mb-3 leading-relaxed">Need help? We're always available.</p>
+        <p class="text-xs text-white/70 mb-3 leading-relaxed" data-i18n="ui.contactsNote">Need help? We're always available.</p>
         <a
           href="#page-bottom"
           class="inline-flex items-center justify-center gap-2 bg-accent text-charcoal text-sm font-bold px-4 py-2.5 rounded-xl hover:bg-yellow-400 transition-colors min-h-[44px]"
         >
-          Contact Us
+          <span data-i18n="ui.contactUs">Contact Us</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
           </svg>

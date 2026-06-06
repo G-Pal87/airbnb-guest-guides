@@ -54,9 +54,8 @@
     "Place the metallic key in the electricity plug by the door when inside; remove it every time you leave",
     "Close all windows and balcony doors when air conditioning is running",
     "Close and tie the patio umbrella at night and in windy conditions",
-    "Return keys to the keybox and reset the code at checkout",
-    "Treat the apartment with care. Please report any breakages promptly",
-    "Keep the keys safe. If you lose them or lock them inside, a locksmith call-out will be needed and the cost will be passed on to you"
+    "Return keys to the keybox and reset the code at checkout. Lost or locked-in keys will require a locksmith call-out at your cost.",
+    "Treat the apartment with care. Please report any breakages promptly"
   ],
   "appliances": [
     {

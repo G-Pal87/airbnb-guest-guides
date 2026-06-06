@@ -4,7 +4,7 @@
   "subtitle": "Sea Views & Terrace",
   "tagline": "Wake up to the sound of the waves",
   "heroImage": "",
-  "welcomeMessage": "Welcome to the Beach Side Studio! You've chosen one of our most special properties. A bright, airy studio just steps from the sea with a private terrace where you can watch the waves roll in over your morning coffee. This is coastal living at its simplest and most beautiful. Relax, unwind, and let the Mediterranean charm do the rest. We're always just a message away!",
+  "welcomeMessage": "Your bright, airy studio steps from the sea, with a private terrace perfect for morning coffee and watching the waves. We're always just a message away!",
   "host": {
     "name": "Giorgos",
     "phone": "+357 940 495 35",
@@ -39,10 +39,10 @@
     "notes": "The terrace gate padlock uses the same key as the door. The terrace is semi-private and shared with the upstairs guest. Please be mindful of noise, especially in the evenings."
   },
   "gettingHere": {
-    "directions": "From Larnaca Airport, take the A3 motorway east to Ayia Napa. Continue on the coastal road B3 heading north toward Paralimni. Follow signs for Paralimni Coast / Thalassa Beach. Turn left onto Thalassa Lane just after the small white chapel. The studio building is right at the end of the lane with a blue gate.",
+    "directions": "From Larnaca Airport, take the A3 east to Ayia Napa, then coastal road B3 north toward Paralimni. Follow signs for Paralimni Coast / Thalassa Beach. Turn left onto Thalassa Lane just after the small white chapel — the studio is at the end of the lane with a blue gate.",
     "parking": "Small private car park at the end of Thalassa Lane. Space for 1 car per studio. Your space is marked '1A'.",
-    "publicTransport": "From Paphos Airport, take Bus 612 to the Tombs of the Kings bus station. From there, the apartment is an 18-min walk (~1.3 km). Alternatively, hop on Bus 615 for 1 stop (~2 min) to get closer, then walk the rest of the way. On foot, head toward the AVLIDA Hotel, walk past it, turn right at the Esso gas station, and you'll find the King's Park complex entrance behind it. You can also check Google Maps for live routes and timings. ⚠️ Buses only accept cash. Cards are not accepted. Fare is €2.50 per ride per person, so make sure to have coins or small notes on you.",
-    "taxi": "Taxis are available directly outside the arrivals hall at Paphos Airport. A typical fare to Paphos is €40–45 during daytime hours and €45–50 after hours. Journey time from the airport is approximately 20–25 minutes.",
+    "publicTransport": "Bus 612 from Paphos Airport stops at Tombs of the Kings (18-min walk, ~1.3 km). Alternatively, Bus 615 is one stop closer. ⚠️ Cash only. €2.50 per ride.",
+    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min.",
     "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus"
   },
   "houseRules": [
@@ -62,7 +62,7 @@
     {
       "name": "Air Conditioning",
       "icon": "❄️",
-      "instructions": "Split AC unit on the ceiling. Remote is on the bedside table. Press POWER, choose COOL, and set to 22–24°C. The breeze from the sea is often enough in the evenings. Open the terrace door for natural ventilation. Switch off when leaving."
+      "instructions": "Remote on the bedside table. Press POWER → COOL → set 22–24°C. Switch off when leaving."
     },
     {
       "name": "Smart TV",
@@ -72,12 +72,12 @@
     {
       "name": "Mini Kitchen",
       "icon": "🍳",
-      "instructions": "Two-ring ceramic hob, small oven, microwave, and a well-stocked set of utensils. The oven dial goes from 50–250°C. Fan oven icon is the swirling arrow. Microwave: place your food inside, press the time pad and hit START. All cookware is in the cupboard below the hob."
+      "instructions": "Two-ring hob, small oven, microwave, and full utensils. Oven: 50–250°C, swirling arrow = fan mode. Cookware in the cupboard below."
     },
     {
       "name": "Coffee Maker",
       "icon": "☕",
-      "instructions": "Classic drip coffee maker on the counter. Ground coffee is in the small tin beside it (refill from the kitchen cupboard if needed). Fill the water tank to the MAX line. Place a filter in the basket, add 2 tablespoons of coffee, press BREW. Ready in 5 minutes."
+      "instructions": "Drip coffee maker on the counter. Coffee tin beside it. Fill to MAX, add filter and 2 tbsp coffee, press BREW — ready in ~5 min."
     }
   ],
   "thingsToDo": [
@@ -812,21 +812,21 @@
     {
       "icon": "🚌",
       "name": "Bus",
-      "info": "The central bus station (Tombs of the Kings) is an 18-min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns.",
+      "info": "Central bus station (Tombs of the Kings) is 18 min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns.",
       "linkText": "Bus timetables & routes",
       "linkUrl": "https://www.pafosbuses.com/routes"
     },
     {
       "icon": "🚗",
       "name": "RideNow (Car Sharing)",
-      "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes. Cars typically available within a 5-10 min walk.",
+      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5–10 min walk.",
       "linkText": "Download the app",
       "linkUrl": "https://ridenow.tech"
     },
     {
       "icon": "🚕",
       "name": "Bolt (Taxi)",
-      "info": "Budget-friendly taxi app. Recommended for getting around Paphos without the uncertainty of metered cabs.",
+      "info": "Budget-friendly ride app. Good alternative to metered taxis around Paphos.",
       "linkText": "Download Bolt",
       "linkUrl": "https://bolt.eu/en/cities/paphos/"
     }

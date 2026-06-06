@@ -4,7 +4,7 @@
   "subtitle": "Beach Walk & 2 Terraces",
   "tagline": "Luxury living steps from the azure sea",
   "heroImage": "",
-  "welcomeMessage": "Welcome to the Luxe Poolside Escape! We're thrilled to host you in this beautifully designed retreat. Styled for comfort and elegance, this home is your private sanctuary on the Mediterranean. Everything has been prepared with care. Dive into the pool, sip coffee on the terrace, and let the island work its magic. We're always a message away if you need anything at all.",
+  "welcomeMessage": "Your private Mediterranean retreat — pool, two terraces, and everything prepared. Relax and enjoy the island. Message us anytime.",
   "host": {
     "name": "Giorgos",
     "phone": "+357 940 495 35",
@@ -54,9 +54,9 @@
     "notes": "If you have any trouble finding us, call or WhatsApp anytime, we're happy to guide you step by step."
   },
   "gettingHere": {
-    "byCar": "The Google Maps link above is accurate and will navigate you directly inside the complex, all the way to the pool area and parking. You can park anywhere you like within the complex. Once you arrive, follow the step-by-step photo guide below to reach the apartment.",
-    "parking": "Drive down to the pool area where the road ends. Parking spaces are freely available, park anywhere you like. The apartment entrance is within a 1-minute walk. On windy days, avoid parking under the trees for obvious reasons! 🌳",
-    "publicTransport": "From Paphos Airport, take Bus 612 to the Tombs of the Kings bus station. From there, the apartment is an 18-min walk (~1.3 km). Alternatively, hop on Bus 615 for 1 stop (~2 min) to get closer, then walk the rest of the way. On foot, head toward the AVLIDA Hotel, walk past it, turn right at the Esso gas station, and you'll find the King's Park complex entrance behind it. You can also check Google Maps for live routes and timings. ⚠️ Buses only accept cash. Cards are not accepted. Fare is €2.50 per ride per person, so make sure to have coins or small notes on you.",
+    "byCar": "Follow the Google Maps link — it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
+    "parking": "Free parking at the pool area — spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
+    "publicTransport": "Bus 612 from Paphos Airport to Tombs of the Kings bus station (18-min walk, ~1.3 km). Or take Bus 615 one stop closer, then walk. Head toward AVLIDA Hotel → past it → right at Esso station → King's Park entrance behind. ⚠️ Cash only. €2.50 per ride.",
     "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
     "directionPhotos": [
       {
@@ -104,7 +104,7 @@
         "caption": "First door on the left (ground floor). The white door is yours!"
       }
     ],
-    "taxi": "Taxis are available directly outside the arrivals hall at Paphos Airport. A typical fare to Paphos is €40–45 during daytime hours and €45–50 after hours. Journey time from the airport is approximately 20–25 minutes.",
+    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min.",
     "directionPhotosStart": 4
   },
   "houseRules": [
@@ -125,52 +125,52 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "To have electricity, place the metallic key in the key plug on the wall next to the door, just like in hotels. Remember to remove it and take your keys with you every time you leave the apartment. Important: every socket in Cyprus has its own switch on the wall next to it. If an appliance is not working, check that the socket switch is turned on. You will also find EU adapters around the apartment for your convenience."
+      "instructions": "Place the metallic key in the key plug by the door to power the apartment. Take it when you leave. Each socket has its own wall switch — if something isn't working, check it's turned on. EU adapters provided."
     },
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "The kitchen includes an electric stove, electric oven, a basic coffee maker and grinder. You're welcome to use all of them, please clean each appliance after use. Basic cooking ingredients are provided (salt, pepper, olive oil) and coffee beans, help yourself! Important: Cyprus's warm weather can attract insects. Please clean dishes promptly, dispose of food scraps immediately, and make sure nothing is left on the counter or dropped on the floor."
+      "instructions": "Electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans provided — help yourself. ⚠️ Clean dishes promptly and keep counters clear — warm weather attracts insects."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "You'll find the washing machine in the kitchen. The Quick Wash setting works well for most loads. If you have any questions, don't hesitate to reach out!"
+      "instructions": "In the kitchen. Quick Wash works for most loads."
     },
     {
       "name": "Dishwasher",
       "icon": "🍽️",
-      "instructions": "The dishwasher is available for your convenience. Tabs are provided under the sink. We recommend using the Eco program: it's energy-efficient and works perfectly for everyday dishes."
+      "instructions": "Tabs under the sink. Use the Eco program for everyday dishes."
     },
     {
       "name": "Shower & Hot Water",
       "icon": "🚿",
-      "instructions": "It usually takes 2-3 minutes for the water to get warm, this is normal. If the water doesn't warm up, there may not have been enough sun for the solar panels that day. In that case, press the heating button next to the bathroom door and wait 20 minutes. Important: turn off the heating system before stepping into the shower. (This is only needed around 10% of the time. Cyprus is usually very sunny! ☀️)"
+      "instructions": "Takes 2–3 min to warm up — normal. If no hot water, press the heating button next to the bathroom door and wait 20 min. Turn off the heater before stepping in."
     },
     {
       "name": "Terraces & Umbrella",
       "icon": "🪴",
-      "instructions": "The apartment has two terraces. Feel free to set them up as you like. Outdoor cushions and décor are stored inside and can be arranged on the terraces. For the large patio umbrella: do not use it in windy conditions, close it at night or when not in use, and make sure it is securely closed and tied before checkout."
+      "instructions": "Two terraces — outdoor cushions stored inside. Patio umbrella: keep closed in wind, at night, and before checkout."
     },
     {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "The pool key is on the key chain with your apartment keys. The shared pool is usually quiet. Please be mindful of other guests and observe any rules posted in the pool area. Use the beach towels provided in the apartment for the pool, not the bathroom towels."
+      "instructions": "Pool key is on your keychain. Be mindful of other guests. Use the beach towels for the pool, not bathroom towels."
     },
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "Fresh towels, a hair dryer, and basic toiletries are provided. If you need anything extra, just let us know. Important: Cyprus's plumbing cannot handle toilet paper. Please use the bin next to the toilet instead. Thank you!"
+      "instructions": "Towels, hair dryer, and basic toiletries provided. ⚠️ Use the bin next to the toilet — do not flush toilet paper."
     },
     {
       "name": "Drinking Water",
       "icon": "💧",
-      "instructions": "Tap water in Cyprus is generally safe, but many guests prefer bottled water. Large bottles are available at any supermarket nearby."
+      "instructions": "Tap water is safe, but many prefer bottled. Available at nearby supermarkets."
     },
     {
       "name": "Plants",
       "icon": "🌱",
-      "instructions": "You'll find a few plants around the apartment, they help keep the space feeling natural and cozy. If you're staying for more than a few days, we'd really appreciate a water every 3-4 days. Thank you! 🌿"
+      "instructions": "Water every 3–4 days if staying longer — they'll appreciate it!"
     }
   ],
   "thingsToDo": [
@@ -905,21 +905,21 @@
     {
       "icon": "🚌",
       "name": "Bus",
-      "info": "The central bus station (Tombs of the Kings) is an 18-min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns.",
+      "info": "Central bus station (Tombs of the Kings) is 18 min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns.",
       "linkText": "Bus timetables & routes",
       "linkUrl": "https://www.pafosbuses.com/routes"
     },
     {
       "icon": "🚗",
       "name": "RideNow (Car Sharing)",
-      "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes. Cars typically available within a 5-10 min walk.",
+      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5–10 min walk.",
       "linkText": "Download the app",
       "linkUrl": "https://ridenow.tech"
     },
     {
       "icon": "🚕",
       "name": "Bolt (Taxi)",
-      "info": "Budget-friendly taxi app. Recommended for getting around Paphos without the uncertainty of metered cabs.",
+      "info": "Budget-friendly ride app. Good alternative to metered taxis around Paphos.",
       "linkText": "Download Bolt",
       "linkUrl": "https://bolt.eu/en/cities/paphos/"
     }

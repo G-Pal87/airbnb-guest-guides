@@ -4,7 +4,7 @@
   "subtitle": "Balcony & Beach Walk",
   "tagline": "Perfectly located. The beach is your backyard",
   "heroImage": "",
-  "welcomeMessage": "Welcome to the Poolside Central Studio! This chic, compact studio is perfectly positioned in the heart of Paphos, just steps away from the historic port. Everything you need is here. Fresh linens, a fully equipped kitchen, a sunny balcony, and a shared pool to cool off in. Make yourself at home and enjoy every sun-soaked moment!",
+  "welcomeMessage": "Compact studio right in the heart of Paphos, steps from the historic port. Full kitchen, sunny balcony, and shared pool — everything you need. Enjoy!",
   "host": {
     "name": "Giorgos",
     "phone": "+357 940 495 35",
@@ -45,10 +45,10 @@
     "notes": "Pool towels are provided in the apartment. Please use those, not the bathroom towels. The pool area has sunbeds for all guests."
   },
   "gettingHere": {
-    "byCar": "Head to the Kings Avenue Mall in Paphos. The Byzantium Gardens complex is right next door. Use the Google Maps link above to navigate to the entrance. ⚠️ Google Maps navigation can be misleading for this address. For the last stretch it may route you through a road that is now a pedestrian promenade. Go around the block instead to reach the front entrance. See the step-by-step photo guide below for full directions.",
-    "parking": "Once you have the keys, use the chip/proxy on the keychain to open the main gate. Parking is free. Ideally park under Block C, but you can leave your car anywhere in the complex, even by the fence, as long as you're not blocking anything. To exit by car, pull up in front of the STOP / WAIT sign at the main gate. The doors open automatically.",
-    "publicTransport": "From Paphos Airport, take Bus 612 directly and get off at the Kings Avenue Mall bus stop. Just a 3-min walk from the apartment. From there, follow the Google Maps link above to navigate to the complex entrance. If you're unsure where to get off, just ask the bus driver. Missed the stop? No worries. The next stop is the Tombs of the Kings main station, just a 5-min walk to the apartment. ⚠️ Buses only accept cash. Cards are not accepted. Fare is €2.50 per ride per person, so make sure to have coins or small notes on you.",
-    "taxi": "Taxis are available directly outside the arrivals hall at Paphos Airport. A typical fare to Paphos is €40–45 during daytime hours and €45–50 after hours. Journey time from the airport is approximately 20–25 minutes.",
+    "byCar": "Head to Kings Avenue Mall — Byzantium Gardens is right next door. ⚠️ Google Maps may route you through a pedestrian promenade on the last stretch — go around the block instead. See the photo guide below.",
+    "parking": "Free parking anywhere in the complex. Use the chip on your keychain to open the main gate. To exit by car, pull up to the STOP/WAIT sign — the gate opens automatically.",
+    "publicTransport": "Bus 612 from Paphos Airport — get off at Kings Avenue Mall (3-min walk to the apartment). Missed it? Next stop is Tombs of the Kings, a 5-min walk. ⚠️ Cash only. €2.50 per ride.",
+    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min.",
     "busStationUrl": "https://maps.google.com/?q=QCC6%2B285,+Paphos+8046,+Cyprus",
     "directionPhotos": [
       {
@@ -106,42 +106,42 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "Every socket in Cyprus has its own switch on the wall next to it. If an appliance is not working, check that the socket switch is turned on. You will also find EU adapters around the apartment for your convenience."
+      "instructions": "Each socket has its own wall switch — if an appliance isn't working, check it's turned on. EU adapters provided."
     },
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "The kitchen includes an electric stove, electric oven, a basic coffee maker and grinder. You're welcome to use all of them, please clean each appliance after use. Basic cooking ingredients are provided (salt, pepper, olive oil) and coffee beans, help yourself! Important: Cyprus's warm weather can attract insects. Please clean dishes promptly, dispose of food scraps immediately, and make sure nothing is left on the counter or dropped on the floor."
+      "instructions": "Electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans provided — help yourself. ⚠️ Clean dishes promptly and keep counters clear — warm weather attracts insects."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "You'll find the washing machine in the kitchen. The Quick Wash setting works well for most loads. If you have any questions, don't hesitate to reach out!"
+      "instructions": "In the kitchen. Quick Wash works for most loads."
     },
     {
       "name": "Shower & Hot Water",
       "icon": "🚿",
-      "instructions": "It usually takes 2-3 minutes for the water to get warm, this is normal. If the water doesn't warm up, there may not have been enough sun for the solar panels that day. In that case, press the heating button next to the bathroom door and wait 20 minutes. Important: turn off the heating system before stepping into the shower. (This is only needed around 10% of the time. Cyprus is usually very sunny! ☀️)"
+      "instructions": "Takes 2–3 min to warm up — normal. If no hot water, press the heating button next to the bathroom door and wait 20 min. Turn off the heater before stepping in."
     },
     {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "No key needed. The pool is open to all guests. Pool rules are posted on the notice board next to the elevator on the ground floor. Please be mindful of other guests. Use the beach towels provided in the apartment for the pool, not the bathroom towels."
+      "instructions": "No key needed — open to all guests. Rules posted by the elevator. Use the provided beach towels, not bathroom towels."
     },
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "Fresh towels, a hair dryer, and basic toiletries are provided. If you need anything extra, just let us know. Important: Cyprus's plumbing cannot handle toilet paper. Please use the bin next to the toilet instead. Thank you!"
+      "instructions": "Towels, hair dryer, and basic toiletries provided. ⚠️ Use the bin next to the toilet — do not flush toilet paper."
     },
     {
       "name": "Drinking Water",
       "icon": "💧",
-      "instructions": "Tap water in Cyprus is generally safe, but many guests prefer bottled water. Large bottles are available at any supermarket nearby."
+      "instructions": "Tap water is safe, but many prefer bottled. Available at nearby supermarkets."
     },
     {
       "name": "Plants",
       "icon": "🌱",
-      "instructions": "You'll find a few plants around the apartment, they help keep the space feeling natural and cozy. If you're staying for more than a few days, we'd really appreciate a water every 3-4 days. Thank you! 🌿"
+      "instructions": "Water every 3–4 days if staying longer — they'll appreciate it!"
     }
   ],
   "thingsToDo": [
@@ -810,21 +810,21 @@
     {
       "icon": "🚌",
       "name": "Bus",
-      "info": "The central bus station (Tombs of the Kings) is an 18-min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns.",
+      "info": "Central bus station (Tombs of the Kings) is 18 min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns.",
       "linkText": "Bus timetables & routes",
       "linkUrl": "https://www.pafosbuses.com/routes"
     },
     {
       "icon": "🚗",
       "name": "RideNow (Car Sharing)",
-      "info": "Car sharing works well around Paphos, including to and from the airport. Download the app, sign up in 5 minutes. Cars typically available within a 5-10 min walk.",
+      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5–10 min walk.",
       "linkText": "Download the app",
       "linkUrl": "https://ridenow.tech"
     },
     {
       "icon": "🚕",
       "name": "Bolt (Taxi)",
-      "info": "Budget-friendly taxi app. Recommended for getting around Paphos without the uncertainty of metered cabs.",
+      "info": "Budget-friendly ride app. Good alternative to metered taxis around Paphos.",
       "linkText": "Download Bolt",
       "linkUrl": "https://bolt.eu/en/cities/paphos/"
     }

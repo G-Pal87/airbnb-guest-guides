@@ -196,6 +196,203 @@
       "lateCheckout": "Später Check-out ist manchmal möglich. Bitte bis 21 Uhr am Vorabend fragen. Wir bestätigen die Verfügbarkeit so schnell wie möglich."
     }
   },
+  "hu": {
+    "ui": {
+      "welcome": "Üdvözöljük!",
+      "checkIn": "Bejelentkezés",
+      "keyLocation": "Kulcs helye",
+      "accessCode": "Hozzáférési kód",
+      "stepByStep": "Lépésről lépésre",
+      "houseRules": "Házirend",
+      "gettingHere": "Megközelítés",
+      "openGoogleMaps": "Megnyitás Google Térképen",
+      "byCar": "Autóval & Parkolás",
+      "parking": "Parkolás",
+      "publicTransport": "Tömegközlekedés",
+      "taxi": "Taxi",
+      "photoGuide": "Lépésről lépésre fotóútmutató",
+      "appliances": "WiFi & Berendezések",
+      "wifi": "WiFi",
+      "thingsToDo": "Látnivalók & Programok",
+      "eatAndDrink": "Étkezés & Italok",
+      "gettingAround": "Közlekedés",
+      "emergency": "Vészhelyzeti kapcsolatok",
+      "nearestHospital": "Legközelebbi kórház",
+      "nearestPharmacy": "Legközelebbi gyógyszertár",
+      "checkout": "Kijelentkezés",
+      "checkoutTime": "Kijelentkezési idő",
+      "checkoutChecklist": "Kijelentkezési lista",
+      "contactHost": "Kapcsolat a házigazdával"
+    },
+    "welcomeMessage": "Üdvözöljük a Beach Side Studio-ban! Ingatlanaink egyik legkülönlegesebbjét választotta. Egy világos, szellős stúdiót a tenger közelében!",
+    "gettingHere": {
+      "byCar": "A larnacai repülőtérről vegye az A3-as autópályát Ayia Napa irányába. Folytassa a B3-as part menti úton Paralimni felé. Kövesse a Paralimni-part / Thalassa Beach táblákat. Forduljon balra a Thalassa Lane-re, közvetlenül a kis fehér kápolna után. A stúdióépület a sáv végén található kék kapuval.",
+      "parking": "Kis privát parkoló a Thalassa Lane végén. Hely 1 autónak stúdiónként. Az Ön parkolóhelye '1A'-val van jelölve.",
+      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vehet egy megállót a 615-ös busszal (~2 perc). ⚠️ A buszok csak készpénzt fogadnak el. A viteldíj 2,50€ személyenként és útonként.",
+      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40–45€, csúcsidőn kívül 45–50€. A repülőtérről az utazás körülbelül 20–25 percet vesz igénybe.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Kombinációs kulcsszekrény a stúdió ajtókilincsén (kék ajtó, földszint)",
+      "steps": [
+        "A parkolóból vegye a jobb oldali ösvényt a tengerpart felé",
+        "Keresse a kék ajtót a földszinten. Ez a tengerhez legközelebbi stúdió",
+        "Írja be a 7890 kódot a fekete kulcsszekrényen az ajtókilincsen",
+        "Húzza ki a kulcsszekrényt és vegye ki a kulcsot",
+        "Használja a kulcsot az ajtózárhoz és a teraszkapu lakatjához",
+        "Kijelentkezéskor tegye vissza a kulcsot a kulcsszekrénybe"
+      ],
+      "notes": "A teraszkapu lakatja ugyanazt a kulcsot használja, mint az ajtó. A terasz félig privát és a fenti vendéggel közös. Kérjük, legyen figyelmes a zajra, különösen este."
+    },
+    "houseRules": [
+      "Tilos a dohányzás beltéren – csak a teraszon",
+      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00–08:00",
+      "Maximális férőhely: 2 vendég",
+      "Háziállatok nem engedélyezettek",
+      "Mosogasson el azonnal és tartsa tisztán a konyhai pultot. Cipruson a meleg időjárás rovarokat vonzhat",
+      "Kérjük, használja a WC melletti szemetes kosarat. Ne dobjon WC-papírt a kagylóba (a ciprusi vízvezetékek nem bírják el)",
+      "Hagyja a fémkulcsot a konnektorban az ajtó mellett, amíg bent van; vegye ki, amikor távozik",
+      "Csukja be a teraszajtót és az ablakokat, amikor a légkondicionáló működik",
+      "Adja vissza a kulcsot a kulcsszekrénybe és állítsa vissza a kódot kijelentkezéskor",
+      "Bánjon gondosan a stúdióval. Kérjük, azonnal jelezzen minden sérülést",
+      "Vigyázzon a kulcsokra. Ha elveszíti vagy bezárja magát, lakatosra lesz szükség, amelynek költségét Önre hárítjuk"
+    ],
+    "appliances": [
+      {
+        "name": "Légkondicionáló",
+        "instructions": "Split légkondicionáló a mennyezeten. A távirányító az éjjeliszekrényen található. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22–24°C-ra. A tengeri szellő esténként gyakran elegendő. Nyissa ki a teraszajtót a természetes szellőzéshez. Távozáskor kapcsolja ki."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "32 colos Smart TV a komódon. Nyomja meg a Netflix közvetlen gombot a távirányítón az azonnali streameléshez. A vendégprofilhoz nincs jelszó. Élő TV-hez nyomja meg a HOME gombot és válasszon csatornákat. HDMI csatlakozó az oldalon a saját eszközökhöz."
+      },
+      {
+        "name": "Mini-konyha",
+        "instructions": "Két lapos kerámia főzőlap, kis sütő, mikrohullámú sütő és jól felszerelt főzőedények. A sütő tárcsája 50–250°C között megy. A légkeverés szimbóluma a spirál alakú nyíl. Mikrohullámú sütő: tegye be az ételt, nyomja meg az időbeállítást és a START gombot. Minden főzőedény az alsó szekrényben."
+      },
+      {
+        "name": "Kávéfőző",
+        "instructions": "Klasszikus filteres kávéfőző a munkalapon. Őrölt kávé a mellette lévő kis dobozban (utánpótlás a konyhaszekrényben). Töltse fel a víztartályt a MAX vonalig. Tegye a filtert a kosárba, adjon hozzá 2 evőkanál kávét, nyomja meg a BREW gombot. 5 perc alatt kész."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "Strandok 🏝️"
+      },
+      {
+        "category": "Történelmi helyek & Séták 🏰"
+      },
+      {
+        "category": "Látnivalók & Kirándulások 📸"
+      },
+      {
+        "category": "Túrázás & Természet ⛰️"
+      }
+    ],
+    "eatAndDrink": [
+      {
+        "type": "Görög / Mediterrán"
+      },
+      {
+        "type": "Görög / Meze"
+      },
+      {
+        "type": "Kávézó / Brunch"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Ciprusi"
+      },
+      {
+        "type": "Ételudvar"
+      },
+      {
+        "type": "Kávézó / Helyi"
+      },
+      {
+        "type": "Ciprusi / Kávézó"
+      },
+      {
+        "type": "Görög / Ciprusi"
+      },
+      {
+        "type": "Ciprusi taverna"
+      },
+      {
+        "type": "Vegyes / Kikötő"
+      },
+      {
+        "type": "Ciprusi / Tenger gyümölcsei"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Kávézó / Étterem"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Bár / Étterem"
+      },
+      {
+        "type": "Ciprusi / Bor"
+      },
+      {
+        "type": "Tenger gyümölcsei / Taverna"
+      },
+      {
+        "type": "Élelmiszerbolt"
+      },
+      {
+        "type": "Szupermarket"
+      }
+    ],
+    "gettingAround": [
+      {
+        "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
+      },
+      {
+        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5–10 perces sétán belül elérhetők."
+      },
+      {
+        "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
+      }
+    ],
+    "emergency": {
+      "contacts": [
+        {
+          "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
+        },
+        {
+          "note": "Fő kórház Páphoszban, kb. 10 perc autóút"
+        },
+        {
+          "note": "Páphai rendőrség"
+        }
+      ],
+      "nearestPharmacy": "Több gyógyszertár is található sétálótávolságon belül a főúton. Kérdezzenek minket, ha segítségre van szükségük a legközelebbi megtalálásában."
+    },
+    "checkout": {
+      "steps": [
+        "Ürítse ki a hűtőt minden ételtől és italtól",
+        "Húzza le az ágyat és halmozza fel az ágyneműt a matracon",
+        "Mossa el a használt edényeket és hagyja megszáradni",
+        "Dobja ki a szemetet a parkolóban biztosított kukákba",
+        "Csukja be az összes ablakot, a teraszajtót és a biztosított teraszkaput",
+        "Kapcsolja ki a légkondicionálót, az összes lámpát és húzza ki a töltőket",
+        "Tegye vissza a kulcsot az ajtón lévő kulcsszekrénybe (kód: 7890)",
+        "Írjon nekünk WhatsApp-on, amikor úton vannak. És köszönjük, hogy minket választott!"
+      ],
+      "lateCheckout": "A késői kijelentkezés néha lehetséges. Kérjük, kérdezzen az előző este 21 óráig. A lehető leghamarabb visszaigazoljuk az elérhetőséget."
+    }
+  },
   "el": {
     "ui": {
       "welcome": "Καλώς ήρθατε!",

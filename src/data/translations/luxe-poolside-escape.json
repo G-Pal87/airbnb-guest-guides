@@ -261,6 +261,268 @@
       "lateCheckout": "Wir versuchen flexibel zu sein. Wenn Sie einen späten Check-out möchten, informieren Sie uns bitte 1–2 Tage vor Ihrer Abreise und wir geben unser Bestes."
     }
   },
+  "hu": {
+    "ui": {
+      "welcome": "Üdvözöljük!",
+      "checkIn": "Bejelentkezés",
+      "keyLocation": "Kulcs helye",
+      "accessCode": "Hozzáférési kód",
+      "stepByStep": "Lépésről lépésre",
+      "houseRules": "Házirend",
+      "gettingHere": "Megközelítés",
+      "openGoogleMaps": "Megnyitás Google Térképen",
+      "byCar": "Autóval & Parkolás",
+      "parking": "Parkolás",
+      "publicTransport": "Tömegközlekedés",
+      "taxi": "Taxi",
+      "photoGuide": "Lépésről lépésre fotóútmutató",
+      "appliances": "WiFi & Berendezések",
+      "wifi": "WiFi",
+      "thingsToDo": "Látnivalók & Programok",
+      "eatAndDrink": "Étkezés & Italok",
+      "gettingAround": "Közlekedés",
+      "emergency": "Vészhelyzeti kapcsolatok",
+      "nearestHospital": "Legközelebbi kórház",
+      "nearestPharmacy": "Legközelebbi gyógyszertár",
+      "checkout": "Kijelentkezés",
+      "checkoutTime": "Kijelentkezési idő",
+      "checkoutChecklist": "Kijelentkezési lista",
+      "contactHost": "Kapcsolat a házigazdával"
+    },
+    "welcomeMessage": "Üdvözöljük a Luxe Poolside Escape-ben! Örömmel fogadjuk Önöket ebben a gyönyörűen berendezett páphai otthonban. Reméljük, hogy kényelmesen érzik magukat és csodálatos tartózkodásuk lesz!",
+    "gettingHere": {
+      "byCar": "A fenti Google Térkép-link helyes, és közvetlenül a komplexumba, a medence- és parkolóterületig navigálja Önöket. Bárhol parkolhat a komplexumban. Megérkezés után kövesse az alábbi lépésről lépésre fotóútmutatót, hogy a lakáshoz jusson.",
+      "parking": "Hajtson a medence területéhez, ahol az út véget ér. A parkolóhelyek szabadon elérhetők – ott parkoljon, ahol szeretne. A lakás bejárata egy perc sétára van. Szeles napokon inkább ne parkoljon a fák alatt! 🌳",
+      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vehet egy megállót a 615-ös busszal (~2 perc), majd gyalogol a többit. Gyalog menjen az AVLIDA Hotel felé, haladjon el mellette, az Esso benzinkútnál forduljon jobbra, és mögötte találja a King's Park komplexumot. A friss útvonalakhoz és időkhöz használhatja a Google Térképet is. ⚠️ A buszok csak készpénzt fogadnak el. Bankkártyát nem fogadnak el. A viteldíj 2,50 € személyenként és útonként – készítsen elő érméket vagy kis címleteket.",
+      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40–45€, csúcsidőn kívül 45–50€. A repülőtérről az utazás körülbelül 20–25 percet vesz igénybe.",
+      "directionPhotos": [
+        {
+          "caption": "Az Esso benzinkútnál forduljon jobbra (a Morphou utcába)"
+        },
+        {
+          "caption": "Menjen kb. 50 m-t a jobb oldalon lévő nagy építkezésig"
+        },
+        {
+          "caption": "Menjen tovább, még egy kicsit..."
+        },
+        {
+          "caption": "Ennél az építkezésnél forduljon jobbra a keskeny utcába"
+        },
+        {
+          "caption": "Itt parkoljon, vagy gyalog menjen el a medence mellett"
+        },
+        {
+          "caption": "Kövesse az utat a hátsó részig, ahol a medence területe található"
+        },
+        {
+          "caption": "Az első kőboltíves átjárónál forduljon balra"
+        },
+        {
+          "caption": "A medence mellett, jobbra a medence kerítése mentén forduljon"
+        },
+        {
+          "caption": "Két kulcsszekrény a 'D6' postaláda alatt. A jobb oldalit nyissa ki. Kód: 9006"
+        },
+        {
+          "caption": "Menjen át a folyosón"
+        },
+        {
+          "caption": "Első ajtó balra (földszint). A fehér ajtó az Öné!"
+        }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "Két kulcsszekrény a bal oldali falon, a 'D6' postaláda alatt. A jobb oldalit nyissa ki",
+      "steps": [
+        "Menjen a medence területéhez a King's Park komplexum hátsó részében",
+        "Haladjon el a medence mellett és forduljon jobbra a medence kerítése mentén",
+        "Az első kőboltíves átjárónál forduljon balra",
+        "Keresse meg a két kulcsszekrényt a bal oldali falon a 'D6' postaláda alatt",
+        "Nyissa ki a jobb oldali kulcsszekrényt a 9006 kóddal",
+        "Menjen át a folyosón. A lakás az első ajtó balra (földszint)",
+        "A bejárati ajtó fehér",
+        "Belépés után tegye a fémkulcsot a kulcskapcsolóba az ajtó mellett, hogy bekapcsolja az áramot (akárcsak a szállodákban)",
+        "Kijelentkezéskor tegye vissza a kulcsot a szekrénybe és állítsa vissza a kódot"
+      ],
+      "notes": "Ha bármilyen gondja van megtalálni minket, hívjon vagy írjon WhatsApp-on bármikor – szívesen segítünk."
+    },
+    "houseRules": [
+      "Tilos a dohányzás beltéren – csak az erkélyeken és teraszokon",
+      "Tilos a buli, rendezvény vagy hangos zene. Csendes időszak 22:00–08:00",
+      "Maximális férőhely: 4 vendég",
+      "Háziállatok nem engedélyezettek a bútorokon vagy a medencében",
+      "Kérjük, használja a medence törölközőit (a napozóágyak kosarában), ne a fürdőszobai törölközőket",
+      "Medence területe: üveg szigorúan tilos, fejesugrás a szélről tilos",
+      "Légkondicionáló: tartsa csukva az ajtókat és ablakokat, amikor működik",
+      "Rendszeresen szellőztesse a lakást, amíg bent van. Nyissa ki az ablakokat és ajtókat, amikor a légkondicionáló ki van kapcsolva",
+      "Kijelentkezés szigorúan 11:00-ig",
+      "A törést jelezni kell – megértjük, hogy a balesetek megtörténnek",
+      "A kukák a parkolóban találhatók. A parkolóból kilépve a medence után jobbra vannak",
+      "Vigyázzon a kulcsokra. Ha elveszíti vagy bezárja magát, lakatosra lesz szükség, amelynek költségét Önre hárítjuk"
+    ],
+    "appliances": [
+      {
+        "name": "Áram",
+        "instructions": "Az áramhoz tegye a fémkulcsot a kulcskapcsolóba a fal mellett az ajtónál – akárcsak a szállodákban. Ne feledje kihúzni és magával vinni a kulcsokat minden alkalommal, amikor elhagyja a lakást. Fontos: Cipruson minden konnektornak külön kapcsolója van a falon. Ha egy készülék nem működik, ellenőrizze, hogy a konnektor kapcsolója be van-e kapcsolva. EU-adapterek elérhetők a lakásban."
+      },
+      {
+        "name": "Konyha",
+        "instructions": "A konyha elektromos főzőlapot, elektromos sütőt, egy egyszerű kávéfőzőt és egy kávédarálót tartalmaz. Szívesen használhat mindent – kérjük, használat után tisztítson meg minden készüléket. Alapvető főzési hozzávalók rendelkezésre állnak (só, bors, olívaolaj), valamint kávébab. Csak nyugodtan! Fontos: Cipruson a meleg időjárás rovarokat vonzhat. Kérjük, azonnal mossa el az edényeket, azonnal dobja ki az ételmaradékot, és ne hagyjon semmit a pulton vagy a padlón."
+      },
+      {
+        "name": "Mosógép",
+        "instructions": "A mosógép a konyhában található. A gyorsmosó program a legtöbb mosáshoz jól működik. Ha kérdése van, forduljon hozzánk bizalommal!"
+      },
+      {
+        "name": "Mosogatógép",
+        "instructions": "A mosogatógép a rendelkezésére áll. A tabletták a mosogató alatt találhatók. Az Eco programot ajánljuk: energiatakarékos és tökéletesen működik a mindennapi edényekhez."
+      },
+      {
+        "name": "Zuhany & Melegvíz",
+        "instructions": "Általában 2–3 percig tart, amíg a víz felmelegszik – ez normális. Ha a víz nem melegszik fel, lehet, hogy a nap aznap nem volt elegendő a napelemekhez. Ebben az esetben nyomja meg a fűtés gombját a fürdőszobaajtó mellett, és várjon 20 percet. Fontos: Kapcsolja ki a fűtést, mielőtt zuhanyozik. (Erre csak az esetek kb. 10%-ában van szükség. Ciprus általában nagyon napos! ☀️)"
+      },
+      {
+        "name": "Teraszok & Napernyő",
+        "instructions": "A lakásnak két terasza van. Rendezze be őket tetszés szerint. A kültéri párnák és dekoráció bent vannak tárolva és a teraszokon elrendezhetők. A nagy teraszi napernyőre vonatkozóan: Ne használja szélben, éjszaka vagy használaton kívül csukja össze, és kijelentkezés előtt biztonságosan csukja össze és rögzítse."
+      },
+      {
+        "name": "Medencehasználat",
+        "instructions": "A medencekulcs a lakáskulcsok kulcstartóján található. A közös medence általában nyugodt. Kérjük, gondoljon a többi vendégre, és tartsa be a medence területén kifüggesztett szabályokat. Használja a biztosított strandtörölközőket, ne a fürdőszobai törölközőket."
+      },
+      {
+        "name": "Fürdőszoba",
+        "instructions": "Friss törölközők, hajszárító és alapvető tisztálkodószerek rendelkezésre állnak. Ha valami extrára van szüksége, csak jelezze. Fontos: A ciprusi vízvezetékek nem bírják el a WC-papírt. Kérjük, helyette használja a WC melletti kosarat. Köszönjük!"
+      },
+      {
+        "name": "Ivóvíz",
+        "instructions": "A csapvíz Cipruson alapvetően biztonságos, de sok vendég előnyben részesíti a palackozott vizet. Nagy palackok minden közeli szupermarketben kaphatók."
+      },
+      {
+        "name": "Növények",
+        "instructions": "A lakásban van néhány növény – természetes és otthonos hangulatot teremtenek. Hosszabb tartózkodás esetén nagyon örülnénk, ha 3–4 naponta megöntözné őket. Köszönjük! 🌿"
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "Strandok 🏝️"
+      },
+      {
+        "category": "Történelmi helyek & Séták 🏰"
+      },
+      {
+        "category": "Látnivalók & Kirándulások 📸"
+      },
+      {
+        "category": "Túrázás & Természet ⛰️"
+      }
+    ],
+    "eatAndDrink": [
+      {
+        "type": "Görög / Mediterrán"
+      },
+      {
+        "type": "Görög / Meze"
+      },
+      {
+        "type": "Kávézó / Brunch"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Ciprusi"
+      },
+      {
+        "type": "Ételudvar"
+      },
+      {
+        "type": "Kávézó / Helyi"
+      },
+      {
+        "type": "Ciprusi / Kávézó"
+      },
+      {
+        "type": "Görög / Ciprusi"
+      },
+      {
+        "type": "Ciprusi taverna"
+      },
+      {
+        "type": "Vegyes / Kikötő"
+      },
+      {
+        "type": "Ciprusi / Tenger gyümölcsei"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Kávézó / Étterem"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Bár / Étterem"
+      },
+      {
+        "type": "Ciprusi / Bor"
+      },
+      {
+        "type": "Tenger gyümölcsei / Taverna"
+      },
+      {
+        "type": "Élelmiszerbolt"
+      },
+      {
+        "type": "Szupermarket"
+      }
+    ],
+    "gettingAround": [
+      {
+        "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
+      },
+      {
+        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5–10 perces sétán belül elérhetők."
+      },
+      {
+        "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
+      }
+    ],
+    "emergency": {
+      "contacts": [
+        {
+          "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
+        },
+        {
+          "note": "Fő kórház Páphoszban, kb. 10 perc autóút"
+        },
+        {
+          "note": "Páphai rendőrség"
+        }
+      ],
+      "nearestPharmacy": "Több gyógyszertár is található sétálótávolságon belül a főúton. Kérdezzenek minket, ha segítségre van szükségük a legközelebbi megtalálásában."
+    },
+    "checkout": {
+      "steps": [
+        "Húzza le az ágyneműt és halmozza fel az ágyon",
+        "Mosogasson el, vagy indítsa el utoljára a mosogatógépet",
+        "Ürítse ki a hűtőt és dobja ki az összes ételmaradékot",
+        "Vigye az összes szemeteszsákot a parkolóban lévő kukákhoz. Kifelé menet a medence után jobbra vannak",
+        "Csukja össze és rögzítse biztonságosan a teraszi napernyőt",
+        "Vigye be a kültéri párnákat és a dekorációt",
+        "Csukja be az összes ablakot, ajtót és redőnyt",
+        "Kapcsolja ki az összes lámpát, a légkondicionálót és a tévét",
+        "Vegye ki a fémkulcsot az áramkapcsolóból az ajtó mellett",
+        "Zárja be a lakás ajtaját és tegye vissza az összes kulcsot a kulcsszekrénybe, majd állítsa vissza a kódot",
+        "Írjon nekünk WhatsApp-on, hogy elutaztak – és örülünk az értékelésnek! 😊"
+      ],
+      "lateCheckout": "Igyekszünk rugalmasak lenni. Ha késői kijelentkezést szeretnének, kérjük jelezzék 1–2 nappal korábban, és megpróbálunk segíteni."
+    }
+  },
   "el": {
     "ui": {
       "welcome": "Καλώς ήρθατε!",

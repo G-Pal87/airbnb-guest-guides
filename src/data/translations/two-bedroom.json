@@ -207,6 +207,214 @@
       "lateCheckout": "Später Check-out bis 13 Uhr kann je nach taggleichen Ankünften möglich sein. Bitte bis 21 Uhr am Vorabend fragen und wir bestätigen. In der Hochsaison kann eine kleine Gebühr anfallen."
     }
   },
+  "hu": {
+    "ui": {
+      "welcome": "Üdvözöljük!",
+      "checkIn": "Bejelentkezés",
+      "keyLocation": "Kulcs helye",
+      "accessCode": "Hozzáférési kód",
+      "stepByStep": "Lépésről lépésre",
+      "houseRules": "Házirend",
+      "gettingHere": "Megközelítés",
+      "openGoogleMaps": "Megnyitás Google Térképen",
+      "byCar": "Autóval & Parkolás",
+      "parking": "Parkolás",
+      "publicTransport": "Tömegközlekedés",
+      "taxi": "Taxi",
+      "photoGuide": "Lépésről lépésre fotóútmutató",
+      "appliances": "WiFi & Berendezések",
+      "wifi": "WiFi",
+      "thingsToDo": "Látnivalók & Programok",
+      "eatAndDrink": "Étkezés & Italok",
+      "gettingAround": "Közlekedés",
+      "emergency": "Vészhelyzeti kapcsolatok",
+      "nearestHospital": "Legközelebbi kórház",
+      "nearestPharmacy": "Legközelebbi gyógyszertár",
+      "checkout": "Kijelentkezés",
+      "checkoutTime": "Kijelentkezési idő",
+      "checkoutChecklist": "Kijelentkezési lista",
+      "contactHost": "Kapcsolat a házigazdával"
+    },
+    "welcomeMessage": "Üdvözöljük gyönyörű 2 hálószobás lakásunkban! Nagyon örülünk, hogy az idejüket nálunk töltik. Ez a tágas, kényelmes otthon tökéletes a két vagy több személy számára!",
+    "gettingHere": {
+      "byCar": "A larnacai repülőtérről vegye az A3-as autópályát Protaras irányába. Hagyja el az autópályát Protaras/Paralimni-nél és hajtson a fő körforgalomhoz. A harmadik kijáratot vegye a Protaras sugárútra a városközpont felé. A Protaras vízipark után 500 m-rel a jobb oldalon forduljon balra a Kypros utcába. Mi vagyunk a homokszínű négyemeletes épület. Figyelje a bejárat feletti bougainvilleát.",
+      "parking": "Ingyenes parkoló az épület mögött. Behajtás az épülettől jobbra lévő sikátoron keresztül. Az Ön parkolóhelye 'K14'-gyel van jelölve.",
+      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vegyen egy megállót a 615-ös busszal. ⚠️ A buszok csak készpénzt fogadnak el. A viteldíj 2,50€ személyenként és útonként.",
+      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40–45€, csúcsidőn kívül 45–50€. A repülőtérről az utazás körülbelül 20–25 percet vesz igénybe.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Kulcsszekrény az épület főbejáratánál, földszint balra",
+      "steps": [
+        "Lépjen be az épületbe a főajtón (nyomja a nyitáshoz – nincs bezárva)",
+        "A kulcsszekrény a bal oldali falon található közvetlenül a bejárat után, mellmagasságban",
+        "Írja be a 2468 kódot és nyissa ki a fedelet a kulcs kivételéhez",
+        "Vegye a liftet vagy a lépcsőt a 2. emeletre. A lakás a 14-es szám",
+        "Ugyanaz a kulcs nyitja a lakás ajtaját",
+        "Kijelentkezéskor tegye vissza a kulcsot a kulcsszekrénybe"
+      ],
+      "notes": "Az épületben van lift. Egy poggyászkocsi áll rendelkezésre a földszinti szekrényben. A kulcsszekrénnyel kapcsolatos problémák esetén azonnal hívjon."
+    },
+    "houseRules": [
+      "Tilos a dohányzás a teljes lakásban",
+      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00–08:00",
+      "Maximális férőhely: 5 vendég",
+      "Háziállatok nem engedélyezettek",
+      "Mosogasson el azonnal és tartsa tisztán a konyhai pultot. Cipruson a meleg időjárás rovarokat vonzhat",
+      "Kérjük, használja a WC melletti szemetes kosarat. Ne dobjon WC-papírt a kagylóba (a ciprusi vízvezetékek nem bírják el)",
+      "Hagyja a fémkulcsot a konnektorban az ajtó mellett, amíg bent van; vegye ki, amikor távozik",
+      "Csukja be az összes ablakot és erkélyajtót, amikor a légkondicionáló működik",
+      "Csukja össze és rögzítse a teraszi napernyőt éjszaka és szeles időben",
+      "Adja vissza a kulcsot a kulcsszekrénybe és állítsa vissza a kódot kijelentkezéskor",
+      "Bánjon gondosan a lakással. Kérjük, azonnal jelezzen minden sérülést",
+      "Vigyázzon a kulcsokra. Ha elveszíti vagy bezárja magát, lakatosra lesz szükség, amelynek költségét Önre hárítjuk"
+    ],
+    "appliances": [
+      {
+        "name": "Légkondicionáló",
+        "instructions": "Három légkondicionáló van: egy a nappaliban, egy-egy mindkét hálószobában. Mindegyiknek saját távirányítója van az adott szobában. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22–24°C-ra. Az összes egység egyszerre is működtethető. Tartsa csukva az ajtókat és ablakokat működés közben. Távozáskor kapcsolja ki az összes egységet."
+      },
+      {
+        "name": "Mosógép",
+        "instructions": "Teljes méretű mosógép a fürdőszoba melletti háztartási helyiségben. Folyékony mosószer a mosogató alatt – tegye a II-es fiókba. Állítsa 40°C pamut programra normál mosáshoz, nyomja meg a START gombot. A gépnek szárító funkciója is van: válassza a SZIVATTYÚZÁS+CENTRIFUGÁLÁS opciót, majd szárítson alacsony hőfokon."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "65 colos Smart TV a nappaliban. Be- és kikapcsoló gomb a távirányítón. A Netflix és a YouTube be van töltve. Használja a vendégprofilunkat vagy jelentkezzen be saját fiókkal. Egy második, kisebb tévé a főhálószobában. Mindkét tévé ugyanazon a hálózaton van. HDMI-kábel a TV-állvány alatti fiókban."
+      },
+      {
+        "name": "Teljes konyha",
+        "instructions": "Teljes 4 lapos kerámia főzőlap sütővel. Lábasok, serpenyők és eszközök az alsó szekrényekben. A sütőnek kb. 15 perc kell az előmelegítéshez. Állítsa a felső tárcsát a kívánt hőmérsékletre, az alsó tárcsát a kívánt főzési szimbólumra (légkeverés ajánlott). Mosogatógép a mosogató alatt. Tabletták a felette lévő szekrényben."
+      },
+      {
+        "name": "Grill / Barbecue",
+        "instructions": "Faszenes grill az erkélyen (a nyári hónapokban rendelkezésre áll). A szén a mellette lévő terrakotta cserépben van. Használja a grillgyújtót a konyhafiókból. Gyújtsa meg a gyújtót, tegye a szénpiramis alá és várjon 20 percet. Utána mindig teljesen oltsa el vízzel."
+      },
+      {
+        "name": "Mosogatógép",
+        "instructions": "Beépített mosogatógép a mosogató alatt. Tabletták a munkalap alatti dobozban. Pakolja be az edényeket (poharak fejjel lefelé a felső kosárban, tányérok alul), tegyen egy tablettát az adagolóba, válassza az ECO-t teljes adaghoz vagy a QUICK 45-öt könnyű használathoz. Nyomja meg a START gombot. Ürítse ki, amikor lehűlt."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "Strandok 🏝️"
+      },
+      {
+        "category": "Történelmi helyek & Séták 🏰"
+      },
+      {
+        "category": "Látnivalók & Kirándulások 📸"
+      },
+      {
+        "category": "Túrázás & Természet ⛰️"
+      }
+    ],
+    "eatAndDrink": [
+      {
+        "type": "Görög / Mediterrán"
+      },
+      {
+        "type": "Görög / Meze"
+      },
+      {
+        "type": "Kávézó / Brunch"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Ciprusi"
+      },
+      {
+        "type": "Ételudvar"
+      },
+      {
+        "type": "Kávézó / Helyi"
+      },
+      {
+        "type": "Ciprusi / Kávézó"
+      },
+      {
+        "type": "Görög / Ciprusi"
+      },
+      {
+        "type": "Ciprusi taverna"
+      },
+      {
+        "type": "Vegyes / Kikötő"
+      },
+      {
+        "type": "Ciprusi / Tenger gyümölcsei"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Kávézó / Étterem"
+      },
+      {
+        "type": "Tenger gyümölcsei"
+      },
+      {
+        "type": "Bár / Étterem"
+      },
+      {
+        "type": "Ciprusi / Bor"
+      },
+      {
+        "type": "Tenger gyümölcsei / Taverna"
+      },
+      {
+        "type": "Élelmiszerbolt"
+      },
+      {
+        "type": "Szupermarket"
+      }
+    ],
+    "gettingAround": [
+      {
+        "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
+      },
+      {
+        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5–10 perces sétán belül elérhetők."
+      },
+      {
+        "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
+      }
+    ],
+    "emergency": {
+      "contacts": [
+        {
+          "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
+        },
+        {
+          "note": "Fő kórház Páphoszban, kb. 10 perc autóút"
+        },
+        {
+          "note": "Páphai rendőrség"
+        }
+      ],
+      "nearestPharmacy": "Több gyógyszertár is található sétálótávolságon belül a főúton. Kérdezzenek minket, ha segítségre van szükségük a legközelebbi megtalálásában."
+    },
+    "checkout": {
+      "steps": [
+        "Húzza le az ágyneműt mindkét hálószobában és hagyja az adott ágyakon",
+        "Ürítse ki a hűtőt és a szekrényeket minden élelmiszertől",
+        "Csomagolja zsákokba a szemetet és vigye a parkolóban lévő feliratozott kukákhoz",
+        "Indítsa el utoljára a mosogatógépet és hagyja nyitva a szellőzéshez",
+        "Törölje le a főzőlapot és a konyhai munkalapokat",
+        "Csukja be és zárja le az összes ablakot, erkélyajtót és redőnyt",
+        "Kapcsolja ki az összes légkondicionálót, lámpát és a tévét",
+        "Hagyja szabadon a parkolóhelyet a következő vendégeknek",
+        "Zárja be a lakás ajtaját és tegye vissza a kulcsot a kulcsszekrénybe (kód: 2468)",
+        "Írjon nekünk WhatsApp-on, hogy biztonságosan úton vannak. Az értékelések mindent jelentenek nekünk. Köszönjük!"
+      ],
+      "lateCheckout": "Késői, 13 óráig tartó kijelentkezés az aznapi érkezésektől függően lehetséges lehet. Kérjük, kérdezzen az előző este 21 óráig, és visszaigazoljuk. Főszezonban kis díj merülhet fel."
+    }
+  },
   "el": {
     "ui": {
       "welcome": "Καλώς ήρθατε!",

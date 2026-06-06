@@ -88,44 +88,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Strände 🏝️"},
-      {"category": "Historische Stätten & Spaziergänge 🏰"},
-      {"category": "Attraktionen & Ausflüge 📸"},
-      {"category": "Wandern & Naturpfade ⛰️"}
+      {
+        "category": "Strände 🏝️"
+      },
+      {
+        "category": "Historische Stätten & Spaziergänge 🏰"
+      },
+      {
+        "category": "Attraktionen & Ausflüge 📸"
+      },
+      {
+        "category": "Wandern & Naturpfade ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Griechisch / Mediterran"},
-      {"type": "Griechisch / Meze"},
-      {"type": "Café / Brunch"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Zyprisch"},
-      {"type": "Food Court"},
-      {"type": "Café / Lokal"},
-      {"type": "Zyprisch / Café"},
-      {"type": "Griechisch / Zyprisch"},
-      {"type": "Zyprische Taverne"},
-      {"type": "Verschiedenes / Hafen"},
-      {"type": "Zyprisch / Meeresfrüchte"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Café / Restaurant"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Bar / Restaurant"},
-      {"type": "Zyprisch / Wein"},
-      {"type": "Meeresfrüchte / Taverne"},
-      {"type": "Lebensmittelgeschäft"},
-      {"type": "Supermarkt"}
+      {
+        "type": "Griechisch / Mediterran"
+      },
+      {
+        "type": "Griechisch / Meze"
+      },
+      {
+        "type": "Café / Brunch"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Zyprisch"
+      },
+      {
+        "type": "Food Court"
+      },
+      {
+        "type": "Café / Lokal"
+      },
+      {
+        "type": "Zyprisch / Café"
+      },
+      {
+        "type": "Griechisch / Zyprisch"
+      },
+      {
+        "type": "Zyprische Taverne"
+      },
+      {
+        "type": "Verschiedenes / Hafen"
+      },
+      {
+        "type": "Zyprisch / Meeresfrüchte"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Café / Restaurant"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Bar / Restaurant"
+      },
+      {
+        "type": "Zyprisch / Wein"
+      },
+      {
+        "type": "Meeresfrüchte / Taverne"
+      },
+      {
+        "type": "Lebensmittelgeschäft"
+      },
+      {
+        "type": "Supermarkt"
+      }
     ],
     "gettingAround": [
-      {"info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."},
-      {"info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."},
-      {"info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."}
+      {
+        "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."
+      },
+      {
+        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."
+      },
+      {
+        "info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"},
-        {"note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"},
-        {"note": "Polizeistation Paphos"}
+        {
+          "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"
+        },
+        {
+          "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"
+        },
+        {
+          "note": "Polizeistation Paphos"
+        }
       ],
       "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung brauchen."
     },
@@ -143,6 +205,214 @@
         "Uns eine WhatsApp schicken, dass Sie sicher unterwegs sind. Bewertungen bedeuten uns alles. Danke!"
       ],
       "lateCheckout": "Später Check-out bis 13 Uhr kann je nach taggleichen Ankünften möglich sein. Bitte bis 21 Uhr am Vorabend fragen und wir bestätigen. In der Hochsaison kann eine kleine Gebühr anfallen."
+    }
+  },
+  "el": {
+    "ui": {
+      "welcome": "Καλώς ήρθατε!",
+      "checkIn": "Check-in",
+      "keyLocation": "Τοποθεσία Κλειδιού",
+      "accessCode": "Κωδικός Πρόσβασης",
+      "stepByStep": "Βήμα-Βήμα",
+      "houseRules": "Κανόνες Κατοικίας",
+      "gettingHere": "Πώς να φτάσετε",
+      "openGoogleMaps": "Άνοιγμα στο Google Maps",
+      "byCar": "Με Αυτοκίνητο & Παρκάρισμα",
+      "parking": "Παρκάρισμα",
+      "publicTransport": "Δημόσια Συγκοινωνία",
+      "taxi": "Ταξί",
+      "photoGuide": "Οδηγός Βήμα-Βήμα με Φωτογραφίες",
+      "appliances": "WiFi & Συσκευές",
+      "wifi": "Στοιχεία WiFi",
+      "thingsToDo": "Αξιοθέατα & Δραστηριότητες",
+      "eatAndDrink": "Φαγητό & Ποτό",
+      "gettingAround": "Μετακίνηση",
+      "emergency": "Επείγουσες Επαφές",
+      "nearestHospital": "Πλησιέστερο Νοσοκομείο",
+      "nearestPharmacy": "Πλησιέστερο Φαρμακείο",
+      "checkout": "Check-out",
+      "checkoutTime": "Ώρα Αναχώρησης",
+      "checkoutChecklist": "Λίστα Αναχώρησης",
+      "contactHost": "Επικοινωνία"
+    },
+    "welcomeMessage": "Καλώς ήρθατε στο όμορφο διαμέρισμά μας με 2 υπνοδωμάτια! Χαιρόμαστε πολύ που θα περάσετε τον χρόνο σας εδώ. Αυτό το ευρύχωρο διαμέρισμα σχεδιάστηκε για οικογένειες και παρέες. Άφθονος χώρος για να χαλαρώσετε και να απλωθείτε όλοι μαζί. Δύο υπνοδωμάτια, ένα μεγάλο σαλόνι, μια πλήρως εξοπλισμένη κουζίνα και ένα ευρύ ιδιωτικό μπαλκόνι με θέα στον κήπο. Θέλουμε η διαμονή σας να είναι τέλεια — μη διστάσετε λοιπόν να επικοινωνήσετε μαζί μας αν χρειαστείτε κάτι.",
+    "gettingHere": {
+      "byCar": "Από το αεροδρόμιο Λάρνακας πάρτε τον αυτοκινητόδρομο A3 προς Πρωταρά. Βγείτε από τον αυτοκινητόδρομο στον Πρωταρά/Παραλίμνι και οδηγήστε προς τον κεντρικό κυκλικό κόμβο. Πάρτε την τρίτη έξοδο στη λεωφόρο Πρωταρά προς το κέντρο της πόλης. Στρίψτε αριστερά στην οδό Κύπρου 500 μ. μετά το πάρκο νερού του Πρωταρά στη δεξιά πλευρά. Είμαστε το τετραώροφο κτίριο σε χρώμα άμμου. Προσέξτε τη βουκαμβίλια πάνω από την είσοδο.",
+      "parking": "Δωρεάν χώρος στάθμευσης πίσω από το κτίριο. Είσοδος από το δρομάκι δεξιά του κτιρίου. Η θέση σας είναι σημειωμένη με 'K14'.",
+      "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 μέχρι τη στάση Τάφοι των Βασιλέων. Από εκεί είναι 18 λεπτά με τα πόδια (~1,3 χλμ). Εναλλακτικά, το λεωφορείο 615 για μία στάση. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Η εισιτήριο κοστίζει 2,50€ ανά άτομο ανά διαδρομή.",
+      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40–45€ κατά τη διάρκεια της ημέρας και 45–50€ τη νύχτα. Η διαδρομή διαρκεί περίπου 20–25 λεπτά.",
+      "directionPhotos": []
+    },
+    "checkin": {
+      "keyLocation": "Κουτί κλειδιών στην κύρια είσοδο του κτιρίου, ισόγειο αριστερά",
+      "steps": [
+        "Μπείτε στο κτίριο από την κύρια πόρτα (σπρώξτε για να ανοίξει — δεν είναι κλειδωμένη)",
+        "Το κουτί κλειδιών βρίσκεται στον αριστερό τοίχο αμέσως μετά την είσοδο, σε ύψος στήθους",
+        "Πληκτρολογήστε τον κωδικό 2468 και ανοίξτε το καπάκι για να πάρετε το κλειδί",
+        "Πάρτε τον ανελκυστήρα ή τις σκάλες στον 2ο όροφο. Το διαμέρισμα είναι το νούμερο 14",
+        "Το ίδιο κλειδί ανοίγει την πόρτα του διαμερίσματος",
+        "Επιστρέψτε το κλειδί στο κουτί κλειδιών κατά την αναχώρηση"
+      ],
+      "notes": "Στο κτίριο υπάρχει ανελκυστήρας. Ένα καρότσι αποσκευών είναι διαθέσιμο στην ντουλάπα του ισογείου. Αν έχετε πρόβλημα με το κουτί κλειδιών, καλέστε μας αμέσως."
+    },
+    "houseRules": [
+      "Απαγορεύεται το κάπνισμα σε όλο το διαμέρισμα",
+      "Απαγορεύονται πάρτι και εκδηλώσεις. Ησυχία από τις 23:00 έως τις 08:00",
+      "Μέγιστη χωρητικότητα: 5 φιλοξενούμενοι",
+      "Δεν επιτρέπονται κατοικίδια",
+      "Καθαρίστε τα πιάτα αμέσως και διατηρείτε τον πάγκο κουζίνας καθαρό. Ο ζεστός καιρός της Κύπρου μπορεί να προσελκύσει έντομα",
+      "Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα. Μην ρίχνετε χαρτί υγείας στη λεκάνη (η κυπριακή υδραυλική εγκατάσταση δεν το αντέχει)",
+      "Αφήστε το μεταλλικό κλειδί στην πρίζα δίπλα στην πόρτα όταν είστε μέσα· αφαιρέστε το όταν φεύγετε",
+      "Κλείνετε όλα τα παράθυρα και τις πόρτες του μπαλκονιού όταν λειτουργεί το κλιματιστικό",
+      "Κλείνετε και δένετε την ομπρέλα της βεράντας τη νύχτα και με αέρα",
+      "Επιστρέψτε τα κλειδιά στο κουτί και επαναφέρετε τον κωδικό κατά την αναχώρηση",
+      "Φροντίστε το διαμέρισμα με προσοχή. Παρακαλούμε αναφέρετε τυχόν ζημιές άμεσα",
+      "Φυλάξτε τα κλειδιά με ασφάλεια. Αν τα χάσετε ή τα κλειδωθείτε έξω, θα χρειαστεί κλειδαράς και το κόστος θα χρεωθεί σε εσάς"
+    ],
+    "appliances": [
+      {
+        "name": "Κλιματισμός",
+        "instructions": "Υπάρχουν τρία κλιματιστικά: ένα στο σαλόνι και από ένα σε κάθε υπνοδωμάτιο. Καθένα έχει το δικό του τηλεχειριστήριο στο αντίστοιχο δωμάτιο. Πατήστε POWER, επιλέξτε COOL, ρυθμίστε στους 22–24°C. Όλα μπορούν να λειτουργούν ταυτόχρονα. Κρατήστε πόρτες και παράθυρα κλειστά όταν λειτουργούν. Σβήστε τα όλα κατά την αναχώρηση."
+      },
+      {
+        "name": "Πλυντήριο",
+        "instructions": "Πλήρες πλυντήριο στον χώρο οικιακής χρήσης δίπλα στο μπάνιο. Υγρό απορρυπαντικό κάτω από τον νεροχύτη — βάλτε το στη θήκη II. Ρυθμίστε στους 40°C βαμβακερά για κανονικά φορτία, πατήστε START. Το μηχάνημα έχει και λειτουργία στεγνώματος: επιλέξτε ΑΔΕΙΑΣΜΑ+ΣΤΥΨΙΜΟ, μετά στεγνώστε σε χαμηλή θερμοκρασία."
+      },
+      {
+        "name": "Smart TV",
+        "instructions": "Smart TV 65 ιντσών στο σαλόνι. Κουμπί ON/OFF στο τηλεχειριστήριο. Φορτωμένα Netflix και YouTube. Χρησιμοποιήστε το προφίλ επισκέπτη μας ή συνδεθείτε στον δικό σας λογαριασμό. Μια δεύτερη, μικρότερη τηλεόραση στο κύριο υπνοδωμάτιο. Και οι δύο τηλεοράσεις είναι στο ίδιο δίκτυο. Καλώδιο HDMI στο συρτάρι κάτω από τη βάση της τηλεόρασης."
+      },
+      {
+        "name": "Πλήρης Κουζίνα",
+        "instructions": "Πλήρης κεραμική εστία 4 εστιών με φούρνο. Κατσαρόλες, τηγάνια και σκεύη στα κάτω ντουλάπια. Ο φούρνος χρειάζεται περίπου 15 λεπτά για προθέρμανση. Ρυθμίστε τον πάνω επιλογέα στην επιθυμητή θερμοκρασία, τον κάτω επιλογέα στο επιθυμητό σύμβολο ψησίματος (συνιστάται αέρας). Πλυντήριο πιάτων κάτω από τον νεροχύτη. Ταμπλέτες στο ντουλάπι από πάνω."
+      },
+      {
+        "name": "Ψησταριά / Μπάρμπεκιου",
+        "instructions": "Ψησταριά κάρβουνου στο μπαλκόνι (διαθέσιμη τους καλοκαιρινούς μήνες). Κάρβουνο στο πήλινο δοχείο δίπλα. Χρησιμοποιήστε προσάναμμα από το συρτάρι της κουζίνας. Ανάψτε το προσάναμμα, βάλτε το κάτω από την πυραμίδα κάρβουνου και περιμένετε 20 λεπτά. Μετά σβήνετε πάντα πλήρως με νερό."
+      },
+      {
+        "name": "Πλυντήριο Πιάτων",
+        "instructions": "Εντοιχισμένο πλυντήριο πιάτων κάτω από τον νεροχύτη. Ταμπλέτες στο κουτί κάτω από τον πάγκο. Φορτώστε τα πιάτα (φλιτζάνια ανάποδα στο πάνω καλάθι, πιάτα κάτω), μια ταμπλέτα στη θήκη, επιλέξτε ECO για πλήρες φορτίο ή QUICK 45 για ελαφριά χρήση. Πατήστε START. Αδειάστε όταν κρυώσει."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "Παραλίες 🏝️"
+      },
+      {
+        "category": "Ιστορικά Μνημεία & Τοπίο 🏰"
+      },
+      {
+        "category": "Αξιοθέατα & Εκδρομές 📸"
+      },
+      {
+        "category": "Πεζοπορία & Φύση ⛰️"
+      }
+    ],
+    "eatAndDrink": [
+      {
+        "type": "Ελληνικά / Μεσογειακά"
+      },
+      {
+        "type": "Ελληνικά / Μεζέ"
+      },
+      {
+        "type": "Καφέ / Brunch"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Κυπριακά"
+      },
+      {
+        "type": "Food Court"
+      },
+      {
+        "type": "Καφέ / Τοπικό"
+      },
+      {
+        "type": "Κυπριακά / Καφέ"
+      },
+      {
+        "type": "Ελληνικά / Κυπριακά"
+      },
+      {
+        "type": "Κυπριακή ταβέρνα"
+      },
+      {
+        "type": "Διάφορα / Λιμάνι"
+      },
+      {
+        "type": "Κυπριακά / Θαλασσινά"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Καφέ / Εστιατόριο"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Μπαρ / Εστιατόριο"
+      },
+      {
+        "type": "Κυπριακά / Κρασί"
+      },
+      {
+        "type": "Θαλασσινά / Ταβέρνα"
+      },
+      {
+        "type": "Παντοπωλείο"
+      },
+      {
+        "type": "Σούπερ μάρκετ"
+      }
+    ],
+    "gettingAround": [
+      {
+        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
+      },
+      {
+        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5–10 λεπτών με τα πόδια."
+      },
+      {
+        "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
+      }
+    ],
+    "emergency": {
+      "contacts": [
+        {
+          "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο"
+        },
+        {
+          "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο"
+        },
+        {
+          "note": "Αστυνομικό τμήμα Πάφου"
+        }
+      ],
+      "nearestPharmacy": "Αρκετά φαρμακεία σε απόσταση βόλτας στον κεντρικό δρόμο. Ρωτήστε μας αν χρειάζεστε βοήθεια να βρείτε το πλησιέστερο."
+    },
+    "checkout": {
+      "steps": [
+        "Ξεστρώστε τα σεντόνια και στα δύο υπνοδωμάτια και αφήστε τα πάνω στα αντίστοιχα κρεβάτια",
+        "Αδειάστε το ψυγείο και τα ντουλάπια από όλα τα τρόφιμα",
+        "Βάλτε τα σκουπίδια σε σακούλες και μεταφέρετέ τα στους σημειωμένους κάδους στο πάρκινγκ",
+        "Βάλτε μια τελευταία φορά το πλυντήριο πιάτων και αφήστε το ανοιχτό για αερισμό",
+        "Σκουπίστε την εστία και τους πάγκους της κουζίνας",
+        "Κλείστε και ασφαλίστε όλα τα παράθυρα, τις πόρτες του μπαλκονιού και τα ρολά",
+        "Σβήστε όλα τα κλιματιστικά, τα φώτα και την τηλεόραση",
+        "Αφήστε ελεύθερη τη θέση στάθμευσης για τους επόμενους φιλοξενούμενους",
+        "Κλειδώστε την πόρτα του διαμερίσματος και επιστρέψτε το κλειδί στο κουτί κλειδιών (κωδικός: 2468)",
+        "Στείλτε μας WhatsApp ότι ταξιδεύετε με ασφάλεια. Οι αξιολογήσεις σημαίνουν τα πάντα για εμάς. Ευχαριστούμε!"
+      ],
+      "lateCheckout": "Η αργή αναχώρηση μέχρι τις 13:00 μπορεί να είναι δυνατή ανάλογα με τις αφίξεις της ίδιας ημέρας. Παρακαλούμε ρωτήστε μέχρι τις 21:00 της προηγούμενης βραδιάς και θα επιβεβαιώσουμε. Στην υψηλή περίοδο μπορεί να ισχύει μια μικρή χρέωση."
     }
   },
   "fr": {
@@ -234,44 +504,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Plages 🏝️"},
-      {"category": "Sites historiques & promenades 🏰"},
-      {"category": "Attractions & Excursions 📸"},
-      {"category": "Randonnées & sentiers naturels ⛰️"}
+      {
+        "category": "Plages 🏝️"
+      },
+      {
+        "category": "Sites historiques & promenades 🏰"
+      },
+      {
+        "category": "Attractions & Excursions 📸"
+      },
+      {
+        "category": "Randonnées & sentiers naturels ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Grec / Méditerranéen"},
-      {"type": "Grec / Meze"},
-      {"type": "Café / Brunch"},
-      {"type": "Fruits de mer"},
-      {"type": "Fruits de mer"},
-      {"type": "Chypriote"},
-      {"type": "Restauration rapide"},
-      {"type": "Café / Local"},
-      {"type": "Chypriote / Café"},
-      {"type": "Grec / Chypriote"},
-      {"type": "Taverne chypriote"},
-      {"type": "Divers / Port"},
-      {"type": "Chypriote / Fruits de mer"},
-      {"type": "Fruits de mer"},
-      {"type": "Café / Restaurant"},
-      {"type": "Fruits de mer"},
-      {"type": "Bar / Restaurant"},
-      {"type": "Chypriote / Vin"},
-      {"type": "Fruits de mer / Taverne"},
-      {"type": "Épicerie"},
-      {"type": "Supermarché"}
+      {
+        "type": "Grec / Méditerranéen"
+      },
+      {
+        "type": "Grec / Meze"
+      },
+      {
+        "type": "Café / Brunch"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Chypriote"
+      },
+      {
+        "type": "Restauration rapide"
+      },
+      {
+        "type": "Café / Local"
+      },
+      {
+        "type": "Chypriote / Café"
+      },
+      {
+        "type": "Grec / Chypriote"
+      },
+      {
+        "type": "Taverne chypriote"
+      },
+      {
+        "type": "Divers / Port"
+      },
+      {
+        "type": "Chypriote / Fruits de mer"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Café / Restaurant"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Bar / Restaurant"
+      },
+      {
+        "type": "Chypriote / Vin"
+      },
+      {
+        "type": "Fruits de mer / Taverne"
+      },
+      {
+        "type": "Épicerie"
+      },
+      {
+        "type": "Supermarché"
+      }
     ],
     "gettingAround": [
-      {"info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."},
-      {"info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5–10 minutes à pied."},
-      {"info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."}
+      {
+        "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."
+      },
+      {
+        "info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5–10 minutes à pied."
+      },
+      {
+        "info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"},
-        {"note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"},
-        {"note": "Poste de police de Paphos"}
+        {
+          "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"
+        },
+        {
+          "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"
+        },
+        {
+          "note": "Poste de police de Paphos"
+        }
       ],
       "nearestPharmacy": "Plusieurs pharmacies à distance de marche sur la route principale. Demandez-nous si vous avez besoin d'une recommandation."
     },
@@ -380,44 +712,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Playas 🏝️"},
-      {"category": "Sitios históricos y paseos escénicos 🏰"},
-      {"category": "Atracciones y excursiones 📸"},
-      {"category": "Senderismo y rutas naturales ⛰️"}
+      {
+        "category": "Playas 🏝️"
+      },
+      {
+        "category": "Sitios históricos y paseos escénicos 🏰"
+      },
+      {
+        "category": "Atracciones y excursiones 📸"
+      },
+      {
+        "category": "Senderismo y rutas naturales ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Griego / Mediterráneo"},
-      {"type": "Griego / Meze"},
-      {"type": "Cafetería / Brunch"},
-      {"type": "Mariscos"},
-      {"type": "Mariscos"},
-      {"type": "Chipriota"},
-      {"type": "Patio de comidas"},
-      {"type": "Cafetería / Local"},
-      {"type": "Chipriota / Cafetería"},
-      {"type": "Griego / Chipriota"},
-      {"type": "Taberna chipriota"},
-      {"type": "Varios / Puerto"},
-      {"type": "Chipriota / Mariscos"},
-      {"type": "Mariscos"},
-      {"type": "Cafetería / Restaurante"},
-      {"type": "Mariscos"},
-      {"type": "Bar / Restaurante"},
-      {"type": "Chipriota / Vino"},
-      {"type": "Mariscos / Taberna"},
-      {"type": "Tienda de alimentación"},
-      {"type": "Supermercado"}
+      {
+        "type": "Griego / Mediterráneo"
+      },
+      {
+        "type": "Griego / Meze"
+      },
+      {
+        "type": "Cafetería / Brunch"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Chipriota"
+      },
+      {
+        "type": "Patio de comidas"
+      },
+      {
+        "type": "Cafetería / Local"
+      },
+      {
+        "type": "Chipriota / Cafetería"
+      },
+      {
+        "type": "Griego / Chipriota"
+      },
+      {
+        "type": "Taberna chipriota"
+      },
+      {
+        "type": "Varios / Puerto"
+      },
+      {
+        "type": "Chipriota / Mariscos"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Cafetería / Restaurante"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Bar / Restaurante"
+      },
+      {
+        "type": "Chipriota / Vino"
+      },
+      {
+        "type": "Mariscos / Taberna"
+      },
+      {
+        "type": "Tienda de alimentación"
+      },
+      {
+        "type": "Supermercado"
+      }
     ],
     "gettingAround": [
-      {"info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."},
-      {"info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5–10 minutos a pie."},
-      {"info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."}
+      {
+        "info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
+      },
+      {
+        "info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5–10 minutos a pie."
+      },
+      {
+        "info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"},
-        {"note": "Hospital principal de Pafos, a unos 10 minutos en coche"},
-        {"note": "Comisaría de Pafos"}
+        {
+          "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"
+        },
+        {
+          "note": "Hospital principal de Pafos, a unos 10 minutos en coche"
+        },
+        {
+          "note": "Comisaría de Pafos"
+        }
       ],
       "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntenos si necesita una recomendación."
     },
@@ -526,44 +920,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Plaże 🏝️"},
-      {"category": "Miejsca historyczne i malownicze spacery 🏰"},
-      {"category": "Atrakcje i wycieczki 📸"},
-      {"category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"}
+      {
+        "category": "Plaże 🏝️"
+      },
+      {
+        "category": "Miejsca historyczne i malownicze spacery 🏰"
+      },
+      {
+        "category": "Atrakcje i wycieczki 📸"
+      },
+      {
+        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Greckie / Śródziemnomorskie"},
-      {"type": "Greckie / Meze"},
-      {"type": "Kawiarnia / Brunch"},
-      {"type": "Owoce morza"},
-      {"type": "Owoce morza"},
-      {"type": "Cypryjskie"},
-      {"type": "Food court"},
-      {"type": "Kawiarnia / Lokalne"},
-      {"type": "Cypryjskie / Kawiarnia"},
-      {"type": "Greckie / Cypryjskie"},
-      {"type": "Cypryjska tawerna"},
-      {"type": "Różne / Port"},
-      {"type": "Cypryjskie / Owoce morza"},
-      {"type": "Owoce morza"},
-      {"type": "Kawiarnia / Restauracja"},
-      {"type": "Owoce morza"},
-      {"type": "Bar / Restauracja"},
-      {"type": "Cypryjskie / Wino"},
-      {"type": "Owoce morza / Tawerna"},
-      {"type": "Sklep spożywczy"},
-      {"type": "Supermarket"}
+      {
+        "type": "Greckie / Śródziemnomorskie"
+      },
+      {
+        "type": "Greckie / Meze"
+      },
+      {
+        "type": "Kawiarnia / Brunch"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Cypryjskie"
+      },
+      {
+        "type": "Food court"
+      },
+      {
+        "type": "Kawiarnia / Lokalne"
+      },
+      {
+        "type": "Cypryjskie / Kawiarnia"
+      },
+      {
+        "type": "Greckie / Cypryjskie"
+      },
+      {
+        "type": "Cypryjska tawerna"
+      },
+      {
+        "type": "Różne / Port"
+      },
+      {
+        "type": "Cypryjskie / Owoce morza"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Kawiarnia / Restauracja"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Bar / Restauracja"
+      },
+      {
+        "type": "Cypryjskie / Wino"
+      },
+      {
+        "type": "Owoce morza / Tawerna"
+      },
+      {
+        "type": "Sklep spożywczy"
+      },
+      {
+        "type": "Supermarket"
+      }
     ],
     "gettingAround": [
-      {"info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."},
-      {"info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5–10 minutach pieszo."},
-      {"info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."}
+      {
+        "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."
+      },
+      {
+        "info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5–10 minutach pieszo."
+      },
+      {
+        "info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"},
-        {"note": "Główny szpital w Pafos, ok. 10 minut jazdy"},
-        {"note": "Posterunek policji w Pafos"}
+        {
+          "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"
+        },
+        {
+          "note": "Główny szpital w Pafos, ok. 10 minut jazdy"
+        },
+        {
+          "note": "Posterunek policji w Pafos"
+        }
       ],
       "nearestPharmacy": "Kilka aptek w odległości krótkiego spaceru przy głównej drodze. Zapytajcie nas, jeśli potrzebujecie rekomendacji."
     },
@@ -672,44 +1128,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Пляжи 🏝️"},
-      {"category": "Исторические места и живописные прогулки 🏰"},
-      {"category": "Достопримечательности и экскурсии 📸"},
-      {"category": "Пешие прогулки и природные тропы ⛰️"}
+      {
+        "category": "Пляжи 🏝️"
+      },
+      {
+        "category": "Исторические места и живописные прогулки 🏰"
+      },
+      {
+        "category": "Достопримечательности и экскурсии 📸"
+      },
+      {
+        "category": "Пешие прогулки и природные тропы ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Греческая / Средиземноморская"},
-      {"type": "Греческая / Мезе"},
-      {"type": "Кафе / Бранч"},
-      {"type": "Морепродукты"},
-      {"type": "Морепродукты"},
-      {"type": "Кипрская"},
-      {"type": "Фуд-корт"},
-      {"type": "Кафе / Местная"},
-      {"type": "Кипрская / Кафе"},
-      {"type": "Греческая / Кипрская"},
-      {"type": "Кипрская таверна"},
-      {"type": "Разное / Гавань"},
-      {"type": "Кипрская / Морепродукты"},
-      {"type": "Морепродукты"},
-      {"type": "Кафе / Ресторан"},
-      {"type": "Морепродукты"},
-      {"type": "Бар / Ресторан"},
-      {"type": "Кипрская / Вино"},
-      {"type": "Морепродукты / Таверна"},
-      {"type": "Продуктовый магазин"},
-      {"type": "Супермаркет"}
+      {
+        "type": "Греческая / Средиземноморская"
+      },
+      {
+        "type": "Греческая / Мезе"
+      },
+      {
+        "type": "Кафе / Бранч"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Кипрская"
+      },
+      {
+        "type": "Фуд-корт"
+      },
+      {
+        "type": "Кафе / Местная"
+      },
+      {
+        "type": "Кипрская / Кафе"
+      },
+      {
+        "type": "Греческая / Кипрская"
+      },
+      {
+        "type": "Кипрская таверна"
+      },
+      {
+        "type": "Разное / Гавань"
+      },
+      {
+        "type": "Кипрская / Морепродукты"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Кафе / Ресторан"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Бар / Ресторан"
+      },
+      {
+        "type": "Кипрская / Вино"
+      },
+      {
+        "type": "Морепродукты / Таверна"
+      },
+      {
+        "type": "Продуктовый магазин"
+      },
+      {
+        "type": "Супермаркет"
+      }
     ],
     "gettingAround": [
-      {"info": "Центральная автобусная станция (Tombs of the Kings) в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."},
-      {"info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5–10 минутах ходьбы."},
-      {"info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."}
+      {
+        "info": "Центральная автобусная станция (Tombs of the Kings) в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."
+      },
+      {
+        "info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5–10 минутах ходьбы."
+      },
+      {
+        "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"},
-        {"note": "Главная больница Пафоса, примерно 10 минут езды"},
-        {"note": "Полицейский участок Пафоса"}
+        {
+          "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"
+        },
+        {
+          "note": "Главная больница Пафоса, примерно 10 минут езды"
+        },
+        {
+          "note": "Полицейский участок Пафоса"
+        }
       ],
       "nearestPharmacy": "Несколько аптек в нескольких минутах ходьбы на главной дороге. Спросите нас, если нужна рекомендация."
     },

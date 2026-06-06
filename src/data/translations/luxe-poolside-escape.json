@@ -34,17 +34,39 @@
       "publicTransport": "Ab dem Flughafen Paphos nehmen Sie den Bus 612 bis zur Haltestelle Tombs of the Kings. Von dort sind es 18 Gehminuten (~1,3 km). Alternativ können Sie den Bus 615 für eine Haltestelle (~2 Min.) nehmen und dann den Rest laufen. Zu Fuß gehen Sie Richtung AVLIDA Hotel, gehen Sie daran vorbei, biegen Sie an der Esso-Tankstelle rechts ab und finden Sie den King's Park Komplex dahinter. Sie können auch Google Maps für aktuelle Strecken und Zeiten nutzen. ⚠️ Busse akzeptieren nur Bargeld. Karten werden nicht akzeptiert. Der Fahrpreis beträgt €2,50 pro Person und Fahrt – halten Sie Münzen oder kleine Scheine bereit.",
       "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40–45 tagsüber und €45–50 nachts. Die Fahrtdauer vom Flughafen beträgt etwa 20–25 Minuten.",
       "directionPhotos": [
-        {"caption": "An der Esso-Tankstelle rechts abbiegen (in die Morphou-Straße)"},
-        {"caption": "Etwa 50 m bis zur großen Baustelle auf der rechten Seite gehen"},
-        {"caption": "Weiter gehen, noch ein kleines Stück..."},
-        {"caption": "An dieser Baustelle rechts in die schmale Straße abbiegen"},
-        {"caption": "Hier parken oder zu Fuß am Pool vorbeigehen"},
-        {"caption": "Der Straße zum hinteren Teil folgen, wo sich der Poolbereich befindet"},
-        {"caption": "Am ersten Steinbogengang links abbiegen"},
-        {"caption": "Am Pool vorbei, rechts entlang des Poolzauns abbiegen"},
-        {"caption": "Zwei Schlüsselboxen unter Briefkasten 'D6'. Die rechte öffnen. Code: 9006"},
-        {"caption": "Durch den Korridor gehen"},
-        {"caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört Ihnen!"}
+        {
+          "caption": "An der Esso-Tankstelle rechts abbiegen (in die Morphou-Straße)"
+        },
+        {
+          "caption": "Etwa 50 m bis zur großen Baustelle auf der rechten Seite gehen"
+        },
+        {
+          "caption": "Weiter gehen, noch ein kleines Stück..."
+        },
+        {
+          "caption": "An dieser Baustelle rechts in die schmale Straße abbiegen"
+        },
+        {
+          "caption": "Hier parken oder zu Fuß am Pool vorbeigehen"
+        },
+        {
+          "caption": "Der Straße zum hinteren Teil folgen, wo sich der Poolbereich befindet"
+        },
+        {
+          "caption": "Am ersten Steinbogengang links abbiegen"
+        },
+        {
+          "caption": "Am Pool vorbei, rechts entlang des Poolzauns abbiegen"
+        },
+        {
+          "caption": "Zwei Schlüsselboxen unter Briefkasten 'D6'. Die rechte öffnen. Code: 9006"
+        },
+        {
+          "caption": "Durch den Korridor gehen"
+        },
+        {
+          "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört Ihnen!"
+        }
       ]
     },
     "checkin": {
@@ -119,44 +141,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Strände 🏝️"},
-      {"category": "Historische Stätten & Spaziergänge 🏰"},
-      {"category": "Attraktionen & Ausflüge 📸"},
-      {"category": "Wandern & Naturpfade ⛰️"}
+      {
+        "category": "Strände 🏝️"
+      },
+      {
+        "category": "Historische Stätten & Spaziergänge 🏰"
+      },
+      {
+        "category": "Attraktionen & Ausflüge 📸"
+      },
+      {
+        "category": "Wandern & Naturpfade ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Griechisch / Mediterran"},
-      {"type": "Griechisch / Meze"},
-      {"type": "Café / Brunch"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Zyprisch"},
-      {"type": "Food Court"},
-      {"type": "Café / Lokal"},
-      {"type": "Zyprisch / Café"},
-      {"type": "Griechisch / Zyprisch"},
-      {"type": "Zyprische Taverne"},
-      {"type": "Verschiedenes / Hafen"},
-      {"type": "Zyprisch / Meeresfrüchte"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Café / Restaurant"},
-      {"type": "Meeresfrüchte"},
-      {"type": "Bar / Restaurant"},
-      {"type": "Zyprisch / Wein"},
-      {"type": "Meeresfrüchte / Taverne"},
-      {"type": "Lebensmittelgeschäft"},
-      {"type": "Supermarkt"}
+      {
+        "type": "Griechisch / Mediterran"
+      },
+      {
+        "type": "Griechisch / Meze"
+      },
+      {
+        "type": "Café / Brunch"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Zyprisch"
+      },
+      {
+        "type": "Food Court"
+      },
+      {
+        "type": "Café / Lokal"
+      },
+      {
+        "type": "Zyprisch / Café"
+      },
+      {
+        "type": "Griechisch / Zyprisch"
+      },
+      {
+        "type": "Zyprische Taverne"
+      },
+      {
+        "type": "Verschiedenes / Hafen"
+      },
+      {
+        "type": "Zyprisch / Meeresfrüchte"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Café / Restaurant"
+      },
+      {
+        "type": "Meeresfrüchte"
+      },
+      {
+        "type": "Bar / Restaurant"
+      },
+      {
+        "type": "Zyprisch / Wein"
+      },
+      {
+        "type": "Meeresfrüchte / Taverne"
+      },
+      {
+        "type": "Lebensmittelgeschäft"
+      },
+      {
+        "type": "Supermarkt"
+      }
     ],
     "gettingAround": [
-      {"info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."},
-      {"info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."},
-      {"info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."}
+      {
+        "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."
+      },
+      {
+        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."
+      },
+      {
+        "info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"},
-        {"note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"},
-        {"note": "Polizeistation Paphos"}
+        {
+          "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"
+        },
+        {
+          "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"
+        },
+        {
+          "note": "Polizeistation Paphos"
+        }
       ],
       "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung brauchen."
     },
@@ -175,6 +259,268 @@
         "Schreiben Sie uns eine WhatsApp, um zu sagen, dass Sie abgereist sind – und wir freuen uns über eine Bewertung! 😊"
       ],
       "lateCheckout": "Wir versuchen flexibel zu sein. Wenn Sie einen späten Check-out möchten, informieren Sie uns bitte 1–2 Tage vor Ihrer Abreise und wir geben unser Bestes."
+    }
+  },
+  "el": {
+    "ui": {
+      "welcome": "Καλώς ήρθατε!",
+      "checkIn": "Check-in",
+      "keyLocation": "Τοποθεσία Κλειδιού",
+      "accessCode": "Κωδικός Πρόσβασης",
+      "stepByStep": "Βήμα-Βήμα",
+      "houseRules": "Κανόνες Κατοικίας",
+      "gettingHere": "Πώς να φτάσετε",
+      "openGoogleMaps": "Άνοιγμα στο Google Maps",
+      "byCar": "Με Αυτοκίνητο & Παρκάρισμα",
+      "parking": "Παρκάρισμα",
+      "publicTransport": "Δημόσια Συγκοινωνία",
+      "taxi": "Ταξί",
+      "photoGuide": "Οδηγός Βήμα-Βήμα με Φωτογραφίες",
+      "appliances": "WiFi & Συσκευές",
+      "wifi": "Στοιχεία WiFi",
+      "thingsToDo": "Αξιοθέατα & Δραστηριότητες",
+      "eatAndDrink": "Φαγητό & Ποτό",
+      "gettingAround": "Μετακίνηση",
+      "emergency": "Επείγουσες Επαφές",
+      "nearestHospital": "Πλησιέστερο Νοσοκομείο",
+      "nearestPharmacy": "Πλησιέστερο Φαρμακείο",
+      "checkout": "Check-out",
+      "checkoutTime": "Ώρα Αναχώρησης",
+      "checkoutChecklist": "Λίστα Αναχώρησης",
+      "contactHost": "Επικοινωνία"
+    },
+    "welcomeMessage": "Καλώς ήρθατε στο Luxe Poolside Escape! Είμαστε ιδιαίτερα χαρούμενοι που σας υποδεχόμαστε σε αυτό το όμορφα διαμορφωμένο κατάλυμα. Σχεδιασμένο για άνεση και κομψότητα, αυτό το σπίτι είναι το ιδιωτικό σας καταφύγιο στη Μεσόγειο. Όλα έχουν προετοιμαστεί με φροντίδα. Βουτήξτε στην πισίνα, απολαύστε καφέ στη βεράντα και αφήστε το νησί να ξεδιπλώσει τη μαγεία του. Είμαστε πάντα μόλις ένα μήνυμα μακριά, αν χρειαστείτε κάτι.",
+    "gettingHere": {
+      "byCar": "Ο σύνδεσμος Google Maps παραπάνω είναι σωστός και σας οδηγεί απευθείας μέσα στο συγκρότημα, μέχρι την περιοχή της πισίνας και του πάρκινγκ. Μπορείτε να παρκάρετε οπουδήποτε στο συγκρότημα. Μετά την άφιξή σας, ακολουθήστε τον οδηγό φωτογραφιών παρακάτω για να φτάσετε στο διαμέρισμα.",
+      "parking": "Οδηγήστε προς την περιοχή της πισίνας, εκεί που τελειώνει ο δρόμος. Οι θέσεις στάθμευσης είναι ελεύθερες — παρκάρετε όπου θέλετε. Η είσοδος του διαμερίσματος είναι ένα λεπτό με τα πόδια. Τις ημέρες με αέρα, καλύτερα μην παρκάρετε κάτω από τα δέντρα! 🌳",
+      "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 μέχρι τη στάση Τάφοι των Βασιλέων. Από εκεί είναι 18 λεπτά με τα πόδια (~1,3 χλμ). Εναλλακτικά, μπορείτε να πάρετε το λεωφορείο 615 για μία στάση (~2 λεπτά) και να περπατήσετε τα υπόλοιπα. Με τα πόδια, κατευθυνθείτε προς το ξενοδοχείο AVLIDA, προσπεράστε το, στρίψτε δεξιά στο πρατήριο Esso και βρείτε το συγκρότημα King's Park πίσω από αυτό. Μπορείτε επίσης να χρησιμοποιήσετε το Google Maps για ενημερωμένες διαδρομές και ώρες. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Δεν δέχονται κάρτες. Η εισιτήριο κοστίζει 2,50€ ανά άτομο ανά διαδρομή — έχετε ψιλά ή μικρά χαρτονομίσματα μαζί σας.",
+      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40–45€ κατά τη διάρκεια της ημέρας και 45–50€ τη νύχτα. Η διαδρομή από το αεροδρόμιο διαρκεί περίπου 20–25 λεπτά.",
+      "directionPhotos": [
+        {
+          "caption": "Στο πρατήριο Esso στρίψτε δεξιά (στην οδό Μόρφου)"
+        },
+        {
+          "caption": "Περπατήστε περίπου 50 μ. μέχρι το μεγάλο εργοτάξιο στη δεξιά πλευρά"
+        },
+        {
+          "caption": "Συνεχίστε λίγο ακόμα..."
+        },
+        {
+          "caption": "Σε αυτό το εργοτάξιο στρίψτε δεξιά στον στενό δρόμο"
+        },
+        {
+          "caption": "Παρκάρετε εδώ ή περπατήστε περνώντας την πισίνα"
+        },
+        {
+          "caption": "Ακολουθήστε τον δρόμο προς το πίσω μέρος, όπου βρίσκεται η περιοχή της πισίνας"
+        },
+        {
+          "caption": "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά"
+        },
+        {
+          "caption": "Προσπεράστε την πισίνα, στρίψτε δεξιά κατά μήκος του φράχτη της πισίνας"
+        },
+        {
+          "caption": "Δύο κουτιά κλειδιών κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί. Κωδικός: 9006"
+        },
+        {
+          "caption": "Περάστε μέσα από τον διάδρομο"
+        },
+        {
+          "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σας!"
+        }
+      ]
+    },
+    "checkin": {
+      "keyLocation": "Δύο κουτιά κλειδιών στον αριστερό τοίχο, κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί",
+      "steps": [
+        "Πηγαίνετε στην περιοχή της πισίνας στο πίσω μέρος του συγκροτήματος King's Park",
+        "Προσπεράστε την πισίνα και στρίψτε δεξιά κατά μήκος του φράχτη της πισίνας",
+        "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά",
+        "Βρείτε τα δύο κουτιά κλειδιών στον αριστερό τοίχο κάτω από το γραμματοκιβώτιο 'D6'",
+        "Ανοίξτε το δεξί κουτί κλειδιών με κωδικό 9006",
+        "Περάστε μέσα από τον διάδρομο. Το διαμέρισμα είναι η πρώτη πόρτα αριστερά (ισόγειο)",
+        "Η εξώπορτα είναι λευκή",
+        "Αφού μπείτε, βάλτε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να ενεργοποιήσετε το ρεύμα (όπως ακριβώς στα ξενοδοχεία)",
+        "Επιστρέψτε το κλειδί στο κουτί κατά την αναχώρηση και επαναφέρετε τον κωδικό"
+      ],
+      "notes": "Αν δεν μας βρείτε, καλέστε μας ή στείλτε μας WhatsApp οποιαδήποτε στιγμή — θα σας καθοδηγήσουμε με χαρά βήμα-βήμα."
+    },
+    "houseRules": [
+      "Απαγορεύεται το κάπνισμα εντός — μόνο σε μπαλκόνια και βεράντες",
+      "Απαγορεύονται πάρτι, εκδηλώσεις ή δυνατή μουσική. Ησυχία από τις 22:00 έως τις 08:00",
+      "Μέγιστη χωρητικότητα: 4 φιλοξενούμενοι",
+      "Δεν επιτρέπονται κατοικίδια στα έπιπλα ή στην πισίνα",
+      "Παρακαλούμε χρησιμοποιήστε τις πετσέτες πισίνας (στο καλάθι των ξαπλώστρων), όχι τις πετσέτες μπάνιου",
+      "Περιοχή πισίνας: απολύτως κανένα γυαλί, χωρίς βουτιές από την άκρη",
+      "Κλιματισμός: κρατήστε πόρτες και παράθυρα κλειστά όταν λειτουργεί",
+      "Αερίζετε το διαμέρισμα τακτικά όσο μένετε. Ανοίγετε παράθυρα και πόρτες όταν το κλιματιστικό είναι κλειστό",
+      "Αναχώρηση αυστηρά μέχρι τις 11:00",
+      "Τυχόν σπασίματα πρέπει να αναφέρονται — καταλαβαίνουμε ότι τα ατυχήματα συμβαίνουν",
+      "Οι κάδοι σκουπιδιών βρίσκονται στο πάρκινγκ. Καθώς φεύγετε από το πάρκινγκ είναι δεξιά μετά την πισίνα",
+      "Φυλάξτε τα κλειδιά με ασφάλεια. Αν τα χάσετε ή τα κλειδωθείτε έξω, θα χρειαστεί κλειδαράς και το κόστος θα χρεωθεί σε εσάς"
+    ],
+    "appliances": [
+      {
+        "name": "Ρεύμα",
+        "instructions": "Για να έχετε ρεύμα, βάλτε το μεταλλικό κλειδί στην υποδοχή στον τοίχο δίπλα στην πόρτα — όπως ακριβώς στα ξενοδοχεία. Θυμηθείτε να το βγάζετε και να παίρνετε τα κλειδιά σας κάθε φορά που φεύγετε από το διαμέρισμα. Σημαντικό: Κάθε πρίζα στην Κύπρο έχει τον δικό της διακόπτη στον τοίχο. Αν μια συσκευή δεν λειτουργεί, ελέγξτε αν ο διακόπτης της πρίζας είναι ανοιχτός. Αντάπτορες EU είναι διαθέσιμοι στο διαμέρισμα."
+      },
+      {
+        "name": "Κουζίνα",
+        "instructions": "Η κουζίνα διαθέτει ηλεκτρική εστία, ηλεκτρικό φούρνο, μια απλή καφετιέρα και μύλο καφέ. Μπορείτε να χρησιμοποιήσετε τα πάντα — παρακαλούμε καθαρίζετε κάθε συσκευή μετά τη χρήση. Βασικά υλικά μαγειρικής υπάρχουν (αλάτι, πιπέρι, ελαιόλαδο) καθώς και κόκκοι καφέ. Εξυπηρετηθείτε! Σημαντικό: Ο ζεστός καιρός της Κύπρου μπορεί να προσελκύσει έντομα. Παρακαλούμε πλένετε τα πιάτα αμέσως, πετάξτε τα υπολείμματα φαγητού άμεσα και μην αφήνετε τίποτα στον πάγκο ή στο πάτωμα."
+      },
+      {
+        "name": "Πλυντήριο",
+        "instructions": "Το πλυντήριο βρίσκεται στην κουζίνα. Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα φορτία. Αν έχετε απορίες, επικοινωνήστε μαζί μας!"
+      },
+      {
+        "name": "Πλυντήριο Πιάτων",
+        "instructions": "Το πλυντήριο πιάτων είναι στη διάθεσή σας. Οι ταμπλέτες βρίσκονται κάτω από τον νεροχύτη. Συνιστούμε το πρόγραμμα Eco: είναι ενεργειακά αποδοτικό και λειτουργεί τέλεια για τα καθημερινά πιάτα."
+      },
+      {
+        "name": "Ντους & Ζεστό Νερό",
+        "instructions": "Συνήθως χρειάζονται 2–3 λεπτά για να ζεσταθεί το νερό — αυτό είναι φυσιολογικό. Αν το νερό δεν ζεσταθεί, ο ήλιος εκείνη την ημέρα μπορεί να μην ήταν αρκετός για το ηλιακό σύστημα. Σε αυτή την περίπτωση, πατήστε τον διακόπτη θέρμανσης δίπλα στην πόρτα του μπάνιου και περιμένετε 20 λεπτά. Σημαντικό: Σβήστε τη θέρμανση πριν κάνετε ντους. (Αυτό χρειάζεται μόνο στο 10% περίπου των περιπτώσεων. Η Κύπρος είναι συνήθως πολύ ηλιόλουστη! ☀️)"
+      },
+      {
+        "name": "Βεράντες & Ομπρέλα",
+        "instructions": "Το διαμέρισμα έχει δύο βεράντες. Διαμορφώστε τες όπως θέλετε. Μαξιλάρια εξωτερικού χώρου και διακόσμηση φυλάσσονται μέσα και μπορούν να διαταχθούν στις βεράντες. Για τη μεγάλη ομπρέλα της βεράντας: Μην τη χρησιμοποιείτε με αέρα, κλείστε τη τη νύχτα ή όταν δεν χρησιμοποιείται και κλείστε και ασφαλίστε τη πριν την αναχώρηση."
+      },
+      {
+        "name": "Πρόσβαση στην Πισίνα",
+        "instructions": "Το κλειδί της πισίνας βρίσκεται στο μπρελόκ με τα κλειδιά του διαμερίσματός σας. Η κοινόχρηστη πισίνα είναι συνήθως ήσυχη. Παρακαλούμε σκεφτείτε τους άλλους φιλοξενούμενους και τηρείτε τους κανόνες που αναρτώνται στην περιοχή της πισίνας. Χρησιμοποιήστε τις πετσέτες παραλίας που παρέχονται, όχι τις πετσέτες μπάνιου."
+      },
+      {
+        "name": "Μπάνιο",
+        "instructions": "Φρέσκες πετσέτες, ένα πιστολάκι μαλλιών και βασικά είδη τουαλέτας υπάρχουν. Αν χρειάζεστε κάτι επιπλέον, απλώς ενημερώστε μας. Σημαντικό: Η κυπριακή υδραυλική εγκατάσταση δεν αντέχει το χαρτί υγείας. Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα. Ευχαριστούμε!"
+      },
+      {
+        "name": "Πόσιμο Νερό",
+        "instructions": "Το νερό βρύσης στην Κύπρο είναι γενικά ασφαλές, ωστόσο πολλοί φιλοξενούμενοι προτιμούν το εμφιαλωμένο νερό. Μεγάλα μπουκάλια διατίθενται σε κάθε κοντινό σούπερ μάρκετ."
+      },
+      {
+        "name": "Φυτά",
+        "instructions": "Στο διαμέρισμα θα βρείτε μερικά φυτά — προσφέρουν μια φυσική και ζεστή ατμόσφαιρα. Σε μεγαλύτερη διαμονή, θα χαιρόμασταν πολύ αν μπορούσατε να τα ποτίζετε κάθε 3–4 ημέρες. Ευχαριστούμε! 🌿"
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "Παραλίες 🏝️"
+      },
+      {
+        "category": "Ιστορικά Μνημεία & Τοπίο 🏰"
+      },
+      {
+        "category": "Αξιοθέατα & Εκδρομές 📸"
+      },
+      {
+        "category": "Πεζοπορία & Φύση ⛰️"
+      }
+    ],
+    "eatAndDrink": [
+      {
+        "type": "Ελληνικά / Μεσογειακά"
+      },
+      {
+        "type": "Ελληνικά / Μεζέ"
+      },
+      {
+        "type": "Καφέ / Brunch"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Κυπριακά"
+      },
+      {
+        "type": "Food Court"
+      },
+      {
+        "type": "Καφέ / Τοπικό"
+      },
+      {
+        "type": "Κυπριακά / Καφέ"
+      },
+      {
+        "type": "Ελληνικά / Κυπριακά"
+      },
+      {
+        "type": "Κυπριακή ταβέρνα"
+      },
+      {
+        "type": "Διάφορα / Λιμάνι"
+      },
+      {
+        "type": "Κυπριακά / Θαλασσινά"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Καφέ / Εστιατόριο"
+      },
+      {
+        "type": "Θαλασσινά"
+      },
+      {
+        "type": "Μπαρ / Εστιατόριο"
+      },
+      {
+        "type": "Κυπριακά / Κρασί"
+      },
+      {
+        "type": "Θαλασσινά / Ταβέρνα"
+      },
+      {
+        "type": "Παντοπωλείο"
+      },
+      {
+        "type": "Σούπερ μάρκετ"
+      }
+    ],
+    "gettingAround": [
+      {
+        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
+      },
+      {
+        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5–10 λεπτών με τα πόδια."
+      },
+      {
+        "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
+      }
+    ],
+    "emergency": {
+      "contacts": [
+        {
+          "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο"
+        },
+        {
+          "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο"
+        },
+        {
+          "note": "Αστυνομικό τμήμα Πάφου"
+        }
+      ],
+      "nearestPharmacy": "Αρκετά φαρμακεία σε απόσταση βόλτας στον κεντρικό δρόμο. Ρωτήστε μας αν χρειάζεστε βοήθεια να βρείτε το πλησιέστερο."
+    },
+    "checkout": {
+      "steps": [
+        "Ξεστρώστε τα σεντόνια και στοιβάξτε τα πάνω στο κρεβάτι",
+        "Πλύνετε τα πιάτα ή βάλτε μια τελευταία φορά το πλυντήριο πιάτων",
+        "Αδειάστε το ψυγείο και πετάξτε όλα τα υπολείμματα φαγητού",
+        "Μεταφέρετε όλες τις σακούλες σκουπιδιών στους κάδους στο πάρκινγκ. Καθώς βγαίνετε είναι δεξιά μετά την πισίνα",
+        "Κλείστε την ομπρέλα της βεράντας και δέστε την με ασφάλεια",
+        "Μεταφέρετε τα εξωτερικά μαξιλάρια και τη διακόσμηση μέσα",
+        "Κλείστε όλα τα παράθυρα, τις πόρτες και τα ρολά",
+        "Σβήστε όλα τα φώτα, το κλιματιστικό και την τηλεόραση",
+        "Βγάλτε το μεταλλικό κλειδί από την υποδοχή ρεύματος δίπλα στην πόρτα",
+        "Κλειδώστε την πόρτα του διαμερίσματος και επιστρέψτε όλα τα κλειδιά στο κουτί κλειδιών, στη συνέχεια επαναφέρετε τον κωδικό",
+        "Στείλτε μας WhatsApp για να μας πείτε ότι φύγατε — και θα χαρούμε για μια αξιολόγηση! 😊"
+      ],
+      "lateCheckout": "Προσπαθούμε να είμαστε ευέλικτοι. Αν θέλετε αργή αναχώρηση, παρακαλούμε ενημερώστε μας 1–2 ημέρες πριν την αναχώρησή σας και θα κάνουμε ό,τι μπορούμε."
     }
   },
   "fr": {
@@ -212,17 +558,39 @@
       "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 jusqu'à l'arrêt Tombs of the Kings. De là, l'appartement est à 18 minutes à pied (~1,3 km). Vous pouvez aussi prendre le bus 615 pour 1 arrêt (~2 min) pour vous rapprocher, puis marcher. À pied, dirigez-vous vers l'hôtel AVLIDA, dépassez-le, tournez à droite à la station Esso et vous trouverez l'entrée du complexe King's Park derrière. ⚠️ Les bus n'acceptent que l'argent liquide. Tarif : 2,50 € par personne et par trajet.",
       "taxi": "Des taxis sont disponibles directement à la sortie de la salle d'arrivée de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40–45 € en journée et 45–50 € en soirée. Le trajet depuis l'aéroport dure environ 20–25 minutes.",
       "directionPhotos": [
-        {"caption": "Tournez à droite à la station Esso (dans la rue Morphou)"},
-        {"caption": "Avancez d'environ 50 m jusqu'à la grande construction sur la droite"},
-        {"caption": "Continuez, encore un peu..."},
-        {"caption": "À cette construction, tournez à droite dans la rue étroite"},
-        {"caption": "Garez-vous ici ou continuez à pied après la piscine"},
-        {"caption": "Suivez la route vers l'arrière où se trouve la zone de la piscine"},
-        {"caption": "Tournez à gauche au premier passage sous arche en pierre"},
-        {"caption": "Longez la piscine, tournez à droite le long de la clôture"},
-        {"caption": "Deux boîtes à clés sous la boîte aux lettres 'D6'. Ouvrez celle de droite. Code : 9006"},
-        {"caption": "Passez par le couloir"},
-        {"caption": "Première porte à gauche (rez-de-chaussée). La porte blanche, c'est la vôtre !"}
+        {
+          "caption": "Tournez à droite à la station Esso (dans la rue Morphou)"
+        },
+        {
+          "caption": "Avancez d'environ 50 m jusqu'à la grande construction sur la droite"
+        },
+        {
+          "caption": "Continuez, encore un peu..."
+        },
+        {
+          "caption": "À cette construction, tournez à droite dans la rue étroite"
+        },
+        {
+          "caption": "Garez-vous ici ou continuez à pied après la piscine"
+        },
+        {
+          "caption": "Suivez la route vers l'arrière où se trouve la zone de la piscine"
+        },
+        {
+          "caption": "Tournez à gauche au premier passage sous arche en pierre"
+        },
+        {
+          "caption": "Longez la piscine, tournez à droite le long de la clôture"
+        },
+        {
+          "caption": "Deux boîtes à clés sous la boîte aux lettres 'D6'. Ouvrez celle de droite. Code : 9006"
+        },
+        {
+          "caption": "Passez par le couloir"
+        },
+        {
+          "caption": "Première porte à gauche (rez-de-chaussée). La porte blanche, c'est la vôtre !"
+        }
       ]
     },
     "checkin": {
@@ -297,44 +665,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Plages 🏝️"},
-      {"category": "Sites historiques & promenades 🏰"},
-      {"category": "Attractions & Excursions 📸"},
-      {"category": "Randonnées & sentiers naturels ⛰️"}
+      {
+        "category": "Plages 🏝️"
+      },
+      {
+        "category": "Sites historiques & promenades 🏰"
+      },
+      {
+        "category": "Attractions & Excursions 📸"
+      },
+      {
+        "category": "Randonnées & sentiers naturels ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Grec / Méditerranéen"},
-      {"type": "Grec / Meze"},
-      {"type": "Café / Brunch"},
-      {"type": "Fruits de mer"},
-      {"type": "Fruits de mer"},
-      {"type": "Chypriote"},
-      {"type": "Restauration rapide"},
-      {"type": "Café / Local"},
-      {"type": "Chypriote / Café"},
-      {"type": "Grec / Chypriote"},
-      {"type": "Taverne chypriote"},
-      {"type": "Divers / Port"},
-      {"type": "Chypriote / Fruits de mer"},
-      {"type": "Fruits de mer"},
-      {"type": "Café / Restaurant"},
-      {"type": "Fruits de mer"},
-      {"type": "Bar / Restaurant"},
-      {"type": "Chypriote / Vin"},
-      {"type": "Fruits de mer / Taverne"},
-      {"type": "Épicerie"},
-      {"type": "Supermarché"}
+      {
+        "type": "Grec / Méditerranéen"
+      },
+      {
+        "type": "Grec / Meze"
+      },
+      {
+        "type": "Café / Brunch"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Chypriote"
+      },
+      {
+        "type": "Restauration rapide"
+      },
+      {
+        "type": "Café / Local"
+      },
+      {
+        "type": "Chypriote / Café"
+      },
+      {
+        "type": "Grec / Chypriote"
+      },
+      {
+        "type": "Taverne chypriote"
+      },
+      {
+        "type": "Divers / Port"
+      },
+      {
+        "type": "Chypriote / Fruits de mer"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Café / Restaurant"
+      },
+      {
+        "type": "Fruits de mer"
+      },
+      {
+        "type": "Bar / Restaurant"
+      },
+      {
+        "type": "Chypriote / Vin"
+      },
+      {
+        "type": "Fruits de mer / Taverne"
+      },
+      {
+        "type": "Épicerie"
+      },
+      {
+        "type": "Supermarché"
+      }
     ],
     "gettingAround": [
-      {"info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."},
-      {"info": "L'autopartage fonctionne bien à Paphos, y compris vers et depuis l'aéroport. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures sont généralement disponibles à 5–10 minutes à pied."},
-      {"info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."}
+      {
+        "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."
+      },
+      {
+        "info": "L'autopartage fonctionne bien à Paphos, y compris vers et depuis l'aéroport. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures sont généralement disponibles à 5–10 minutes à pied."
+      },
+      {
+        "info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"},
-        {"note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"},
-        {"note": "Poste de police de Paphos"}
+        {
+          "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"
+        },
+        {
+          "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"
+        },
+        {
+          "note": "Poste de police de Paphos"
+        }
       ],
       "nearestPharmacy": "Plusieurs pharmacies à distance de marche sur la route principale. Demandez-nous si vous avez besoin d'une recommandation."
     },
@@ -390,17 +820,39 @@
       "publicTransport": "Desde el aeropuerto de Pafos, tome el autobús 612 hasta la parada Tombs of the Kings. Desde allí, el apartamento está a 18 minutos a pie (~1,3 km). Alternativamente, tome el autobús 615 por 1 parada (~2 min) para acercarse más, luego camine el resto. A pie, diríjase al hotel AVLIDA, pase por delante, gire a la derecha en la gasolinera Esso y encontrará la entrada al complejo King's Park detrás. ⚠️ Los autobuses solo aceptan efectivo. Tarifa: 2,50 € por persona y trayecto.",
       "taxi": "Hay taxis disponibles directamente a la salida de la sala de llegadas del aeropuerto de Pafos. Una tarifa típica a Pafos es de 40–45 € durante el día y 45–50 € fuera de horas. El tiempo de viaje desde el aeropuerto es de aproximadamente 20–25 minutos.",
       "directionPhotos": [
-        {"caption": "Gire a la derecha en la gasolinera Esso (hacia la calle Morphou)"},
-        {"caption": "Avance unos 50 m hasta la gran construcción a la derecha"},
-        {"caption": "Siga adelante, un poco más..."},
-        {"caption": "En esta construcción, gire a la derecha hacia la calle estrecha"},
-        {"caption": "Aparque aquí o continúe a pie pasando la piscina"},
-        {"caption": "Siga la carretera hacia la parte trasera donde está la zona de la piscina"},
-        {"caption": "Gire a la izquierda en el primer pasaje de arco de piedra"},
-        {"caption": "Pase la piscina, gire a la derecha a lo largo de la valla"},
-        {"caption": "Dos cajas de llaves bajo el buzón 'D6'. Abra la de la derecha. Código: 9006"},
-        {"caption": "Pase por el corredor"},
-        {"caption": "Primera puerta a la izquierda (planta baja). ¡La puerta blanca es la suya!"}
+        {
+          "caption": "Gire a la derecha en la gasolinera Esso (hacia la calle Morphou)"
+        },
+        {
+          "caption": "Avance unos 50 m hasta la gran construcción a la derecha"
+        },
+        {
+          "caption": "Siga adelante, un poco más..."
+        },
+        {
+          "caption": "En esta construcción, gire a la derecha hacia la calle estrecha"
+        },
+        {
+          "caption": "Aparque aquí o continúe a pie pasando la piscina"
+        },
+        {
+          "caption": "Siga la carretera hacia la parte trasera donde está la zona de la piscina"
+        },
+        {
+          "caption": "Gire a la izquierda en el primer pasaje de arco de piedra"
+        },
+        {
+          "caption": "Pase la piscina, gire a la derecha a lo largo de la valla"
+        },
+        {
+          "caption": "Dos cajas de llaves bajo el buzón 'D6'. Abra la de la derecha. Código: 9006"
+        },
+        {
+          "caption": "Pase por el corredor"
+        },
+        {
+          "caption": "Primera puerta a la izquierda (planta baja). ¡La puerta blanca es la suya!"
+        }
       ]
     },
     "checkin": {
@@ -475,44 +927,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Playas 🏝️"},
-      {"category": "Sitios históricos y paseos escénicos 🏰"},
-      {"category": "Atracciones y excursiones 📸"},
-      {"category": "Senderismo y rutas naturales ⛰️"}
+      {
+        "category": "Playas 🏝️"
+      },
+      {
+        "category": "Sitios históricos y paseos escénicos 🏰"
+      },
+      {
+        "category": "Atracciones y excursiones 📸"
+      },
+      {
+        "category": "Senderismo y rutas naturales ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Griego / Mediterráneo"},
-      {"type": "Griego / Meze"},
-      {"type": "Cafetería / Brunch"},
-      {"type": "Mariscos"},
-      {"type": "Mariscos"},
-      {"type": "Chipriota"},
-      {"type": "Patio de comidas"},
-      {"type": "Cafetería / Local"},
-      {"type": "Chipriota / Cafetería"},
-      {"type": "Griego / Chipriota"},
-      {"type": "Taberna chipriota"},
-      {"type": "Varios / Puerto"},
-      {"type": "Chipriota / Mariscos"},
-      {"type": "Mariscos"},
-      {"type": "Cafetería / Restaurante"},
-      {"type": "Mariscos"},
-      {"type": "Bar / Restaurante"},
-      {"type": "Chipriota / Vino"},
-      {"type": "Mariscos / Taberna"},
-      {"type": "Tienda de alimentación"},
-      {"type": "Supermercado"}
+      {
+        "type": "Griego / Mediterráneo"
+      },
+      {
+        "type": "Griego / Meze"
+      },
+      {
+        "type": "Cafetería / Brunch"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Chipriota"
+      },
+      {
+        "type": "Patio de comidas"
+      },
+      {
+        "type": "Cafetería / Local"
+      },
+      {
+        "type": "Chipriota / Cafetería"
+      },
+      {
+        "type": "Griego / Chipriota"
+      },
+      {
+        "type": "Taberna chipriota"
+      },
+      {
+        "type": "Varios / Puerto"
+      },
+      {
+        "type": "Chipriota / Mariscos"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Cafetería / Restaurante"
+      },
+      {
+        "type": "Mariscos"
+      },
+      {
+        "type": "Bar / Restaurante"
+      },
+      {
+        "type": "Chipriota / Vino"
+      },
+      {
+        "type": "Mariscos / Taberna"
+      },
+      {
+        "type": "Tienda de alimentación"
+      },
+      {
+        "type": "Supermercado"
+      }
     ],
     "gettingAround": [
-      {"info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."},
-      {"info": "El carsharing funciona bien en Pafos, incluso hacia y desde el aeropuerto. Descargue la app, regístrese en 5 minutos. Coches disponibles normalmente en 5–10 minutos a pie."},
-      {"info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."}
+      {
+        "info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
+      },
+      {
+        "info": "El carsharing funciona bien en Pafos, incluso hacia y desde el aeropuerto. Descargue la app, regístrese en 5 minutos. Coches disponibles normalmente en 5–10 minutos a pie."
+      },
+      {
+        "info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"},
-        {"note": "Hospital principal de Pafos, a unos 10 minutos en coche"},
-        {"note": "Comisaría de Pafos"}
+        {
+          "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"
+        },
+        {
+          "note": "Hospital principal de Pafos, a unos 10 minutos en coche"
+        },
+        {
+          "note": "Comisaría de Pafos"
+        }
       ],
       "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntenos si necesita una recomendación."
     },
@@ -568,17 +1082,39 @@
       "publicTransport": "Z lotniska w Pafos weźcie autobus 612 do przystanku Tombs of the Kings. Stamtąd apartament jest oddalony o 18 minut pieszo (~1,3 km). Możecie też wsiąść do autobusu 615 na 1 przystanek (~2 min) i potem przejść resztę drogi pieszo. Pieszo idźcie w kierunku hotelu AVLIDA, mijajcie go, skręćcie w prawo przy stacji Esso i znajdziecie wejście do kompleksu King's Park za nią. ⚠️ Autobusy akceptują tylko gotówkę. Opłata wynosi 2,50 € za osobę za kurs.",
       "taxi": "Taksówki są dostępne bezpośrednio przy wyjściu z hali przyletów na lotnisku w Pafos. Typowa opłata za przejazd do Pafos wynosi 40–45 € w godzinach dziennych i 45–50 € po godzinach. Czas podróży z lotniska wynosi około 20–25 minut.",
       "directionPhotos": [
-        {"caption": "Skręćcie w prawo przy stacji Esso (na ulicę Morphou)"},
-        {"caption": "Idźcie około 50 m do dużej budowy po prawej stronie"},
-        {"caption": "Idźcie dalej, jeszcze trochę..."},
-        {"caption": "Przy tej budowie skręćcie w prawo w wąską uliczkę"},
-        {"caption": "Zaparkujcie tutaj lub kontynuujcie pieszo obok basenu"},
-        {"caption": "Podążajcie drogą na tył, gdzie znajduje się strefa basenowa"},
-        {"caption": "Skręćcie w lewo przy pierwszym przejściu pod kamiennym łukiem"},
-        {"caption": "Mijając basen, skręćcie w prawo wzdłuż ogrodzenia"},
-        {"caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D6'. Otwórzcie tę po prawej. Kod: 9006"},
-        {"caption": "Przejdźcie przez korytarz"},
-        {"caption": "Pierwsze drzwi po lewej (parter). Białe drzwi należą do Was!"}
+        {
+          "caption": "Skręćcie w prawo przy stacji Esso (na ulicę Morphou)"
+        },
+        {
+          "caption": "Idźcie około 50 m do dużej budowy po prawej stronie"
+        },
+        {
+          "caption": "Idźcie dalej, jeszcze trochę..."
+        },
+        {
+          "caption": "Przy tej budowie skręćcie w prawo w wąską uliczkę"
+        },
+        {
+          "caption": "Zaparkujcie tutaj lub kontynuujcie pieszo obok basenu"
+        },
+        {
+          "caption": "Podążajcie drogą na tył, gdzie znajduje się strefa basenowa"
+        },
+        {
+          "caption": "Skręćcie w lewo przy pierwszym przejściu pod kamiennym łukiem"
+        },
+        {
+          "caption": "Mijając basen, skręćcie w prawo wzdłuż ogrodzenia"
+        },
+        {
+          "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D6'. Otwórzcie tę po prawej. Kod: 9006"
+        },
+        {
+          "caption": "Przejdźcie przez korytarz"
+        },
+        {
+          "caption": "Pierwsze drzwi po lewej (parter). Białe drzwi należą do Was!"
+        }
       ]
     },
     "checkin": {
@@ -653,44 +1189,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Plaże 🏝️"},
-      {"category": "Miejsca historyczne i malownicze spacery 🏰"},
-      {"category": "Atrakcje i wycieczki 📸"},
-      {"category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"}
+      {
+        "category": "Plaże 🏝️"
+      },
+      {
+        "category": "Miejsca historyczne i malownicze spacery 🏰"
+      },
+      {
+        "category": "Atrakcje i wycieczki 📸"
+      },
+      {
+        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Greckie / Śródziemnomorskie"},
-      {"type": "Greckie / Meze"},
-      {"type": "Kawiarnia / Brunch"},
-      {"type": "Owoce morza"},
-      {"type": "Owoce morza"},
-      {"type": "Cypryjskie"},
-      {"type": "Food court"},
-      {"type": "Kawiarnia / Lokalne"},
-      {"type": "Cypryjskie / Kawiarnia"},
-      {"type": "Greckie / Cypryjskie"},
-      {"type": "Cypryjska tawerna"},
-      {"type": "Różne / Port"},
-      {"type": "Cypryjskie / Owoce morza"},
-      {"type": "Owoce morza"},
-      {"type": "Kawiarnia / Restauracja"},
-      {"type": "Owoce morza"},
-      {"type": "Bar / Restauracja"},
-      {"type": "Cypryjskie / Wino"},
-      {"type": "Owoce morza / Tawerna"},
-      {"type": "Sklep spożywczy"},
-      {"type": "Supermarket"}
+      {
+        "type": "Greckie / Śródziemnomorskie"
+      },
+      {
+        "type": "Greckie / Meze"
+      },
+      {
+        "type": "Kawiarnia / Brunch"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Cypryjskie"
+      },
+      {
+        "type": "Food court"
+      },
+      {
+        "type": "Kawiarnia / Lokalne"
+      },
+      {
+        "type": "Cypryjskie / Kawiarnia"
+      },
+      {
+        "type": "Greckie / Cypryjskie"
+      },
+      {
+        "type": "Cypryjska tawerna"
+      },
+      {
+        "type": "Różne / Port"
+      },
+      {
+        "type": "Cypryjskie / Owoce morza"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Kawiarnia / Restauracja"
+      },
+      {
+        "type": "Owoce morza"
+      },
+      {
+        "type": "Bar / Restauracja"
+      },
+      {
+        "type": "Cypryjskie / Wino"
+      },
+      {
+        "type": "Owoce morza / Tawerna"
+      },
+      {
+        "type": "Sklep spożywczy"
+      },
+      {
+        "type": "Supermarket"
+      }
     ],
     "gettingAround": [
-      {"info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."},
-      {"info": "Carsharing działa dobrze w okolicach Pafos, w tym na lotnisku i z lotniska. Pobierz aplikację, zarejestruj się w 5 minut. Samochody zazwyczaj dostępne w promieniu 5–10 minut pieszo."},
-      {"info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."}
+      {
+        "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."
+      },
+      {
+        "info": "Carsharing działa dobrze w okolicach Pafos, w tym na lotnisku i z lotniska. Pobierz aplikację, zarejestruj się w 5 minut. Samochody zazwyczaj dostępne w promieniu 5–10 minut pieszo."
+      },
+      {
+        "info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"},
-        {"note": "Główny szpital w Pafos, ok. 10 minut jazdy"},
-        {"note": "Posterunek policji w Pafos"}
+        {
+          "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"
+        },
+        {
+          "note": "Główny szpital w Pafos, ok. 10 minut jazdy"
+        },
+        {
+          "note": "Posterunek policji w Pafos"
+        }
       ],
       "nearestPharmacy": "Kilka aptek w odległości krótkiego spaceru przy głównej drodze. Zapytajcie nas, jeśli potrzebujecie rekomendacji."
     },
@@ -746,17 +1344,39 @@
       "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда квартира находится в 18 минутах пешком (~1,3 км). Как вариант, можно сесть на автобус 615 на 1 остановку (~2 мин), а затем пройти пешком. Пешком идите в сторону отеля AVLIDA, пройдите мимо него, поверните направо у заправки Esso и найдёте вход в комплекс King's Park за ней. ⚠️ Автобусы принимают только наличные. Стоимость — 2,50 € за человека за поездку.",
       "taxi": "Такси доступны прямо у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость поездки до Пафоса составляет 40–45 € днём и 45–50 € в нерабочее время. Время в пути из аэропорта около 20–25 минут.",
       "directionPhotos": [
-        {"caption": "Поверните направо у заправки Esso (на улицу Morphou)"},
-        {"caption": "Пройдите около 50 м до большой стройки справа"},
-        {"caption": "Продолжайте идти, ещё немного..."},
-        {"caption": "У этой стройки поверните направо в узкую улочку"},
-        {"caption": "Припаркуйтесь здесь или продолжайте пешком мимо бассейна"},
-        {"caption": "Следуйте по дороге к задней части, где находится зона бассейна"},
-        {"caption": "Поверните налево у первого прохода под каменной аркой"},
-        {"caption": "Миновав бассейн, поверните направо вдоль ограждения"},
-        {"caption": "Два ящика для ключей под почтовым ящиком 'D6'. Откройте правый. Код: 9006"},
-        {"caption": "Пройдите через коридор"},
-        {"caption": "Первая дверь слева (первый этаж). Белая дверь — ваша!"}
+        {
+          "caption": "Поверните направо у заправки Esso (на улицу Morphou)"
+        },
+        {
+          "caption": "Пройдите около 50 м до большой стройки справа"
+        },
+        {
+          "caption": "Продолжайте идти, ещё немного..."
+        },
+        {
+          "caption": "У этой стройки поверните направо в узкую улочку"
+        },
+        {
+          "caption": "Припаркуйтесь здесь или продолжайте пешком мимо бассейна"
+        },
+        {
+          "caption": "Следуйте по дороге к задней части, где находится зона бассейна"
+        },
+        {
+          "caption": "Поверните налево у первого прохода под каменной аркой"
+        },
+        {
+          "caption": "Миновав бассейн, поверните направо вдоль ограждения"
+        },
+        {
+          "caption": "Два ящика для ключей под почтовым ящиком 'D6'. Откройте правый. Код: 9006"
+        },
+        {
+          "caption": "Пройдите через коридор"
+        },
+        {
+          "caption": "Первая дверь слева (первый этаж). Белая дверь — ваша!"
+        }
       ]
     },
     "checkin": {
@@ -831,44 +1451,106 @@
       }
     ],
     "thingsToDo": [
-      {"category": "Пляжи 🏝️"},
-      {"category": "Исторические места и живописные прогулки 🏰"},
-      {"category": "Достопримечательности и экскурсии 📸"},
-      {"category": "Пешие прогулки и природные тропы ⛰️"}
+      {
+        "category": "Пляжи 🏝️"
+      },
+      {
+        "category": "Исторические места и живописные прогулки 🏰"
+      },
+      {
+        "category": "Достопримечательности и экскурсии 📸"
+      },
+      {
+        "category": "Пешие прогулки и природные тропы ⛰️"
+      }
     ],
     "eatAndDrink": [
-      {"type": "Греческая / Средиземноморская"},
-      {"type": "Греческая / Мезе"},
-      {"type": "Кафе / Бранч"},
-      {"type": "Морепродукты"},
-      {"type": "Морепродукты"},
-      {"type": "Кипрская"},
-      {"type": "Фуд-корт"},
-      {"type": "Кафе / Местная"},
-      {"type": "Кипрская / Кафе"},
-      {"type": "Греческая / Кипрская"},
-      {"type": "Кипрская таверна"},
-      {"type": "Разное / Гавань"},
-      {"type": "Кипрская / Морепродукты"},
-      {"type": "Морепродукты"},
-      {"type": "Кафе / Ресторан"},
-      {"type": "Морепродукты"},
-      {"type": "Бар / Ресторан"},
-      {"type": "Кипрская / Вино"},
-      {"type": "Морепродукты / Таверна"},
-      {"type": "Продуктовый магазин"},
-      {"type": "Супермаркет"}
+      {
+        "type": "Греческая / Средиземноморская"
+      },
+      {
+        "type": "Греческая / Мезе"
+      },
+      {
+        "type": "Кафе / Бранч"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Кипрская"
+      },
+      {
+        "type": "Фуд-корт"
+      },
+      {
+        "type": "Кафе / Местная"
+      },
+      {
+        "type": "Кипрская / Кафе"
+      },
+      {
+        "type": "Греческая / Кипрская"
+      },
+      {
+        "type": "Кипрская таверна"
+      },
+      {
+        "type": "Разное / Гавань"
+      },
+      {
+        "type": "Кипрская / Морепродукты"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Кафе / Ресторан"
+      },
+      {
+        "type": "Морепродукты"
+      },
+      {
+        "type": "Бар / Ресторан"
+      },
+      {
+        "type": "Кипрская / Вино"
+      },
+      {
+        "type": "Морепродукты / Таверна"
+      },
+      {
+        "type": "Продуктовый магазин"
+      },
+      {
+        "type": "Супермаркет"
+      }
     ],
     "gettingAround": [
-      {"info": "Центральная автобусная станция (Tombs of the Kings) находится в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."},
-      {"info": "Каршеринг хорошо работает в Пафосе, в том числе до и из аэропорта. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили обычно доступны в 5–10 минутах ходьбы."},
-      {"info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."}
+      {
+        "info": "Центральная автобусная станция (Tombs of the Kings) находится в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."
+      },
+      {
+        "info": "Каршеринг хорошо работает в Пафосе, в том числе до и из аэропорта. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили обычно доступны в 5–10 минутах ходьбы."
+      },
+      {
+        "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."
+      }
     ],
     "emergency": {
       "contacts": [
-        {"note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"},
-        {"note": "Главная больница Пафоса, примерно 10 минут езды"},
-        {"note": "Полицейский участок Пафоса"}
+        {
+          "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"
+        },
+        {
+          "note": "Главная больница Пафоса, примерно 10 минут езды"
+        },
+        {
+          "note": "Полицейский участок Пафоса"
+        }
       ],
       "nearestPharmacy": "Несколько аптек в нескольких минутах ходьбы на главной дороге. Спросите нас, если нужна рекомендация."
     },

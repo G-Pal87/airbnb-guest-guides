@@ -163,88 +163,82 @@
       "category": "Beaches 🏝️",
       "items": [
         {
-          "name": "Venus Beach",
-          "distance": "1.0-1.3 km, walk or car",
-          "tip": "Closest useful beach. 15-20 min on foot. Quick swim, sunset, convenience.",
-          "mapsUrl": "https://www.google.com/maps/search/Venus+Beach+Paphos+Cyprus"
+          "name": "Playa de Valleseco / Los Charcos de Valleseco",
+          "distance": "1-2 km, walk or car",
+          "tip": "Closest swim, quick dip, local feel. Closest option — a small urban gravel beach with calm waters and easy access. Practical rather than pretty, but great for a quick dip.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Faros Beach",
-          "distance": "1.8-2.3 km, walk or car",
-          "tip": "25-35 min on foot or a short drive. Sunset, casual swim.",
-          "mapsUrl": "https://www.google.com/maps/search/Faros+Beach+Paphos+Cyprus"
+          "name": "Playa de Las Teresitas",
+          "distance": "7-8 km, car, bus, or taxi",
+          "tip": "Best easy beach day, families, swimming. Golden sand, full facilities, restaurants, and calm water protected by a breakwater. The safest top recommendation from this location.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Sandy Beach, Chloraka",
-          "distance": "3.5-4.5 km, car",
-          "tip": "Less touristy, local feel. Good for sunset. Better when the sea is calm.",
-          "mapsUrl": "https://www.google.com/maps/search/Sandy+Beach+Chloraka+Paphos"
+          "name": "Playa de Las Gaviotas",
+          "distance": "9-10 km, car or taxi",
+          "tip": "Black sand, quieter beach, hidden gem. A wilder black sand beach close to Las Teresitas. Good when you want something less polished and less crowded, but the sea can be rougher.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Gaviotas+Tenerife"
         },
         {
-          "name": "Municipal Baths, Kato Paphos",
-          "distance": "3.0-4.0 km, car",
-          "tip": "City swimming spot, not a sandy beach. Handy for a quick dip near the promenade.",
-          "mapsUrl": "https://www.google.com/maps/search/Municipal+Baths+Kato+Paphos"
+          "name": "Playa de Igueste de San Andrés",
+          "distance": "14-16 km, car",
+          "tip": "Quiet village, scenic coast, hidden gem. A beautiful local escape beyond San Andrés. Better for a scenic coastal visit than a classic sandy beach day.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Igueste+de+San+Andres+Tenerife"
         },
         {
-          "name": "Alykes Beach, Kato Paphos",
-          "distance": "3.5-4.5 km, car or bus",
-          "tip": "Organised beach with facilities, good for families. Easier by car or bus than on foot.",
-          "mapsUrl": "https://www.google.com/maps/search/Alykes+Beach+Kato+Paphos+Cyprus"
+          "name": "Playa de Antequera",
+          "distance": "Accessible by boat or long hike",
+          "tip": "Remote beach, adventure, wild nature. One of the true hidden gems of Anaga. Not practical for a casual visit, but absolutely amazing for adventurous guests.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Antequera+Tenerife"
         },
         {
-          "name": "Coral Bay Beach",
-          "distance": "11-12 km, car or bus",
-          "tip": "The safest best beach choice near Paphos. Sandy, organised, easy. Hard to go wrong.",
-          "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus"
+          "name": "Playa del Roque de las Bodegas",
+          "distance": "24-27 km, car",
+          "tip": "Scenic drive, surf, restaurants nearby. A great Anaga day trip stop — beautiful black sand and dramatic mountain scenery, with restaurants close by. Better for scenery and food than calm swimming.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+del+Roque+de+las+Bodegas+Tenerife"
         },
         {
-          "name": "Laourou / Corallia Beach",
-          "distance": "12-13 km, car or bus",
-          "tip": "My preferred alternative to Coral Bay. Similar convenience, usually calmer.",
-          "mapsUrl": "https://www.google.com/maps/search/Corallia+Beach+Paphos+Cyprus"
+          "name": "Playa de Almáciga",
+          "distance": "25-28 km, car",
+          "tip": "Wild black sand, surfers, nature. Beautiful and dramatic, but not the easiest swimming beach. Best for guests who love wild coastlines and don't expect sunbeds.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Almaciga+Tenerife"
         },
         {
-          "name": "Sea Caves, Peyia",
-          "distance": "17-19 km, car",
-          "tip": "Dramatic coastline. Better for scenery and sunset photos than a classic beach day.",
-          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
-        },
-        {
-          "name": "Agios Georgios Beach, Peyia",
-          "distance": "20-22 km, car",
-          "tip": "Small beach, good for snorkelling. Combine with Sea Caves and Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Beach+Peyia+Cyprus"
-        },
-        {
-          "name": "White River Beach / Toxeftra",
-          "distance": "23-26 km, car (higher clearance)",
-          "tip": "Raw and beautiful, wild coast. Better for exploring than sunbeds.",
-          "mapsUrl": "https://www.google.com/maps/search/Toxeftra+Beach+Cyprus"
-        },
-        {
-          "name": "Lara Beach / Lara Bay",
-          "distance": "28-32 km, 4x4 or guided tour",
-          "tip": "One of the most special beaches in the Paphos area. Turtle nesting site. Rough access, no facilities.",
-          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
-        },
-        {
-          "name": "Petra tou Romiou (Aphrodite's Rock)",
+          "name": "Playa de Benijo",
           "distance": "27-30 km, car",
-          "tip": "Legendary birthplace of Aphrodite. Beautiful scenery and photos, but rocky and not always ideal for swimming.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+          "tip": "Sunset, photography, wild Anaga scenery. One of the most beautiful beaches in Tenerife for photos and sunsets — wild, black sand, with strong ocean conditions. Check sea conditions before going.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         },
         {
-          "name": "Latchi Harbour (Blue Lagoon boat trips)",
-          "distance": "38-42 km, car then boat",
-          "tip": "Best starting point for Blue Lagoon without off-road driving. Boat trips depart from here.",
-          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus"
+          "name": "Bajamar Natural Pools",
+          "distance": "20-23 km, car or bus",
+          "tip": "Safe sea pools, families, wave watching. Not a beach but very worth it. Great when the north coast is dramatic and you want a safer ocean experience.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piscinas+Naturales+de+Bajamar+Tenerife"
         },
         {
-          "name": "Blue Lagoon, Akamas",
-          "distance": "38-42 km + boat",
-          "tip": "Most impressive water in the Paphos area. Not a drive-up beach. Take a boat from Latchi.",
-          "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus"
+          "name": "Punta del Hidalgo Natural Pools",
+          "distance": "24-27 km, car or bus",
+          "tip": "Natural pools, coastal walk, sunset. An excellent coastal day trip — more about swimming pools, lava coast, and stunning views than sand.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+natural+pools+Tenerife"
+        },
+        {
+          "name": "Playa de Mesa del Mar",
+          "distance": "28-32 km, car",
+          "tip": "Black sand, local beach, north coast vibe. A nice alternative on the north coast, good for guests exploring Tacoronte or the wine area.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Mesa+del+Mar+Tenerife"
+        },
+        {
+          "name": "Playa de El Bollullo",
+          "distance": "38-45 km, car then short walk",
+          "tip": "Beautiful black sand, north coast classic. One of the prettiest black sand beaches in northern Tenerife. Worth it if you are already visiting La Orotava or Puerto de la Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+El+Bollullo+Tenerife"
+        },
+        {
+          "name": "Playa Jardín, Puerto de la Cruz",
+          "distance": "40-45 km, car or bus",
+          "tip": "Puerto de la Cruz day trip. Normally famous and scenic, but water quality closures have affected Playa Jardín since 2024. Check current bathing status before going.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+Jardin+Puerto+de+la+Cruz+Tenerife"
         }
       ]
     },

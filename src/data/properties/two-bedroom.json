@@ -1,20 +1,27 @@
 {
   "id": "two-bedroom",
   "name": "Colorful 2-bedroom house",
-  "subtitle": "Spacious Family Stay",
-  "tagline": "Space, comfort and the Mediterranean at your door",
-  "heroImage": "",
-  "welcomeMessage": "Welcome! We're so glad you're here. This spacious apartment is all yours: two bedrooms, a big living area, a full kitchen, and a wide private balcony with garden views. Perfect for families and groups. Get in touch anytime if we can help with anything.",
+  "subtitle": "Pool & 2 Terraces",
+  "tagline": "Your sun-drenched retreat awaits",
+  "heroImage": "/airbnb-guest-guides/images/two-bedroom/hero.jpg",
+  "welcomeMessage": "Your vibrant, colourful home with pool and two terraces, all set for you. Relax, explore, and soak up the Mediterranean. We're just a message away.",
   "host": {
     "name": "Giorgos",
     "phone": "+357 940 495 35",
     "whatsapp": "+420 731 139 854",
     "email": "giorgos.koutoulo@gmail.com"
   },
+  "cohost": {
+    "name": "Rita",
+    "role": "Co-host",
+    "phone": "+49 151 114 707 30",
+    "whatsapp": "+49 151 114 707 30",
+    "email": "katonarita90@gmail.com"
+  },
   "address": {
-    "display": "14 Kypros Street, Protaras, Cyprus",
-    "googleMapsUrl": "https://maps.google.com/?q=Kypros+Street+Protaras+Cyprus",
-    "nearestLandmark": "12 min walk to Fig Tree Bay, 5 min to Protaras centre"
+    "display": "Morphou 27, King's Park Complex, Paphos",
+    "googleMapsUrl": "https://www.google.com/maps?q=34.777728,32.408972",
+    "nearestLandmark": "Behind AVLIDA Hotel, Tombs of the Kings area"
   },
   "quickRef": {
     "checkoutTime": "11:00 AM",
@@ -22,74 +29,138 @@
     "checkinTime": "3:00 PM"
   },
   "wifi": {
-    "networkName": "KyprosApt_WiFi",
-    "password": "familystay2024"
+    "networkName": "Venus Beach Retreat",
+    "networkNames": [
+      "TP-Link_011F",
+      "Venus Beach Retreat"
+    ],
+    "password": "77932303"
   },
   "checkin": {
-    "keyLocation": "Lockbox at the main entrance of the building, ground floor left",
-    "accessCode": "2468",
+    "keyLocation": "Two key boxes on the left wall, under Post Box 'D6'. Open the one on the right.",
+    "keyPhotoStart": 5,
+    "accessCode": "9907",
     "steps": [
-      "Enter the building through the main door (push to open. It is not locked)",
-      "The lockbox is on the left wall just inside the entrance, at chest height",
-      "Enter code 2468 and open the flap to retrieve the key",
-      "Take the lift or stairs to the 2nd floor. Apartment is number 14",
-      "The same key opens the apartment door",
-      "Return the key to the lockbox when you check out"
+      "Walk to the pool area at the back of the King's Park complex",
+      "Pass the pool and turn right along the pool's fence",
+      "Turn left at the first stone arch passage",
+      "Find the two key boxes on the left wall, under the Post Box labelled 'D7'",
+      "Open the key box on the right using code 9007",
+      "Go through the corridor. The apartment is the first door on the right (ground floor)",
+      "The entrance door is brown",
+      "Once inside, place the metallic key in the key plug next to the door to switch on the electricity (just like in hotels)",
+      "Return the key to the box when you check out and reset the code"
     ],
-    "notes": "Lift available. Luggage trolley in the ground floor cupboard. Call us immediately if the lockbox gives trouble."
+    "notes": "If you have any trouble finding us, call or WhatsApp anytime, we're happy to guide you step by step."
   },
   "gettingHere": {
-    "directions": "From Larnaca Airport, take the A3 east to the Protaras/Paralimni exit. Continue to the main roundabout and take the third exit onto Protaras Avenue. Turn left onto Kypros Street, 500m past the water park. Sand-coloured four-storey building with bougainvillea at the entrance.",
-    "parking": "Free off-street parking in the car park behind the building. Enter from the alley on the right of the building. Your space is marked 'K14'.",
-    "publicTransport": "Bus 612 from Paphos Airport (~35 min journey, depending on season and stops) (18-min walk, ~1.3 km to the apartment). Or take Bus 615 one stop closer, then walk. ⚠️ Cash only. €2.50 per ride.",
-    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride."
+    "byCar": "Follow the Google Maps link, it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
+    "parking": "Free parking at the pool area, spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
+    "publicTransport": "From Paphos Airport, take Bus 612 (~35 min journey, depending on season and stops). From the stop you have two options: walk (~18 min, 1.3 km) or hop on Bus 615 for one stop to get a bit closer, then walk the rest (~4 min). On foot: head toward the AVLIDA Hotel, walk past it, turn right at the Esso gas station, and the King's Park complex entrance is just behind it. ⚠️ Buses only accept cash. €2.50 per ride per person.",
+    "directionPhotos": [
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/esso-gas-station.jpeg",
+        "caption": "Turn right at the Esso gas station (into Morphou street)"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/morphou-street.jpeg",
+        "caption": "Go up around 50m to the big construction on the right"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/morphou-2.jpeg",
+        "caption": "Keep going, just a bit more..."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/construction.jpeg",
+        "caption": "At this construction, turn right into the narrow street"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/pool-area.jpeg",
+        "caption": "Park here or continue on foot past the pool"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/narrow-street.jpeg",
+        "caption": "Follow the road to the back where the pool area is"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/turn-left.jpeg",
+        "caption": "Turn left at the first stone arch passage"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/to-the-entrance.jpeg",
+        "caption": "Keep on going.."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/KeyBoxes.jpeg",
+        "caption": "Two key boxes under Post Box 'D7'. Open the one on the right. Code: 9007"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/Totheentrance.jpeg",
+        "caption": "After getting the keys, walk through the passage and turn right"
+      },
+      {
+        "src": "/airbnb-guest-guides/images/two-bedroom/Entrance.jpeg",
+        "caption": "The first apartment on the right hand side is yours 😊"
+      }
+    ],
+    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride.",
+    "directionPhotosStart": 4
   },
   "houseRules": [
-    "Please keep smoking to the balcony only",
+    "Please keep smoking to the balconies and terraces only",
     "Please keep it peaceful. Quiet hours are 11pm to 8am. No parties or events",
     "We love animals, but we're unable to accommodate pets. Sorry!",
     "Please use the bin next to the toilet instead of flushing paper, Cyprus plumbing really can't handle it",
     "Place the metallic key in the electricity plug by the door when you're inside, and take it with you when you leave",
-    "Close all windows and balcony doors whenever the air conditioning is running, to keep things cool and save energy",
-    "Please close and tie the patio umbrella at night and in windy conditions",
+    "Close balcony and terrace doors and windows whenever the air conditioning is running, to keep things cool and save energy",
     "Please return the keys to the keybox and reset the code when you leave. If keys are lost or locked in, a locksmith call-out will be at your cost, so do take care of them!",
     "Please treat the apartment as your own, and let us know right away if anything gets damaged. We understand accidents happen"
   ],
   "appliances": [
     {
+      "name": "Electricity",
+      "icon": "💡",
+      "instructions": "Pop the metallic key into the plug by the door to power the apartment, and remember to take it with you when you head out. Each socket also has its own wall switch: if something isn't turning on, that's usually why. EU adapters available if needed."
+    },
+    {
+      "name": "Kitchen",
+      "icon": "🍳",
+      "instructions": "Everything you need is here: electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans are all yours to use. One tip: please wash dishes promptly and keep the counters clear, warm weather can attract insects."
+    },
+    {
       "name": "Air Conditioning",
       "icon": "❄️",
-      "instructions": "There are three AC units: one in the living room and one in each bedroom, each with its own remote. Press POWER, select COOL, and set to 22-24 degrees. Keep windows closed when running for best results, and please switch off before heading out."
+      "instructions": "The remote is on the bedside table. Press POWER, select COOL, and set to 22-24 degrees. Keep windows closed when running for best results. To turn it off, hold the power button down for a moment rather than just tapping it, and please switch off before heading out."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "You'll find the washing machine in the laundry room. Add liquid detergent (there's some under the sink) to drawer II, set to 40 degrees Cotton, and press START. For drying, select DRAIN+SPIN first, then tumble dry on low heat."
-    },
-    {
-      "name": "Smart TV",
-      "icon": "📺",
-      "instructions": "The living room has a 65-inch TV with Netflix and YouTube ready to go. Just use the guest profile or log in to your own account. There's also a second TV in the master bedroom. An HDMI cable is in the drawer under the TV stand if you need it."
-    },
-    {
-      "name": "Full Kitchen",
-      "icon": "🍳",
-      "instructions": "You have a full 4-ring ceramic hob and oven. Pots and pans are in the lower cabinets. The oven takes about 15 minutes to preheat; the fan symbol is recommended. The dishwasher is under the sink with tablets in the cupboard above."
-    },
-    {
-      "name": "BBQ / Grill",
-      "icon": "🔥",
-      "instructions": "There's a charcoal BBQ on the balcony, perfect for a summer evening! Charcoal is in the terracotta pot beside it, and firelighters are in the kitchen drawer. Light the firelighters, place them under a charcoal pyramid, and wait about 20 minutes before cooking. Please extinguish fully with water after use."
-    },
-    {
-      "name": "Dishwasher",
-      "icon": "🍽️",
-      "instructions": "Tablets are in the box below the sink. ECO works great for full loads, QUICK 45 for lighter use. Leave it open to air when you're done."
+      "instructions": "Quick Wash works well for most loads. You'll find it in the kitchen."
     },
     {
       "name": "Shower & Hot Water",
       "icon": "🚿",
       "instructions": "Water is heated by solar panels on the roof, so it's warm and eco-friendly! Give it 2-3 minutes to come through, that's just the water making its way down from the panels. On overcast or cloudy days the solar may not be enough: press the boiler button next to the bathroom door and wait 20-30 minutes per person before showering. ⚠️ Always switch the boiler off before stepping in."
+    },
+    {
+      "name": "Pool Access",
+      "icon": "🏊",
+      "instructions": "Your keychain includes the pool key. Please use the pool towels from the sun lounger basket rather than the bathroom ones. No glass or diving from the edge, and no pets in the pool please. Rubbish bins are in the parking area on your right as you walk out past the pool."
+    },
+    {
+      "name": "Bathroom",
+      "icon": "🛁",
+      "instructions": "Towels, a hair dryer, and basic toiletries are all provided. Please use the bin next to the toilet rather than flushing paper, Cyprus plumbing really isn't built for it!"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "instructions": "Tap water is safe to drink, though many guests prefer bottled. You'll find it at the nearby supermarkets."
+    },
+    {
+      "name": "Plants",
+      "icon": "🌱",
+      "instructions": "If you're staying a few days, the plants would love a little water every 3-4 days. They'll appreciate it!"
     }
   ],
   "thingsToDo": [
@@ -875,23 +946,14 @@
   "checkout": {
     "time": "11:00 AM",
     "steps": [
-      "If you could clear the fridge and cupboards of all your food, we'd appreciate it!",
-      "If you could bag up any rubbish and take it to the labelled bins in the car park, that would be a big help!",
-      "If you could run the dishwasher one last time and leave it open to air, that would be great!",
-      "If you could give the kitchen hob and counters a quick wipe down, we'd appreciate it!",
-      "Before heading off, please close and lock all windows, balcony doors and shutters.",
-      "Please switch off all AC units, lights, and the TV when you're done.",
-      "Please leave the parking space clear for the next guests — thank you!",
-      "When you're ready, please lock up and return the key to the lockbox (code: 2468).",
-      "Drop us a WhatsApp to let us know you're safely on your way — reviews mean the world to us, thank you so much!"
+      "If you could give any dishes a quick wash and leave them on the drying rack, that would be great!",
+      "If you could clear out the fridge and pop any leftover food in the bin, we'd appreciate it!",
+      "If you could take the rubbish bags to the bins in the parking area — on your right as you walk out past the pool — that would be a big help!",
+      "Before heading off, please lock all windows, balcony doors and shutters.",
+      "Please switch off all lights, AC, and the TV when you're done.",
+      "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",
+      "Drop us a WhatsApp to let us know you've left — and we'd truly love a review if you enjoyed your stay!"
     ],
-    "lateCheckout": "Late checkout until 1pm may be possible depending on same-day arrivals. Just ask by 9pm the evening before and we'll confirm. A small fee may apply in peak season."
-  },
-  "cohost": {
-    "name": "Rita",
-    "role": "Co-host",
-    "phone": "+49 151 114 707 30",
-    "whatsapp": "+49 151 114 707 30",
-    "email": "katonarita90@gmail.com"
+    "lateCheckout": "We try to be flexible wherever we can. If you'd like a late checkout, please let us know 1-2 days before your departure and we'll do our best to make it happen."
   }
 }

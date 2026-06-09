@@ -746,21 +746,88 @@
       "category": "Shopping",
       "items": [
         {
-          "name": "Kings Avenue Mall",
-          "distance": "5 min drive",
-          "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.",
-          "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7"
+          "name": "Local minimarkets and small shops in Valleseco",
+          "distance": "0-1 km, walk",
+          "tip": "Basics, drinks, snacks, quick essentials. Best for convenience. Use this for water, small groceries, and last-minute things rather than proper shopping.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=supermarket+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Market",
-          "distance": "Nearby",
-          "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.",
-          "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8"
+          "name": "Calle del Castillo",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "Fashion, shoes, cosmetics, city shopping. The main shopping street in Santa Cruz, running through the centre with international franchises, fashion shops, boutiques, cafes, and side streets worth exploring.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+del+Castillo+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Old Town",
-          "distance": "Walking distance",
-          "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops."
+          "name": "Plaza de España & Plaza de la Candelaria area",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "City centre shopping, cafes, sightseeing combo. A good starting point for a relaxed shopping walk, leading into Calle del Castillo, Imeldo Serís, and Valentín Sanz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Plaza+de+la+Candelaria+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Calle del Pilar and side streets",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "Boutiques, local shops, cafes. Better if you want to wander beyond the main high street. The streets around Calle Castillo and Plaza del Príncipe mix shopping and food stops nicely.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+del+Pilar+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, bus, taxi, or car",
+          "tip": "Fresh produce, local food, flowers, small gifts. The best local market in Santa Cruz, known for fresh fruit, veg, fish, meat, and flowers. The 1944 building has lovely Moorish-style arches and patios.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Nivaria Center",
+          "distance": "5-6 km, bus, taxi, or car",
+          "tip": "Comfortable shopping, cafes, easy parking. A polished shopping centre in central Santa Cruz, a handy reference point with parking and regular events.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nivaria+Center+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Centro Comercial Meridiano",
+          "distance": "5.5-6.5 km, bus, taxi, or car",
+          "tip": "Big mall, Primark, cinema, food court. The best mall in Santa Cruz, with nearly 80 stores, 15 cinema screens, a rooftop food court, and the only Primark on the island.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Meridiano+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "San Andrés small shops",
+          "distance": "6-7 km, bus, taxi, or car",
+          "tip": "Beach day basics, snacks, simple errands. Useful before or after Las Teresitas. Not a shopping destination, but practical for drinks, beach snacks, or small necessities.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=shops+San+Andres+Tenerife"
+        },
+        {
+          "name": "Centro Comercial Añaza Carrefour",
+          "distance": "11-13 km, car or taxi",
+          "tip": "Hypermarket, large shopping, practical errands. Best for big grocery shopping or practical errands by car, with 100+ shops, a large Carrefour, and over 2,000 free parking spaces.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Anaza+Carrefour+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "La Laguna Historic Centre shops",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "Boutiques, gifts, cafes, historic streets. The best cultural shopping excursion. La Laguna is a UNESCO World Heritage city, great for combining shopping, coffee, and a historic walk.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Laguna+Tenerife+shopping+historic+centre"
+        },
+        {
+          "name": "Mercado de La Laguna",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "Fresh produce, flowers, local food. A good local market in the historic centre, known for fresh products, flowers, and local gastronomy.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+de+La+Laguna+Tenerife"
+        },
+        {
+          "name": "Local product shopping near Tacoronte",
+          "distance": "22-30 km, car",
+          "tip": "Local wine, cheese, Canarian products. Good if you want local food products rather than normal retail. Combine with a guachinche lunch or a north coast drive.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=local+products+Tacoronte+Tenerife+wine+shops"
+        },
+        {
+          "name": "Puerto de la Cruz shopping streets",
+          "distance": "38-45 km, car or bus",
+          "tip": "Day trip shopping, souvenirs, cafes. Nice if you are already visiting Puerto de la Cruz, Lago Martiánez, or La Orotava. Worth it as part of a full north coast day rather than only for shopping.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto+de+la+Cruz+shopping+Tenerife"
+        },
+        {
+          "name": "La Orotava local shops and crafts",
+          "distance": "40-45 km, car or bus",
+          "tip": "Traditional town, crafts, gifts. Better for atmosphere and local gifts than regular retail. Works well with Puerto de la Cruz or El Bollullo beach.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+craft+shops+Tenerife"
         }
       ]
     }

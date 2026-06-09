@@ -1,10 +1,10 @@
 {
   "id": "two-bedroom",
   "name": "Colorful 2-bedroom house",
-  "subtitle": "Pool & 2 Terraces",
-  "tagline": "Your sun-drenched retreat awaits",
+  "subtitle": "Colorful house in the hills of Tenerife",
+  "tagline": "Your cosy mountain retreat in Valleseco",
   "heroImage": "/airbnb-guest-guides/images/two-bedroom/hero.jpg",
-  "welcomeMessage": "Your vibrant, colourful home with pool and two terraces, all set for you. Relax, explore, and soak up the Mediterranean. We're just a message away.",
+  "welcomeMessage": "Welcome to our colourful house in the hills of Tenerife! Nestled in the charming village of Valleseco, it is full of character and surrounded by nature. We hope you love it as much as we do. Reach out anytime if you need anything at all.",
   "host": {
     "name": "Giorgos",
     "phone": "+357 940 495 35",
@@ -19,9 +19,9 @@
     "email": "katonarita90@gmail.com"
   },
   "address": {
-    "display": "Morphou 27, King's Park Complex, Paphos",
-    "googleMapsUrl": "https://www.google.com/maps?q=34.777728,32.408972",
-    "nearestLandmark": "Behind AVLIDA Hotel, Tombs of the Kings area"
+    "display": "Calle Manuel Ravina 69, Valleseco, Santa Cruz de Tenerife",
+    "googleMapsUrl": "https://goo.gl/maps/WT1nmL1gHQZAudzH7",
+    "nearestLandmark": "Near Punto y Coma Minimarket, Valleseco village"
   },
   "quickRef": {
     "checkoutTime": "11:00 AM",
@@ -37,74 +37,65 @@
     "password": "77932303"
   },
   "checkin": {
-    "keyLocation": "Two key boxes on the left wall, under Post Box 'D6'. Open the one on the right.",
-    "keyPhotoStart": 5,
-    "accessCode": "9907",
+    "keyLocation": "Look for the blue door on the upper part of the house — the keybox is right next to it.",
+    "keyPhotoStart": 7,
+    "accessCode": "1214",
     "steps": [
-      "Walk to the pool area at the back of the King's Park complex",
-      "Pass the pool and turn right along the pool's fence",
-      "Turn left at the first stone arch passage",
-      "Find the two key boxes on the left wall, under the Post Box labelled 'D7'",
-      "Open the key box on the right using code 9007",
-      "Go through the corridor. The apartment is the first door on the right (ground floor)",
-      "The entrance door is brown",
-      "Once inside, place the metallic key in the key plug next to the door to switch on the electricity (just like in hotels)",
-      "Return the key to the box when you check out and reset the code"
+      "Park at the recommended parking area (there is always space, and you avoid almost any stairs)",
+      "From the parking, walk toward the end of the street, then take the stairs down on the left side",
+      "At the next street below, turn right — this is the street of the house",
+      "Walk straight, cross the small garden with cacti and plants, and continue between the houses",
+      "After about 1 minute, on the left you will see a white house with a blue door",
+      "It is the upper part of the house — take the stairs next to the house to reach the entrance",
+      "Find the blue door with the keybox next to it. Code: 1214"
     ],
-    "notes": "If you have any trouble finding us, call or WhatsApp anytime, we're happy to guide you step by step."
+    "notes": "If you have any trouble finding us, call or WhatsApp anytime, we are happy to guide you step by step. Note: Google Maps is not 100% accurate for the last stretch, so follow the photo guide!"
   },
   "gettingHere": {
-    "byCar": "Follow the Google Maps link, it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
-    "parking": "Free parking at the pool area, spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
-    "publicTransport": "From Paphos Airport, take Bus 612 (~35 min journey, depending on season and stops). From the stop you have two options: walk (~18 min, 1.3 km) or hop on Bus 615 for one stop to get a bit closer, then walk the rest (~4 min). On foot: head toward the AVLIDA Hotel, walk past it, turn right at the Esso gas station, and the King's Park complex entrance is just behind it. ⚠️ Buses only accept cash. €2.50 per ride per person.",
+    "byCar": "Park at the recommended spot (maps link below) — there are always spaces and you avoid almost any stairs. Then follow the walking directions in the photo guide. ⚠️ Google Maps is not 100% accurate for the last stretch, so please use the photo guide!",
+    "parking": "Recommended parking: https://maps.app.goo.gl/iZAoE6vizeim4x3K6 — spaces are always available, and it is a short flat walk to the house entrance.",
+    "publicTransport": "Take bus 909, 910, or 916 from Santa Cruz de Tenerife. Get off at Valleseco — it is a small village with just one stop. Find the Punto y Coma Minimarket and take the stairs on the left, about 20 metres after passing it. It is a 5-10 minute uphill walk to the house. ⚠️ Follow the photo guide for the last stretch as Google Maps is not fully accurate.",
     "directionPhotos": [
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/esso-gas-station.jpeg",
-        "caption": "Turn right at the Esso gas station (into Morphou street)"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-1-parking.jpeg",
+        "caption": "Recommended parking area — always space available"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/morphou-street.jpeg",
-        "caption": "Go up around 50m to the big construction on the right"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-2-from-parking.jpeg",
+        "caption": "From the parking, walk in this direction until the street ends, then take the stairs down on the left"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/morphou-2.jpeg",
-        "caption": "Keep going, just a bit more..."
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-3-turn-right.jpeg",
+        "caption": "Go down to the next street and turn right — this is the street of the house"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/construction.jpeg",
-        "caption": "At this construction, turn right into the narrow street"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-4-garden.jpeg",
+        "caption": "Walk straight and cross the garden with cacti and plants"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/pool-area.jpeg",
-        "caption": "Park here or continue on foot past the pool"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-5-between-houses.jpeg",
+        "caption": "Continue between the houses"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/narrow-street.jpeg",
-        "caption": "Follow the road to the back where the pool area is"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-6-continue.jpeg",
+        "caption": "Keep going straight..."
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/turn-left.jpeg",
-        "caption": "Turn left at the first stone arch passage"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-7-white-house.jpeg",
+        "caption": "After about 1 minute, on the left you will see a white house with a blue door"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/to-the-entrance.jpeg",
-        "caption": "Keep on going.."
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-8-house-view.jpeg",
+        "caption": "It is the upper part of the house — take the stairs next to it to reach the entrance"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/KeyBoxes.jpeg",
-        "caption": "Two key boxes under Post Box 'D7'. Open the one on the right. Code: 9007"
-      },
-      {
-        "src": "/airbnb-guest-guides/images/two-bedroom/Totheentrance.jpeg",
-        "caption": "After getting the keys, walk through the passage and turn right"
-      },
-      {
-        "src": "/airbnb-guest-guides/images/two-bedroom/Entrance.jpeg",
-        "caption": "The first apartment on the right hand side is yours 😊"
+        "src": "/airbnb-guest-guides/images/two-bedroom/photo-9-blue-door.jpeg",
+        "caption": "The blue door with the keybox next to it. Code: 1214"
       }
     ],
-    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride.",
-    "directionPhotosStart": 4
+    "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running.",
+    "directionPhotosStart": 1,
+    "busStationUrl": "https://goo.gl/maps/q5DXMS7iLKb5cRy59"
   },
   "houseRules": [
     "Please keep smoking to the balconies and terraces only",

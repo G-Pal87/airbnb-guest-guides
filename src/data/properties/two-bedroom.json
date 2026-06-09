@@ -1055,9 +1055,9 @@
         "note": "Police, Ambulance, Fire. Free from any phone"
       },
       {
-        "name": "Paphos District Hospital",
-        "number": "+357 26 803 100",
-        "note": "Main hospital in Paphos, approx. 10 min drive"
+        "name": "Hospital Universitario Nuestra Señora de Candelaria",
+        "number": "+34 922 602 000",
+        "note": "Main hospital in Santa Cruz de Tenerife"
       },
       {
         "name": "Paphos Police",
@@ -1065,8 +1065,8 @@
         "note": "Paphos Police Station"
       }
     ],
-    "nearestHospital": "Paphos District Hospital, approx. 10 min drive.",
-    "nearestHospitalUrl": "https://maps.app.goo.gl/91BFKhKL7bZWVVHg6",
+    "nearestHospital": "Hospital Universitario Nuestra Señora de Candelaria, Ctra. Gral. del Rosario 145, Santa Cruz de Tenerife.",
+    "nearestHospitalUrl": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Nuestra+Senora+de+Candelaria+Santa+Cruz+de+Tenerife",
     "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
   },
   "checkout": {

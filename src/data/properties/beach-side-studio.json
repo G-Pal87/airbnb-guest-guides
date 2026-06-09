@@ -30,17 +30,17 @@
     "password": "26419398"
   },
   "checkin": {
-    "keyLocation": "Look for the blue door on the upper part of the house — the keybox is right next to it.",
+    "keyLocation": "Look for the white door on the lower part of the house — the keybox is right next to it.",
     "keyPhotoStart": 7,
-    "accessCode": "1214",
+    "accessCode": "6015",
     "steps": [
       "Park at the recommended parking area (there is always space, and you avoid almost any stairs)",
       "From the parking, walk toward the end of the street, then take the stairs down on the left side",
       "At the next street below, turn right — this is the street of the house",
       "Walk straight, cross the small garden with cacti and plants, and continue between the houses",
-      "After about 1 minute, on the left you will see a white house with a blue door",
-      "It is the upper part of the house — take the stairs next to the house to reach the entrance",
-      "Find the blue door with the keybox next to it. Code: 1214"
+      "After about 1 minute, on the left you will see a white house",
+      "It is the lower part of the house — the entrance is at the bottom",
+      "Find the white door with the keybox next to it. Code: 6015"
     ],
     "notes": "If you have any trouble finding us, call or WhatsApp anytime, we are happy to guide you step by step. Note: Google Maps is not 100% accurate for the last stretch, so follow the photo guide!"
   },
@@ -75,15 +75,15 @@
       },
       {
         "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.50.webp",
-        "caption": "After about 1 minute, on the left you will see a white house with a blue door."
+        "caption": "After about 1 minute, on the left you will see a white house."
       },
       {
         "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.03.24.webp",
-        "caption": "It is the upper part of the house. Take the stairs right next to the house to reach the entrance."
+        "caption": "It is the lower part of the house. The entrance is at the bottom."
       },
       {
         "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-07_at_12.46.03.webp",
-        "caption": "The blue door with the keybox next to it. Code: 1214"
+        "caption": "The white door with the keybox next to it. Code: 6015"
       }
     ],
     "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running.",

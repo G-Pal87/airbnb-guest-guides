@@ -597,168 +597,148 @@
       "category": "Eat & Drink",
       "items": [
         {
-          "name": "Karlina Restaurant",
-          "distance": "300-500m, walk",
-          "tip": "Easiest no-car dinner option near Avlida. Ranked among the top restaurants near Tombs of the Kings.",
-          "type": "Greek / Mediterranean",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Karlina+Restaurant+Paphos+Cyprus"
-        },
-        {
-          "name": "Dias Zeus Greek Restaurant",
-          "distance": "500-800m, walk",
-          "tip": "Reliable nearby option on Tombs of the Kings Avenue. Greek and Mediterranean with strong guest ratings.",
-          "type": "Greek / Meze",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Dias+Zeus+Restaurant+Paphos+Cyprus"
-        },
-        {
-          "name": "Tea for Two",
-          "distance": "700m-1km, walk",
-          "tip": "Good for an easy breakfast or lunch close to home. Friendly service and great value.",
-          "type": "Café / Brunch",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/Tea+for+Two+Tombs+of+the+Kings+Paphos"
-        },
-        {
-          "name": "Psarou Fish Tavern",
-          "distance": "Near Tombs of the Kings",
-          "tip": "Cozy tavern known for fresh fish, traditional meze, and a friendly local vibe.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/fTLfXHaodxiNTSBn8"
-        },
-        {
-          "name": "Kingfisher Taverna",
-          "distance": "Near Tombs of the Kings",
-          "tip": "Small, relaxed taverna serving high-quality fish dishes and local favourites in a more upscale setting.",
-          "type": "Seafood",
-          "priceRange": "€€€",
-          "mapsUrl": "https://maps.app.goo.gl/Au7TVerkHzFipkJPA"
-        },
-        {
-          "name": "Three Little Pigs",
-          "distance": "Walking distance",
-          "tip": "Local favourite with high-quality food, great service, and a lovely atmosphere. Their house wine is a treat!",
-          "type": "Cypriot",
-          "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/dsi6B8b2kJ6L7o3q8"
-        },
-        {
-          "name": "Kings Avenue Mall Food Court",
-          "distance": "1.5-2km, walk or bus",
-          "tip": "Not special, but very practical. Good for families, quick food, coffee, or escaping the heat.",
-          "type": "Food Court",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
-        },
-        {
-          "name": "Old Town Paphos cafés",
-          "distance": "2-3km, car or bus",
-          "tip": "More local feeling than the harbour. Nice for brunch, coffee, or early evening drinks.",
+          "name": "Local cafés and small bars in Valleseco",
+          "distance": "0-1 km, walk",
+          "tip": "Quick coffee, simple local food, closest option. Best for convenience rather than destination dining. Handy when you want something very close.",
           "type": "Café / Local",
-          "mapsUrl": "https://www.google.com/maps/search/Old+Town+Paphos+cafes+Cyprus"
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=restaurants+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Pallia Ilektriki",
-          "distance": "2.5-3km, car or bus",
-          "tip": "A good Old Town option. Ranked among popular places near Old Town Paphos.",
-          "type": "Cypriot / Café",
+          "name": "Santa Cruz city centre brunch and coffee spots",
+          "distance": "3.5-5 km, car, taxi, bus, or walk",
+          "tip": "Brunch, coffee, casual daytime food. A useful option for something easy before sightseeing. The city scene has plenty of brunch and coffee spots alongside tapas and seafood.",
+          "type": "Brunch / Coffee",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Pallia+Ilektriki+Paphos+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=brunch+coffee+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Ta Pinakia",
-          "distance": "2.5-3km, car or bus",
-          "tip": "Good if you want something less harbour-focused. Well-rated near Old Town Paphos.",
-          "type": "Greek / Cypriot",
+          "name": "La Noria street restaurants and bars",
+          "distance": "4-5 km, car, taxi, bus, or walk",
+          "tip": "Evening drinks, tapas, lively atmosphere. A great area for dinner and drinks in central Santa Cruz. Best when you want a city evening rather than a beach meal.",
+          "type": "Tapas / Bars",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Ta+Pinakia+Paphos+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+La+Noria+Santa+Cruz+de+Tenerife+restaurants"
         },
         {
-          "name": "O Firis",
-          "distance": "Short drive",
-          "tip": "Modern twist on Cypriot cuisine with generous portions. Live music almost every evening. Book ahead!",
-          "type": "Cypriot Tavern",
+          "name": "El Porrón Tasca Andaluza",
+          "distance": "4-5 km, car, taxi, or bus",
+          "tip": "Tapas, casual dinner, La Noria area. Listed among the best restaurants around La Noria, with strong ratings.",
+          "type": "Andalusian Tapas",
           "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/bkobzXcbYZ2pXZaF9"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Porron+Tasca+Andaluza+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Harbour restaurants",
-          "distance": "3.5-4km, car or scenic walk",
-          "tip": "Touristy but reliable. Many options for dinner, drinks, and a sunset walk by the sea.",
-          "type": "Various / Harbour",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+restaurants+Cyprus"
-        },
-        {
-          "name": "King's Restaurant",
-          "distance": "3.5-4km, car or walk",
-          "tip": "Popular harbour area choice. Good fish and Cypriot food.",
-          "type": "Cypriot / Seafood",
+          "name": "Bar Concepción",
+          "distance": "4-5 km, car, taxi, bus, or walk",
+          "tip": "Wine, sharing plates, old town atmosphere. Lovely for a relaxed evening near the church and old streets, with outdoor seating, wine, and sharing plates.",
+          "type": "Wine / Sharing plates",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Kings+Restaurant+Paphos+Harbour+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Concepcion+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Theo's Restaurant",
-          "distance": "3.5-4km, car or walk",
-          "tip": "Good for seafood near the harbour. Sea bass, octopus, prawns, and calamari.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Theos+Restaurant+Paphos+Harbour+Cyprus"
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Market breakfast, snacks, local produce, casual food. One of the best food culture stops in Santa Cruz, with fresh produce stalls and low-key bar restaurants.",
+          "type": "Market / Local",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "The Moorings Café Restaurant",
-          "distance": "3.5-4km, car or walk",
-          "tip": "More about the harbour atmosphere than fine dining. Easy and relaxed.",
-          "type": "Café / Restaurant",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/The+Moorings+Cafe+Paphos+Cyprus"
-        },
-        {
-          "name": "West End Hotel & Restaurant",
-          "distance": "Agios Georgios, ~20km",
-          "tip": "Family-run with generous portions and delicious seafood, steps from the sea.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/tNS9wHgJtweZJUmSA"
-        },
-        {
-          "name": "Oniro by the Sea",
-          "distance": "17-20km, car",
-          "tip": "One of the best scenic spots in the Paphos area. Combine with Sea Caves and Edro III shipwreck.",
-          "type": "Bar / Restaurant",
+          "name": "San Sebastián 57",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Updated Canarian cuisine, nicer dinner. A stronger restaurant choice near the market, described by Michelin as an unmissable address with updated traditional cuisine.",
+          "type": "Modern Canarian",
           "priceRange": "€€€",
-          "mapsUrl": "https://www.google.com/maps/search/Oniro+by+the+Sea+Paphos+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Sebastian+57+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Kathikas wine village restaurants",
-          "distance": "22-28km, car",
-          "tip": "More authentic than the seafront. Best for a longer lunch or early dinner with wine tasting.",
-          "type": "Cypriot / Wine",
+          "name": "Restaurante Origen",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Japanese and Peruvian, special dinner. A more polished option near the market, among the highly rated restaurants close to the Mercado.",
+          "type": "Japanese / Peruvian",
+          "priceRange": "€€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Origen+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "El Rincón de Guadalupe",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Tacos, cocktails, casual dinner. Good if you want something different from Canarian food, among the top spots near the Mercado and La Noria.",
+          "type": "Mexican / Cocktails",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+restaurant+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Rincon+de+Guadalupe+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Latchi Harbour tavernas",
-          "distance": "38-42km, car",
-          "tip": "Best combined with a Blue Lagoon boat trip, Baths of Aphrodite, or a Polis day trip.",
-          "type": "Seafood / Tavern",
+          "name": "San Andrés seafood restaurants",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Fresh fish, casual local lunch, Las Teresitas combo. One of the best nearby food areas. Great after Las Teresitas beach or before driving into Anaga.",
+          "type": "Seafood",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+taverna+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife+seafood+restaurants"
         },
         {
-          "name": "Lidl",
-          "distance": "5 min walk",
-          "tip": "Budget-friendly with a wide range of groceries. Great for stocking up on basics.",
-          "type": "Grocery Store",
-          "priceRange": "€"
+          "name": "Restaurante Rincón del Pescador, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Fish of the day, seafood, local lunch. A strong seafood option near Las Teresitas, often praised for its fish of the day and octopus.",
+          "type": "Seafood",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Rincon+del+Pescador+San+Andres+Tenerife"
         },
         {
-          "name": "AlphaMega",
-          "distance": "7 min by car",
-          "tip": "Large supermarket with a wide variety of fresh produce and local Cypriot items.",
-          "type": "Supermarket",
-          "priceRange": "€"
+          "name": "La Pandorga, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Seafood, Mediterranean food, beach day lunch. A reliable pick near Las Teresitas, among the most popular San Andrés restaurants.",
+          "type": "Seafood / Mediterranean",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Pandorga+San+Andres+Tenerife"
+        },
+        {
+          "name": "Tasquita Lucas, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Casual Spanish food, seafood, good value. A good smaller local option, highly rated among the cheaper eats near Las Teresitas.",
+          "type": "Spanish / Casual",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasquita+Lucas+San+Andres+Tenerife"
+        },
+        {
+          "name": "Los Pinchitos, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Casual seafood, simple local meal. A practical, casual option near Las Teresitas, rated 8.5/10 for food, service, and atmosphere.",
+          "type": "Seafood / Casual",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Pinchitos+San+Andres+Tenerife"
+        },
+        {
+          "name": "La Laguna cafés and restaurants",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "Historic town lunch, cafes, dinner. The best cultural food excursion from Santa Cruz. Great to combine with the UNESCO historic centre and a relaxed walk.",
+          "type": "Cafés / Varied",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Laguna+Tenerife+restaurants+cafes"
+        },
+        {
+          "name": "Guachinches near La Laguna and Tacoronte",
+          "distance": "15-30 km, car",
+          "tip": "Local Canarian food, wine, rustic experience. Great for adventurous food guests. Guachinches are frills-free, budget-friendly spots serving simple home-style meals, mostly in the north and often seasonal.",
+          "type": "Traditional Canarian",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=guachinche+La+Laguna+Tacoronte+Tenerife"
+        },
+        {
+          "name": "Bajamar and Punta del Hidalgo restaurants",
+          "distance": "20-27 km, car or bus",
+          "tip": "Ocean views, casual lunch, natural pools day. A good food area if you visit the natural pools. Works well as a relaxed north coast day trip.",
+          "type": "Seafood / Casual",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bajamar+Punta+del+Hidalgo+restaurants+Tenerife"
+        },
+        {
+          "name": "Taganana and Roque de las Bodegas restaurants",
+          "distance": "24-28 km, car",
+          "tip": "Scenic lunch, fish, Anaga day trip. The best food stop during an Anaga excursion. Recommended for lunch after Taganana, Almáciga, or Benijo.",
+          "type": "Seafood / Scenic",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+restaurants+Tenerife"
         }
       ]
     },

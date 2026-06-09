@@ -347,112 +347,142 @@
       "category": "Attractions & Excursions 📸",
       "items": [
         {
-          "name": "Kings Avenue Mall",
-          "distance": "1.5-2 km, walk or bus",
-          "tip": "Shopping, food court, cinema. Practical for an indoor break on hot or very windy days.",
-          "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
+          "name": "Playa de Valleseco / Los Charcos de Valleseco",
+          "distance": "1-2 km, walk or car",
+          "tip": "Closest sea spot, quick dip, local feel. Very close and practical. More local than postcard beautiful, but useful for a quick ocean stop.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Harbour",
-          "distance": "3.5-4 km, car or scenic walk",
-          "tip": "One of the easiest evening plans from Avlida. Dinner, drinks, and a relaxed walk by the sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+Cyprus"
+          "name": "Rambla de Santa Cruz",
+          "distance": "2-3 km, bus, taxi, car, or long walk",
+          "tip": "Urban walk, cafes, local life. A pleasant city walk, good if you want something easy without leaving Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Aphrodite Waterpark",
-          "distance": "6-7 km, car or taxi",
-          "tip": "Best family attraction nearby. Easy half-day or full-day option on hot days.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Aphrodite+Waterpark+Cyprus"
+          "name": "Parque García Sanabria",
+          "distance": "3-4 km, bus, taxi, car, or long walk",
+          "tip": "Green walk, shade, fountains, sculptures. One of the nicest easy walks in Santa Cruz, especially when the weather is warm.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Coral Bay & Corallia Beach",
-          "distance": "11-13 km, car or bus",
-          "tip": "Easiest classic beach excursion. Sand, sunbeds, and facilities. Hard to go wrong.",
-          "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus"
+          "name": "Plaza de España & city centre",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "City sightseeing, shopping, cafes. A good starting point for a Santa Cruz city walk. Easy to combine with the old streets, harbour area, and the Mercado.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Horse Riding",
-          "distance": "10-25 km, car",
-          "tip": "Nice alternative to beach and history. Book in advance, especially in high season.",
-          "mapsUrl": "https://www.google.com/maps/search/horse+riding+Paphos+Cyprus"
+          "name": "Castillo de San Cristóbal Interpretation Centre",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "Short history stop, city centre. Small but interesting if you are already visiting Plaza de España. Best as a quick add-on rather than a standalone trip.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castillo+de+San+Cristobal+Interpretation+Centre+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Adonis Baths Waterfalls",
-          "distance": "15-18 km, car",
-          "tip": "Popular excursion, road can be rough. Better for adventurous guests than polished sightseeing.",
-          "mapsUrl": "https://www.google.com/maps/search/Adonis+Baths+Waterfalls+Cyprus"
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, bus, taxi, or car",
+          "tip": "Local food, market, morning visit. A great cultural food stop. Best in the morning for fruit, coffee, local products, and atmosphere.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Sea Caves & Edro III Shipwreck",
-          "distance": "17-20 km, car",
-          "tip": "Easy scenic excursion. Great for photos and sunset. Combine with Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+          "name": "Auditorio de Tenerife",
+          "distance": "5-6 km, bus, taxi, or car",
+          "tip": "Architecture, photos, sea walk. One of Santa Cruz's most iconic modern landmarks, designed by Santiago Calatrava. Good to combine with the Palmetum and waterfront.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorio+de+Tenerife+Santa+Cruz"
         },
         {
-          "name": "Paphos Zoo",
-          "distance": "18-20 km, car or taxi",
-          "tip": "Good family option near Coral Bay. Easy to combine with Sea Caves or a beach day.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Zoo+Cyprus"
+          "name": "Palmetum of Santa Cruz",
+          "distance": "5.5-6.5 km, bus, taxi, or car",
+          "tip": "Botanical garden, sea views, relaxed walk. A 12 hectare botanical garden specialising in palm trees, one of the best quiet attractions inside Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Avakas Gorge",
-          "distance": "25-30 km, car then walk",
-          "tip": "One of the best nature walks in the region. Wear proper shoes. Avoid after heavy rain or extreme heat.",
-          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
+          "name": "San Andrés village",
+          "distance": "6-7 km, bus, taxi, or car",
+          "tip": "Seafood, village feel, Las Teresitas combo. A small local village, best combined with Las Teresitas beach and the Mirador.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife"
         },
         {
-          "name": "Wine Villages around Kathikas",
-          "distance": "22-28 km, car or tour",
-          "tip": "Great for adults wanting a local experience. Better with a tour if everyone is tasting.",
-          "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+Paphos+Cyprus"
+          "name": "Playa de Las Teresitas",
+          "distance": "7-8 km, bus, taxi, or car",
+          "tip": "Easy beach day, families, swimming. The easiest beach excursion from this location. Golden sand, calm water, facilities, and restaurants nearby.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Akamas Jeep Safari",
-          "distance": "30-45 km, 4x4 or buggy tour",
-          "tip": "Best for guests who want wild nature without driving difficult roads themselves. One of the best preserved areas in Cyprus.",
-          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+          "name": "Mirador de Las Teresitas",
+          "distance": "8-9 km, car or taxi",
+          "tip": "Viewpoint, photos, beach panorama. One of the easiest wow views from the house. Best before or after Las Teresitas.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Polis & Latchi",
-          "distance": "35-42 km, car",
-          "tip": "Calmer, more local side of Cyprus. Good for lunch, a coastal walk, and Blue Lagoon boat departures.",
-          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus"
+          "name": "San Cristóbal de La Laguna Historic Centre",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "UNESCO town, cafes, architecture. One of the best cultural excursions from Santa Cruz. Great for a half day trip with lunch or coffee.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Cristobal+de+La+Laguna+Historic+Centre+Tenerife"
         },
         {
-          "name": "Blue Lagoon Boat Trip from Latchi",
-          "distance": "38-42 km + boat, car or tour",
-          "tip": "One of the best full-day excursions from Paphos. Many tours combine with Akamas and Baths of Aphrodite.",
-          "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus"
+          "name": "Bajamar Natural Pools",
+          "distance": "20-23 km, car or bus",
+          "tip": "Ocean pools, families, wave watching. A great alternative to beach swimming, especially when you want ocean water in a more protected spot.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piscinas+Naturales+de+Bajamar+Tenerife"
         },
         {
-          "name": "Baths of Aphrodite",
-          "distance": "40-45 km, car or tour",
-          "tip": "Small site, but beautiful surroundings. Best combined with Latchi, Blue Lagoon, and Polis.",
-          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+          "name": "Anaga Rural Park scenic drive",
+          "distance": "20-35 km depending on stop, car or tour",
+          "tip": "Mountains, viewpoints, villages, laurel forest. The best nature excursion from this location. Anaga is a protected rural park and a UNESCO Biosphere Reserve.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
         },
         {
-          "name": "Omodos Village",
-          "distance": "60-70 km, car or tour",
-          "tip": "One of the prettiest village excursions from Paphos. Works well as part of a Troodos or wine route day.",
-          "mapsUrl": "https://www.google.com/maps/search/Omodos+Village+Cyprus"
+          "name": "Taganana, Roque de las Bodegas & Benijo",
+          "distance": "22-30 km, car",
+          "tip": "Dramatic coast, villages, lunch, photos. One of the best day trips from Santa Cruz: mountain roads, black sand beaches, ocean views, and traditional food.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+Benijo+Tenerife"
         },
         {
-          "name": "Kourion Archaeological Site",
-          "distance": "55-65 km, car",
-          "tip": "Excellent day trip toward Limassol. Ancient theatre with sea views is the highlight.",
-          "mapsUrl": "https://www.google.com/maps/search/Kourion+Archaeological+Site+Cyprus"
+          "name": "Cruz del Carmen Visitor Centre",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Forest walks, viewpoints, Anaga info. The best starting point for easy Anaga forest walks and route advice.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
         },
         {
-          "name": "Limassol Marina & Old Town",
-          "distance": "70-75 km, car",
-          "tip": "More urban and polished than Paphos. Best combined with Kourion or Omodos.",
-          "mapsUrl": "https://www.google.com/maps/search/Limassol+Marina+Cyprus"
+          "name": "Punta del Hidalgo",
+          "distance": "24-27 km, car or bus",
+          "tip": "Coastal walk, natural pools, sunset. Very good for a relaxed north coast excursion. Combine with Bajamar or La Laguna.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+Tenerife"
         },
         {
-          "name": "Troodos Mountains & Villages",
-          "distance": "70-90 km, car or tour",
-          "tip": "Best full-day escape from the coast. Villages, monasteries, wine routes, and cooler air.",
-          "mapsUrl": "https://www.google.com/maps/search/Troodos+Mountains+Cyprus"
+          "name": "Loro Parque, Puerto de la Cruz",
+          "distance": "38-45 km, car or bus",
+          "tip": "Families, full day attraction. One of Tenerife's biggest tourist attractions. Best for families or guests who enjoy animal parks.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loro+Parque+Puerto+de+la+Cruz+Tenerife"
+        },
+        {
+          "name": "Puerto de la Cruz & Lago Martiánez",
+          "distance": "38-45 km, car or bus",
+          "tip": "City day trip, sea pools, restaurants. A classic north Tenerife day trip. Lago Martiánez is a seawater pool complex designed by César Manrique.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago+Martianez+Puerto+de+la+Cruz+Tenerife"
+        },
+        {
+          "name": "La Orotava Historic Centre",
+          "distance": "40-45 km, car or bus",
+          "tip": "Traditional architecture, old town, views. A beautiful historic town, good to combine with Puerto de la Cruz or El Bollullo beach.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+Historic+Centre+Tenerife"
+        },
+        {
+          "name": "Teide National Park",
+          "distance": "60-75 km depending on route, car or organised tour",
+          "tip": "Volcano landscapes, viewpoints, full day trip. The biggest must-do excursion in Tenerife. Includes Mount Teide, Spain's highest peak at 3,718 m, and a UNESCO World Heritage Site.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+Tenerife"
+        },
+        {
+          "name": "Masca Village",
+          "distance": "70-85 km, car or organised tour",
+          "tip": "Mountain village, dramatic road, photos. Beautiful but a long drive from Santa Cruz. Best for a full island day trip, ideally with Teide or the Buenavista area.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masca+Village+Tenerife"
+        },
+        {
+          "name": "Siam Park, Costa Adeje",
+          "distance": "80-90 km, car or organised transfer",
+          "tip": "Waterpark, families, thrill rides. Far from this location, but one of Tenerife's most famous attractions. Better as a full day plan, with a typical visit of around 4-6 hours.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam+Park+Tenerife"
         }
       ]
     },

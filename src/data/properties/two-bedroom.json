@@ -246,70 +246,100 @@
       "category": "Historical Sites & Scenic Walks 🏰",
       "items": [
         {
-          "name": "Tombs of the Kings",
-          "distance": "250m-1km, walk",
-          "tip": "Closest and most important historical site. Rock-cut tombs from the Hellenistic and Roman periods, part of the UNESCO listed Paphos archaeological area.",
-          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+          "name": "Playa de Valleseco coastal walk",
+          "distance": "1-2 km, walk or car",
+          "tip": "Closest sea walk, local feel, quick stroll. The easiest coastal walk from the house. Practical rather than polished, but very local and good for a quick sea view.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Coastal Walkway",
-          "distance": "Starts nearby, walk",
-          "tip": "Walk along the coastline toward Lighthouse Beach, the harbour, and Paphos Castle. Easy and scenic, especially at sunset.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+          "name": "Rambla de Santa Cruz",
+          "distance": "2-3 km, car, taxi, bus, or long walk",
+          "tip": "City walk, trees, cafes, local life. A pleasant urban walk through one of the main green boulevards of Santa Cruz. Lovely for a relaxed morning or late afternoon.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Lighthouse Beach & Lighthouse",
-          "distance": "2.0-2.5 km, walk or car",
-          "tip": "Relaxed halfway point between Avlida and the harbour. Good for a scenic walk with a beach stop.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+          "name": "Parque García Sanabria",
+          "distance": "3-4 km, car, taxi, bus, or long walk",
+          "tip": "Shaded walk, plants, fountains, sculptures. One of the best easy scenic walks in the city, perfect when you want greenery without leaving Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Old Town Paphos & Kennedy Square",
-          "distance": "2-3 km, car or bus",
-          "tip": "Good for cafes, local streets, small shops, and a more authentic Paphos feel. Best visited late afternoon.",
-          "mapsUrl": "https://www.google.com/maps/search/Kennedy+Square+Paphos+Cyprus"
+          "name": "Plaza de España & Castillo de San Cristóbal",
+          "distance": "3.5-4.5 km, car, taxi, bus, or walk",
+          "tip": "City history, central square, easy sightseeing. A great starting point for exploring central Santa Cruz. The underground interpretation centre preserves remains of the old castle, capital of Tenerife since 1833.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Santa+Cruz+de+Tenerife+Castillo+de+San+Cristobal"
         },
         {
-          "name": "Kato Paphos Archaeological Park",
-          "distance": "3-4 km, car or bus",
-          "tip": "Top cultural site in Cyprus. Roman mosaics considered among the finest in the eastern Mediterranean, UNESCO listed.",
-          "mapsUrl": "https://www.google.com/maps/search/Kato+Paphos+Archaeological+Park+Cyprus"
+          "name": "Iglesia de Nuestra Señora de la Concepción & La Noria",
+          "distance": "4-5 km, car, taxi, bus, or walk",
+          "tip": "Old streets, church, bars, local evening walk. Lovely for a historical city stroll. The church and nearby La Noria streets are among the most atmospheric parts of old Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+Nuestra+Senora+de+la+Concepcion+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Harbour & Castle",
-          "distance": "3.5-4 km, car or scenic walk",
-          "tip": "Easy evening plan. Byzantine fort rebuilt by the Lusignans, then Venetians, then Ottomans in the 16th century.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Castle+Harbour+Cyprus"
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Local market, food, architecture, morning walk. Not a classic monument, but a great cultural stop. Best in the morning for local produce, snacks, and atmosphere.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Agios Neophytos Monastery",
-          "distance": "10-12 km, car",
-          "tip": "Beautiful half-day stop. Founded in the 12th century by Saint Neophytos in a secluded valley north of Paphos.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Neophytos+Monastery+Paphos+Cyprus"
+          "name": "Auditorio de Tenerife",
+          "distance": "5-6 km, car, taxi, or bus",
+          "tip": "Modern architecture, photos, sea walk. One of Santa Cruz's most iconic modern landmarks, designed by Santiago Calatrava. Stunning for photos along the seafront.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorio+de+Tenerife+Santa+Cruz"
         },
         {
-          "name": "Sea Caves & Edro III Shipwreck",
-          "distance": "17-20 km, car",
-          "tip": "Scenic coast, great for photos and sunset. Combine with Oniro by the Sea and Agios Georgios.",
-          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+          "name": "Palmetum of Santa Cruz",
+          "distance": "5.5-6.5 km, car, taxi, or bus",
+          "tip": "Botanical walk, sea views, unusual garden. A very good scenic walk inside the city. A 12 hectare botanical garden specialising in palm trees.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Agios Georgios Archaeological Site",
-          "distance": "20-22 km, car",
-          "tip": "Quiet ruins with sea views, off the tourist trail. Good if already heading toward Sea Caves or Lara.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Archaeological+Site+Peyia+Cyprus"
+          "name": "San Andrés village",
+          "distance": "6-7 km, car, bus, or taxi",
+          "tip": "Village feel, seafood, Las Teresitas combo. Small, simple, and local. Great to combine with Las Teresitas beach or a drive into Anaga.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife"
         },
         {
-          "name": "Petra tou Romiou (Aphrodite's Rock)",
+          "name": "Mirador de Las Teresitas",
+          "distance": "8-9 km, car or taxi",
+          "tip": "Best beach viewpoint, photos, scenic stop. One of the easiest 'wow view' stops from the house. Best combined with Las Teresitas or San Andrés.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
+        },
+        {
+          "name": "San Cristóbal de La Laguna Historic Centre",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "UNESCO town, colonial streets, architecture. One of the best cultural excursions from Santa Cruz. La Laguna's historic centre has been a UNESCO World Heritage Site since 1999.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Cristobal+de+La+Laguna+Historic+Centre+Tenerife"
+        },
+        {
+          "name": "Anaga Rural Park scenic drive",
+          "distance": "20-35 km depending on stop, car or tour",
+          "tip": "Mountains, laurel forest, viewpoints, villages. The best nature and scenery excursion from this location. Anaga is a protected rural park and, since 2015, a UNESCO Biosphere Reserve.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
+        },
+        {
+          "name": "Cruz del Carmen Visitor Centre, Anaga",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Forest walks, Anaga information, viewpoints. The best starting point for Anaga forest walks, with information and advice for routes in the Rural Park.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
+        },
+        {
+          "name": "Taganana village",
+          "distance": "22-26 km, car",
+          "tip": "Historic village, Anaga scenery, mountain road. A beautiful old village in Anaga with dramatic landscapes. Great for a scenic drive plus a more traditional feel.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Tenerife"
+        },
+        {
+          "name": "Roque de las Bodegas scenic coast",
+          "distance": "24-27 km, car",
+          "tip": "Ocean views, black sand, seafood lunch. More scenic than historical, but excellent for an Anaga day trip. Combine with Taganana, Almáciga, and Benijo.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roque+de+las+Bodegas+Tenerife"
+        },
+        {
+          "name": "Benijo viewpoint and coastal walk",
           "distance": "27-30 km, car",
-          "tip": "Most iconic scenic stop in Cyprus. Better for views and mythology than swimming.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
-        },
-        {
-          "name": "Akamas Peninsula",
-          "distance": "30-45 km, car or guided tour",
-          "tip": "Wild nature, viewpoints, walking trails. Road conditions vary. Best for adventurous guests.",
-          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+          "tip": "Sunset, wild coast, photography. One of the most dramatic scenic spots in Tenerife. Better for views and photos than easy swimming.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         }
       ]
     },

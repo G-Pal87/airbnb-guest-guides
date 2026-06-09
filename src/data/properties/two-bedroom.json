@@ -490,76 +490,106 @@
       "category": "Hiking & Nature Trails ⛰️",
       "items": [
         {
-          "name": "Paphos Coastal Walkway",
-          "distance": "Starts nearby, walk · Easy",
-          "tip": "Best no-car option. Walk from the Tombs of the Kings area toward Lighthouse Beach, the harbour, and Paphos Castle.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+          "name": "Valleseco coastal walk",
+          "distance": "1-2 km, walk or car",
+          "tip": "Easy | Closest sea walk, quick local stroll. Best no-hassle option from the house. More urban and local than wild nature, but useful for a quick sea view.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Lighthouse Beach Coastal Walk",
-          "distance": "2-2.5 km, walk · Easy",
-          "tip": "Practical from Avlida. Good for guests who want nature without a proper hike.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+          "name": "Rambla de Santa Cruz walk",
+          "distance": "2-3 km, bus, taxi, car, or long walk",
+          "tip": "Easy | City walk, shade, cafes. A relaxed urban walk, good when you don't feel like a proper hike.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Tombs of the Kings coastal loop",
-          "distance": "250m-1 km, walk · Easy",
-          "tip": "Combines ancient tombs, open landscape, and coastline. Not a formal trail, but a very nice loop.",
-          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+          "name": "Parque García Sanabria",
+          "distance": "3-4 km, bus, taxi, car, or long walk",
+          "tip": "Easy | Green walk, shade, sculptures. Best easy green walk inside Santa Cruz. Lovely in the morning or late afternoon.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Sea Caves coastal walk, Peyia",
-          "distance": "17-20 km, car · Easy-Moderate",
-          "tip": "Easy scenic outing. Combine with Edro III Shipwreck and Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
+          "name": "Palmetum of Santa Cruz",
+          "distance": "5.5-6.5 km, bus, taxi, or car",
+          "tip": "Easy | Botanical walk, sea views, plants. A very good scenic walk without leaving the city. A 12 hectare botanical garden focused on palm trees.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Avakas Gorge Nature Trail",
-          "distance": "25-30 km, car · Moderate",
-          "tip": "Best nature trail near Paphos. Follows Avgas River through limestone formations. Wear proper shoes. Avoid after heavy rain.",
-          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
+          "name": "Mirador de Las Teresitas viewpoint walk",
+          "distance": "8-9 km, car or taxi",
+          "tip": "Easy | Photos, beach panorama, short walk. Not a proper hike, but one of the easiest scenic viewpoints from the house. Combine with Las Teresitas or San Andrés.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Aphrodite's Rock coastal walk",
-          "distance": "27-30 km, car · Easy",
-          "tip": "Scenic stop, not a long hike. Good when driving toward Limassol or the airport.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+          "name": "La Laguna to Cruz del Carmen / Las Mercedes forest",
+          "distance": "18-25 km, car or bus",
+          "tip": "Easy to moderate | Forest, cooler air, local escape. Good option when you want greenery without driving deep into Anaga. Best on hot days or when the coast feels too exposed.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Las+Mercedes+Forest+Tenerife"
         },
         {
-          "name": "Lara Beach & Toxeftra coastal area",
-          "distance": "28-35 km, 4x4 or tour · Moderate",
-          "tip": "Beautiful but rough access. Wild coast and turtle nesting areas. Respect the environment.",
-          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
+          "name": "Bajamar to Punta del Hidalgo coastal walk",
+          "distance": "20-27 km, car or bus",
+          "tip": "Easy to moderate | Natural pools, ocean views, sunset. A great north coast walk with swimming pool stops. Better for coastal scenery than forest hiking.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bajamar+Punta+del+Hidalgo+coastal+walk+Tenerife"
         },
         {
-          "name": "Smigies Nature Trail, Neo Chorio",
-          "distance": "38-42 km, car · Moderate",
-          "tip": "Less demanding than Aphrodite or Adonis. Short route 2.5 km (1hr), long route 6 km (2hrs).",
-          "mapsUrl": "https://www.google.com/maps/search/Smigies+Nature+Trail+Cyprus"
+          "name": "Cruz del Carmen: Sendero de los Sentidos",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Easy | Laurel forest, families, short nature walk. One of the best beginner-friendly Anaga walks — a 1 km circular mostly flat trail, suitable for children and adults alike.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sendero+de+los+Sentidos+Cruz+del+Carmen+Tenerife"
         },
         {
-          "name": "Baths of Aphrodite short walk",
-          "distance": "40-45 km, car · Easy",
-          "tip": "Gentle nature stop, not a real hike. Best combined with Latchi or a Blue Lagoon boat trip.",
-          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+          "name": "Cruz del Carmen Visitor Centre forest walks",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Easy to moderate | Anaga forest, route advice, viewpoints. The best starting point for Anaga forest walks. Great for guests who want guidance before choosing a trail.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
         },
         {
-          "name": "Aphrodite Nature Trail, Akamas",
-          "distance": "40-45 km, car · Moderate-Hard",
-          "tip": "One of the most beautiful hikes in the region. Wide views over Polis, Latchi, and Akamas.",
-          "mapsUrl": "https://www.google.com/maps/search/Aphrodite+Nature+Trail+Akamas+Cyprus"
+          "name": "Taganana to Roque de las Bodegas coastal walk",
+          "distance": "24-28 km, car",
+          "tip": "Easy to moderate | Dramatic coast, village walk, lunch. More scenic walk than classic hike. Great with lunch near Roque de las Bodegas and photo stops toward Almáciga or Benijo.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+Tenerife"
         },
         {
-          "name": "Adonis Nature Trail, Akamas",
-          "distance": "40-45 km, car · Moderate-Hard",
-          "tip": "Views over Polis Chrysochous, Paphos Forest, and Akamas. Connects with Smigies and Aphrodite trails.",
-          "mapsUrl": "https://www.google.com/maps/search/Adonis+Nature+Trail+Akamas+Cyprus"
+          "name": "Pico del Inglés viewpoint and forest area",
+          "distance": "25-30 km, car",
+          "tip": "Easy to moderate | Anaga views, photos, misty forest. A great scenic stop in Anaga. Best combined with Cruz del Carmen and the laurel forest walks.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pico+del+Ingles+Tenerife"
         },
         {
-          "name": "Troodos Nature Trails",
-          "distance": "75-95 km, car · Easy-Hard",
-          "tip": "Best full-day hiking option in summer when the coast is too hot. Cooler forest trails and mountain scenery.",
-          "mapsUrl": "https://www.google.com/maps/search/Troodos+Nature+Trails+Cyprus"
+          "name": "El Pijaral 'Enchanted Forest', Anaga",
+          "distance": "25-32 km, car",
+          "tip": "Moderate | Magical laurel forest, mossy Anaga landscape. One of the most special forest hikes in Anaga — note that a permit is required. Book in advance through the official Tenerife permits system.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Pijaral+Anaga+Tenerife"
+        },
+        {
+          "name": "Benijo coastal viewpoint walk",
+          "distance": "27-30 km, car",
+          "tip": "Moderate | Sunset, wild coastline, photos. Excellent for dramatic coastal scenery. Steps and uneven paths, so better with proper shoes. Avoid risky swimming when the sea is rough.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
+        },
+        {
+          "name": "Afur to Playa de Tamadite",
+          "distance": "28-35 km, car",
+          "tip": "Moderate | Ravine walk, wild beach, adventure. A beautiful Anaga hike through a ravine to a remote beach. Swimming at Tamadite can be dangerous, so treat it as a hiking destination rather than a beach day.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afur+Playa+Tamadite+Tenerife"
+        },
+        {
+          "name": "PR TF 08 Afur to Taganana loop",
+          "distance": "28-35 km, car",
+          "tip": "Hard | Serious hikers, views, Anaga villages. A demanding trail with steep sections, descending to Tamadite before a steep climb toward Taganana. Not for the faint-hearted, but spectacular.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PR+TF+08+Afur+Taganana+Tenerife"
+        },
+        {
+          "name": "Roques de García loop, Teide",
+          "distance": "65-80 km, car or organised tour",
+          "tip": "Moderate | Volcanic rock formations, Teide views. One of the best accessible Teide walks. More manageable than hiking toward the summit and very scenic.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roques+de+Garcia+Trail+Tenerife"
+        },
+        {
+          "name": "Teide National Park short trails",
+          "distance": "60-75 km depending on route, car or organised tour",
+          "tip": "Easy to hard | Volcano landscapes, viewpoints, full day trip. The best full day hiking excursion on the island. Mount Teide is Spain's highest peak at 3,718 m and a UNESCO World Heritage Site.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+trails+Tenerife"
         }
       ]
     },

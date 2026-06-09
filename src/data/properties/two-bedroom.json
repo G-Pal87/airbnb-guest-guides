@@ -119,11 +119,6 @@
       "instructions": "Your living room has a small kitchen area with an electric stove, a small electric oven with grill function, and a high-performance blender. Please feel free to use them all, just be sure to clean them well afterwards (especially the blender). The house's electrical system is a little old, so it can't handle several high-power appliances running at once, for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let us know as soon as you can and we'll help sort it out. ⚠️ It's always summer in Tenerife, so the bugs and insects never sleep! We rarely have any problems, as long as you clear away all leftover food and pop it straight in the bin. We'd also recommend washing the dishes right after eating to keep flies and other insects from showing up later."
     },
     {
-      "name": "Air Conditioning",
-      "icon": "❄️",
-      "instructions": "The remote is on the bedside table. Press POWER, select COOL, and set to 22-24 degrees. Keep windows closed when running for best results. To turn it off, hold the power button down for a moment rather than just tapping it, and please switch off before heading out."
-    },
-    {
       "name": "Washing Machine",
       "icon": "🫧",
       "instructions": "Quick Wash works well for most loads. You'll find it in the kitchen."
@@ -134,9 +129,9 @@
       "instructions": "Water is heated by solar panels on the roof, so it's warm and eco-friendly! Give it 2-3 minutes to come through, that's just the water making its way down from the panels. On overcast or cloudy days the solar may not be enough: press the boiler button next to the bathroom door and wait 20-30 minutes per person before showering. ⚠️ Always switch the boiler off before stepping in."
     },
     {
-      "name": "Pool Access",
-      "icon": "🏊",
-      "instructions": "Your keychain includes the pool key. Please use the pool towels from the sun lounger basket rather than the bathroom ones. No glass or diving from the edge, and no pets in the pool please. Rubbish bins are in the parking area on your right as you walk out past the pool."
+      "name": "Terrace & BBQ",
+      "icon": "🔥",
+      "instructions": "Enjoy the terrace, it's a lovely spot to relax with a coffee or a glass of wine and soak up the views. There's also a BBQ for you to use! Please give it a good clean once it has cooled down after each use, and make sure it's fully out before you leave it. A few of the plants out here are ours to look after too, so a little water now and then is always appreciated."
     },
     {
       "name": "Bathroom",

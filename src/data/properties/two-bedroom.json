@@ -3,7 +3,7 @@
   "name": "Colorful 2-bedroom house",
   "subtitle": "Colorful house in the hills of Tenerife",
   "tagline": "Your cosy mountain retreat in Valleseco",
-  "heroImage": "/airbnb-guest-guides/images/two-bedroom/hero.jpg",
+  "heroImage": "/airbnb-guest-guides/images/colorful-2-bedroom-house/hero.jpg",
   "welcomeMessage": "Welcome to our colourful house in the hills of Tenerife! Nestled in the charming village of Valleseco, it is full of character and surrounded by nature. We hope you love it as much as we do. Reach out anytime if you need anything at all.",
   "host": {
     "name": "Giorgos",
@@ -57,39 +57,39 @@
     "publicTransport": "Take bus 909, 910, or 916 from Santa Cruz de Tenerife. Get off at Valleseco — it is a small village with just one stop. Find the Punto y Coma Minimarket and take the stairs on the left, about 20 metres after passing it. It is a 5-10 minute uphill walk to the house. ⚠️ Follow the photo guide for the last stretch as Google Maps is not fully accurate.",
     "directionPhotos": [
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-1-parking.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-1-parking.jpeg",
         "caption": "Recommended parking area — always space available"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-2-from-parking.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-2-from-parking.jpeg",
         "caption": "From the parking, walk in this direction until the street ends, then take the stairs down on the left"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-3-turn-right.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-3-turn-right.jpeg",
         "caption": "Go down to the next street and turn right — this is the street of the house"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-4-garden.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-4-garden.jpeg",
         "caption": "Walk straight and cross the garden with cacti and plants"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-5-between-houses.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-5-between-houses.jpeg",
         "caption": "Continue between the houses"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-6-continue.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-6-continue.jpeg",
         "caption": "Keep going straight..."
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-7-white-house.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-7-white-house.jpeg",
         "caption": "After about 1 minute, on the left you will see a white house with a blue door"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-8-house-view.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-8-house-view.jpeg",
         "caption": "It is the upper part of the house — take the stairs next to it to reach the entrance"
       },
       {
-        "src": "/airbnb-guest-guides/images/two-bedroom/photo-9-blue-door.jpeg",
+        "src": "/airbnb-guest-guides/images/colorful-2-bedroom-house/photo-9-blue-door.jpeg",
         "caption": "The blue door with the keybox next to it. Code: 1214"
       }
     ],

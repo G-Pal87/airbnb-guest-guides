@@ -1,27 +1,20 @@
 {
   "id": "beach-side-studio",
   "name": "Beach house style studio",
-  "subtitle": "Pool & 2 Terraces",
-  "tagline": "Your sun-drenched retreat awaits",
+  "subtitle": "Colorful house in the hills of Tenerife",
+  "tagline": "Your cosy mountain retreat in Valleseco",
   "heroImage": "/airbnb-guest-guides/images/beach-house-style-studio/hero.jpg",
-  "welcomeMessage": "Your vibrant, colourful home with pool and two terraces, all set for you. Relax, explore, and soak up the Mediterranean. We're just a message away.",
+  "welcomeMessage": "Welcome to our colourful house in the hills of Tenerife! Nestled in the charming village of Valleseco, it is full of character and surrounded by nature. We hope you love it as much as we do. Reach out anytime if you need anything at all.",
   "host": {
-    "name": "Giorgos",
-    "phone": "+357 940 495 35",
-    "whatsapp": "+420 731 139 854",
-    "email": "giorgos.koutoulo@gmail.com"
-  },
-  "cohost": {
     "name": "Rita",
-    "role": "Co-host",
     "phone": "+49 151 114 707 30",
     "whatsapp": "+49 151 114 707 30",
     "email": "katonarita90@gmail.com"
   },
   "address": {
-    "display": "Morphou 27, King's Park Complex, Paphos",
-    "googleMapsUrl": "https://www.google.com/maps?q=34.777728,32.408972",
-    "nearestLandmark": "Behind AVLIDA Hotel, Tombs of the Kings area"
+    "display": "Calle Manuel Ravina 69, Valleseco, Santa Cruz de Tenerife",
+    "googleMapsUrl": "https://goo.gl/maps/WT1nmL1gHQZAudzH7",
+    "nearestLandmark": "Near Punto y Coma Minimarket, Valleseco village"
   },
   "quickRef": {
     "checkoutTime": "11:00 AM",
@@ -29,82 +22,73 @@
     "checkinTime": "3:00 PM"
   },
   "wifi": {
-    "networkName": "Venus Beach Retreat",
+    "networkName": "WiFiCanarias_347C",
     "networkNames": [
-      "TP-Link_011F",
-      "Venus Beach Retreat"
+      "WiFiCanarias_347C",
+      "TP-LINK 347C"
     ],
-    "password": "77932303"
+    "password": "26419398"
   },
   "checkin": {
-    "keyLocation": "Two key boxes on the left wall, under Post Box 'D6'. Open the one on the right.",
-    "keyPhotoStart": 5,
-    "accessCode": "9907",
+    "keyLocation": "Look for the blue door on the upper part of the house — the keybox is right next to it.",
+    "keyPhotoStart": 7,
+    "accessCode": "1214",
     "steps": [
-      "Walk to the pool area at the back of the King's Park complex",
-      "Pass the pool and turn right along the pool's fence",
-      "Turn left at the first stone arch passage",
-      "Find the two key boxes on the left wall, under the Post Box labelled 'D7'",
-      "Open the key box on the right using code 9007",
-      "Go through the corridor. The apartment is the first door on the right (ground floor)",
-      "The entrance door is brown",
-      "Once inside, place the metallic key in the key plug next to the door to switch on the electricity (just like in hotels)",
-      "Return the key to the box when you check out and reset the code"
+      "Park at the recommended parking area (there is always space, and you avoid almost any stairs)",
+      "From the parking, walk toward the end of the street, then take the stairs down on the left side",
+      "At the next street below, turn right — this is the street of the house",
+      "Walk straight, cross the small garden with cacti and plants, and continue between the houses",
+      "After about 1 minute, on the left you will see a white house with a blue door",
+      "It is the upper part of the house — take the stairs next to the house to reach the entrance",
+      "Find the blue door with the keybox next to it. Code: 1214"
     ],
-    "notes": "If you have any trouble finding us, call or WhatsApp anytime, we're happy to guide you step by step."
+    "notes": "If you have any trouble finding us, call or WhatsApp anytime, we are happy to guide you step by step. Note: Google Maps is not 100% accurate for the last stretch, so follow the photo guide!"
   },
   "gettingHere": {
-    "byCar": "Follow the Google Maps link, it navigates directly inside the complex to the pool area. Park anywhere, then use the photo guide below to reach the apartment.",
-    "parking": "Free parking at the pool area, spaces freely available. Apartment entrance is a 1-min walk. Avoid parking under trees on windy days.",
-    "publicTransport": "From Paphos Airport, take Bus 612 (~35 min journey, depending on season and stops). From the stop you have two options: walk (~18 min, 1.3 km) or hop on Bus 615 for one stop to get a bit closer, then walk the rest (~4 min). On foot: head toward the AVLIDA Hotel, walk past it, turn right at the Esso gas station, and the King's Park complex entrance is just behind it. ⚠️ Buses only accept cash. €2.50 per ride per person.",
+    "byCar": "Park at the recommended spot (maps link below) — there are always spaces and you avoid almost any stairs. Then follow the walking directions in the photo guide. ⚠️ Google Maps is not 100% accurate for the last stretch, so please use the photo guide!",
+    "parking": "Recommended parking: https://maps.app.goo.gl/iZAoE6vizeim4x3K6 — spaces are always available, and it is a short flat walk to the house entrance.",
+    "publicTransport": "Take bus 909, 910, or 916 from Santa Cruz de Tenerife. Get off at Valleseco — it is a small village with just one stop. Find the Punto y Coma Minimarket and take the stairs on the left, about 20 metres after passing it. It is a 5-10 minute uphill walk to the house. ⚠️ Follow the photo guide for the last stretch as Google Maps is not fully accurate.",
     "directionPhotos": [
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/esso-gas-station.jpeg",
-        "caption": "Turn right at the Esso gas station (into Morphou street)"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-05_at_13.13.45.webp",
+        "caption": "Recommended parking area. There is always space and you avoid almost any stairs."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/morphou-street.jpeg",
-        "caption": "Go up around 50m to the big construction on the right"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_06.55.49.webp",
+        "caption": "From the parking, walk in this direction until the street ends, then take the stairs down on the left side."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/morphou-2.jpeg",
-        "caption": "Keep going, just a bit more..."
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.00.16.webp",
+        "caption": "Go down to the next street and turn right. This is the street of the house."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/construction.jpeg",
-        "caption": "At this construction, turn right into the narrow street"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.00.38.webp",
+        "caption": "Walk straight and cross the garden with cacti and other plants."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/pool-area.jpeg",
-        "caption": "Park here or continue on foot past the pool"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.03.webp",
+        "caption": "Continue between the houses..."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/narrow-street.jpeg",
-        "caption": "Follow the road to the back where the pool area is"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.33.webp",
+        "caption": "Keep going straight..."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/turn-left.jpeg",
-        "caption": "Turn left at the first stone arch passage"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.50.webp",
+        "caption": "After about 1 minute, on the left you will see a white house with a blue door."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/to-the-entrance.jpeg",
-        "caption": "Keep on going.."
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.03.24.webp",
+        "caption": "It is the upper part of the house. Take the stairs right next to the house to reach the entrance."
       },
       {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/KeyBoxes.jpeg",
-        "caption": "Two key boxes under Post Box 'D7'. Open the one on the right. Code: 9007"
-      },
-      {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Totheentrance.jpeg",
-        "caption": "After getting the keys, walk through the passage and turn right"
-      },
-      {
-        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Entrance.jpeg",
-        "caption": "The first apartment on the right hand side is yours 😊"
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-07_at_12.46.03.webp",
+        "caption": "The blue door with the keybox next to it. Code: 1214"
       }
     ],
-    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride.",
-    "directionPhotosStart": 4
+    "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running.",
+    "directionPhotosStart": 1,
+    "busStationUrl": "https://goo.gl/maps/q5DXMS7iLKb5cRy59"
   },
   "houseRules": [
     "Please keep smoking to the balconies and terraces only",
@@ -112,7 +96,6 @@
     "We love animals, but we're unable to accommodate pets. Sorry!",
     "Please use the bin next to the toilet instead of flushing paper, Cyprus plumbing really can't handle it",
     "Place the metallic key in the electricity plug by the door when you're inside, and take it with you when you leave",
-    "Close balcony and terrace doors and windows whenever the air conditioning is running, to keep things cool and save energy",
     "Please return the keys to the keybox and reset the code when you leave. If keys are lost or locked in, a locksmith call-out will be at your cost, so do take care of them!",
     "Please treat the apartment as your own, and let us know right away if anything gets damaged. We understand accidents happen"
   ],
@@ -125,17 +108,12 @@
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "Everything you need is here: electric stove, oven, coffee maker and grinder. Salt, pepper, olive oil, and coffee beans are all yours to use. One tip: please wash dishes promptly and keep the counters clear, warm weather can attract insects."
-    },
-    {
-      "name": "Air Conditioning",
-      "icon": "❄️",
-      "instructions": "The remote is on the bedside table. Press POWER, select COOL, and set to 22-24 degrees. Keep windows closed when running for best results. To turn it off, hold the power button down for a moment rather than just tapping it, and please switch off before heading out."
+      "instructions": "Your living room has a small kitchen area with an electric stove, a small electric oven with grill function, and a high-performance blender. Please feel free to use them all, just be sure to clean them well afterwards (especially the blender). The house's electrical system is a little old, so it can't handle several high-power appliances running at once, for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let us know as soon as you can and we'll help sort it out. ⚠️ It's always summer in Tenerife, so the bugs and insects never sleep! We rarely have any problems, as long as you clear away all leftover food and pop it straight in the bin. We'd also recommend washing the dishes right after eating to keep flies and other insects from showing up later."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "Quick Wash works well for most loads. You'll find it in the kitchen."
+      "instructions": "You'll find the washing machine in the kitchen, please feel free to use it. The fast programme called \"Rapido\" is usually all you need. If you have any questions, just let us know!"
     },
     {
       "name": "Shower & Hot Water",
@@ -143,24 +121,34 @@
       "instructions": "Water is heated by solar panels on the roof, so it's warm and eco-friendly! Give it 2-3 minutes to come through, that's just the water making its way down from the panels. On overcast or cloudy days the solar may not be enough: press the boiler button next to the bathroom door and wait 20-30 minutes per person before showering. ⚠️ Always switch the boiler off before stepping in."
     },
     {
-      "name": "Pool Access",
-      "icon": "🏊",
-      "instructions": "Your keychain includes the pool key. Please use the pool towels from the sun lounger basket rather than the bathroom ones. No glass or diving from the edge, and no pets in the pool please. Rubbish bins are in the parking area on your right as you walk out past the pool."
+      "name": "Drinking Water",
+      "icon": "💧",
+      "instructions": "Tap water in Tenerife is said to be safe and clean, though most people prefer bottled water, which you'll find at any supermarket or kiosk. The cheaper and more practical option is to grab a 5L, 8L or larger gallon."
     },
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "Towels, a hair dryer, and basic toiletries are all provided. Please use the bin next to the toilet rather than flushing paper, Cyprus plumbing really isn't built for it!"
+      "instructions": "You'll find fresh towels, a hair dryer, and soap and shampoo all ready for you. If anything else is missing, just let us know and we'll sort it out. ⚠️ The toilet flush can be a little temperamental now and then: if the water doesn't stop running, simply press the button one more time and it will settle."
     },
     {
-      "name": "Drinking Water",
-      "icon": "💧",
-      "instructions": "Tap water is safe to drink, though many guests prefer bottled. You'll find it at the nearby supermarkets."
+      "name": "The Magical Terrace",
+      "icon": "🌅",
+      "instructions": "This is the exact same terrace you saw in the photos! Because of Tenerife's wonderfully unpredictable micro climate (hello rain, wind and sunshine, sometimes all in one day! 🌧️💨☀️), we can't leave the pillows, covers and rugs outside, so you'll first find it looking a little bare with a covered BBQ. The good news: everything you need to make it cosy and beautiful is waiting for you, either in the beige closet on the terrace or inside the apartment. Feel free to set it up however you like and simply enjoy! 🏝️🪴"
+    },
+    {
+      "name": "BBQ",
+      "icon": "🔥",
+      "instructions": "Up on the terrace you'll find the BBQ, which runs on charcoal. We don't usually keep charcoal in the house unless previous guests have left some, but you can pick up everything you need at any supermarket or local mini market for a lovely grill afternoon or evening. 🙂 ⚠️ Please remember to give the BBQ a good clean after using it, and make sure it's fully out. Thank you so much! 🙏"
     },
     {
       "name": "Plants",
       "icon": "🌱",
       "instructions": "If you're staying a few days, the plants would love a little water every 3-4 days. They'll appreciate it!"
+    },
+    {
+      "name": "Mari, the Lovely Neighbour",
+      "icon": "🤗",
+      "instructions": "Our right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
     }
   ],
   "thingsToDo": [
@@ -168,88 +156,82 @@
       "category": "Beaches 🏝️",
       "items": [
         {
-          "name": "Venus Beach",
-          "distance": "1.0-1.3 km, walk or car",
-          "tip": "Closest useful beach. 15-20 min on foot. Quick swim, sunset, convenience.",
-          "mapsUrl": "https://www.google.com/maps/search/Venus+Beach+Paphos+Cyprus"
+          "name": "Playa de Valleseco / Los Charcos de Valleseco",
+          "distance": "1-2 km, walk or car",
+          "tip": "Closest swim, quick dip, local feel. Closest option — a small urban gravel beach with calm waters and easy access. Practical rather than pretty, but great for a quick dip.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Faros Beach",
-          "distance": "1.8-2.3 km, walk or car",
-          "tip": "25-35 min on foot or a short drive. Sunset, casual swim.",
-          "mapsUrl": "https://www.google.com/maps/search/Faros+Beach+Paphos+Cyprus"
+          "name": "Playa de Las Teresitas",
+          "distance": "7-8 km, car, bus, or taxi",
+          "tip": "Best easy beach day, families, swimming. Golden sand, full facilities, restaurants, and calm water protected by a breakwater. The safest top recommendation from this location.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Sandy Beach, Chloraka",
-          "distance": "3.5-4.5 km, car",
-          "tip": "Less touristy, local feel. Good for sunset. Better when the sea is calm.",
-          "mapsUrl": "https://www.google.com/maps/search/Sandy+Beach+Chloraka+Paphos"
+          "name": "Playa de Las Gaviotas",
+          "distance": "9-10 km, car or taxi",
+          "tip": "Black sand, quieter beach, hidden gem. A wilder black sand beach close to Las Teresitas. Good when you want something less polished and less crowded, but the sea can be rougher.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Gaviotas+Tenerife"
         },
         {
-          "name": "Municipal Baths, Kato Paphos",
-          "distance": "3.0-4.0 km, car",
-          "tip": "City swimming spot, not a sandy beach. Handy for a quick dip near the promenade.",
-          "mapsUrl": "https://www.google.com/maps/search/Municipal+Baths+Kato+Paphos"
+          "name": "Playa de Igueste de San Andrés",
+          "distance": "14-16 km, car",
+          "tip": "Quiet village, scenic coast, hidden gem. A beautiful local escape beyond San Andrés. Better for a scenic coastal visit than a classic sandy beach day.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Igueste+de+San+Andres+Tenerife"
         },
         {
-          "name": "Alykes Beach, Kato Paphos",
-          "distance": "3.5-4.5 km, car or bus",
-          "tip": "Organised beach with facilities, good for families. Easier by car or bus than on foot.",
-          "mapsUrl": "https://www.google.com/maps/search/Alykes+Beach+Kato+Paphos+Cyprus"
+          "name": "Playa de Antequera",
+          "distance": "Accessible by boat or long hike",
+          "tip": "Remote beach, adventure, wild nature. One of the true hidden gems of Anaga. Not practical for a casual visit, but absolutely amazing for adventurous guests.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Antequera+Tenerife"
         },
         {
-          "name": "Coral Bay Beach",
-          "distance": "11-12 km, car or bus",
-          "tip": "The safest best beach choice near Paphos. Sandy, organised, easy. Hard to go wrong.",
-          "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus"
+          "name": "Playa del Roque de las Bodegas",
+          "distance": "24-27 km, car",
+          "tip": "Scenic drive, surf, restaurants nearby. A great Anaga day trip stop — beautiful black sand and dramatic mountain scenery, with restaurants close by. Better for scenery and food than calm swimming.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+del+Roque+de+las+Bodegas+Tenerife"
         },
         {
-          "name": "Laourou / Corallia Beach",
-          "distance": "12-13 km, car or bus",
-          "tip": "My preferred alternative to Coral Bay. Similar convenience, usually calmer.",
-          "mapsUrl": "https://www.google.com/maps/search/Corallia+Beach+Paphos+Cyprus"
+          "name": "Playa de Almáciga",
+          "distance": "25-28 km, car",
+          "tip": "Wild black sand, surfers, nature. Beautiful and dramatic, but not the easiest swimming beach. Best for guests who love wild coastlines and don't expect sunbeds.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Almaciga+Tenerife"
         },
         {
-          "name": "Sea Caves, Peyia",
-          "distance": "17-19 km, car",
-          "tip": "Dramatic coastline. Better for scenery and sunset photos than a classic beach day.",
-          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
-        },
-        {
-          "name": "Agios Georgios Beach, Peyia",
-          "distance": "20-22 km, car",
-          "tip": "Small beach, good for snorkelling. Combine with Sea Caves and Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Beach+Peyia+Cyprus"
-        },
-        {
-          "name": "White River Beach / Toxeftra",
-          "distance": "23-26 km, car (higher clearance)",
-          "tip": "Raw and beautiful, wild coast. Better for exploring than sunbeds.",
-          "mapsUrl": "https://www.google.com/maps/search/Toxeftra+Beach+Cyprus"
-        },
-        {
-          "name": "Lara Beach / Lara Bay",
-          "distance": "28-32 km, 4x4 or guided tour",
-          "tip": "One of the most special beaches in the Paphos area. Turtle nesting site. Rough access, no facilities.",
-          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
-        },
-        {
-          "name": "Petra tou Romiou (Aphrodite's Rock)",
+          "name": "Playa de Benijo",
           "distance": "27-30 km, car",
-          "tip": "Legendary birthplace of Aphrodite. Beautiful scenery and photos, but rocky and not always ideal for swimming.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+          "tip": "Sunset, photography, wild Anaga scenery. One of the most beautiful beaches in Tenerife for photos and sunsets — wild, black sand, with strong ocean conditions. Check sea conditions before going.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         },
         {
-          "name": "Latchi Harbour (Blue Lagoon boat trips)",
-          "distance": "38-42 km, car then boat",
-          "tip": "Best starting point for Blue Lagoon without off-road driving. Boat trips depart from here.",
-          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus"
+          "name": "Bajamar Natural Pools",
+          "distance": "20-23 km, car or bus",
+          "tip": "Safe sea pools, families, wave watching. Not a beach but very worth it. Great when the north coast is dramatic and you want a safer ocean experience.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piscinas+Naturales+de+Bajamar+Tenerife"
         },
         {
-          "name": "Blue Lagoon, Akamas",
-          "distance": "38-42 km + boat",
-          "tip": "Most impressive water in the Paphos area. Not a drive-up beach. Take a boat from Latchi.",
-          "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus"
+          "name": "Punta del Hidalgo Natural Pools",
+          "distance": "24-27 km, car or bus",
+          "tip": "Natural pools, coastal walk, sunset. An excellent coastal day trip — more about swimming pools, lava coast, and stunning views than sand.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+natural+pools+Tenerife"
+        },
+        {
+          "name": "Playa de Mesa del Mar",
+          "distance": "28-32 km, car",
+          "tip": "Black sand, local beach, north coast vibe. A nice alternative on the north coast, good for guests exploring Tacoronte or the wine area.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Mesa+del+Mar+Tenerife"
+        },
+        {
+          "name": "Playa de El Bollullo",
+          "distance": "38-45 km, car then short walk",
+          "tip": "Beautiful black sand, north coast classic. One of the prettiest black sand beaches in northern Tenerife. Worth it if you are already visiting La Orotava or Puerto de la Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+El+Bollullo+Tenerife"
+        },
+        {
+          "name": "Playa Jardín, Puerto de la Cruz",
+          "distance": "40-45 km, car or bus",
+          "tip": "Puerto de la Cruz day trip. Normally famous and scenic, but water quality closures have affected Playa Jardín since 2024. Check current bathing status before going.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+Jardin+Puerto+de+la+Cruz+Tenerife"
         }
       ]
     },
@@ -257,70 +239,100 @@
       "category": "Historical Sites & Scenic Walks 🏰",
       "items": [
         {
-          "name": "Tombs of the Kings",
-          "distance": "250m-1km, walk",
-          "tip": "Closest and most important historical site. Rock-cut tombs from the Hellenistic and Roman periods, part of the UNESCO listed Paphos archaeological area.",
-          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+          "name": "Playa de Valleseco coastal walk",
+          "distance": "1-2 km, walk or car",
+          "tip": "Closest sea walk, local feel, quick stroll. The easiest coastal walk from the house. Practical rather than polished, but very local and good for a quick sea view.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Coastal Walkway",
-          "distance": "Starts nearby, walk",
-          "tip": "Walk along the coastline toward Lighthouse Beach, the harbour, and Paphos Castle. Easy and scenic, especially at sunset.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+          "name": "Rambla de Santa Cruz",
+          "distance": "2-3 km, car, taxi, bus, or long walk",
+          "tip": "City walk, trees, cafes, local life. A pleasant urban walk through one of the main green boulevards of Santa Cruz. Lovely for a relaxed morning or late afternoon.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Lighthouse Beach & Lighthouse",
-          "distance": "2.0-2.5 km, walk or car",
-          "tip": "Relaxed halfway point between Avlida and the harbour. Good for a scenic walk with a beach stop.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+          "name": "Parque García Sanabria",
+          "distance": "3-4 km, car, taxi, bus, or long walk",
+          "tip": "Shaded walk, plants, fountains, sculptures. One of the best easy scenic walks in the city, perfect when you want greenery without leaving Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Old Town Paphos & Kennedy Square",
-          "distance": "2-3 km, car or bus",
-          "tip": "Good for cafes, local streets, small shops, and a more authentic Paphos feel. Best visited late afternoon.",
-          "mapsUrl": "https://www.google.com/maps/search/Kennedy+Square+Paphos+Cyprus"
+          "name": "Plaza de España & Castillo de San Cristóbal",
+          "distance": "3.5-4.5 km, car, taxi, bus, or walk",
+          "tip": "City history, central square, easy sightseeing. A great starting point for exploring central Santa Cruz. The underground interpretation centre preserves remains of the old castle, capital of Tenerife since 1833.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Santa+Cruz+de+Tenerife+Castillo+de+San+Cristobal"
         },
         {
-          "name": "Kato Paphos Archaeological Park",
-          "distance": "3-4 km, car or bus",
-          "tip": "Top cultural site in Cyprus. Roman mosaics considered among the finest in the eastern Mediterranean, UNESCO listed.",
-          "mapsUrl": "https://www.google.com/maps/search/Kato+Paphos+Archaeological+Park+Cyprus"
+          "name": "Iglesia de Nuestra Señora de la Concepción & La Noria",
+          "distance": "4-5 km, car, taxi, bus, or walk",
+          "tip": "Old streets, church, bars, local evening walk. Lovely for a historical city stroll. The church and nearby La Noria streets are among the most atmospheric parts of old Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+Nuestra+Senora+de+la+Concepcion+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Harbour & Castle",
-          "distance": "3.5-4 km, car or scenic walk",
-          "tip": "Easy evening plan. Byzantine fort rebuilt by the Lusignans, then Venetians, then Ottomans in the 16th century.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Castle+Harbour+Cyprus"
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Local market, food, architecture, morning walk. Not a classic monument, but a great cultural stop. Best in the morning for local produce, snacks, and atmosphere.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Agios Neophytos Monastery",
-          "distance": "10-12 km, car",
-          "tip": "Beautiful half-day stop. Founded in the 12th century by Saint Neophytos in a secluded valley north of Paphos.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Neophytos+Monastery+Paphos+Cyprus"
+          "name": "Auditorio de Tenerife",
+          "distance": "5-6 km, car, taxi, or bus",
+          "tip": "Modern architecture, photos, sea walk. One of Santa Cruz's most iconic modern landmarks, designed by Santiago Calatrava. Stunning for photos along the seafront.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorio+de+Tenerife+Santa+Cruz"
         },
         {
-          "name": "Sea Caves & Edro III Shipwreck",
-          "distance": "17-20 km, car",
-          "tip": "Scenic coast, great for photos and sunset. Combine with Oniro by the Sea and Agios Georgios.",
-          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+          "name": "Palmetum of Santa Cruz",
+          "distance": "5.5-6.5 km, car, taxi, or bus",
+          "tip": "Botanical walk, sea views, unusual garden. A very good scenic walk inside the city. A 12 hectare botanical garden specialising in palm trees.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Agios Georgios Archaeological Site",
-          "distance": "20-22 km, car",
-          "tip": "Quiet ruins with sea views, off the tourist trail. Good if already heading toward Sea Caves or Lara.",
-          "mapsUrl": "https://www.google.com/maps/search/Agios+Georgios+Archaeological+Site+Peyia+Cyprus"
+          "name": "San Andrés village",
+          "distance": "6-7 km, car, bus, or taxi",
+          "tip": "Village feel, seafood, Las Teresitas combo. Small, simple, and local. Great to combine with Las Teresitas beach or a drive into Anaga.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife"
         },
         {
-          "name": "Petra tou Romiou (Aphrodite's Rock)",
+          "name": "Mirador de Las Teresitas",
+          "distance": "8-9 km, car or taxi",
+          "tip": "Best beach viewpoint, photos, scenic stop. One of the easiest 'wow view' stops from the house. Best combined with Las Teresitas or San Andrés.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
+        },
+        {
+          "name": "San Cristóbal de La Laguna Historic Centre",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "UNESCO town, colonial streets, architecture. One of the best cultural excursions from Santa Cruz. La Laguna's historic centre has been a UNESCO World Heritage Site since 1999.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Cristobal+de+La+Laguna+Historic+Centre+Tenerife"
+        },
+        {
+          "name": "Anaga Rural Park scenic drive",
+          "distance": "20-35 km depending on stop, car or tour",
+          "tip": "Mountains, laurel forest, viewpoints, villages. The best nature and scenery excursion from this location. Anaga is a protected rural park and, since 2015, a UNESCO Biosphere Reserve.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
+        },
+        {
+          "name": "Cruz del Carmen Visitor Centre, Anaga",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Forest walks, Anaga information, viewpoints. The best starting point for Anaga forest walks, with information and advice for routes in the Rural Park.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
+        },
+        {
+          "name": "Taganana village",
+          "distance": "22-26 km, car",
+          "tip": "Historic village, Anaga scenery, mountain road. A beautiful old village in Anaga with dramatic landscapes. Great for a scenic drive plus a more traditional feel.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Tenerife"
+        },
+        {
+          "name": "Roque de las Bodegas scenic coast",
+          "distance": "24-27 km, car",
+          "tip": "Ocean views, black sand, seafood lunch. More scenic than historical, but excellent for an Anaga day trip. Combine with Taganana, Almáciga, and Benijo.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roque+de+las+Bodegas+Tenerife"
+        },
+        {
+          "name": "Benijo viewpoint and coastal walk",
           "distance": "27-30 km, car",
-          "tip": "Most iconic scenic stop in Cyprus. Better for views and mythology than swimming.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
-        },
-        {
-          "name": "Akamas Peninsula",
-          "distance": "30-45 km, car or guided tour",
-          "tip": "Wild nature, viewpoints, walking trails. Road conditions vary. Best for adventurous guests.",
-          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+          "tip": "Sunset, wild coast, photography. One of the most dramatic scenic spots in Tenerife. Better for views and photos than easy swimming.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         }
       ]
     },
@@ -328,112 +340,142 @@
       "category": "Attractions & Excursions 📸",
       "items": [
         {
-          "name": "Kings Avenue Mall",
-          "distance": "1.5-2 km, walk or bus",
-          "tip": "Shopping, food court, cinema. Practical for an indoor break on hot or very windy days.",
-          "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
+          "name": "Playa de Valleseco / Los Charcos de Valleseco",
+          "distance": "1-2 km, walk or car",
+          "tip": "Closest sea spot, quick dip, local feel. Very close and practical. More local than postcard beautiful, but useful for a quick ocean stop.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Harbour",
-          "distance": "3.5-4 km, car or scenic walk",
-          "tip": "One of the easiest evening plans from Avlida. Dinner, drinks, and a relaxed walk by the sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+Cyprus"
+          "name": "Rambla de Santa Cruz",
+          "distance": "2-3 km, bus, taxi, car, or long walk",
+          "tip": "Urban walk, cafes, local life. A pleasant city walk, good if you want something easy without leaving Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Aphrodite Waterpark",
-          "distance": "6-7 km, car or taxi",
-          "tip": "Best family attraction nearby. Easy half-day or full-day option on hot days.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Aphrodite+Waterpark+Cyprus"
+          "name": "Parque García Sanabria",
+          "distance": "3-4 km, bus, taxi, car, or long walk",
+          "tip": "Green walk, shade, fountains, sculptures. One of the nicest easy walks in Santa Cruz, especially when the weather is warm.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Coral Bay & Corallia Beach",
-          "distance": "11-13 km, car or bus",
-          "tip": "Easiest classic beach excursion. Sand, sunbeds, and facilities. Hard to go wrong.",
-          "mapsUrl": "https://www.google.com/maps/search/Coral+Bay+Beach+Paphos+Cyprus"
+          "name": "Plaza de España & city centre",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "City sightseeing, shopping, cafes. A good starting point for a Santa Cruz city walk. Easy to combine with the old streets, harbour area, and the Mercado.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Horse Riding",
-          "distance": "10-25 km, car",
-          "tip": "Nice alternative to beach and history. Book in advance, especially in high season.",
-          "mapsUrl": "https://www.google.com/maps/search/horse+riding+Paphos+Cyprus"
+          "name": "Castillo de San Cristóbal Interpretation Centre",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "Short history stop, city centre. Small but interesting if you are already visiting Plaza de España. Best as a quick add-on rather than a standalone trip.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castillo+de+San+Cristobal+Interpretation+Centre+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Adonis Baths Waterfalls",
-          "distance": "15-18 km, car",
-          "tip": "Popular excursion, road can be rough. Better for adventurous guests than polished sightseeing.",
-          "mapsUrl": "https://www.google.com/maps/search/Adonis+Baths+Waterfalls+Cyprus"
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, bus, taxi, or car",
+          "tip": "Local food, market, morning visit. A great cultural food stop. Best in the morning for fruit, coffee, local products, and atmosphere.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Sea Caves & Edro III Shipwreck",
-          "distance": "17-20 km, car",
-          "tip": "Easy scenic excursion. Great for photos and sunset. Combine with Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Edro+III+Shipwreck+Paphos+Cyprus"
+          "name": "Auditorio de Tenerife",
+          "distance": "5-6 km, bus, taxi, or car",
+          "tip": "Architecture, photos, sea walk. One of Santa Cruz's most iconic modern landmarks, designed by Santiago Calatrava. Good to combine with the Palmetum and waterfront.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorio+de+Tenerife+Santa+Cruz"
         },
         {
-          "name": "Paphos Zoo",
-          "distance": "18-20 km, car or taxi",
-          "tip": "Good family option near Coral Bay. Easy to combine with Sea Caves or a beach day.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Zoo+Cyprus"
+          "name": "Palmetum of Santa Cruz",
+          "distance": "5.5-6.5 km, bus, taxi, or car",
+          "tip": "Botanical garden, sea views, relaxed walk. A 12 hectare botanical garden specialising in palm trees, one of the best quiet attractions inside Santa Cruz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Avakas Gorge",
-          "distance": "25-30 km, car then walk",
-          "tip": "One of the best nature walks in the region. Wear proper shoes. Avoid after heavy rain or extreme heat.",
-          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
+          "name": "San Andrés village",
+          "distance": "6-7 km, bus, taxi, or car",
+          "tip": "Seafood, village feel, Las Teresitas combo. A small local village, best combined with Las Teresitas beach and the Mirador.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife"
         },
         {
-          "name": "Wine Villages around Kathikas",
-          "distance": "22-28 km, car or tour",
-          "tip": "Great for adults wanting a local experience. Better with a tour if everyone is tasting.",
-          "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+Paphos+Cyprus"
+          "name": "Playa de Las Teresitas",
+          "distance": "7-8 km, bus, taxi, or car",
+          "tip": "Easy beach day, families, swimming. The easiest beach excursion from this location. Golden sand, calm water, facilities, and restaurants nearby.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Akamas Jeep Safari",
-          "distance": "30-45 km, 4x4 or buggy tour",
-          "tip": "Best for guests who want wild nature without driving difficult roads themselves. One of the best preserved areas in Cyprus.",
-          "mapsUrl": "https://www.google.com/maps/search/Akamas+Peninsula+Cyprus"
+          "name": "Mirador de Las Teresitas",
+          "distance": "8-9 km, car or taxi",
+          "tip": "Viewpoint, photos, beach panorama. One of the easiest wow views from the house. Best before or after Las Teresitas.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Polis & Latchi",
-          "distance": "35-42 km, car",
-          "tip": "Calmer, more local side of Cyprus. Good for lunch, a coastal walk, and Blue Lagoon boat departures.",
-          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+Cyprus"
+          "name": "San Cristóbal de La Laguna Historic Centre",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "UNESCO town, cafes, architecture. One of the best cultural excursions from Santa Cruz. Great for a half day trip with lunch or coffee.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Cristobal+de+La+Laguna+Historic+Centre+Tenerife"
         },
         {
-          "name": "Blue Lagoon Boat Trip from Latchi",
-          "distance": "38-42 km + boat, car or tour",
-          "tip": "One of the best full-day excursions from Paphos. Many tours combine with Akamas and Baths of Aphrodite.",
-          "mapsUrl": "https://www.google.com/maps/search/Blue+Lagoon+Akamas+Cyprus"
+          "name": "Bajamar Natural Pools",
+          "distance": "20-23 km, car or bus",
+          "tip": "Ocean pools, families, wave watching. A great alternative to beach swimming, especially when you want ocean water in a more protected spot.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piscinas+Naturales+de+Bajamar+Tenerife"
         },
         {
-          "name": "Baths of Aphrodite",
-          "distance": "40-45 km, car or tour",
-          "tip": "Small site, but beautiful surroundings. Best combined with Latchi, Blue Lagoon, and Polis.",
-          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+          "name": "Anaga Rural Park scenic drive",
+          "distance": "20-35 km depending on stop, car or tour",
+          "tip": "Mountains, viewpoints, villages, laurel forest. The best nature excursion from this location. Anaga is a protected rural park and a UNESCO Biosphere Reserve.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
         },
         {
-          "name": "Omodos Village",
-          "distance": "60-70 km, car or tour",
-          "tip": "One of the prettiest village excursions from Paphos. Works well as part of a Troodos or wine route day.",
-          "mapsUrl": "https://www.google.com/maps/search/Omodos+Village+Cyprus"
+          "name": "Taganana, Roque de las Bodegas & Benijo",
+          "distance": "22-30 km, car",
+          "tip": "Dramatic coast, villages, lunch, photos. One of the best day trips from Santa Cruz: mountain roads, black sand beaches, ocean views, and traditional food.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+Benijo+Tenerife"
         },
         {
-          "name": "Kourion Archaeological Site",
-          "distance": "55-65 km, car",
-          "tip": "Excellent day trip toward Limassol. Ancient theatre with sea views is the highlight.",
-          "mapsUrl": "https://www.google.com/maps/search/Kourion+Archaeological+Site+Cyprus"
+          "name": "Cruz del Carmen Visitor Centre",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Forest walks, viewpoints, Anaga info. The best starting point for easy Anaga forest walks and route advice.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
         },
         {
-          "name": "Limassol Marina & Old Town",
-          "distance": "70-75 km, car",
-          "tip": "More urban and polished than Paphos. Best combined with Kourion or Omodos.",
-          "mapsUrl": "https://www.google.com/maps/search/Limassol+Marina+Cyprus"
+          "name": "Punta del Hidalgo",
+          "distance": "24-27 km, car or bus",
+          "tip": "Coastal walk, natural pools, sunset. Very good for a relaxed north coast excursion. Combine with Bajamar or La Laguna.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+Tenerife"
         },
         {
-          "name": "Troodos Mountains & Villages",
-          "distance": "70-90 km, car or tour",
-          "tip": "Best full-day escape from the coast. Villages, monasteries, wine routes, and cooler air.",
-          "mapsUrl": "https://www.google.com/maps/search/Troodos+Mountains+Cyprus"
+          "name": "Loro Parque, Puerto de la Cruz",
+          "distance": "38-45 km, car or bus",
+          "tip": "Families, full day attraction. One of Tenerife's biggest tourist attractions. Best for families or guests who enjoy animal parks.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loro+Parque+Puerto+de+la+Cruz+Tenerife"
+        },
+        {
+          "name": "Puerto de la Cruz & Lago Martiánez",
+          "distance": "38-45 km, car or bus",
+          "tip": "City day trip, sea pools, restaurants. A classic north Tenerife day trip. Lago Martiánez is a seawater pool complex designed by César Manrique.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago+Martianez+Puerto+de+la+Cruz+Tenerife"
+        },
+        {
+          "name": "La Orotava Historic Centre",
+          "distance": "40-45 km, car or bus",
+          "tip": "Traditional architecture, old town, views. A beautiful historic town, good to combine with Puerto de la Cruz or El Bollullo beach.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+Historic+Centre+Tenerife"
+        },
+        {
+          "name": "Teide National Park",
+          "distance": "60-75 km depending on route, car or organised tour",
+          "tip": "Volcano landscapes, viewpoints, full day trip. The biggest must-do excursion in Tenerife. Includes Mount Teide, Spain's highest peak at 3,718 m, and a UNESCO World Heritage Site.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+Tenerife"
+        },
+        {
+          "name": "Masca Village",
+          "distance": "70-85 km, car or organised tour",
+          "tip": "Mountain village, dramatic road, photos. Beautiful but a long drive from Santa Cruz. Best for a full island day trip, ideally with Teide or the Buenavista area.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masca+Village+Tenerife"
+        },
+        {
+          "name": "Siam Park, Costa Adeje",
+          "distance": "80-90 km, car or organised transfer",
+          "tip": "Waterpark, families, thrill rides. Far from this location, but one of Tenerife's most famous attractions. Better as a full day plan, with a typical visit of around 4-6 hours.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam+Park+Tenerife"
         }
       ]
     },
@@ -441,76 +483,106 @@
       "category": "Hiking & Nature Trails ⛰️",
       "items": [
         {
-          "name": "Paphos Coastal Walkway",
-          "distance": "Starts nearby, walk · Easy",
-          "tip": "Best no-car option. Walk from the Tombs of the Kings area toward Lighthouse Beach, the harbour, and Paphos Castle.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Coastal+Walkway+Cyprus"
+          "name": "Valleseco coastal walk",
+          "distance": "1-2 km, walk or car",
+          "tip": "Easy | Closest sea walk, quick local stroll. Best no-hassle option from the house. More urban and local than wild nature, but useful for a quick sea view.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Lighthouse Beach Coastal Walk",
-          "distance": "2-2.5 km, walk · Easy",
-          "tip": "Practical from Avlida. Good for guests who want nature without a proper hike.",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Lighthouse+Beach+Cyprus"
+          "name": "Rambla de Santa Cruz walk",
+          "distance": "2-3 km, bus, taxi, car, or long walk",
+          "tip": "Easy | City walk, shade, cafes. A relaxed urban walk, good when you don't feel like a proper hike.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Tombs of the Kings coastal loop",
-          "distance": "250m-1 km, walk · Easy",
-          "tip": "Combines ancient tombs, open landscape, and coastline. Not a formal trail, but a very nice loop.",
-          "mapsUrl": "https://www.google.com/maps/search/Tombs+of+the+Kings+Paphos+Cyprus"
+          "name": "Parque García Sanabria",
+          "distance": "3-4 km, bus, taxi, car, or long walk",
+          "tip": "Easy | Green walk, shade, sculptures. Best easy green walk inside Santa Cruz. Lovely in the morning or late afternoon.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Sea Caves coastal walk, Peyia",
-          "distance": "17-20 km, car · Easy-Moderate",
-          "tip": "Easy scenic outing. Combine with Edro III Shipwreck and Oniro by the Sea.",
-          "mapsUrl": "https://www.google.com/maps/search/Sea+Caves+Peyia+Cyprus"
+          "name": "Palmetum of Santa Cruz",
+          "distance": "5.5-6.5 km, bus, taxi, or car",
+          "tip": "Easy | Botanical walk, sea views, plants. A very good scenic walk without leaving the city. A 12 hectare botanical garden focused on palm trees.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Avakas Gorge Nature Trail",
-          "distance": "25-30 km, car · Moderate",
-          "tip": "Best nature trail near Paphos. Follows Avgas River through limestone formations. Wear proper shoes. Avoid after heavy rain.",
-          "mapsUrl": "https://www.google.com/maps/search/Avakas+Gorge+Cyprus"
+          "name": "Mirador de Las Teresitas viewpoint walk",
+          "distance": "8-9 km, car or taxi",
+          "tip": "Easy | Photos, beach panorama, short walk. Not a proper hike, but one of the easiest scenic viewpoints from the house. Combine with Las Teresitas or San Andrés.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Aphrodite's Rock coastal walk",
-          "distance": "27-30 km, car · Easy",
-          "tip": "Scenic stop, not a long hike. Good when driving toward Limassol or the airport.",
-          "mapsUrl": "https://www.google.com/maps/search/Petra+tou+Romiou+Cyprus"
+          "name": "La Laguna to Cruz del Carmen / Las Mercedes forest",
+          "distance": "18-25 km, car or bus",
+          "tip": "Easy to moderate | Forest, cooler air, local escape. Good option when you want greenery without driving deep into Anaga. Best on hot days or when the coast feels too exposed.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Las+Mercedes+Forest+Tenerife"
         },
         {
-          "name": "Lara Beach & Toxeftra coastal area",
-          "distance": "28-35 km, 4x4 or tour · Moderate",
-          "tip": "Beautiful but rough access. Wild coast and turtle nesting areas. Respect the environment.",
-          "mapsUrl": "https://www.google.com/maps/search/Lara+Beach+Cyprus"
+          "name": "Bajamar to Punta del Hidalgo coastal walk",
+          "distance": "20-27 km, car or bus",
+          "tip": "Easy to moderate | Natural pools, ocean views, sunset. A great north coast walk with swimming pool stops. Better for coastal scenery than forest hiking.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bajamar+Punta+del+Hidalgo+coastal+walk+Tenerife"
         },
         {
-          "name": "Smigies Nature Trail, Neo Chorio",
-          "distance": "38-42 km, car · Moderate",
-          "tip": "Less demanding than Aphrodite or Adonis. Short route 2.5 km (1hr), long route 6 km (2hrs).",
-          "mapsUrl": "https://www.google.com/maps/search/Smigies+Nature+Trail+Cyprus"
+          "name": "Cruz del Carmen: Sendero de los Sentidos",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Easy | Laurel forest, families, short nature walk. One of the best beginner-friendly Anaga walks — a 1 km circular mostly flat trail, suitable for children and adults alike.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sendero+de+los+Sentidos+Cruz+del+Carmen+Tenerife"
         },
         {
-          "name": "Baths of Aphrodite short walk",
-          "distance": "40-45 km, car · Easy",
-          "tip": "Gentle nature stop, not a real hike. Best combined with Latchi or a Blue Lagoon boat trip.",
-          "mapsUrl": "https://www.google.com/maps/search/Baths+of+Aphrodite+Cyprus"
+          "name": "Cruz del Carmen Visitor Centre forest walks",
+          "distance": "22-28 km, car or organised tour",
+          "tip": "Easy to moderate | Anaga forest, route advice, viewpoints. The best starting point for Anaga forest walks. Great for guests who want guidance before choosing a trail.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
         },
         {
-          "name": "Aphrodite Nature Trail, Akamas",
-          "distance": "40-45 km, car · Moderate-Hard",
-          "tip": "One of the most beautiful hikes in the region. Wide views over Polis, Latchi, and Akamas.",
-          "mapsUrl": "https://www.google.com/maps/search/Aphrodite+Nature+Trail+Akamas+Cyprus"
+          "name": "Taganana to Roque de las Bodegas coastal walk",
+          "distance": "24-28 km, car",
+          "tip": "Easy to moderate | Dramatic coast, village walk, lunch. More scenic walk than classic hike. Great with lunch near Roque de las Bodegas and photo stops toward Almáciga or Benijo.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+Tenerife"
         },
         {
-          "name": "Adonis Nature Trail, Akamas",
-          "distance": "40-45 km, car · Moderate-Hard",
-          "tip": "Views over Polis Chrysochous, Paphos Forest, and Akamas. Connects with Smigies and Aphrodite trails.",
-          "mapsUrl": "https://www.google.com/maps/search/Adonis+Nature+Trail+Akamas+Cyprus"
+          "name": "Pico del Inglés viewpoint and forest area",
+          "distance": "25-30 km, car",
+          "tip": "Easy to moderate | Anaga views, photos, misty forest. A great scenic stop in Anaga. Best combined with Cruz del Carmen and the laurel forest walks.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pico+del+Ingles+Tenerife"
         },
         {
-          "name": "Troodos Nature Trails",
-          "distance": "75-95 km, car · Easy-Hard",
-          "tip": "Best full-day hiking option in summer when the coast is too hot. Cooler forest trails and mountain scenery.",
-          "mapsUrl": "https://www.google.com/maps/search/Troodos+Nature+Trails+Cyprus"
+          "name": "El Pijaral 'Enchanted Forest', Anaga",
+          "distance": "25-32 km, car",
+          "tip": "Moderate | Magical laurel forest, mossy Anaga landscape. One of the most special forest hikes in Anaga — note that a permit is required. Book in advance through the official Tenerife permits system.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Pijaral+Anaga+Tenerife"
+        },
+        {
+          "name": "Benijo coastal viewpoint walk",
+          "distance": "27-30 km, car",
+          "tip": "Moderate | Sunset, wild coastline, photos. Excellent for dramatic coastal scenery. Steps and uneven paths, so better with proper shoes. Avoid risky swimming when the sea is rough.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
+        },
+        {
+          "name": "Afur to Playa de Tamadite",
+          "distance": "28-35 km, car",
+          "tip": "Moderate | Ravine walk, wild beach, adventure. A beautiful Anaga hike through a ravine to a remote beach. Swimming at Tamadite can be dangerous, so treat it as a hiking destination rather than a beach day.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afur+Playa+Tamadite+Tenerife"
+        },
+        {
+          "name": "PR TF 08 Afur to Taganana loop",
+          "distance": "28-35 km, car",
+          "tip": "Hard | Serious hikers, views, Anaga villages. A demanding trail with steep sections, descending to Tamadite before a steep climb toward Taganana. Not for the faint-hearted, but spectacular.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PR+TF+08+Afur+Taganana+Tenerife"
+        },
+        {
+          "name": "Roques de García loop, Teide",
+          "distance": "65-80 km, car or organised tour",
+          "tip": "Moderate | Volcanic rock formations, Teide views. One of the best accessible Teide walks. More manageable than hiking toward the summit and very scenic.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roques+de+Garcia+Trail+Tenerife"
+        },
+        {
+          "name": "Teide National Park short trails",
+          "distance": "60-75 km depending on route, car or organised tour",
+          "tip": "Easy to hard | Volcano landscapes, viewpoints, full day trip. The best full day hiking excursion on the island. Mount Teide is Spain's highest peak at 3,718 m and a UNESCO World Heritage Site.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+trails+Tenerife"
         }
       ]
     },
@@ -518,168 +590,148 @@
       "category": "Eat & Drink",
       "items": [
         {
-          "name": "Karlina Restaurant",
-          "distance": "300-500m, walk",
-          "tip": "Easiest no-car dinner option near Avlida. Ranked among the top restaurants near Tombs of the Kings.",
-          "type": "Greek / Mediterranean",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Karlina+Restaurant+Paphos+Cyprus"
-        },
-        {
-          "name": "Dias Zeus Greek Restaurant",
-          "distance": "500-800m, walk",
-          "tip": "Reliable nearby option on Tombs of the Kings Avenue. Greek and Mediterranean with strong guest ratings.",
-          "type": "Greek / Meze",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Dias+Zeus+Restaurant+Paphos+Cyprus"
-        },
-        {
-          "name": "Tea for Two",
-          "distance": "700m-1km, walk",
-          "tip": "Good for an easy breakfast or lunch close to home. Friendly service and great value.",
-          "type": "Café / Brunch",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/Tea+for+Two+Tombs+of+the+Kings+Paphos"
-        },
-        {
-          "name": "Psarou Fish Tavern",
-          "distance": "Near Tombs of the Kings",
-          "tip": "Cozy tavern known for fresh fish, traditional meze, and a friendly local vibe.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/fTLfXHaodxiNTSBn8"
-        },
-        {
-          "name": "Kingfisher Taverna",
-          "distance": "Near Tombs of the Kings",
-          "tip": "Small, relaxed taverna serving high-quality fish dishes and local favourites in a more upscale setting.",
-          "type": "Seafood",
-          "priceRange": "€€€",
-          "mapsUrl": "https://maps.app.goo.gl/Au7TVerkHzFipkJPA"
-        },
-        {
-          "name": "Three Little Pigs",
-          "distance": "Walking distance",
-          "tip": "Local favourite with high-quality food, great service, and a lovely atmosphere. Their house wine is a treat!",
-          "type": "Cypriot",
-          "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/dsi6B8b2kJ6L7o3q8"
-        },
-        {
-          "name": "Kings Avenue Mall Food Court",
-          "distance": "1.5-2km, walk or bus",
-          "tip": "Not special, but very practical. Good for families, quick food, coffee, or escaping the heat.",
-          "type": "Food Court",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/Kings+Avenue+Mall+Paphos+Cyprus"
-        },
-        {
-          "name": "Old Town Paphos cafés",
-          "distance": "2-3km, car or bus",
-          "tip": "More local feeling than the harbour. Nice for brunch, coffee, or early evening drinks.",
+          "name": "Local cafés and small bars in Valleseco",
+          "distance": "0-1 km, walk",
+          "tip": "Quick coffee, simple local food, closest option. Best for convenience rather than destination dining. Handy when you want something very close.",
           "type": "Café / Local",
-          "mapsUrl": "https://www.google.com/maps/search/Old+Town+Paphos+cafes+Cyprus"
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=restaurants+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Pallia Ilektriki",
-          "distance": "2.5-3km, car or bus",
-          "tip": "A good Old Town option. Ranked among popular places near Old Town Paphos.",
-          "type": "Cypriot / Café",
+          "name": "Santa Cruz city centre brunch and coffee spots",
+          "distance": "3.5-5 km, car, taxi, bus, or walk",
+          "tip": "Brunch, coffee, casual daytime food. A useful option for something easy before sightseeing. The city scene has plenty of brunch and coffee spots alongside tapas and seafood.",
+          "type": "Brunch / Coffee",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Pallia+Ilektriki+Paphos+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=brunch+coffee+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Ta Pinakia",
-          "distance": "2.5-3km, car or bus",
-          "tip": "Good if you want something less harbour-focused. Well-rated near Old Town Paphos.",
-          "type": "Greek / Cypriot",
+          "name": "La Noria street restaurants and bars",
+          "distance": "4-5 km, car, taxi, bus, or walk",
+          "tip": "Evening drinks, tapas, lively atmosphere. A great area for dinner and drinks in central Santa Cruz. Best when you want a city evening rather than a beach meal.",
+          "type": "Tapas / Bars",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Ta+Pinakia+Paphos+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+La+Noria+Santa+Cruz+de+Tenerife+restaurants"
         },
         {
-          "name": "O Firis",
-          "distance": "Short drive",
-          "tip": "Modern twist on Cypriot cuisine with generous portions. Live music almost every evening. Book ahead!",
-          "type": "Cypriot Tavern",
+          "name": "El Porrón Tasca Andaluza",
+          "distance": "4-5 km, car, taxi, or bus",
+          "tip": "Tapas, casual dinner, La Noria area. Listed among the best restaurants around La Noria, with strong ratings.",
+          "type": "Andalusian Tapas",
           "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/bkobzXcbYZ2pXZaF9"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Porron+Tasca+Andaluza+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Harbour restaurants",
-          "distance": "3.5-4km, car or scenic walk",
-          "tip": "Touristy but reliable. Many options for dinner, drinks, and a sunset walk by the sea.",
-          "type": "Various / Harbour",
-          "mapsUrl": "https://www.google.com/maps/search/Paphos+Harbour+restaurants+Cyprus"
-        },
-        {
-          "name": "King's Restaurant",
-          "distance": "3.5-4km, car or walk",
-          "tip": "Popular harbour area choice. Good fish and Cypriot food.",
-          "type": "Cypriot / Seafood",
+          "name": "Bar Concepción",
+          "distance": "4-5 km, car, taxi, bus, or walk",
+          "tip": "Wine, sharing plates, old town atmosphere. Lovely for a relaxed evening near the church and old streets, with outdoor seating, wine, and sharing plates.",
+          "type": "Wine / Sharing plates",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Kings+Restaurant+Paphos+Harbour+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Concepcion+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Theo's Restaurant",
-          "distance": "3.5-4km, car or walk",
-          "tip": "Good for seafood near the harbour. Sea bass, octopus, prawns, and calamari.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Theos+Restaurant+Paphos+Harbour+Cyprus"
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Market breakfast, snacks, local produce, casual food. One of the best food culture stops in Santa Cruz, with fresh produce stalls and low-key bar restaurants.",
+          "type": "Market / Local",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "The Moorings Café Restaurant",
-          "distance": "3.5-4km, car or walk",
-          "tip": "More about the harbour atmosphere than fine dining. Easy and relaxed.",
-          "type": "Café / Restaurant",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/The+Moorings+Cafe+Paphos+Cyprus"
-        },
-        {
-          "name": "West End Hotel & Restaurant",
-          "distance": "Agios Georgios, ~20km",
-          "tip": "Family-run with generous portions and delicious seafood, steps from the sea.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://maps.app.goo.gl/tNS9wHgJtweZJUmSA"
-        },
-        {
-          "name": "Oniro by the Sea",
-          "distance": "17-20km, car",
-          "tip": "One of the best scenic spots in the Paphos area. Combine with Sea Caves and Edro III shipwreck.",
-          "type": "Bar / Restaurant",
+          "name": "San Sebastián 57",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Updated Canarian cuisine, nicer dinner. A stronger restaurant choice near the market, described by Michelin as an unmissable address with updated traditional cuisine.",
+          "type": "Modern Canarian",
           "priceRange": "€€€",
-          "mapsUrl": "https://www.google.com/maps/search/Oniro+by+the+Sea+Paphos+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Sebastian+57+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Kathikas wine village restaurants",
-          "distance": "22-28km, car",
-          "tip": "More authentic than the seafront. Best for a longer lunch or early dinner with wine tasting.",
-          "type": "Cypriot / Wine",
+          "name": "Restaurante Origen",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Japanese and Peruvian, special dinner. A more polished option near the market, among the highly rated restaurants close to the Mercado.",
+          "type": "Japanese / Peruvian",
+          "priceRange": "€€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Origen+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "El Rincón de Guadalupe",
+          "distance": "4.5-5.5 km, car, taxi, or bus",
+          "tip": "Tacos, cocktails, casual dinner. Good if you want something different from Canarian food, among the top spots near the Mercado and La Noria.",
+          "type": "Mexican / Cocktails",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Kathikas+Village+restaurant+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Rincon+de+Guadalupe+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Latchi Harbour tavernas",
-          "distance": "38-42km, car",
-          "tip": "Best combined with a Blue Lagoon boat trip, Baths of Aphrodite, or a Polis day trip.",
-          "type": "Seafood / Tavern",
+          "name": "San Andrés seafood restaurants",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Fresh fish, casual local lunch, Las Teresitas combo. One of the best nearby food areas. Great after Las Teresitas beach or before driving into Anaga.",
+          "type": "Seafood",
           "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/Latchi+Harbour+taverna+Cyprus"
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife+seafood+restaurants"
         },
         {
-          "name": "Lidl",
-          "distance": "5 min walk",
-          "tip": "Budget-friendly with a wide range of groceries. Great for stocking up on basics.",
-          "type": "Grocery Store",
-          "priceRange": "€"
+          "name": "Restaurante Rincón del Pescador, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Fish of the day, seafood, local lunch. A strong seafood option near Las Teresitas, often praised for its fish of the day and octopus.",
+          "type": "Seafood",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Rincon+del+Pescador+San+Andres+Tenerife"
         },
         {
-          "name": "AlphaMega",
-          "distance": "7 min by car",
-          "tip": "Large supermarket with a wide variety of fresh produce and local Cypriot items.",
-          "type": "Supermarket",
-          "priceRange": "€"
+          "name": "La Pandorga, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Seafood, Mediterranean food, beach day lunch. A reliable pick near Las Teresitas, among the most popular San Andrés restaurants.",
+          "type": "Seafood / Mediterranean",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Pandorga+San+Andres+Tenerife"
+        },
+        {
+          "name": "Tasquita Lucas, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Casual Spanish food, seafood, good value. A good smaller local option, highly rated among the cheaper eats near Las Teresitas.",
+          "type": "Spanish / Casual",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasquita+Lucas+San+Andres+Tenerife"
+        },
+        {
+          "name": "Los Pinchitos, San Andrés",
+          "distance": "6-7 km, car, taxi, or bus",
+          "tip": "Casual seafood, simple local meal. A practical, casual option near Las Teresitas, rated 8.5/10 for food, service, and atmosphere.",
+          "type": "Seafood / Casual",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Pinchitos+San+Andres+Tenerife"
+        },
+        {
+          "name": "La Laguna cafés and restaurants",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "Historic town lunch, cafes, dinner. The best cultural food excursion from Santa Cruz. Great to combine with the UNESCO historic centre and a relaxed walk.",
+          "type": "Cafés / Varied",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Laguna+Tenerife+restaurants+cafes"
+        },
+        {
+          "name": "Guachinches near La Laguna and Tacoronte",
+          "distance": "15-30 km, car",
+          "tip": "Local Canarian food, wine, rustic experience. Great for adventurous food guests. Guachinches are frills-free, budget-friendly spots serving simple home-style meals, mostly in the north and often seasonal.",
+          "type": "Traditional Canarian",
+          "priceRange": "€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=guachinche+La+Laguna+Tacoronte+Tenerife"
+        },
+        {
+          "name": "Bajamar and Punta del Hidalgo restaurants",
+          "distance": "20-27 km, car or bus",
+          "tip": "Ocean views, casual lunch, natural pools day. A good food area if you visit the natural pools. Works well as a relaxed north coast day trip.",
+          "type": "Seafood / Casual",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bajamar+Punta+del+Hidalgo+restaurants+Tenerife"
+        },
+        {
+          "name": "Taganana and Roque de las Bodegas restaurants",
+          "distance": "24-28 km, car",
+          "tip": "Scenic lunch, fish, Anaga day trip. The best food stop during an Anaga excursion. Recommended for lunch after Taganana, Almáciga, or Benijo.",
+          "type": "Seafood / Scenic",
+          "priceRange": "€€",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+restaurants+Tenerife"
         }
       ]
     },
@@ -687,21 +739,88 @@
       "category": "Shopping",
       "items": [
         {
-          "name": "Kings Avenue Mall",
-          "distance": "5 min drive",
-          "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.",
-          "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7"
+          "name": "Local minimarkets and small shops in Valleseco",
+          "distance": "0-1 km, walk",
+          "tip": "Basics, drinks, snacks, quick essentials. Best for convenience. Use this for water, small groceries, and last-minute things rather than proper shopping.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=supermarket+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Paphos Market",
-          "distance": "Nearby",
-          "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.",
-          "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8"
+          "name": "Calle del Castillo",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "Fashion, shoes, cosmetics, city shopping. The main shopping street in Santa Cruz, running through the centre with international franchises, fashion shops, boutiques, cafes, and side streets worth exploring.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+del+Castillo+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Old Town",
-          "distance": "Walking distance",
-          "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops."
+          "name": "Plaza de España & Plaza de la Candelaria area",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "City centre shopping, cafes, sightseeing combo. A good starting point for a relaxed shopping walk, leading into Calle del Castillo, Imeldo Serís, and Valentín Sanz.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Plaza+de+la+Candelaria+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Calle del Pilar and side streets",
+          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
+          "tip": "Boutiques, local shops, cafes. Better if you want to wander beyond the main high street. The streets around Calle Castillo and Plaza del Príncipe mix shopping and food stops nicely.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+del+Pilar+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Mercado Nuestra Señora de África",
+          "distance": "4.5-5.5 km, bus, taxi, or car",
+          "tip": "Fresh produce, local food, flowers, small gifts. The best local market in Santa Cruz, known for fresh fruit, veg, fish, meat, and flowers. The 1944 building has lovely Moorish-style arches and patios.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Nivaria Center",
+          "distance": "5-6 km, bus, taxi, or car",
+          "tip": "Comfortable shopping, cafes, easy parking. A polished shopping centre in central Santa Cruz, a handy reference point with parking and regular events.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nivaria+Center+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Centro Comercial Meridiano",
+          "distance": "5.5-6.5 km, bus, taxi, or car",
+          "tip": "Big mall, Primark, cinema, food court. The best mall in Santa Cruz, with nearly 80 stores, 15 cinema screens, a rooftop food court, and the only Primark on the island.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Meridiano+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "San Andrés small shops",
+          "distance": "6-7 km, bus, taxi, or car",
+          "tip": "Beach day basics, snacks, simple errands. Useful before or after Las Teresitas. Not a shopping destination, but practical for drinks, beach snacks, or small necessities.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=shops+San+Andres+Tenerife"
+        },
+        {
+          "name": "Centro Comercial Añaza Carrefour",
+          "distance": "11-13 km, car or taxi",
+          "tip": "Hypermarket, large shopping, practical errands. Best for big grocery shopping or practical errands by car, with 100+ shops, a large Carrefour, and over 2,000 free parking spaces.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Anaza+Carrefour+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "La Laguna Historic Centre shops",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "Boutiques, gifts, cafes, historic streets. The best cultural shopping excursion. La Laguna is a UNESCO World Heritage city, great for combining shopping, coffee, and a historic walk.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Laguna+Tenerife+shopping+historic+centre"
+        },
+        {
+          "name": "Mercado de La Laguna",
+          "distance": "13-16 km, car, taxi, tram, or bus",
+          "tip": "Fresh produce, flowers, local food. A good local market in the historic centre, known for fresh products, flowers, and local gastronomy.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+de+La+Laguna+Tenerife"
+        },
+        {
+          "name": "Local product shopping near Tacoronte",
+          "distance": "22-30 km, car",
+          "tip": "Local wine, cheese, Canarian products. Good if you want local food products rather than normal retail. Combine with a guachinche lunch or a north coast drive.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=local+products+Tacoronte+Tenerife+wine+shops"
+        },
+        {
+          "name": "Puerto de la Cruz shopping streets",
+          "distance": "38-45 km, car or bus",
+          "tip": "Day trip shopping, souvenirs, cafes. Nice if you are already visiting Puerto de la Cruz, Lago Martiánez, or La Orotava. Worth it as part of a full north coast day rather than only for shopping.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto+de+la+Cruz+shopping+Tenerife"
+        },
+        {
+          "name": "La Orotava local shops and crafts",
+          "distance": "40-45 km, car or bus",
+          "tip": "Traditional town, crafts, gifts. Better for atmosphere and local gifts than regular retail. Works well with Puerto de la Cruz or El Bollullo beach.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+craft+shops+Tenerife"
         }
       ]
     }
@@ -929,9 +1048,9 @@
         "note": "Police, Ambulance, Fire. Free from any phone"
       },
       {
-        "name": "Paphos District Hospital",
-        "number": "+357 26 803 100",
-        "note": "Main hospital in Paphos, approx. 10 min drive"
+        "name": "Hospital Universitario Nuestra Señora de Candelaria",
+        "number": "+34 922 602 000",
+        "note": "Main hospital in Santa Cruz de Tenerife"
       },
       {
         "name": "Paphos Police",
@@ -939,8 +1058,8 @@
         "note": "Paphos Police Station"
       }
     ],
-    "nearestHospital": "Paphos District Hospital, approx. 10 min drive.",
-    "nearestHospitalUrl": "https://maps.app.goo.gl/91BFKhKL7bZWVVHg6",
+    "nearestHospital": "Hospital Universitario Nuestra Señora de Candelaria, Ctra. Gral. del Rosario 145, Santa Cruz de Tenerife.",
+    "nearestHospitalUrl": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Nuestra+Senora+de+Candelaria+Santa+Cruz+de+Tenerife",
     "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
   },
   "checkout": {
@@ -950,7 +1069,7 @@
       "If you could clear out the fridge and pop any leftover food in the bin, we'd appreciate it!",
       "If you could take the rubbish bags to the bins in the parking area — on your right as you walk out past the pool — that would be a big help!",
       "Before heading off, please lock all windows, balcony doors and shutters.",
-      "Please switch off all lights, AC, and the TV when you're done.",
+      "Please switch off all the lights, the TV, and any electric appliances (oven, stove, blender) when you're done.",
       "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",
       "Drop us a WhatsApp to let us know you've left — and we'd truly love a review if you enjoyed your stay!"
     ],

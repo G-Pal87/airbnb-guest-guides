@@ -268,3 +268,32 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
 
   </div>
 </section>
+
+<script>
+  // Anchor links to "#direction-photo-N" point at images that live inside a
+  // collapsed <details> accordion. Chromium auto-expands <details> on fragment
+  // navigation, but Safari (default on Mac) does not — so the jump silently
+  // fails there. Intercept the click, open any ancestor <details>, then scroll.
+  document.addEventListener('click', (e) => {
+    const link = (e.target as HTMLElement)?.closest('a[href^="#direction-photo-"]');
+    if (!link) return;
+
+    const href = link.getAttribute('href');
+    if (!href) return;
+
+    const target = document.getElementById(decodeURIComponent(href.slice(1)));
+    if (!target) return;
+
+    e.preventDefault();
+
+    // Open every <details> ancestor so the target becomes visible.
+    let el: HTMLElement | null = target;
+    while (el) {
+      if (el instanceof HTMLDetailsElement) el.open = true;
+      el = el.parentElement;
+    }
+
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    history.replaceState(null, '', href);
+  });
+</script>

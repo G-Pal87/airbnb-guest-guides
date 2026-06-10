@@ -129,7 +129,7 @@
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "You find the washing machine under the staircase which you can use if you like. Please just run the fast program called \"Rapido\". If you have further questions, let me know."
+      "instructions": "You'll find the washing machine in the kitchen, please feel free to use it. The fast programme called \"Rapido\" is usually all you need. If you have any questions, just let me know!"
     },
     {
       "name": "Drinking Water",
@@ -1031,11 +1031,6 @@
         "name": "Hospital Universitario Nuestra Señora de Candelaria",
         "number": "+34 922 602 000",
         "note": "Main hospital in Santa Cruz de Tenerife"
-      },
-      {
-        "name": "Paphos Police",
-        "number": "+357 26 306 060",
-        "note": "Paphos Police Station"
       }
     ],
     "nearestHospital": "Hospital Universitario Nuestra Señora de Candelaria, Ctra. Gral. del Rosario 145, Santa Cruz de Tenerife.",

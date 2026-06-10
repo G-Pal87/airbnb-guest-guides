@@ -1041,11 +1041,6 @@
         "name": "Hospital Universitario Nuestra Señora de Candelaria",
         "number": "+34 922 602 000",
         "note": "Main hospital in Santa Cruz de Tenerife"
-      },
-      {
-        "name": "Paphos Police",
-        "number": "+357 26 306 060",
-        "note": "Paphos Police Station"
       }
     ],
     "nearestHospital": "Hospital Universitario Nuestra Señora de Candelaria, Ctra. Gral. del Rosario 145, Santa Cruz de Tenerife.",

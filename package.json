@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "new-tokens": "node scripts/generate-tokens.js"
+    "new-tokens": "node scripts/generate-tokens.js",
+    "sync": "node scripts/sync-from-master.js"
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.0",

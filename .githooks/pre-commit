@@ -1,0 +1,21 @@
+#!/bin/sh
+# Auto-sync master templates to property files when a master is staged.
+
+STAGED=$(git diff --cached --name-only)
+
+TENERIFE_CHANGED=$(echo "$STAGED" | grep -c "src/data/master-tenerife.json" || true)
+CYPRUS_CHANGED=$(echo "$STAGED" | grep -c "src/data/master-cyprus.json" || true)
+
+if [ "$TENERIFE_CHANGED" -gt 0 ] || [ "$CYPRUS_CHANGED" -gt 0 ]; then
+  echo "Master template changed — syncing to properties..."
+
+  if [ "$TENERIFE_CHANGED" -gt 0 ]; then
+    node scripts/sync-from-master.js tenerife
+    git add src/data/properties/beach-side-studio.json src/data/properties/two-bedroom.json
+  fi
+
+  if [ "$CYPRUS_CHANGED" -gt 0 ]; then
+    node scripts/sync-from-master.js cyprus
+    git add src/data/properties/luxe-poolside-escape.json src/data/properties/poolside-central-studio.json src/data/properties/venus-beach-retreat.json
+  fi
+fi

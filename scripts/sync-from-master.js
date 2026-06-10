@@ -3,9 +3,16 @@
  * Syncs master-managed fields from master-tenerife.json / master-cyprus.json
  * into each matching property file.
  *
- * Master-managed fields: thingsToDo, houseRules, gettingAround, emergency
+ * Replace fields: thingsToDo, houseRules, gettingAround, emergency
+ *   — entire array/object replaced with the master version.
+ *
+ * Merge fields: appliances
+ *   — matched by name; master entries update matching property entries.
+ *   — property-specific entries (e.g. BBQ, Magical Terrace) are preserved.
+ *   — new entries in the master are appended.
+ *
  * Property-specific fields (never touched): id, name, address, wifi, checkin,
- *   gettingHere, appliances, checkout, host, cohost, heroImage, etc.
+ *   gettingHere, checkout, host, cohost, heroImage, etc.
  *
  * Usage:
  *   node scripts/sync-from-master.js           # sync all properties
@@ -24,7 +31,8 @@ const PROPERTIES = {
   cyprus: ['luxe-poolside-escape', 'poolside-central-studio', 'venus-beach-retreat'],
 };
 
-const MASTER_FIELDS = ['thingsToDo', 'houseRules', 'gettingAround', 'emergency'];
+const REPLACE_FIELDS = ['thingsToDo', 'houseRules', 'gettingAround', 'emergency'];
+const MERGE_BY_NAME_FIELDS = ['appliances'];
 
 const filter = process.argv[2]; // optional: 'tenerife' or 'cyprus'
 
@@ -41,7 +49,8 @@ for (const [location, ids] of Object.entries(PROPERTIES)) {
     const property = JSON.parse(readFileSync(propPath, 'utf-8'));
 
     let updated = false;
-    for (const field of MASTER_FIELDS) {
+
+    for (const field of REPLACE_FIELDS) {
       if (field in master) {
         const before = JSON.stringify(property[field]);
         const after = JSON.stringify(master[field]);
@@ -49,6 +58,27 @@ for (const [location, ids] of Object.entries(PROPERTIES)) {
           property[field] = master[field];
           updated = true;
         }
+      }
+    }
+
+    for (const field of MERGE_BY_NAME_FIELDS) {
+      if (!(field in master)) continue;
+      const propList = property[field] ?? [];
+      const masterList = master[field];
+      let fieldUpdated = false;
+      for (const masterEntry of masterList) {
+        const idx = propList.findIndex(e => e.name === masterEntry.name);
+        if (idx === -1) {
+          propList.push(masterEntry);
+          fieldUpdated = true;
+        } else if (JSON.stringify(propList[idx]) !== JSON.stringify(masterEntry)) {
+          propList[idx] = masterEntry;
+          fieldUpdated = true;
+        }
+      }
+      if (fieldUpdated) {
+        property[field] = propList;
+        updated = true;
       }
     }
 

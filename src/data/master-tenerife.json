@@ -683,30 +683,7 @@
     {
       "icon": "🚌",
       "name": "Bus",
-      "info": "Central bus station (Tombs of the Kings) is 18 min walk (~1.3 km) away, with direct connections to main attractions, the airport, and nearby towns. Bus stops have recently been added to Google Maps too, though always worth checking against the official website for the latest timetables.",
-      "linkText": "Bus timetables & routes",
-      "linkUrl": "https://www.pafosbuses.com/routes"
-    },
-    {
-      "icon": "🚗",
-      "name": "RideNow (Car Sharing)",
-      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5–10 min walk.",
-      "linkText": "Download the app",
-      "linkUrl": "https://ridenow.tech"
-    },
-    {
-      "icon": "🚕",
-      "name": "Bolt",
-      "info": "Budget-friendly ride app. Good alternative to metered taxis around Paphos.",
-      "linkText": "Download Bolt",
-      "linkUrl": "https://bolt.eu/en/cities/paphos/"
-    },
-    {
-      "icon": "🚖",
-      "name": "Taxi",
-      "info": "Various taxi services are available online. One reliable option is Paphos Taxi Airport, where you can also arrange a pickup directly via WhatsApp: +357 99 460 829.",
-      "linkText": "Paphos Taxi Airport",
-      "linkUrl": "https://www.paphostaxiairport.com/"
+      "info": "To explore Tenerife by public transport, start by checking the TITSA website or the TITSA app. From Valleseco, the easiest option is usually to travel first to Intercambiador Santa Cruz, the main bus station in Santa Cruz. From there, you can walk into the city centre, take the tram to La Laguna, or change to buses going to other towns, airports, beaches, and the south of the island. For Playa de Las Teresitas, take TITSA line 910 towards San Andrés / Playa de Las Teresitas. You can either catch the bus from the Valleseco area when available, or first go to Intercambiador Santa Cruz and change there. Before leaving, I recommend checking the exact route on Google Maps, TITSA, or the TITSA app, as bus times can change depending on the day, season, and public holidays."
     }
   ],
   "emergency": {

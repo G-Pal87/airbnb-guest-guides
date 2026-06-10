@@ -19,7 +19,7 @@ function stepIcon(step: string): string {
   if (s.includes('window') || s.includes('balcony') || s.includes('door')) return '🪟';
   if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return '💡';
   if (s.includes('key') || s.includes('keybox') || s.includes('reception') || s.includes('card')) return '🔑';
-  if (s.includes('whatsapp') || s.includes('message') || s.includes('let us know') || s.includes('contact')) return '💬';
+  if (s.includes('whatsapp') || s.includes('message') || s.includes('let me know') || s.includes('contact')) return '💬';
   return '✅';
 }
 
@@ -32,7 +32,7 @@ function stepTitle(step: string): string {
   if (s.includes('appliance')) return 'Switch off lights & appliances';
   if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return 'Switch off lights & AC';
   if (s.includes('key') || s.includes('keybox') || s.includes('reception')) return 'Return the keys';
-  if (s.includes('whatsapp') || s.includes('message') || s.includes('let us know')) return 'Drop us a message!';
+  if (s.includes('whatsapp') || s.includes('message') || s.includes('let us know')) return 'Drop me a message!';
   return step.split(/[.!,]/)[0].slice(0, 45);
 }
 ---

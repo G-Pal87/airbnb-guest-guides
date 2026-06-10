@@ -816,7 +816,7 @@
         "caption": "Look for the white door opening from the stairs at the side of the house, with a key box next to it. Code: 6015"
       }
     ],
-    "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running.",
+    "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running. Ask the driver to drop you at the parking spot linked below, then follow the By Car step-by-step photo guide from photo 1.",
     "directionPhotosStart": 1,
     "puntoYComaUrl": "https://goo.gl/maps/SxAHmMN7bQ8NW4gy6",
     "directionPhotosBus": [
@@ -836,6 +836,7 @@
         "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-05_at_13.14.09.webp",
         "caption": "It's the lower part of the house. Look for the white door opening from the stairs at the side, with a key box next to it. Code: 6015"
       }
-    ]
+    ],
+    "taxiParkingUrl": "https://www.google.com/maps/place/28%C2%B029'25.9%22N+16%C2%B014'25.7%22W/@28.4905341,-16.2430437,763m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d28.4905341!4d-16.2404688?hl=en-DE&entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D"
   }
 }

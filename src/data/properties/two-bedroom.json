@@ -31,7 +31,7 @@
   },
   "checkin": {
     "keyLocation": "Look for the blue door on the upper part of the house, the keybox is right next to it.",
-    "keyPhotoStart": 7,
+    "keyPhotoStart": 2,
     "accessCode": "1214",
     "steps": [
       "Park at the recommended parking area (there is always space, and you avoid almost any stairs)",

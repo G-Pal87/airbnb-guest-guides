@@ -103,7 +103,7 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "Pop the metallic key into the plug by the door to power the apartment, and remember to take it with you when you head out. Each socket also has its own wall switch: if something isn't turning on, that's usually why. EU adapters available if needed."
+      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once — for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let us know as soon as you can and we'll help sort it out."
     },
     {
       "name": "Kitchen",

@@ -91,26 +91,26 @@
     "directionPhotosStart": 1
   },
   "houseRules": [
-    "Please smoke outside only — the outdoor areas are all yours, but kindly keep the inside of the house smoke-free. Thank you!",
+    "Please smoke outside only. The outdoor areas are all yours, but kindly keep the inside of the house smoke-free. Thank you!",
     "Please keep it peaceful. Quiet hours are 11pm to 8am. No parties or events",
-    "We love animals, but we're unable to accommodate pets. Sorry!",
-    "Please treat the apartment as your own, and let us know right away if anything gets damaged. We understand accidents happen"
+    "I love animals, but I'm unable to accommodate pets. Sorry!",
+    "Please treat the apartment as your own, and let me know right away if anything gets damaged. I understand accidents happen"
   ],
   "appliances": [
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once — for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let us know as soon as you can and we'll help sort it out."
+      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once: for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let me know as soon as you can and I'll help sort it out."
     },
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "You have a kitchen area equipped with an electric stove, a mini oven, a fridge, and all the normal kitchen tools you might need. Since the whole electrical system of the house is a bit old, it can't handle many high-power appliances running at the same time — e.g. a hair dryer + washing machine + iron. Please make sure you only use one at a time to be on the safe side. In any case, if the electricity shuts down, do not worry — just let us know as soon as possible so we can help."
+      "instructions": "You have a kitchen area equipped with an electric stove, a mini oven, a fridge, and all the normal kitchen tools you might need. Since the whole electrical system of the house is a bit old, it can't handle many high-power appliances running at the same time: e.g. a hair dryer + washing machine + iron. Please make sure you only use one at a time to be on the safe side. In any case, if the electricity shuts down, do not worry: just let me know as soon as possible so I can help."
     },
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "You'll find the washing machine in the kitchen, please feel free to use it. The fast programme called \"Rapido\" is usually all you need. If you have any questions, just let us know!"
+      "instructions": "You'll find the washing machine in the kitchen, please feel free to use it. The fast programme called \"Rapido\" is usually all you need. If you have any questions, just let me know!"
     },
     {
       "name": "Shower & Hot Water",
@@ -125,7 +125,7 @@
     {
       "name": "Bathroom",
       "icon": "🛁",
-      "instructions": "You'll find fresh towels, a hair dryer, and soap and shampoo all ready for you. If anything else is missing, just let us know and we'll sort it out. ⚠️ The toilet flush can be a little temperamental now and then: if the water doesn't stop running, simply press the button one more time and it will settle."
+      "instructions": "You'll find fresh towels, a hair dryer, and soap and shampoo all ready for you. If anything else is missing, just let me know and I'll sort it out. ⚠️ The toilet flush can be a little temperamental now and then: if the water doesn't stop running, simply press the button one more time and it will settle."
     },
     {
       "name": "Plants",
@@ -135,7 +135,7 @@
     {
       "name": "Mari, the Lovely Neighbour",
       "icon": "🤗",
-      "instructions": "Our right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
+      "instructions": "My right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
     }
   ],
   "thingsToDo": [
@@ -145,7 +145,7 @@
         {
           "name": "Playa de Valleseco / Los Charcos de Valleseco",
           "distance": "1-2 km, walk or car",
-          "tip": "Closest swim, quick dip, local feel. Closest option — a small urban gravel beach with calm waters and easy access. Practical rather than pretty, but great for a quick dip.",
+          "tip": "Closest swim, quick dip, local feel. Closest option: a small urban gravel beach with calm waters and easy access. Practical rather than pretty, but great for a quick dip.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
@@ -175,7 +175,7 @@
         {
           "name": "Playa del Roque de las Bodegas",
           "distance": "24-27 km, car",
-          "tip": "Scenic drive, surf, restaurants nearby. A great Anaga day trip stop — beautiful black sand and dramatic mountain scenery, with restaurants close by. Better for scenery and food than calm swimming.",
+          "tip": "Scenic drive, surf, restaurants nearby. A great Anaga day trip stop: beautiful black sand and dramatic mountain scenery, with restaurants close by. Better for scenery and food than calm swimming.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+del+Roque+de+las+Bodegas+Tenerife"
         },
         {
@@ -187,7 +187,7 @@
         {
           "name": "Playa de Benijo",
           "distance": "27-30 km, car",
-          "tip": "Sunset, photography, wild Anaga scenery. One of the most beautiful beaches in Tenerife for photos and sunsets — wild, black sand, with strong ocean conditions. Check sea conditions before going.",
+          "tip": "Sunset, photography, wild Anaga scenery. One of the most beautiful beaches in Tenerife for photos and sunsets: wild, black sand, with strong ocean conditions. Check sea conditions before going.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         },
         {
@@ -199,7 +199,7 @@
         {
           "name": "Punta del Hidalgo Natural Pools",
           "distance": "24-27 km, car or bus",
-          "tip": "Natural pools, coastal walk, sunset. An excellent coastal day trip — more about swimming pools, lava coast, and stunning views than sand.",
+          "tip": "Natural pools, coastal walk, sunset. An excellent coastal day trip: more about swimming pools, lava coast, and stunning views than sand.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+natural+pools+Tenerife"
         },
         {
@@ -514,7 +514,7 @@
         {
           "name": "Cruz del Carmen: Sendero de los Sentidos",
           "distance": "22-28 km, car or organised tour",
-          "tip": "Easy | Laurel forest, families, short nature walk. One of the best beginner-friendly Anaga walks — a 1 km circular mostly flat trail, suitable for children and adults alike.",
+          "tip": "Easy | Laurel forest, families, short nature walk. One of the best beginner-friendly Anaga walks: a 1 km circular mostly flat trail, suitable for children and adults alike.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sendero+de+los+Sentidos+Cruz+del+Carmen+Tenerife"
         },
         {
@@ -538,7 +538,7 @@
         {
           "name": "El Pijaral 'Enchanted Forest', Anaga",
           "distance": "25-32 km, car",
-          "tip": "Moderate | Magical laurel forest, mossy Anaga landscape. One of the most special forest hikes in Anaga — note that a permit is required. Book in advance through the official Tenerife permits system.",
+          "tip": "Moderate | Magical laurel forest, mossy Anaga landscape. One of the most special forest hikes in Anaga: note that a permit is required. Book in advance through the official Tenerife permits system.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Pijaral+Anaga+Tenerife"
         },
         {
@@ -1047,7 +1047,7 @@
     ],
     "nearestHospital": "Hospital Universitario Nuestra Señora de Candelaria, Ctra. Gral. del Rosario 145, Santa Cruz de Tenerife.",
     "nearestHospitalUrl": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Nuestra+Senora+de+Candelaria+Santa+Cruz+de+Tenerife",
-    "nearestPharmacy": "Several pharmacies within walking distance on the main road. Ask us if you need a recommendation."
+    "nearestPharmacy": "Several pharmacies within walking distance on the main road. ask me if you need a recommendation."
   },
   "checkout": {
     "time": "11:00 AM",

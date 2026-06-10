@@ -46,7 +46,8 @@
   },
   "gettingHere": {
     "byCar": "Park at the recommended spot (maps link below) — there are always spaces and you avoid almost any stairs. Then follow the walking directions in the photo guide. ⚠️ Google Maps is not 100% accurate for the last stretch, so please use the photo guide!",
-    "parking": "Recommended parking: https://maps.app.goo.gl/iZAoE6vizeim4x3K6 — spaces are always available, and it is a short flat walk to the house entrance.",
+    "parking": "Spaces are always available and it is a short flat walk to the house entrance.",
+    "parkingUrl": "https://maps.app.goo.gl/iZAoE6vizeim4x3K6",
     "publicTransport": "Take bus 909, 910, or 916 from Santa Cruz de Tenerife. Get off at Valleseco — it is a small village with just one stop. Find the Punto y Coma Minimarket and take the stairs on the left, about 20 metres after passing it. It is a 5-10 minute uphill walk to the house. ⚠️ Follow the photo guide for the last stretch as Google Maps is not fully accurate.",
     "directionPhotos": [
       {

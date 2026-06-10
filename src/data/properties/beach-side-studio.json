@@ -108,7 +108,7 @@
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "Your living room has a small kitchen area with an electric stove, a small electric oven with grill function, and a high-performance blender. Please feel free to use them all, just be sure to clean them well afterwards (especially the blender). The house's electrical system is a little old, so it can't handle several high-power appliances running at once, for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let us know as soon as you can and we'll help sort it out. ⚠️ It's always summer in Tenerife, so the bugs and insects never sleep! We rarely have any problems, as long as you clear away all leftover food and pop it straight in the bin. We'd also recommend washing the dishes right after eating to keep flies and other insects from showing up later."
+      "instructions": "You have a kitchen area equipped with an electric stove, a mini oven, a fridge, and all the normal kitchen tools you might need. Since the whole electrical system of the house is a bit old, it can't handle many high-power appliances running at the same time — e.g. a hair dryer + washing machine + iron. Please make sure you only use one at a time to be on the safe side. In any case, if the electricity shuts down, do not worry — just let us know as soon as possible so we can help."
     },
     {
       "name": "Washing Machine",

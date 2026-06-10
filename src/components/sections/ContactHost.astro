@@ -34,7 +34,9 @@ const hasCohost = !!property.cohost;
       Contact Your Host
     </h2>
     <p class="text-stone-500 text-base mb-6 leading-relaxed">
-      We're here for you throughout your stay. Don't hesitate to reach out with any questions, requests, or if anything needs attention — we genuinely want you to have a wonderful time.
+      {hasCohost
+        ? "We're here for you throughout your stay. Don't hesitate to reach out with any questions, requests, or if anything needs attention — we genuinely want you to have a wonderful time."
+        : "I'm here for you throughout your stay. Don't hesitate to reach out with any questions, requests, or if anything needs attention — I genuinely want you to have a wonderful time."}
     </p>
 
     {property.hostPhoto && (
@@ -224,7 +226,9 @@ const hasCohost = !!property.cohost;
       <p class="text-4xl mb-3" aria-hidden="true">🌅</p>
       <p class="font-serif text-xl font-semibold text-charcoal mb-2">Enjoy your stay!</p>
       <p class="text-stone-500 text-sm leading-relaxed">
-        We hope this guide makes your stay even better. If you enjoy your time here, we'd be so grateful for a review on Airbnb — it means everything to us.
+        {hasCohost
+          ? "We hope this guide makes your stay even better. If you enjoy your time here, we'd be so grateful for a review on Airbnb — it means everything to us."
+          : "I hope this guide makes your stay even better. If you enjoy your time here, I'd be so grateful for a review on Airbnb — it means everything to me."}
       </p>
     </div>
   </div>

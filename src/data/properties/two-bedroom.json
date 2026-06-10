@@ -1052,7 +1052,7 @@
     "steps": [
       "If you could give any dishes a quick wash and leave them on the drying rack, that would be great!",
       "If you could clear out the fridge and pop any leftover food in the bin, I'd appreciate it!",
-      "If you could take the rubbish bags to the bins in the parking area — on your right as you walk out past the pool — that would be a big help!",
+      { "text": "It would be great if you dispose of the garbage. You will find big containers just before you leave the village.", "mapsUrl": "https://maps.app.goo.gl/CbhTHvcmiUrj9ivg9?g_st=ic" },
       "Before heading off, please lock all windows, balcony doors and shutters.",
       "Please switch off all the lights and any electric appliances (oven, stove, blender) when you're done.",
       "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",

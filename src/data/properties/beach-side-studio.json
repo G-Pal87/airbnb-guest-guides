@@ -1021,7 +1021,9 @@
     {
       "icon": "🚌",
       "name": "Bus",
-      "info": "To explore Tenerife by public transport, start by checking the TITSA website or the TITSA app. From Valleseco, the easiest option is usually to travel first to Intercambiador Santa Cruz, the main bus station in Santa Cruz. From there, you can walk into the city centre, take the tram to La Laguna, or change to buses going to other towns, airports, beaches, and the south of the island. For Playa de Las Teresitas, take TITSA line 910 towards San Andrés / Playa de Las Teresitas. You can either catch the bus from the Valleseco area when available, or first go to Intercambiador Santa Cruz and change there. Before leaving, I recommend checking the exact route on Google Maps, TITSA, or the TITSA app, as bus times can change depending on the day, season, and public holidays."
+      "info": "To explore Tenerife by public transport, start by checking the TITSA website or the TITSA app. From Valleseco, the easiest option is usually to travel first to Intercambiador Santa Cruz, the main bus station in Santa Cruz. From there, you can walk into the city centre, take the tram to La Laguna, or change to buses going to other towns, airports, beaches, and the south of the island. For Playa de Las Teresitas, take TITSA line 910 towards San Andrés / Playa de Las Teresitas. You can either catch the bus from the Valleseco area when available, or first go to Intercambiador Santa Cruz and change there. Before leaving, I recommend checking the exact route on Google Maps, TITSA, or the TITSA app, as bus times can change depending on the day, season, and public holidays.",
+      "linkText": "TITSA website",
+      "linkUrl": "https://www.titsa.com"
     }
   ],
   "emergency": {

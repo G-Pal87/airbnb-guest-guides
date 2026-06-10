@@ -37,11 +37,11 @@
     "gettingHere": {
       "byCar": "Fahren Sie zum Kings Avenue Mall in Paphos. Der Byzantium Gardens-Komplex befindet sich direkt nebenan. Nutzen Sie den Google Maps-Link oben, um zur Einfahrt zu navigieren. ⚠️ Die Google Maps-Navigation kann für diese Adresse irreführend sein. Auf den letzten Metern könnte sie Sie durch eine Straße leiten, die heute eine Fußgängerpromenade ist. Fahren Sie stattdessen um den Block, um zur Haupteinfahrt zu gelangen. Die Schritt-für-Schritt-Fotoanleitung unten zeigt den genauen Weg.",
       "parking": "Sobald Sie die Schlüssel haben, öffnen Sie das Haupttor mit dem Chip/Transponder am Schlüsselbund. Parken ist kostenlos. Am besten parken Sie unter Block C, Sie können Ihr Auto aber auch überall im Komplex abstellen, sogar am Zaun, solange Sie nichts blockieren. Um mit dem Auto zu fahren, fahren Sie vor das STOP/WARTEN-Schild am Haupttor. Die Türen öffnen sich automatisch.",
-      "publicTransport": "Vom Flughafen Paphos nehmen Sie den Bus 612 direkt bis zur Haltestelle Kings Avenue Mall. Nur 3 Minuten Fußweg bis zur Wohnung. Von dort nutzen Sie den Google Maps-Link oben, um zur Komplexeinfahrt zu navigieren. Falls Sie nicht wissen, wo Sie aussteigen sollen, fragen Sie einfach den Busfahrer. Haltestelle verpasst? Kein Problem – die nächste Haltestelle ist die Hauptstation bei den Königsgräbern, nur 5 Minuten Fußweg zur Wohnung. ⚠️ Busse akzeptieren nur Bargeld. Karten werden nicht akzeptiert. Der Fahrpreis beträgt 2,50 € pro Person und Fahrt. Bitte halten Sie Kleingeld oder kleine Scheine bereit.",
-      "taxi": "Taxis stehen direkt vor der Ankunftshalle des Flughafens Paphos bereit. Ein typischer Fahrpreis nach Paphos beträgt tagsüber 40–45 € und außerhalb der Hauptzeiten 45–50 €. Die Fahrzeit vom Flughafen beträgt etwa 20–25 Minuten.",
+      "publicTransport": "Vom Flughafen Paphos nehmen Sie den Bus 612 direkt bis zur Haltestelle Kings Avenue Mall. Nur 3 Minuten Fußweg bis zur Wohnung. Von dort nutzen Sie den Google Maps-Link oben, um zur Komplexeinfahrt zu navigieren. Falls Sie nicht wissen, wo Sie aussteigen sollen, fragen Sie einfach den Busfahrer. Haltestelle verpasst? Kein Problem, die nächste Haltestelle ist die Hauptstation bei den Königsgräbern, nur 5 Minuten Fußweg zur Wohnung. ⚠️ Busse akzeptieren nur Bargeld. Karten werden nicht akzeptiert. Der Fahrpreis beträgt 2,50 € pro Person und Fahrt. Bitte halten Sie Kleingeld oder kleine Scheine bereit.",
+      "taxi": "Taxis stehen direkt vor der Ankunftshalle des Flughafens Paphos bereit. Ein typischer Fahrpreis nach Paphos beträgt tagsüber 40-45 € und außerhalb der Hauptzeiten 45-50 €. Die Fahrzeit vom Flughafen beträgt etwa 20-25 Minuten.",
       "directionPhotos": [
         {
-          "caption": "Navigieren Sie zum Google Maps-Standort. Der Komplex liegt 2 Blocks links vom Kings Avenue Mall. Die roten Markierungen zeigen zu meidende Straßen; folgen Sie der richtigen Route zur Haupteinfahrt. Sie werden auch ein Einfahrt-verboten-Schild sehen – das gilt nur für Nicht-Bewohner. Als Gast dürfen Sie einfahren."
+          "caption": "Navigieren Sie zum Google Maps-Standort. Der Komplex liegt 2 Blocks links vom Kings Avenue Mall. Die roten Markierungen zeigen zu meidende Straßen; folgen Sie der richtigen Route zur Haupteinfahrt. Sie werden auch ein Einfahrt-verboten-Schild sehen, das gilt nur für Nicht-Bewohner. Als Gast dürfen Sie einfahren."
         },
         {
           "caption": "Sobald Sie die Einfahrt erreichen, finden Sie die Schlüsselboxen an der linken Wand."
@@ -85,7 +85,7 @@
     },
     "houseRules": [
       "Kein Rauchen im Inneren. Nur auf dem Balkon",
-      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00–8:00 Uhr",
+      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00-8:00 Uhr",
       "Maximale Belegung: 2 Gäste",
       "Keine Haustiere erlaubt",
       "Geschirr sofort spülen und die Küchenarbeitsfläche freihalten. Das warme Wetter auf Zypern kann Insekten anlocken",
@@ -103,7 +103,7 @@
       },
       {
         "name": "Küche",
-        "instructions": "Die Küche verfügt über ein Elektroherd, einen Elektroofen, eine einfache Kaffeemaschine und eine Mühle. Sie dürfen alles benutzen, reinigen Sie die Geräte bitte nach der Nutzung. Grundlegende Kochzutaten (Salz, Pfeffer, Olivenöl) und Kaffeebohnen sind vorhanden – bedienen Sie sich! Wichtig: Das warme Wetter auf Zypern kann Insekten anlocken. Bitte spülen Sie das Geschirr umgehend, entsorgen Sie Speisereste sofort und achten Sie darauf, dass nichts auf der Arbeitsfläche liegt oder auf den Boden fällt."
+        "instructions": "Die Küche verfügt über ein Elektroherd, einen Elektroofen, eine einfache Kaffeemaschine und eine Mühle. Sie dürfen alles benutzen, reinigen Sie die Geräte bitte nach der Nutzung. Grundlegende Kochzutaten (Salz, Pfeffer, Olivenöl) und Kaffeebohnen sind vorhanden, bedienen Sie sich! Wichtig: Das warme Wetter auf Zypern kann Insekten anlocken. Bitte spülen Sie das Geschirr umgehend, entsorgen Sie Speisereste sofort und achten Sie darauf, dass nichts auf der Arbeitsfläche liegt oder auf den Boden fällt."
       },
       {
         "name": "Waschmaschine",
@@ -111,7 +111,7 @@
       },
       {
         "name": "Dusche & Warmwasser",
-        "instructions": "Es dauert normalerweise 2–3 Minuten, bis das Wasser warm wird – das ist normal. Wenn das Wasser nicht warm wird, hat die Sonne möglicherweise nicht ausgereicht, um die Solarpaneele aufzuladen. In diesem Fall drücken Sie den Heiztaster neben der Badezimmertür und warten Sie 20 Minuten. Wichtig: Schalten Sie das Heizsystem aus, bevor Sie unter die Dusche steigen. (Dies ist nur in ca. 10 % der Fälle nötig. Zypern ist normalerweise sehr sonnig! ☀️)"
+        "instructions": "Es dauert normalerweise 2-3 Minuten, bis das Wasser warm wird, das ist normal. Wenn das Wasser nicht warm wird, hat die Sonne möglicherweise nicht ausgereicht, um die Solarpaneele aufzuladen. In diesem Fall drücken Sie den Heiztaster neben der Badezimmertür und warten Sie 20 Minuten. Wichtig: Schalten Sie das Heizsystem aus, bevor Sie unter die Dusche steigen. (Dies ist nur in ca. 10 % der Fälle nötig. Zypern ist normalerweise sehr sonnig! ☀️)"
       },
       {
         "name": "Poolzugang",
@@ -127,7 +127,7 @@
       },
       {
         "name": "Pflanzen",
-        "instructions": "Im Apartment finden Sie einige Pflanzen – sie sorgen für eine natürliche und gemütliche Atmosphäre. Bei einem längeren Aufenthalt würden wir uns freuen, wenn Sie sie alle 3–4 Tage gießen. Vielen Dank! 🌿"
+        "instructions": "Im Apartment finden Sie einige Pflanzen, sie sorgen für eine natürliche und gemütliche Atmosphäre. Bei einem längeren Aufenthalt würden wir uns freuen, wenn Sie sie alle 3-4 Tage gießen. Vielen Dank! 🌿"
       }
     ],
     "thingsToDo": [
@@ -202,7 +202,7 @@
         "info": "Der zentrale Busbahnhof (Königsgräber) ist 18 Minuten zu Fuß entfernt (~1,3 km) und bietet direkte Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Orten."
       },
       {
-        "info": "Carsharing funktioniert gut rund um Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind in der Regel innerhalb von 5–10 Minuten Fußweg verfügbar."
+        "info": "Carsharing funktioniert gut rund um Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind in der Regel innerhalb von 5-10 Minuten Fußweg verfügbar."
       },
       {
         "info": "Günstige Taxi-App. Empfohlen für Fahrten in Paphos ohne die Unsicherheit von Taxametern."
@@ -274,11 +274,11 @@
     "gettingHere": {
       "byCar": "Hajtson a páphoszi Kings Avenue Mall-hoz. A Byzantium Gardens komplexum közvetlenül mellette található. Használja a fenti Google Térkép-linket, hogy a bejárathoz navigáljon. ⚠️ A Google Térkép navigációja félrevezető lehet ennél a címnél. Az utolsó méterekben egy olyan utcán vezethet végig, amely ma sétálóutca. Ehelyett kerülje meg a tömböt, hogy a főbejárathoz jusson. Az alábbi lépésről lépésre fotóútmutató pontosan megmutatja az utat.",
       "parking": "Amint megvan a kulcs, nyissa ki a főkaput a kulcstartón lévő chippel/transzponderrel. A parkolás ingyenes. A legjobb a C tömb alatt parkolni, de bárhol a komplexumban leállíthatja autóját, akár a kerítésnél is, amíg nem blokkol semmit. Autóval való közlekedéshez hajtson a STOP/VÁRAKOZÁS tábla elé a főkapunál. Az ajtók automatikusan kinyílnak.",
-      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt egyenesen a Kings Avenue Mall megállóig. Csak 3 perc gyaloglás a lakásig. Onnan használja a fenti Google Térkép-linket a komplexum bejáratához való navigáláshoz. Ha nem tudja, hol kell leszállnia, kérdezze meg a buszsofőrt. Lemaradt a megállóról? Semmi gond – a következő megálló a Királyok Sírjainál lévő főállomás, csak 5 perc gyaloglás a lakásig. ⚠️ A buszok csak készpénzt fogadnak el. Bankkártyát nem fogadnak el. A viteldíj 2,50 € személyenként és útonként. Kérjük, készítsen elő aprópénzt vagy kis címleteket.",
-      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40–45€, csúcsidőn kívül 45–50€. A repülőtérről az utazás körülbelül 20–25 percet vesz igénybe.",
+      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt egyenesen a Kings Avenue Mall megállóig. Csak 3 perc gyaloglás a lakásig. Onnan használja a fenti Google Térkép-linket a komplexum bejáratához való navigáláshoz. Ha nem tudja, hol kell leszállnia, kérdezze meg a buszsofőrt. Lemaradt a megállóról? Semmi gond, a következő megálló a Királyok Sírjainál lévő főállomás, csak 5 perc gyaloglás a lakásig. ⚠️ A buszok csak készpénzt fogadnak el. Bankkártyát nem fogadnak el. A viteldíj 2,50 € személyenként és útonként. Kérjük, készítsen elő aprópénzt vagy kis címleteket.",
+      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40-45€, csúcsidőn kívül 45-50€. A repülőtérről az utazás körülbelül 20-25 percet vesz igénybe.",
       "directionPhotos": [
         {
-          "caption": "Navigáljon a Google Térkép helyszínére. A komplexum 2 tömbbel balra található a Kings Avenue Mall-tól. A piros jelölések a kerülendő utcákat mutatják; kövesse a helyes útvonalat a főbejáratig. Egy behajtani tilos táblát is látni fog – ez csak a nem lakókra vonatkozik. Vendégként behajthat."
+          "caption": "Navigáljon a Google Térkép helyszínére. A komplexum 2 tömbbel balra található a Kings Avenue Mall-tól. A piros jelölések a kerülendő utcákat mutatják; kövesse a helyes útvonalat a főbejáratig. Egy behajtani tilos táblát is látni fog, ez csak a nem lakókra vonatkozik. Vendégként behajthat."
         },
         {
           "caption": "Amint eléri a bejáratot, a kulcsszekrényeket a bal oldali falon találja."
@@ -322,7 +322,7 @@
     },
     "houseRules": [
       "Tilos a dohányzás beltéren. Csak az erkélyen",
-      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00–08:00",
+      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00-08:00",
       "Maximális férőhely: 2 vendég",
       "Háziállatok nem engedélyezettek",
       "Mosogasson el azonnal és tartsa tisztán a konyhai pultot. Cipruson a meleg időjárás rovarokat vonzhat",
@@ -340,7 +340,7 @@
       },
       {
         "name": "Konyha",
-        "instructions": "A konyha elektromos főzőlappal, elektromos sütővel, egy egyszerű kávéfőzővel és egy darálóval rendelkezik. Mindent használhat, kérjük, használat után tisztítsa meg a készülékeket. Alapvető főzési hozzávalók (só, bors, olívaolaj) és kávébab rendelkezésre áll – csak nyugodtan! Fontos: Cipruson a meleg időjárás rovarokat vonzhat. Kérjük, azonnal mossa el az edényeket, dobja ki azonnal az ételmaradékot, és ügyeljen arra, hogy semmi ne maradjon a pulton vagy essen a padlóra."
+        "instructions": "A konyha elektromos főzőlappal, elektromos sütővel, egy egyszerű kávéfőzővel és egy darálóval rendelkezik. Mindent használhat, kérjük, használat után tisztítsa meg a készülékeket. Alapvető főzési hozzávalók (só, bors, olívaolaj) és kávébab rendelkezésre áll, csak nyugodtan! Fontos: Cipruson a meleg időjárás rovarokat vonzhat. Kérjük, azonnal mossa el az edényeket, dobja ki azonnal az ételmaradékot, és ügyeljen arra, hogy semmi ne maradjon a pulton vagy essen a padlóra."
       },
       {
         "name": "Mosógép",
@@ -348,7 +348,7 @@
       },
       {
         "name": "Zuhany & Melegvíz",
-        "instructions": "Általában 2–3 percig tart, amíg a víz felmelegszik – ez normális. Ha a víz nem melegszik fel, lehet, hogy a nap nem volt elegendő a napelemek feltöltéséhez. Ebben az esetben nyomja meg a fűtés gombját a fürdőszobaajtó mellett, és várjon 20 percet. Fontos: Kapcsolja ki a fűtésrendszert, mielőtt a zuhany alá lép. (Erre csak az esetek kb. 10%-ában van szükség. Ciprus általában nagyon napos! ☀️)"
+        "instructions": "Általában 2-3 percig tart, amíg a víz felmelegszik, ez normális. Ha a víz nem melegszik fel, lehet, hogy a nap nem volt elegendő a napelemek feltöltéséhez. Ebben az esetben nyomja meg a fűtés gombját a fürdőszobaajtó mellett, és várjon 20 percet. Fontos: Kapcsolja ki a fűtésrendszert, mielőtt a zuhany alá lép. (Erre csak az esetek kb. 10%-ában van szükség. Ciprus általában nagyon napos! ☀️)"
       },
       {
         "name": "Medencehasználat",
@@ -364,7 +364,7 @@
       },
       {
         "name": "Növények",
-        "instructions": "A lakásban talál néhány növényt – természetes és otthonos hangulatot teremtenek. Hosszabb tartózkodás esetén örülnénk, ha 3–4 naponta megöntözné őket. Köszönjük! 🌿"
+        "instructions": "A lakásban talál néhány növényt, természetes és otthonos hangulatot teremtenek. Hosszabb tartózkodás esetén örülnénk, ha 3-4 naponta megöntözné őket. Köszönjük! 🌿"
       }
     ],
     "thingsToDo": [
@@ -439,7 +439,7 @@
         "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
       },
       {
-        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5–10 perces sétán belül elérhetők."
+        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5-10 perces sétán belül elérhetők."
       },
       {
         "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
@@ -511,11 +511,11 @@
     "gettingHere": {
       "byCar": "Κατευθυνθείτε προς το Kings Avenue Mall στην Πάφο. Το συγκρότημα Byzantium Gardens βρίσκεται ακριβώς δίπλα. Χρησιμοποιήστε τον σύνδεσμο Google Maps παραπάνω για να πλοηγηθείτε στην είσοδο. ⚠️ Η πλοήγηση του Google Maps μπορεί να είναι παραπλανητική για αυτή τη διεύθυνση. Στα τελευταία μέτρα μπορεί να σας οδηγήσει σε δρόμο που είναι πεζόδρομος. Αντί αυτού, κάντε τον γύρο του τετραγώνου για να φτάσετε στην κύρια είσοδο. Ο οδηγός με τις φωτογραφίες παρακάτω δείχνει την ακριβή διαδρομή.",
       "parking": "Μόλις παραλάβετε τα κλειδιά, χρησιμοποιήστε το chip/transponder στο μπρελόκ για να ανοίξετε την κύρια πύλη. Το παρκάρισμα είναι δωρεάν. Η καλύτερη θέση είναι κάτω από το Block C, αλλά μπορείτε να παρκάρετε οπουδήποτε στο συγκρότημα, ακόμα και κοντά στον φράχτη, αρκεί να μην μπλοκάρετε κάποιον. Για έξοδο με αυτοκίνητο, οδηγήστε μέχρι την πινακίδα STOP/ΑΝΑΜΟΝΗ στην κύρια πύλη. Οι πόρτες ανοίγουν αυτόματα.",
-      "publicTransport": "Από το αεροδρόμιο Πάφου, πάρτε το λεωφορείο 612 απευθείας και κατεβείτε στη στάση Kings Avenue Mall. Μόλις 3 λεπτά με τα πόδια από το διαμέρισμα. Χρησιμοποιήστε τον σύνδεσμο Google Maps παραπάνω για να πλοηγηθείτε στην είσοδο του συγκροτήματος. Αν δεν ξέρετε πού να κατεβείτε, ρωτήστε τον οδηγό. Χάσατε τη στάση; Δεν πειράζει — η επόμενη στάση είναι ο κεντρικός σταθμός στους Τάφους των Βασιλέων, μόλις 5 λεπτά με τα πόδια. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Η εισιτήριο κοστίζει 2,50€ ανά άτομο. Παρακαλούμε έχετε ψιλά μαζί σας.",
-      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40–45€ κατά τις ημερήσιες ώρες και 45–50€ εκτός ωρών αιχμής. Η διαδρομή από το αεροδρόμιο διαρκεί περίπου 20–25 λεπτά.",
+      "publicTransport": "Από το αεροδρόμιο Πάφου, πάρτε το λεωφορείο 612 απευθείας και κατεβείτε στη στάση Kings Avenue Mall. Μόλις 3 λεπτά με τα πόδια από το διαμέρισμα. Χρησιμοποιήστε τον σύνδεσμο Google Maps παραπάνω για να πλοηγηθείτε στην είσοδο του συγκροτήματος. Αν δεν ξέρετε πού να κατεβείτε, ρωτήστε τον οδηγό. Χάσατε τη στάση; Δεν πειράζει, η επόμενη στάση είναι ο κεντρικός σταθμός στους Τάφους των Βασιλέων, μόλις 5 λεπτά με τα πόδια. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Η εισιτήριο κοστίζει 2,50€ ανά άτομο. Παρακαλούμε έχετε ψιλά μαζί σας.",
+      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40-45€ κατά τις ημερήσιες ώρες και 45-50€ εκτός ωρών αιχμής. Η διαδρομή από το αεροδρόμιο διαρκεί περίπου 20-25 λεπτά.",
       "directionPhotos": [
         {
-          "caption": "Πλοηγηθείτε στην τοποθεσία Google Maps. Το συγκρότημα βρίσκεται 2 τετράγωνα αριστερά από το Kings Avenue Mall. Οι κόκκινες σημάνσεις δείχνουν δρόμους που πρέπει να αποφύγετε. Θα δείτε επίσης μια πινακίδα ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΕΙΣΟΔΟΣ — αυτή ισχύει μόνο για μη κατοίκους. Ως φιλοξενούμενοι, μπορείτε να εισέλθετε."
+          "caption": "Πλοηγηθείτε στην τοποθεσία Google Maps. Το συγκρότημα βρίσκεται 2 τετράγωνα αριστερά από το Kings Avenue Mall. Οι κόκκινες σημάνσεις δείχνουν δρόμους που πρέπει να αποφύγετε. Θα δείτε επίσης μια πινακίδα ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΕΙΣΟΔΟΣ, αυτή ισχύει μόνο για μη κατοίκους. Ως φιλοξενούμενοι, μπορείτε να εισέλθετε."
         },
         {
           "caption": "Μόλις φτάσετε στην είσοδο, θα βρείτε τα κουτιά κλειδιών στον αριστερό τοίχο."
@@ -577,7 +577,7 @@
       },
       {
         "name": "Κουζίνα",
-        "instructions": "Η κουζίνα διαθέτει ηλεκτρική εστία, ηλεκτρικό φούρνο, μια απλή καφετιέρα και μύλο. Μπορείτε να χρησιμοποιήσετε τα πάντα, παρακαλούμε καθαρίστε τις συσκευές μετά τη χρήση. Βασικά υλικά μαγειρικής (αλάτι, πιπέρι, ελαιόλαδο) και κόκκοι καφέ υπάρχουν — εξυπηρετηθείτε! Σημαντικό: Ο ζεστός καιρός της Κύπρου μπορεί να προσελκύσει έντομα. Παρακαλούμε πλένετε τα πιάτα αμέσως, πετάξτε τα υπολείμματα φαγητού άμεσα και φροντίστε να μην μένει τίποτα στον πάγκο ή να πέφτει στο πάτωμα."
+        "instructions": "Η κουζίνα διαθέτει ηλεκτρική εστία, ηλεκτρικό φούρνο, μια απλή καφετιέρα και μύλο. Μπορείτε να χρησιμοποιήσετε τα πάντα, παρακαλούμε καθαρίστε τις συσκευές μετά τη χρήση. Βασικά υλικά μαγειρικής (αλάτι, πιπέρι, ελαιόλαδο) και κόκκοι καφέ υπάρχουν, εξυπηρετηθείτε! Σημαντικό: Ο ζεστός καιρός της Κύπρου μπορεί να προσελκύσει έντομα. Παρακαλούμε πλένετε τα πιάτα αμέσως, πετάξτε τα υπολείμματα φαγητού άμεσα και φροντίστε να μην μένει τίποτα στον πάγκο ή να πέφτει στο πάτωμα."
       },
       {
         "name": "Πλυντήριο",
@@ -585,7 +585,7 @@
       },
       {
         "name": "Ντους & Ζεστό Νερό",
-        "instructions": "Συνήθως χρειάζονται 2–3 λεπτά για να ζεσταθεί το νερό — αυτό είναι φυσιολογικό. Αν το νερό δεν ζεσταθεί, ο ήλιος μπορεί να μην ήταν αρκετός για να φορτίσει τα ηλιακά πάνελ. Σε αυτή την περίπτωση, πατήστε τον διακόπτη θέρμανσης δίπλα στην πόρτα του μπάνιου και περιμένετε 20 λεπτά. Σημαντικό: Σβήστε το σύστημα θέρμανσης πριν μπείτε στο ντους. (Αυτό χρειάζεται μόνο στο 10% περίπου των περιπτώσεων. Η Κύπρος είναι συνήθως πολύ ηλιόλουστη! ☀️)"
+        "instructions": "Συνήθως χρειάζονται 2-3 λεπτά για να ζεσταθεί το νερό, αυτό είναι φυσιολογικό. Αν το νερό δεν ζεσταθεί, ο ήλιος μπορεί να μην ήταν αρκετός για να φορτίσει τα ηλιακά πάνελ. Σε αυτή την περίπτωση, πατήστε τον διακόπτη θέρμανσης δίπλα στην πόρτα του μπάνιου και περιμένετε 20 λεπτά. Σημαντικό: Σβήστε το σύστημα θέρμανσης πριν μπείτε στο ντους. (Αυτό χρειάζεται μόνο στο 10% περίπου των περιπτώσεων. Η Κύπρος είναι συνήθως πολύ ηλιόλουστη! ☀️)"
       },
       {
         "name": "Πρόσβαση στην Πισίνα",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Φυτά",
-        "instructions": "Στο διαμέρισμα θα βρείτε μερικά φυτά — προσφέρουν μια φυσική και ζεστή ατμόσφαιρα. Σε μεγαλύτερη διαμονή, θα χαιρόμασταν αν τα ποτίζατε κάθε 3–4 ημέρες. Ευχαριστούμε πολύ! 🌿"
+        "instructions": "Στο διαμέρισμα θα βρείτε μερικά φυτά, προσφέρουν μια φυσική και ζεστή ατμόσφαιρα. Σε μεγαλύτερη διαμονή, θα χαιρόμασταν αν τα ποτίζατε κάθε 3-4 ημέρες. Ευχαριστούμε πολύ! 🌿"
       }
     ],
     "thingsToDo": [
@@ -676,7 +676,7 @@
         "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
       },
       {
-        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5–10 λεπτών με τα πόδια."
+        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5-10 λεπτών με τα πόδια."
       },
       {
         "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
@@ -749,10 +749,10 @@
       "byCar": "Dirigez-vous vers le Kings Avenue Mall à Paphos. Le complexe Byzantium Gardens se trouve juste à côté. Utilisez le lien Google Maps ci-dessus pour naviguer jusqu'à l'entrée. ⚠️ La navigation Google Maps peut être trompeuse pour cette adresse. Sur le dernier tronçon, elle pourrait vous faire passer par une rue qui est maintenant une promenade piétonne. Faites le tour du pâté de maisons pour atteindre l'entrée principale. Consultez le guide photo étape par étape ci-dessous pour les instructions complètes.",
       "parking": "Une fois que vous avez les clés, utilisez la puce/le badge sur le trousseau pour ouvrir le portail principal. Le stationnement est gratuit. De préférence, garez-vous sous le Bloc C, mais vous pouvez laisser votre voiture n'importe où dans le complexe, même près de la clôture, du moment que vous ne bloquez rien. Pour sortir en voiture, avancez devant le panneau STOP / ATTENDRE à l'entrée principale. Les portes s'ouvrent automatiquement.",
       "publicTransport": "Depuis l'aéroport de Paphos, prenez le Bus 612 directement et descendez à l'arrêt Kings Avenue Mall. Seulement 3 minutes à pied de l'appartement. Ensuite, suivez le lien Google Maps ci-dessus pour naviguer jusqu'à l'entrée du complexe. Si vous ne savez pas où descendre, demandez au chauffeur. Vous avez raté l'arrêt ? Pas de souci. L'arrêt suivant est la station principale des Tombes des Rois, à seulement 5 minutes à pied de l'appartement. ⚠️ Les bus n'acceptent que les espèces. Les cartes ne sont pas acceptées. Le tarif est de 2,50 € par trajet et par personne, alors assurez-vous d'avoir de la monnaie ou de petits billets.",
-      "taxi": "Des taxis sont disponibles directement devant le hall des arrivées de l'aéroport de Paphos. Le tarif typique vers Paphos est de 40–45 € de jour et de 45–50 € en dehors des heures normales. Le trajet depuis l'aéroport dure environ 20–25 minutes.",
+      "taxi": "Des taxis sont disponibles directement devant le hall des arrivées de l'aéroport de Paphos. Le tarif typique vers Paphos est de 40-45 € de jour et de 45-50 € en dehors des heures normales. Le trajet depuis l'aéroport dure environ 20-25 minutes.",
       "directionPhotos": [
         {
-          "caption": "Naviguez vers l'emplacement Google Maps. Le complexe se trouve à 2 pâtés de maisons à gauche du Kings Avenue Mall. Les marques rouges indiquent les routes à éviter ; suivez le bon itinéraire pour atteindre l'entrée principale. Vous verrez aussi un panneau Sens interdit à l'entrée – il ne s'applique qu'aux non-résidents. En tant que locataire, vous avez le droit d'entrer."
+          "caption": "Naviguez vers l'emplacement Google Maps. Le complexe se trouve à 2 pâtés de maisons à gauche du Kings Avenue Mall. Les marques rouges indiquent les routes à éviter ; suivez le bon itinéraire pour atteindre l'entrée principale. Vous verrez aussi un panneau Sens interdit à l'entrée, il ne s'applique qu'aux non-résidents. En tant que locataire, vous avez le droit d'entrer."
         },
         {
           "caption": "Une fois à l'entrée, trouvez les boîtes à clés sur le mur de gauche."
@@ -822,7 +822,7 @@
       },
       {
         "name": "Douche & eau chaude",
-        "instructions": "Il faut généralement 2–3 minutes pour que l'eau chauffe, c'est normal. Si l'eau reste froide, le soleil n'a peut-être pas été suffisant pour les panneaux solaires ce jour-là. Dans ce cas, appuyez sur le bouton de chauffe à côté de la porte de salle de bain et attendez 20 minutes. Important : éteignez le système de chauffage avant de prendre la douche. (Cela n'est nécessaire que dans environ 10 % des cas. Chypre est généralement très ensoleillée ! ☀️)"
+        "instructions": "Il faut généralement 2-3 minutes pour que l'eau chauffe, c'est normal. Si l'eau reste froide, le soleil n'a peut-être pas été suffisant pour les panneaux solaires ce jour-là. Dans ce cas, appuyez sur le bouton de chauffe à côté de la porte de salle de bain et attendez 20 minutes. Important : éteignez le système de chauffage avant de prendre la douche. (Cela n'est nécessaire que dans environ 10 % des cas. Chypre est généralement très ensoleillée ! ☀️)"
       },
       {
         "name": "Accès piscine",
@@ -838,7 +838,7 @@
       },
       {
         "name": "Plantes",
-        "instructions": "Vous trouverez quelques plantes dans l'appartement – elles contribuent à créer une atmosphère naturelle et chaleureuse. Si vous restez plus de quelques jours, nous vous serions reconnaissants de les arroser tous les 3–4 jours. Merci ! 🌿"
+        "instructions": "Vous trouverez quelques plantes dans l'appartement, elles contribuent à créer une atmosphère naturelle et chaleureuse. Si vous restez plus de quelques jours, nous vous serions reconnaissants de les arroser tous les 3-4 jours. Merci ! 🌿"
       }
     ],
     "thingsToDo": [
@@ -913,7 +913,7 @@
         "info": "La gare centrale (Tombes des Rois) est à 18 min à pied (~1,3 km), avec des connexions directes vers les principales attractions, l'aéroport et les villes voisines."
       },
       {
-        "info": "Le covoiturage fonctionne bien autour de Paphos, y compris vers et depuis l'aéroport. Téléchargez l'appli, inscrivez-vous en 5 minutes. Des voitures sont généralement disponibles à 5–10 min à pied."
+        "info": "Le covoiturage fonctionne bien autour de Paphos, y compris vers et depuis l'aéroport. Téléchargez l'appli, inscrivez-vous en 5 minutes. Des voitures sont généralement disponibles à 5-10 min à pied."
       },
       {
         "info": "Application de taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
@@ -986,10 +986,10 @@
       "byCar": "Dirígete al Kings Avenue Mall en Paphos. El complejo Byzantium Gardens está justo al lado. Usa el enlace de Google Maps arriba para navegar hasta la entrada. ⚠️ La navegación de Google Maps puede ser engañosa para esta dirección. En el último tramo puede llevarte por una calle que ahora es una promenade peatonal. Da la vuelta a la manzana para llegar a la entrada principal. Consulta la guía fotográfica paso a paso más abajo para instrucciones completas.",
       "parking": "Una vez que tengas las llaves, usa el chip/llavero en el llavero para abrir la puerta principal. El aparcamiento es gratuito. Idealmente aparca bajo el Bloque C, pero puedes dejar el coche en cualquier lugar del complejo, incluso junto a la valla, siempre que no bloquees nada. Para salir en coche, avanza frente a la señal STOP / ESPERA en la puerta principal. Las puertas se abren automáticamente.",
       "publicTransport": "Desde el Aeropuerto de Paphos, toma el Bus 612 directamente y baja en la parada Kings Avenue Mall. A solo 3 minutos a pie del apartamento. Desde allí, sigue el enlace de Google Maps arriba para navegar hasta la entrada del complejo. Si no sabes dónde bajarte, pregunta al conductor. ¿Has pasado la parada? Sin problema. La siguiente parada es la estación principal de las Tumbas de los Reyes, a solo 5 minutos a pie del apartamento. ⚠️ Los autobuses solo aceptan efectivo. No se aceptan tarjetas. La tarifa es de 2,50 € por viaje y persona, así que lleva monedas o billetes pequeños.",
-      "taxi": "Los taxis están disponibles directamente frente a la sala de llegadas del Aeropuerto de Paphos. Una tarifa típica a Paphos es de 40–45 € durante el día y 45–50 € en horario nocturno. El trayecto desde el aeropuerto dura aproximadamente 20–25 minutos.",
+      "taxi": "Los taxis están disponibles directamente frente a la sala de llegadas del Aeropuerto de Paphos. Una tarifa típica a Paphos es de 40-45 € durante el día y 45-50 € en horario nocturno. El trayecto desde el aeropuerto dura aproximadamente 20-25 minutos.",
       "directionPhotos": [
         {
-          "caption": "Navega a la ubicación de Google Maps. El complejo está a 2 manzanas a la izquierda del Kings Avenue Mall. Las marcas rojas muestran calles a evitar; sigue la ruta correcta para llegar a la entrada principal. También verás una señal de entrada prohibida — solo se aplica a no residentes. Como huésped tienes derecho a entrar."
+          "caption": "Navega a la ubicación de Google Maps. El complejo está a 2 manzanas a la izquierda del Kings Avenue Mall. Las marcas rojas muestran calles a evitar; sigue la ruta correcta para llegar a la entrada principal. También verás una señal de entrada prohibida, solo se aplica a no residentes. Como huésped tienes derecho a entrar."
         },
         {
           "caption": "Al llegar a la entrada, encuentra las cajas de llaves en la pared izquierda."
@@ -1059,7 +1059,7 @@
       },
       {
         "name": "Ducha & Agua caliente",
-        "instructions": "Normalmente tarda 2–3 minutos en salir agua caliente, es lo habitual. Si el agua no se calienta, puede que no haya habido suficiente sol para los paneles solares ese día. En ese caso, pulsa el botón de calefacción junto a la puerta del baño y espera 20 minutos. Importante: apaga el sistema de calefacción antes de ducharte. (Solo es necesario en torno al 10 % de las veces. ¡Chipre suele ser muy soleada! ☀️)"
+        "instructions": "Normalmente tarda 2-3 minutos en salir agua caliente, es lo habitual. Si el agua no se calienta, puede que no haya habido suficiente sol para los paneles solares ese día. En ese caso, pulsa el botón de calefacción junto a la puerta del baño y espera 20 minutos. Importante: apaga el sistema de calefacción antes de ducharte. (Solo es necesario en torno al 10 % de las veces. ¡Chipre suele ser muy soleada! ☀️)"
       },
       {
         "name": "Acceso a la piscina",
@@ -1075,7 +1075,7 @@
       },
       {
         "name": "Plantas",
-        "instructions": "Encontrarás algunas plantas en el apartamento que ayudan a mantener un ambiente natural y acogedor. Si te quedas más de unos días, te agradeceríamos mucho que las riegues cada 3–4 días. ¡Gracias! 🌿"
+        "instructions": "Encontrarás algunas plantas en el apartamento que ayudan a mantener un ambiente natural y acogedor. Si te quedas más de unos días, te agradeceríamos mucho que las riegues cada 3-4 días. ¡Gracias! 🌿"
       }
     ],
     "thingsToDo": [
@@ -1150,7 +1150,7 @@
         "info": "La estación central de autobuses (Tumbas de los Reyes) está a 18 min a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
       },
       {
-        "info": "El carsharing funciona bien por Paphos, incluso hacia y desde el aeropuerto. Descarga la app y regístrate en 5 minutos. Coches disponibles normalmente en un radio de 5–10 min a pie."
+        "info": "El carsharing funciona bien por Paphos, incluso hacia y desde el aeropuerto. Descarga la app y regístrate en 5 minutos. Coches disponibles normalmente en un radio de 5-10 min a pie."
       },
       {
         "info": "App de taxi económica. Recomendada para moverse por Paphos sin la incertidumbre de los taxímetros."
@@ -1223,10 +1223,10 @@
       "byCar": "Jedź do Kings Avenue Mall w Pafos. Kompleks Byzantium Gardens znajduje się tuż obok. Skorzystaj z linku Google Maps powyżej, aby nawigować do wejścia. ⚠️ Nawigacja Google Maps może być myląca dla tego adresu. Na ostatnim odcinku może poprowadzić Cię przez drogę, która jest teraz promenadą dla pieszych. Zamiast tego jedź dookoła bloku, aby dotrzeć do głównego wejścia. Szczegółowy przewodnik fotograficzny poniżej zawiera pełne wskazówki.",
       "parking": "Gdy już masz klucze, użyj chipu/breloka na kluczach, aby otworzyć główną bramę. Parkowanie jest bezpłatne. Najlepiej zaparkuj pod Blokiem C, ale możesz zostawić samochód wszędzie w kompleksie, nawet przy ogrodzeniu, o ile nic nie blokujesz. Aby wyjechać samochodem, podjedź przed znak STOP / CZEKAJ przy głównej bramie. Drzwi otwierają się automatycznie.",
       "publicTransport": "Z lotniska w Pafos weź autobus 612 bezpośrednio i wysiądź na przystanku Kings Avenue Mall. Zaledwie 3 minuty piechotą od mieszkania. Stamtąd skorzystaj z linku Google Maps powyżej, aby nawigować do wejścia kompleksu. Jeśli nie wiesz gdzie wysiąść, zapytaj kierowcę. Przegapiłeś przystanek? Nie ma problemu. Następny przystanek to główna stacja przy Grobowcach Królów, zaledwie 5 minut pieszo od mieszkania. ⚠️ Autobusy przyjmują tylko gotówkę. Karty nie są akceptowane. Cena biletu wynosi 2,50 € za kurs na osobę, więc pamiętaj o drobnych lub małych banknotach.",
-      "taxi": "Taksówki są dostępne bezpośrednio przed halą przylotów na lotnisku w Pafos. Typowa stawka do Pafos wynosi 40–45 € w ciągu dnia i 45–50 € poza godzinami szczytu. Czas podróży z lotniska wynosi około 20–25 minut.",
+      "taxi": "Taksówki są dostępne bezpośrednio przed halą przylotów na lotnisku w Pafos. Typowa stawka do Pafos wynosi 40-45 € w ciągu dnia i 45-50 € poza godzinami szczytu. Czas podróży z lotniska wynosi około 20-25 minut.",
       "directionPhotos": [
         {
-          "caption": "Nawiguj do lokalizacji Google Maps. Kompleks znajduje się 2 bloki na lewo od Kings Avenue Mall. Czerwone oznaczenia wskazują drogi do ominięcia; podążaj właściwą trasą do głównego wejścia. Zobaczysz też znak zakazu wjazdu — dotyczy on tylko osób niebędących mieszkańcami. Jako gość masz prawo wjechać."
+          "caption": "Nawiguj do lokalizacji Google Maps. Kompleks znajduje się 2 bloki na lewo od Kings Avenue Mall. Czerwone oznaczenia wskazują drogi do ominięcia; podążaj właściwą trasą do głównego wejścia. Zobaczysz też znak zakazu wjazdu, dotyczy on tylko osób niebędących mieszkańcami. Jako gość masz prawo wjechać."
         },
         {
           "caption": "Gdy dotrzesz do wejścia, znajdź skrzynki na klucze na lewej ścianie."
@@ -1257,7 +1257,7 @@
     "checkin": {
       "keyLocation": "Skrzynka z kluczem znajduje się po lewej stronie ściany naprzeciwko głównej bramy. Więcej szczegółów znajdziesz w <a href=\"#direction-photo-3\" class=\"underline text-primary hover:text-teal-700\">zdjęciu 3</a> &amp; <a href=\"#direction-photo-4\" class=\"underline text-primary hover:text-teal-700\">zdjęciu 4</a> w sekcji Jak dojechać powyżej.",
       "steps": [
-        "Jedź do Byzantium Gardens. Kompleks znajduje się tuż obok Kings Avenue Mall (patrz zdjęcie 1 — przegląd mapy)",
+        "Jedź do Byzantium Gardens. Kompleks znajduje się tuż obok Kings Avenue Mall (patrz zdjęcie 1, przegląd mapy)",
         "Przy wejściu znajdź skrzynki na klucze na lewej ścianie (zdjęcie 2)",
         "Przyłóż chip/brelok do czytnika, aby otworzyć drzwi wejściowe (zdjęcie 3)",
         "Otwórz lewą skrzynkę w 2. rzędzie kodem: 9900, aby odebrać klucze (zdjęcie 4)",
@@ -1296,7 +1296,7 @@
       },
       {
         "name": "Prysznic i ciepła woda",
-        "instructions": "Zazwyczaj potrzeba 2–3 minut, aby woda się ogrzała — to normalne. Jeśli woda nie jest ciepła, możliwe że słońce tego dnia nie wystarczyło do naładowania paneli słonecznych. W takim przypadku naciśnij przycisk grzewczy obok drzwi łazienki i poczekaj 20 minut. Ważne: wyłącz system grzewczy przed wejściem pod prysznic. (Potrzebne jest to tylko w około 10% przypadków. Cypr jest zazwyczaj bardzo słoneczny! ☀️)"
+        "instructions": "Zazwyczaj potrzeba 2-3 minut, aby woda się ogrzała, to normalne. Jeśli woda nie jest ciepła, możliwe że słońce tego dnia nie wystarczyło do naładowania paneli słonecznych. W takim przypadku naciśnij przycisk grzewczy obok drzwi łazienki i poczekaj 20 minut. Ważne: wyłącz system grzewczy przed wejściem pod prysznic. (Potrzebne jest to tylko w około 10% przypadków. Cypr jest zazwyczaj bardzo słoneczny! ☀️)"
       },
       {
         "name": "Dostęp do basenu",
@@ -1312,7 +1312,7 @@
       },
       {
         "name": "Rośliny",
-        "instructions": "W mieszkaniu znajdziesz kilka roślin — dodają przestrzeni naturalnego i przytulnego charakteru. Jeśli zostajesz dłużej niż kilka dni, bardzo byśmy docenili podlewanie ich co 3–4 dni. Dziękujemy! 🌿"
+        "instructions": "W mieszkaniu znajdziesz kilka roślin, dodają przestrzeni naturalnego i przytulnego charakteru. Jeśli zostajesz dłużej niż kilka dni, bardzo byśmy docenili podlewanie ich co 3-4 dni. Dziękujemy! 🌿"
       }
     ],
     "thingsToDo": [
@@ -1387,7 +1387,7 @@
         "info": "Centralny dworzec autobusowy (Grobowce Królów) jest oddalony o 18 minut pieszo (~1,3 km) i oferuje bezpośrednie połączenia z głównymi atrakcjami, lotniskiem i okolicznymi miastami."
       },
       {
-        "info": "Carsharing sprawdza się dobrze w okolicach Pafos, w tym na trasie do/z lotniska. Pobierz aplikację i zarejestruj się w 5 minut. Samochody zazwyczaj dostępne w promieniu 5–10 minut piechotą."
+        "info": "Carsharing sprawdza się dobrze w okolicach Pafos, w tym na trasie do/z lotniska. Pobierz aplikację i zarejestruj się w 5 minut. Samochody zazwyczaj dostępne w promieniu 5-10 minut piechotą."
       },
       {
         "info": "Ekonomiczna aplikacja taxi. Polecana do poruszania się po Pafos bez niepewności co do liczników."
@@ -1459,11 +1459,11 @@
     "gettingHere": {
       "byCar": "Следуйте к Kings Avenue Mall в Пафосе. Комплекс Byzantium Gardens находится прямо рядом. Используйте ссылку Google Maps выше для навигации к въезду. ⚠️ Навигация Google Maps может быть неточной для этого адреса. На последнем отрезке она может направить вас по дороге, которая теперь является пешеходной зоной. Вместо этого объедьте квартал, чтобы добраться до главного входа. Пошаговый фотогид ниже содержит подробные указания.",
       "parking": "Когда у вас будут ключи, используйте чип/брелок на связке ключей для открытия главных ворот. Парковка бесплатная. Предпочтительно паркуйтесь под Блоком C, но можете оставить машину в любом месте комплекса, даже у забора, если не мешаете проезду. Для выезда на машине подъедьте к знаку СТОП / ОЖИДАНИЕ у главных ворот. Двери открываются автоматически.",
-      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 и выйдите на остановке Kings Avenue Mall. Всего 3 минуты пешком до квартиры. Оттуда используйте ссылку Google Maps выше для навигации к входу комплекса. Если не знаете где выходить, просто спросите водителя. Пропустили остановку? Не беда. Следующая остановка — главная станция у Гробниц Королей, всего в 5 минутах ходьбы от квартиры. ⚠️ Автобусы принимают только наличные. Карты не принимаются. Стоимость проезда 2,50 € за поездку на человека, поэтому возьмите мелочь или мелкие купюры.",
-      "taxi": "Такси доступно прямо перед залом прилётов аэропорта Пафоса. Типичная стоимость поездки до Пафоса составляет 40–45 € в дневное время и 45–50 € в ночное. Время в пути от аэропорта — примерно 20–25 минут.",
+      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 и выйдите на остановке Kings Avenue Mall. Всего 3 минуты пешком до квартиры. Оттуда используйте ссылку Google Maps выше для навигации к входу комплекса. Если не знаете где выходить, просто спросите водителя. Пропустили остановку? Не беда. Следующая остановка, главная станция у Гробниц Королей, всего в 5 минутах ходьбы от квартиры. ⚠️ Автобусы принимают только наличные. Карты не принимаются. Стоимость проезда 2,50 € за поездку на человека, поэтому возьмите мелочь или мелкие купюры.",
+      "taxi": "Такси доступно прямо перед залом прилётов аэропорта Пафоса. Типичная стоимость поездки до Пафоса составляет 40-45 € в дневное время и 45-50 € в ночное. Время в пути от аэропорта, примерно 20-25 минут.",
       "directionPhotos": [
         {
-          "caption": "Навигируйте к местоположению в Google Maps. Комплекс находится в 2 кварталах слева от Kings Avenue Mall. Красные метки показывают дороги, которые следует избегать; следуйте правильному маршруту к главному входу. Вы также увидите знак «Въезд запрещён» — он действует только для не-жильцов. Как гость вы имеете право въехать."
+          "caption": "Навигируйте к местоположению в Google Maps. Комплекс находится в 2 кварталах слева от Kings Avenue Mall. Красные метки показывают дороги, которые следует избегать; следуйте правильному маршруту к главному входу. Вы также увидите знак «Въезд запрещён», он действует только для не-жильцов. Как гость вы имеете право въехать."
         },
         {
           "caption": "Когда доберётесь до въезда, найдите ящики с ключами на левой стене."
@@ -1501,7 +1501,7 @@
         "Если приезжаете на машине, используйте аппарат справа, стоя лицом к главным воротам (фото 5)",
         "Въезжайте, проезжайте мимо Блока B. Блок C и парковка находятся прямо впереди (фото 6)",
         "У Блока C: вход слева, поднимитесь на 1-й этаж. Лифт доступен (фото 7)",
-        "Ваша квартира — дверь № 106, прямо рядом с лифтом (фото 8)"
+        "Ваша квартира, дверь № 106, прямо рядом с лифтом (фото 8)"
       ],
       "notes": "В квартире предоставлены полотенца для бассейна. Пожалуйста, используйте их, а не банные полотенца. В зоне бассейна есть шезлонги для всех гостей."
     },
@@ -1533,7 +1533,7 @@
       },
       {
         "name": "Душ и горячая вода",
-        "instructions": "Обычно требуется 2–3 минуты, чтобы вода стала горячей — это нормально. Если вода не нагревается, возможно, в этот день солнца было недостаточно для солнечных панелей. В этом случае нажмите кнопку нагрева рядом с дверью ванной и подождите 20 минут. Важно: выключите систему нагрева перед тем, как заходить в душ. (Это нужно примерно в 10% случаев. На Кипре обычно очень солнечно! ☀️)"
+        "instructions": "Обычно требуется 2-3 минуты, чтобы вода стала горячей, это нормально. Если вода не нагревается, возможно, в этот день солнца было недостаточно для солнечных панелей. В этом случае нажмите кнопку нагрева рядом с дверью ванной и подождите 20 минут. Важно: выключите систему нагрева перед тем, как заходить в душ. (Это нужно примерно в 10% случаев. На Кипре обычно очень солнечно! ☀️)"
       },
       {
         "name": "Доступ к бассейну",
@@ -1549,7 +1549,7 @@
       },
       {
         "name": "Растения",
-        "instructions": "В квартире вы найдёте несколько растений — они помогают создавать естественную и уютную атмосферу. Если вы остаётесь больше нескольких дней, мы будем очень благодарны, если вы будете поливать их раз в 3–4 дня. Спасибо! 🌿"
+        "instructions": "В квартире вы найдёте несколько растений, они помогают создавать естественную и уютную атмосферу. Если вы остаётесь больше нескольких дней, мы будем очень благодарны, если вы будете поливать их раз в 3-4 дня. Спасибо! 🌿"
       }
     ],
     "thingsToDo": [
@@ -1624,7 +1624,7 @@
         "info": "Центральная автобусная станция (Гробницы Королей) находится в 18 минутах ходьбы (~1,3 км) с прямыми маршрутами к главным достопримечательностям, аэропорту и соседним городам."
       },
       {
-        "info": "Каршеринг хорошо работает по всему Пафосу, в том числе до и от аэропорта. Скачайте приложение и зарегистрируйтесь за 5 минут. Машины обычно доступны в радиусе 5–10 минут ходьбы."
+        "info": "Каршеринг хорошо работает по всему Пафосу, в том числе до и от аэропорта. Скачайте приложение и зарегистрируйтесь за 5 минут. Машины обычно доступны в радиусе 5-10 минут ходьбы."
       },
       {
         "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости с счётчиками."

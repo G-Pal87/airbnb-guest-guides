@@ -49,7 +49,7 @@
     "byCar": "Head to Kings Avenue Mall, Byzantium Gardens is right next door. ⚠️ Google Maps may route you through a pedestrian promenade on the last stretch, go around the block instead. See the photo guide below.",
     "parking": "Free parking anywhere in the complex. Use the chip on your keychain to open the main gate. To exit by car, pull up to the STOP/WAIT sign, the gate opens automatically.",
     "publicTransport": "Bus 612 from Paphos Airport (~35 min journey, depending on season and stops), get off at Kings Avenue Mall (3-min walk to the apartment). Missed it? The next stop is just a 10-min walk. ⚠️ Cash only. €2.50 per ride.",
-    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride.",
+    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40-45 (day), €45-50 (after hours). ~20-25 min. A slightly cheaper option is to order a Bolt ride.",
     "directionPhotos": [
       {
         "src": "/airbnb-guest-guides/images/poolside-central-studio/Google%20Maps%20Screenshot.png",
@@ -830,7 +830,7 @@
     {
       "icon": "🚗",
       "name": "RideNow (Car Sharing)",
-      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5–10 min walk.",
+      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5-10 min walk.",
       "linkText": "Download the app",
       "linkUrl": "https://ridenow.tech"
     },
@@ -880,7 +880,7 @@
       "Before you head off, please lock the balcony door and all windows.",
       "Please switch off the AC, all lights, and the TV when you're done.",
       "When you check out, please return the key to the keybox and reset the code.",
-      "Drop us a WhatsApp to let us know you're on your way — it was a real pleasure having you!"
+      "Drop us a WhatsApp to let us know you're on your way, it was a real pleasure having you!"
     ],
     "lateCheckout": "Late checkout is generally not available due to our housekeeping schedule, but if you have a special circumstance just let us know and we'll do our very best!"
   },

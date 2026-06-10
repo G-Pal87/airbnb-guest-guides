@@ -32,7 +32,7 @@
       "byCar": "Vom Flughafen Larnaka nehmen Sie die Autobahn A3 in Richtung Ayia Napa. Fahren Sie auf der Küstenstraße B3 Richtung Paralimni weiter. Folgen Sie den Schildern zur Paralimni-Küste / Thalassa Beach. Biegen Sie links in die Thalassa Lane, kurz nach der kleinen weißen Kapelle ab. Das Studiogebäude befindet sich am Ende der Lane mit einem blauen Tor.",
       "parking": "Kleiner privater Parkplatz am Ende der Thalassa Lane. Platz für 1 Auto pro Studio. Ihr Stellplatz ist mit '1A' gekennzeichnet.",
       "publicTransport": "Ab dem Flughafen Paphos nehmen Sie den Bus 612 bis zur Haltestelle Tombs of the Kings. Von dort sind es 18 Gehminuten (~1,3 km). Alternativ können Sie den Bus 615 für eine Haltestelle (~2 Min.) nehmen. ⚠️ Busse akzeptieren nur Bargeld. Der Fahrpreis beträgt €2,50 pro Person und Fahrt.",
-      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40–45 tagsüber und €45–50 nachts. Die Fahrtdauer beträgt etwa 20–25 Minuten.",
+      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40-45 tagsüber und €45-50 nachts. Die Fahrtdauer beträgt etwa 20-25 Minuten.",
       "directionPhotos": []
     },
     "checkin": {
@@ -48,8 +48,8 @@
       "notes": "Das Terrassentor-Vorhängeschloss verwendet denselben Schlüssel wie die Tür. Die Terrasse ist halbprivat und wird mit dem Gast oben geteilt. Bitte lärmmäßig rücksichtsvoll sein, besonders abends."
     },
     "houseRules": [
-      "Kein Rauchen im Inneren – nur auf der Terrasse",
-      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00–8:00 Uhr",
+      "Kein Rauchen im Inneren, nur auf der Terrasse",
+      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00-8:00 Uhr",
       "Maximale Belegung: 2 Gäste",
       "Keine Haustiere erlaubt",
       "Geschirr sofort spülen und Küchenarbeitsfläche freihalten. Das warme Wetter Zyperns kann Insekten anlocken",
@@ -63,7 +63,7 @@
     "appliances": [
       {
         "name": "Klimaanlage",
-        "instructions": "Split-Klimaanlage an der Decke. Fernbedienung liegt auf dem Nachttisch. POWER drücken, COOL wählen, auf 22–24°C einstellen. Die Meeresbrise reicht abends oft aus. Terrassentür für natürliche Belüftung öffnen. Beim Verlassen ausschalten."
+        "instructions": "Split-Klimaanlage an der Decke. Fernbedienung liegt auf dem Nachttisch. POWER drücken, COOL wählen, auf 22-24°C einstellen. Die Meeresbrise reicht abends oft aus. Terrassentür für natürliche Belüftung öffnen. Beim Verlassen ausschalten."
       },
       {
         "name": "Smart-TV",
@@ -71,7 +71,7 @@
       },
       {
         "name": "Mini-Küche",
-        "instructions": "Zwei-Platten-Keramikkochfeld, kleiner Backofen, Mikrowelle und gut ausgestattetes Kochgeschirr. Das Ofenrad geht von 50–250°C. Umluft-Symbol ist der spiralförmige Pfeil. Mikrowelle: Essen hineinstellen, Zeitpad drücken und START. Alle Kochgeschirre im Unterschrank."
+        "instructions": "Zwei-Platten-Keramikkochfeld, kleiner Backofen, Mikrowelle und gut ausgestattetes Kochgeschirr. Das Ofenrad geht von 50-250°C. Umluft-Symbol ist der spiralförmige Pfeil. Mikrowelle: Essen hineinstellen, Zeitpad drücken und START. Alle Kochgeschirre im Unterschrank."
       },
       {
         "name": "Kaffeemaschine",
@@ -162,7 +162,7 @@
         "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."
       },
       {
-        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."
+        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5-10 Gehminuten verfügbar."
       },
       {
         "info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."
@@ -229,7 +229,7 @@
       "byCar": "A larnacai repülőtérről vegye az A3-as autópályát Ayia Napa irányába. Folytassa a B3-as part menti úton Paralimni felé. Kövesse a Paralimni-part / Thalassa Beach táblákat. Forduljon balra a Thalassa Lane-re, közvetlenül a kis fehér kápolna után. A stúdióépület a sáv végén található kék kapuval.",
       "parking": "Kis privát parkoló a Thalassa Lane végén. Hely 1 autónak stúdiónként. Az Ön parkolóhelye '1A'-val van jelölve.",
       "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vehet egy megállót a 615-ös busszal (~2 perc). ⚠️ A buszok csak készpénzt fogadnak el. A viteldíj 2,50€ személyenként és útonként.",
-      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40–45€, csúcsidőn kívül 45–50€. A repülőtérről az utazás körülbelül 20–25 percet vesz igénybe.",
+      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40-45€, csúcsidőn kívül 45-50€. A repülőtérről az utazás körülbelül 20-25 percet vesz igénybe.",
       "directionPhotos": []
     },
     "checkin": {
@@ -245,8 +245,8 @@
       "notes": "A teraszkapu lakatja ugyanazt a kulcsot használja, mint az ajtó. A terasz félig privát és a fenti vendéggel közös. Kérjük, legyen figyelmes a zajra, különösen este."
     },
     "houseRules": [
-      "Tilos a dohányzás beltéren – csak a teraszon",
-      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00–08:00",
+      "Tilos a dohányzás beltéren, csak a teraszon",
+      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00-08:00",
       "Maximális férőhely: 2 vendég",
       "Háziállatok nem engedélyezettek",
       "Mosogasson el azonnal és tartsa tisztán a konyhai pultot. Cipruson a meleg időjárás rovarokat vonzhat",
@@ -260,7 +260,7 @@
     "appliances": [
       {
         "name": "Légkondicionáló",
-        "instructions": "Split légkondicionáló a mennyezeten. A távirányító az éjjeliszekrényen található. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22–24°C-ra. A tengeri szellő esténként gyakran elegendő. Nyissa ki a teraszajtót a természetes szellőzéshez. Távozáskor kapcsolja ki."
+        "instructions": "Split légkondicionáló a mennyezeten. A távirányító az éjjeliszekrényen található. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22-24°C-ra. A tengeri szellő esténként gyakran elegendő. Nyissa ki a teraszajtót a természetes szellőzéshez. Távozáskor kapcsolja ki."
       },
       {
         "name": "Smart TV",
@@ -268,7 +268,7 @@
       },
       {
         "name": "Mini-konyha",
-        "instructions": "Két lapos kerámia főzőlap, kis sütő, mikrohullámú sütő és jól felszerelt főzőedények. A sütő tárcsája 50–250°C között megy. A légkeverés szimbóluma a spirál alakú nyíl. Mikrohullámú sütő: tegye be az ételt, nyomja meg az időbeállítást és a START gombot. Minden főzőedény az alsó szekrényben."
+        "instructions": "Két lapos kerámia főzőlap, kis sütő, mikrohullámú sütő és jól felszerelt főzőedények. A sütő tárcsája 50-250°C között megy. A légkeverés szimbóluma a spirál alakú nyíl. Mikrohullámú sütő: tegye be az ételt, nyomja meg az időbeállítást és a START gombot. Minden főzőedény az alsó szekrényben."
       },
       {
         "name": "Kávéfőző",
@@ -359,7 +359,7 @@
         "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
       },
       {
-        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5–10 perces sétán belül elérhetők."
+        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5-10 perces sétán belül elérhetők."
       },
       {
         "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
@@ -426,7 +426,7 @@
       "byCar": "Από το αεροδρόμιο Λάρνακας πάρτε τον αυτοκινητόδρομο A3 προς Αγία Νάπα. Συνεχίστε στον παράκτιο δρόμο B3 προς Παραλίμνι. Ακολουθήστε τις πινακίδες προς την ακτή Παραλιμνίου / Thalassa Beach. Στρίψτε αριστερά στη Thalassa Lane, λίγο μετά το μικρό λευκό εκκλησάκι. Το κτίριο του στούντιο βρίσκεται στο τέλος του δρόμου με μια μπλε πύλη.",
       "parking": "Μικρός ιδιωτικός χώρος στάθμευσης στο τέλος της Thalassa Lane. Χώρος για 1 αυτοκίνητο ανά στούντιο. Η θέση σας είναι σημειωμένη με '1A'.",
       "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 μέχρι τη στάση Τάφοι των Βασιλέων. Από εκεί είναι 18 λεπτά με τα πόδια (~1,3 χλμ). Εναλλακτικά, μπορείτε να πάρετε το λεωφορείο 615 για μία στάση (~2 λεπτά). ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Η εισιτήριο κοστίζει 2,50€ ανά άτομο ανά διαδρομή.",
-      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40–45€ κατά τη διάρκεια της ημέρας και 45–50€ τη νύχτα. Η διαδρομή διαρκεί περίπου 20–25 λεπτά.",
+      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40-45€ κατά τη διάρκεια της ημέρας και 45-50€ τη νύχτα. Η διαδρομή διαρκεί περίπου 20-25 λεπτά.",
       "directionPhotos": []
     },
     "checkin": {
@@ -442,7 +442,7 @@
       "notes": "Το λουκέτο της πύλης της βεράντας χρησιμοποιεί το ίδιο κλειδί με την πόρτα. Η βεράντα είναι ημι-ιδιωτική και μοιράζεται με τον φιλοξενούμενο του επάνω ορόφου. Παρακαλούμε σεβαστείτε την ησυχία, ιδιαίτερα το βράδυ."
     },
     "houseRules": [
-      "Απαγορεύεται το κάπνισμα εντός — μόνο στη βεράντα",
+      "Απαγορεύεται το κάπνισμα εντός, μόνο στη βεράντα",
       "Απαγορεύονται πάρτι και εκδηλώσεις. Ησυχία από τις 23:00 έως τις 08:00",
       "Μέγιστη χωρητικότητα: 2 φιλοξενούμενοι",
       "Δεν επιτρέπονται κατοικίδια",
@@ -457,7 +457,7 @@
     "appliances": [
       {
         "name": "Κλιματισμός",
-        "instructions": "Κλιματιστικό split στην οροφή. Το τηλεχειριστήριο βρίσκεται στο κομοδίνο. Πατήστε POWER, επιλέξτε COOL, ρυθμίστε στους 22–24°C. Η θαλάσσια αύρα συχνά αρκεί το βράδυ. Ανοίξτε την πόρτα της βεράντας για φυσικό αερισμό. Σβήστε το κατά την αναχώρηση."
+        "instructions": "Κλιματιστικό split στην οροφή. Το τηλεχειριστήριο βρίσκεται στο κομοδίνο. Πατήστε POWER, επιλέξτε COOL, ρυθμίστε στους 22-24°C. Η θαλάσσια αύρα συχνά αρκεί το βράδυ. Ανοίξτε την πόρτα της βεράντας για φυσικό αερισμό. Σβήστε το κατά την αναχώρηση."
       },
       {
         "name": "Smart TV",
@@ -465,7 +465,7 @@
       },
       {
         "name": "Μίνι Κουζίνα",
-        "instructions": "Κεραμική εστία δύο εστιών, μικρός φούρνος, φούρνος μικροκυμάτων και καλά εξοπλισμένα σκεύη. Ο φούρνος ρυθμίζεται από 50–250°C. Το σύμβολο αέρα είναι το σπειροειδές βέλος. Μικροκύματα: βάλτε το φαγητό, ρυθμίστε τον χρόνο και πατήστε START. Όλα τα σκεύη στο κάτω ντουλάπι."
+        "instructions": "Κεραμική εστία δύο εστιών, μικρός φούρνος, φούρνος μικροκυμάτων και καλά εξοπλισμένα σκεύη. Ο φούρνος ρυθμίζεται από 50-250°C. Το σύμβολο αέρα είναι το σπειροειδές βέλος. Μικροκύματα: βάλτε το φαγητό, ρυθμίστε τον χρόνο και πατήστε START. Όλα τα σκεύη στο κάτω ντουλάπι."
       },
       {
         "name": "Καφετιέρα",
@@ -556,7 +556,7 @@
         "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
       },
       {
-        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5–10 λεπτών με τα πόδια."
+        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5-10 λεπτών με τα πόδια."
       },
       {
         "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
@@ -623,7 +623,7 @@
       "byCar": "Depuis l'aéroport de Larnaca, prenez l'autoroute A3 en direction d'Ayia Napa. Continuez sur la route côtière B3 en direction de Paralimni. Suivez les panneaux pour la côte de Paralimni / Thalassa Beach. Tournez à gauche sur Thalassa Lane juste après la petite chapelle blanche. Le bâtiment du studio est au bout de l'allée avec un portail bleu.",
       "parking": "Petit parking privé au bout de Thalassa Lane. Place pour 1 voiture par studio. Votre place est marquée '1A'.",
       "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 jusqu'à l'arrêt Tombs of the Kings. De là, l'appartement est à 18 minutes à pied (~1,3 km). ⚠️ Les bus n'acceptent que l'argent liquide. Tarif : 2,50 € par personne et par trajet.",
-      "taxi": "Des taxis sont disponibles directement à la sortie de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40–45 € en journée et 45–50 € en soirée. Le trajet dure environ 20–25 minutes.",
+      "taxi": "Des taxis sont disponibles directement à la sortie de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40-45 € en journée et 45-50 € en soirée. Le trajet dure environ 20-25 minutes.",
       "directionPhotos": []
     },
     "checkin": {
@@ -640,7 +640,7 @@
     },
     "houseRules": [
       "Interdiction de fumer à l'intérieur. Terrasse uniquement",
-      "Pas de fêtes ni d'événements. Heures de silence 23h–8h",
+      "Pas de fêtes ni d'événements. Heures de silence 23h-8h",
       "Capacité maximale : 2 personnes",
       "Pas d'animaux de compagnie",
       "Faire la vaisselle immédiatement et garder le comptoir dégagé. Le climat chaud de Chypre peut attirer des insectes",
@@ -654,7 +654,7 @@
     "appliances": [
       {
         "name": "Climatisation",
-        "instructions": "Climatisation split au plafond. La télécommande est sur la table de nuit. Appuyez sur POWER, choisissez COOL, réglez à 22–24°C. La brise marine suffit souvent le soir. Ouvrez la porte de terrasse pour une ventilation naturelle. Éteignez en partant."
+        "instructions": "Climatisation split au plafond. La télécommande est sur la table de nuit. Appuyez sur POWER, choisissez COOL, réglez à 22-24°C. La brise marine suffit souvent le soir. Ouvrez la porte de terrasse pour une ventilation naturelle. Éteignez en partant."
       },
       {
         "name": "Smart TV",
@@ -753,7 +753,7 @@
         "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."
       },
       {
-        "info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5–10 minutes à pied."
+        "info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5-10 minutes à pied."
       },
       {
         "info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
@@ -820,7 +820,7 @@
       "byCar": "Desde el aeropuerto de Larnaca, tome la autopista A3 hacia el este hasta Ayia Napa. Continúe por la carretera costera B3 hacia el norte hacia Paralimni. Siga las indicaciones para la Costa de Paralimni / Thalassa Beach. Gire a la izquierda en Thalassa Lane justo después de la pequeña capilla blanca. El edificio del estudio está al final del callejón con una puerta azul.",
       "parking": "Pequeño aparcamiento privado al final de Thalassa Lane. Espacio para 1 coche por estudio. Su plaza está marcada '1A'.",
       "publicTransport": "Desde el aeropuerto de Pafos, tome el autobús 612 hasta la parada Tombs of the Kings. Desde allí, a 18 minutos a pie (~1,3 km). ⚠️ Los autobuses solo aceptan efectivo. Tarifa: 2,50 € por persona y trayecto.",
-      "taxi": "Taxis disponibles directamente a la salida del aeropuerto de Pafos. Tarifa típica a Pafos: 40–45 € de día, 45–50 € de noche. Tiempo de viaje aproximado: 20–25 minutos.",
+      "taxi": "Taxis disponibles directamente a la salida del aeropuerto de Pafos. Tarifa típica a Pafos: 40-45 € de día, 45-50 € de noche. Tiempo de viaje aproximado: 20-25 minutos.",
       "directionPhotos": []
     },
     "checkin": {
@@ -851,7 +851,7 @@
     "appliances": [
       {
         "name": "Aire acondicionado",
-        "instructions": "Unidad de AC en el techo. El mando está en la mesilla. Pulse POWER, seleccione COOL y ajuste a 22–24°C. La brisa del mar suele ser suficiente por las noches. Abra la puerta de la terraza para ventilación natural. Apague al salir."
+        "instructions": "Unidad de AC en el techo. El mando está en la mesilla. Pulse POWER, seleccione COOL y ajuste a 22-24°C. La brisa del mar suele ser suficiente por las noches. Abra la puerta de la terraza para ventilación natural. Apague al salir."
       },
       {
         "name": "Smart TV",
@@ -950,7 +950,7 @@
         "info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
       },
       {
-        "info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5–10 minutos a pie."
+        "info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5-10 minutos a pie."
       },
       {
         "info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."
@@ -1017,7 +1017,7 @@
       "byCar": "Z lotniska w Larnace jedźcie autostradą A3 na wschód do Ayia Napa. Kontynuujcie drogą przybrzeżną B3 na północ w kierunku Paralimni. Podążajcie za znakami do wybrzeża Paralimni / Thalassa Beach. Skręćcie w lewo w Thalassa Lane zaraz po małej białej kaplicy. Budynek studia jest na końcu uliczki z niebieską bramą.",
       "parking": "Mały prywatny parking na końcu Thalassa Lane. Miejsce dla 1 samochodu na studio. Wasze miejsce jest oznaczone '1A'.",
       "publicTransport": "Z lotniska w Pafos weźcie autobus 612 do przystanku Tombs of the Kings. Stamtąd 18 minut pieszo (~1,3 km). ⚠️ Autobusy akceptują tylko gotówkę. Opłata: 2,50 € za osobę za kurs.",
-      "taxi": "Taksówki są dostępne przy wyjściu z hali przyletów lotniska Pafos. Typowa opłata do Pafos: 40–45 € w ciągu dnia, 45–50 € po godzinach. Czas podróży: ok. 20–25 minut.",
+      "taxi": "Taksówki są dostępne przy wyjściu z hali przyletów lotniska Pafos. Typowa opłata do Pafos: 40-45 € w ciągu dnia, 45-50 € po godzinach. Czas podróży: ok. 20-25 minut.",
       "directionPhotos": []
     },
     "checkin": {
@@ -1034,7 +1034,7 @@
     },
     "houseRules": [
       "Zakaz palenia wewnątrz. Tylko na tarasie",
-      "Zakaz imprez i wydarzeń. Cisza nocna 23:00–8:00",
+      "Zakaz imprez i wydarzeń. Cisza nocna 23:00-8:00",
       "Maksymalna liczba gości: 2",
       "Zakaz zwierząt",
       "Myjcie naczynia od razu i trzymajcie blat kuchenny wolny. Ciepły klimat Cypru może przyciągać owady",
@@ -1048,7 +1048,7 @@
     "appliances": [
       {
         "name": "Klimatyzacja",
-        "instructions": "Jednostka AC na suficie. Pilot leży na nocnym stoliku. Naciśnijcie POWER, wybierzcie COOL i ustawcie na 22–24°C. Morska bryza często wystarczy wieczorami. Otwórzcie drzwi tarasowe dla naturalnej wentylacji. Wyłączcie przy wychodzeniu."
+        "instructions": "Jednostka AC na suficie. Pilot leży na nocnym stoliku. Naciśnijcie POWER, wybierzcie COOL i ustawcie na 22-24°C. Morska bryza często wystarczy wieczorami. Otwórzcie drzwi tarasowe dla naturalnej wentylacji. Wyłączcie przy wychodzeniu."
       },
       {
         "name": "Smart TV",
@@ -1147,7 +1147,7 @@
         "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."
       },
       {
-        "info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5–10 minutach pieszo."
+        "info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5-10 minutach pieszo."
       },
       {
         "info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."
@@ -1213,8 +1213,8 @@
     "gettingHere": {
       "byCar": "Из аэропорта Ларнаки возьмите шоссе A3 на восток до Айя-Напы. Продолжайте по прибрежной дороге B3 на север к Паралимни. Следуйте указателям к побережью Паралимни / пляжу Таласса. Поверните налево на Thalassa Lane сразу после маленькой белой часовни. Здание студии находится в конце переулка с синими воротами.",
       "parking": "Небольшая частная парковка в конце Thalassa Lane. Место для 1 автомобиля на студию. Ваше место обозначено '1A'.",
-      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда 18 минут пешком (~1,3 км). ⚠️ Автобусы принимают только наличные. Стоимость — 2,50 € за человека за поездку.",
-      "taxi": "Такси доступны у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость до Пафоса: 40–45 € днём, 45–50 € в нерабочее время. Время в пути: около 20–25 минут.",
+      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда 18 минут пешком (~1,3 км). ⚠️ Автобусы принимают только наличные. Стоимость, 2,50 € за человека за поездку.",
+      "taxi": "Такси доступны у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость до Пафоса: 40-45 € днём, 45-50 € в нерабочее время. Время в пути: около 20-25 минут.",
       "directionPhotos": []
     },
     "checkin": {
@@ -1245,7 +1245,7 @@
     "appliances": [
       {
         "name": "Кондиционер",
-        "instructions": "Сплит-кондиционер на потолке. Пульт лежит на тумбочке. Нажмите POWER, выберите COOL и установите 22–24°C. Морской бриз часто достаточен по вечерам. Откройте дверь террасы для естественной вентиляции. Выключайте при уходе."
+        "instructions": "Сплит-кондиционер на потолке. Пульт лежит на тумбочке. Нажмите POWER, выберите COOL и установите 22-24°C. Морской бриз часто достаточен по вечерам. Откройте дверь террасы для естественной вентиляции. Выключайте при уходе."
       },
       {
         "name": "Smart TV",
@@ -1253,7 +1253,7 @@
       },
       {
         "name": "Мини-кухня",
-        "instructions": "Двухконфорочная керамическая плита, небольшая духовка, микроволновка и полный набор посуды. Ручка духовки от 50 до 250°C. Значок конвекции — спиральная стрелка. Микроволновка: положите еду, нажмите цифры времени и СТАРТ. Вся посуда в шкафу под плитой."
+        "instructions": "Двухконфорочная керамическая плита, небольшая духовка, микроволновка и полный набор посуды. Ручка духовки от 50 до 250°C. Значок конвекции, спиральная стрелка. Микроволновка: положите еду, нажмите цифры времени и СТАРТ. Вся посуда в шкафу под плитой."
       },
       {
         "name": "Кофеварка",
@@ -1344,7 +1344,7 @@
         "info": "Центральная автобусная станция (Tombs of the Kings) в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."
       },
       {
-        "info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5–10 минутах ходьбы."
+        "info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5-10 минутах ходьбы."
       },
       {
         "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."

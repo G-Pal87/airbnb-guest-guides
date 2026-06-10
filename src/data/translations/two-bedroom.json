@@ -27,18 +27,18 @@
       "checkoutChecklist": "Check-out-Checkliste",
       "contactHost": "Gastgeber kontaktieren"
     },
-    "welcomeMessage": "Willkommen in unserem schönen 2-Zimmer-Apartment! Wir freuen uns sehr, dass Sie Ihre Zeit hier verbringen. Dieses geräumige Apartment wurde für Familien und Gruppen konzipiert. Viel Platz zum gemeinsamen Entspannen und Ausbreiten. Zwei Schlafzimmer, ein großes Wohnzimmer, eine voll ausgestattete Küche und ein breiter privater Balkon mit Gartenblick. Wir möchten, dass Ihr Aufenthalt perfekt ist – zögern Sie also nicht, uns zu kontaktieren, wenn Sie etwas brauchen.",
+    "welcomeMessage": "Willkommen in unserem schönen 2-Zimmer-Apartment! Wir freuen uns sehr, dass Sie Ihre Zeit hier verbringen. Dieses geräumige Apartment wurde für Familien und Gruppen konzipiert. Viel Platz zum gemeinsamen Entspannen und Ausbreiten. Zwei Schlafzimmer, ein großes Wohnzimmer, eine voll ausgestattete Küche und ein breiter privater Balkon mit Gartenblick. Wir möchten, dass Ihr Aufenthalt perfekt ist, zögern Sie also nicht, uns zu kontaktieren, wenn Sie etwas brauchen.",
     "gettingHere": {
       "byCar": "Vom Flughafen Larnaka nehmen Sie die Autobahn A3 in Richtung Protaras. Verlassen Sie die Autobahn bei Protaras/Paralimni und fahren Sie zum Hauptkreisverkehr. Nehmen Sie die dritte Ausfahrt auf die Protaras Avenue Richtung Stadtzentrum. Biegen Sie 500 m nach dem Protaras-Wasserpark auf der rechten Seite links in die Kypros Street ab. Wir sind das sandfarbene viergeschossige Gebäude. Achten Sie auf die Bougainvillea über dem Eingang.",
       "parking": "Kostenloser Parkplatz hinter dem Gebäude. Einfahrt über die Gasse rechts vom Gebäude. Ihr Stellplatz ist mit 'K14' gekennzeichnet.",
       "publicTransport": "Ab dem Flughafen Paphos nehmen Sie den Bus 612 bis zur Haltestelle Tombs of the Kings. Von dort sind es 18 Gehminuten (~1,3 km). Alternativ Bus 615 für eine Haltestelle. ⚠️ Busse akzeptieren nur Bargeld. Der Fahrpreis beträgt €2,50 pro Person und Fahrt.",
-      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40–45 tagsüber und €45–50 nachts. Die Fahrtdauer beträgt etwa 20–25 Minuten.",
+      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40-45 tagsüber und €45-50 nachts. Die Fahrtdauer beträgt etwa 20-25 Minuten.",
       "directionPhotos": []
     },
     "checkin": {
       "keyLocation": "Schlüsselbox am Haupteingang des Gebäudes, Erdgeschoss links",
       "steps": [
-        "Das Gebäude durch die Haupttür betreten (drücken zum Öffnen – nicht abgeschlossen)",
+        "Das Gebäude durch die Haupttür betreten (drücken zum Öffnen, nicht abgeschlossen)",
         "Die Schlüsselbox befindet sich an der linken Wand gleich nach dem Eingang, in Brusthöhe",
         "Code 2468 eingeben und die Klappe öffnen, um den Schlüssel zu nehmen",
         "Fahrstuhl oder Treppe zum 2. Stock nehmen. Die Wohnung ist Nummer 14",
@@ -49,7 +49,7 @@
     },
     "houseRules": [
       "Kein Rauchen in der gesamten Wohnung",
-      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00–8:00 Uhr",
+      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00-8:00 Uhr",
       "Maximale Belegung: 5 Gäste",
       "Keine Haustiere erlaubt",
       "Geschirr sofort spülen und Küchenarbeitsfläche freihalten. Das warme Wetter Zyperns kann Insekten anlocken",
@@ -64,11 +64,11 @@
     "appliances": [
       {
         "name": "Klimaanlage",
-        "instructions": "Es gibt drei Klimaanlagen: eine im Wohnzimmer, je eine in jedem Schlafzimmer. Jede hat ihre eigene Fernbedienung im jeweiligen Zimmer. POWER drücken, COOL wählen, auf 22–24°C einstellen. Alle Anlagen können gleichzeitig betrieben werden. Türen und Fenster beim Betrieb geschlossen halten. Alle Anlagen beim Verlassen ausschalten."
+        "instructions": "Es gibt drei Klimaanlagen: eine im Wohnzimmer, je eine in jedem Schlafzimmer. Jede hat ihre eigene Fernbedienung im jeweiligen Zimmer. POWER drücken, COOL wählen, auf 22-24°C einstellen. Alle Anlagen können gleichzeitig betrieben werden. Türen und Fenster beim Betrieb geschlossen halten. Alle Anlagen beim Verlassen ausschalten."
       },
       {
         "name": "Waschmaschine",
-        "instructions": "Vollständige Waschmaschine im Hauswirtschaftsraum neben dem Badezimmer. Flüssigwaschmittel unter dem Waschbecken – in die Schublade II geben. Auf 40°C Baumwolle für normale Ladungen einstellen, START drücken. Die Maschine hat auch eine Trockenfunktion: ABLASSEN+SCHLEUDERN wählen, dann bei niedriger Hitze trocknen."
+        "instructions": "Vollständige Waschmaschine im Hauswirtschaftsraum neben dem Badezimmer. Flüssigwaschmittel unter dem Waschbecken, in die Schublade II geben. Auf 40°C Baumwolle für normale Ladungen einstellen, START drücken. Die Maschine hat auch eine Trockenfunktion: ABLASSEN+SCHLEUDERN wählen, dann bei niedriger Hitze trocknen."
       },
       {
         "name": "Smart-TV",
@@ -171,7 +171,7 @@
         "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."
       },
       {
-        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5–10 Gehminuten verfügbar."
+        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5-10 Gehminuten verfügbar."
       },
       {
         "info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."
@@ -240,13 +240,13 @@
       "byCar": "A larnacai repülőtérről vegye az A3-as autópályát Protaras irányába. Hagyja el az autópályát Protaras/Paralimni-nél és hajtson a fő körforgalomhoz. A harmadik kijáratot vegye a Protaras sugárútra a városközpont felé. A Protaras vízipark után 500 m-rel a jobb oldalon forduljon balra a Kypros utcába. Mi vagyunk a homokszínű négyemeletes épület. Figyelje a bejárat feletti bougainvilleát.",
       "parking": "Ingyenes parkoló az épület mögött. Behajtás az épülettől jobbra lévő sikátoron keresztül. Az Ön parkolóhelye 'K14'-gyel van jelölve.",
       "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vegyen egy megállót a 615-ös busszal. ⚠️ A buszok csak készpénzt fogadnak el. A viteldíj 2,50€ személyenként és útonként.",
-      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40–45€, csúcsidőn kívül 45–50€. A repülőtérről az utazás körülbelül 20–25 percet vesz igénybe.",
+      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40-45€, csúcsidőn kívül 45-50€. A repülőtérről az utazás körülbelül 20-25 percet vesz igénybe.",
       "directionPhotos": []
     },
     "checkin": {
       "keyLocation": "Kulcsszekrény az épület főbejáratánál, földszint balra",
       "steps": [
-        "Lépjen be az épületbe a főajtón (nyomja a nyitáshoz – nincs bezárva)",
+        "Lépjen be az épületbe a főajtón (nyomja a nyitáshoz, nincs bezárva)",
         "A kulcsszekrény a bal oldali falon található közvetlenül a bejárat után, mellmagasságban",
         "Írja be a 2468 kódot és nyissa ki a fedelet a kulcs kivételéhez",
         "Vegye a liftet vagy a lépcsőt a 2. emeletre. A lakás a 14-es szám",
@@ -257,7 +257,7 @@
     },
     "houseRules": [
       "Tilos a dohányzás a teljes lakásban",
-      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00–08:00",
+      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00-08:00",
       "Maximális férőhely: 5 vendég",
       "Háziállatok nem engedélyezettek",
       "Mosogasson el azonnal és tartsa tisztán a konyhai pultot. Cipruson a meleg időjárás rovarokat vonzhat",
@@ -272,11 +272,11 @@
     "appliances": [
       {
         "name": "Légkondicionáló",
-        "instructions": "Három légkondicionáló van: egy a nappaliban, egy-egy mindkét hálószobában. Mindegyiknek saját távirányítója van az adott szobában. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22–24°C-ra. Az összes egység egyszerre is működtethető. Tartsa csukva az ajtókat és ablakokat működés közben. Távozáskor kapcsolja ki az összes egységet."
+        "instructions": "Három légkondicionáló van: egy a nappaliban, egy-egy mindkét hálószobában. Mindegyiknek saját távirányítója van az adott szobában. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22-24°C-ra. Az összes egység egyszerre is működtethető. Tartsa csukva az ajtókat és ablakokat működés közben. Távozáskor kapcsolja ki az összes egységet."
       },
       {
         "name": "Mosógép",
-        "instructions": "Teljes méretű mosógép a fürdőszoba melletti háztartási helyiségben. Folyékony mosószer a mosogató alatt – tegye a II-es fiókba. Állítsa 40°C pamut programra normál mosáshoz, nyomja meg a START gombot. A gépnek szárító funkciója is van: válassza a SZIVATTYÚZÁS+CENTRIFUGÁLÁS opciót, majd szárítson alacsony hőfokon."
+        "instructions": "Teljes méretű mosógép a fürdőszoba melletti háztartási helyiségben. Folyékony mosószer a mosogató alatt, tegye a II-es fiókba. Állítsa 40°C pamut programra normál mosáshoz, nyomja meg a START gombot. A gépnek szárító funkciója is van: válassza a SZIVATTYÚZÁS+CENTRIFUGÁLÁS opciót, majd szárítson alacsony hőfokon."
       },
       {
         "name": "Smart TV",
@@ -379,7 +379,7 @@
         "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
       },
       {
-        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5–10 perces sétán belül elérhetők."
+        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5-10 perces sétán belül elérhetők."
       },
       {
         "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
@@ -443,18 +443,18 @@
       "checkoutChecklist": "Λίστα Αναχώρησης",
       "contactHost": "Επικοινωνία"
     },
-    "welcomeMessage": "Καλώς ήρθατε στο όμορφο διαμέρισμά μας με 2 υπνοδωμάτια! Χαιρόμαστε πολύ που θα περάσετε τον χρόνο σας εδώ. Αυτό το ευρύχωρο διαμέρισμα σχεδιάστηκε για οικογένειες και παρέες. Άφθονος χώρος για να χαλαρώσετε και να απλωθείτε όλοι μαζί. Δύο υπνοδωμάτια, ένα μεγάλο σαλόνι, μια πλήρως εξοπλισμένη κουζίνα και ένα ευρύ ιδιωτικό μπαλκόνι με θέα στον κήπο. Θέλουμε η διαμονή σας να είναι τέλεια — μη διστάσετε λοιπόν να επικοινωνήσετε μαζί μας αν χρειαστείτε κάτι.",
+    "welcomeMessage": "Καλώς ήρθατε στο όμορφο διαμέρισμά μας με 2 υπνοδωμάτια! Χαιρόμαστε πολύ που θα περάσετε τον χρόνο σας εδώ. Αυτό το ευρύχωρο διαμέρισμα σχεδιάστηκε για οικογένειες και παρέες. Άφθονος χώρος για να χαλαρώσετε και να απλωθείτε όλοι μαζί. Δύο υπνοδωμάτια, ένα μεγάλο σαλόνι, μια πλήρως εξοπλισμένη κουζίνα και ένα ευρύ ιδιωτικό μπαλκόνι με θέα στον κήπο. Θέλουμε η διαμονή σας να είναι τέλεια, μη διστάσετε λοιπόν να επικοινωνήσετε μαζί μας αν χρειαστείτε κάτι.",
     "gettingHere": {
       "byCar": "Από το αεροδρόμιο Λάρνακας πάρτε τον αυτοκινητόδρομο A3 προς Πρωταρά. Βγείτε από τον αυτοκινητόδρομο στον Πρωταρά/Παραλίμνι και οδηγήστε προς τον κεντρικό κυκλικό κόμβο. Πάρτε την τρίτη έξοδο στη λεωφόρο Πρωταρά προς το κέντρο της πόλης. Στρίψτε αριστερά στην οδό Κύπρου 500 μ. μετά το πάρκο νερού του Πρωταρά στη δεξιά πλευρά. Είμαστε το τετραώροφο κτίριο σε χρώμα άμμου. Προσέξτε τη βουκαμβίλια πάνω από την είσοδο.",
       "parking": "Δωρεάν χώρος στάθμευσης πίσω από το κτίριο. Είσοδος από το δρομάκι δεξιά του κτιρίου. Η θέση σας είναι σημειωμένη με 'K14'.",
       "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 μέχρι τη στάση Τάφοι των Βασιλέων. Από εκεί είναι 18 λεπτά με τα πόδια (~1,3 χλμ). Εναλλακτικά, το λεωφορείο 615 για μία στάση. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Η εισιτήριο κοστίζει 2,50€ ανά άτομο ανά διαδρομή.",
-      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40–45€ κατά τη διάρκεια της ημέρας και 45–50€ τη νύχτα. Η διαδρομή διαρκεί περίπου 20–25 λεπτά.",
+      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40-45€ κατά τη διάρκεια της ημέρας και 45-50€ τη νύχτα. Η διαδρομή διαρκεί περίπου 20-25 λεπτά.",
       "directionPhotos": []
     },
     "checkin": {
       "keyLocation": "Κουτί κλειδιών στην κύρια είσοδο του κτιρίου, ισόγειο αριστερά",
       "steps": [
-        "Μπείτε στο κτίριο από την κύρια πόρτα (σπρώξτε για να ανοίξει — δεν είναι κλειδωμένη)",
+        "Μπείτε στο κτίριο από την κύρια πόρτα (σπρώξτε για να ανοίξει, δεν είναι κλειδωμένη)",
         "Το κουτί κλειδιών βρίσκεται στον αριστερό τοίχο αμέσως μετά την είσοδο, σε ύψος στήθους",
         "Πληκτρολογήστε τον κωδικό 2468 και ανοίξτε το καπάκι για να πάρετε το κλειδί",
         "Πάρτε τον ανελκυστήρα ή τις σκάλες στον 2ο όροφο. Το διαμέρισμα είναι το νούμερο 14",
@@ -480,11 +480,11 @@
     "appliances": [
       {
         "name": "Κλιματισμός",
-        "instructions": "Υπάρχουν τρία κλιματιστικά: ένα στο σαλόνι και από ένα σε κάθε υπνοδωμάτιο. Καθένα έχει το δικό του τηλεχειριστήριο στο αντίστοιχο δωμάτιο. Πατήστε POWER, επιλέξτε COOL, ρυθμίστε στους 22–24°C. Όλα μπορούν να λειτουργούν ταυτόχρονα. Κρατήστε πόρτες και παράθυρα κλειστά όταν λειτουργούν. Σβήστε τα όλα κατά την αναχώρηση."
+        "instructions": "Υπάρχουν τρία κλιματιστικά: ένα στο σαλόνι και από ένα σε κάθε υπνοδωμάτιο. Καθένα έχει το δικό του τηλεχειριστήριο στο αντίστοιχο δωμάτιο. Πατήστε POWER, επιλέξτε COOL, ρυθμίστε στους 22-24°C. Όλα μπορούν να λειτουργούν ταυτόχρονα. Κρατήστε πόρτες και παράθυρα κλειστά όταν λειτουργούν. Σβήστε τα όλα κατά την αναχώρηση."
       },
       {
         "name": "Πλυντήριο",
-        "instructions": "Πλήρες πλυντήριο στον χώρο οικιακής χρήσης δίπλα στο μπάνιο. Υγρό απορρυπαντικό κάτω από τον νεροχύτη — βάλτε το στη θήκη II. Ρυθμίστε στους 40°C βαμβακερά για κανονικά φορτία, πατήστε START. Το μηχάνημα έχει και λειτουργία στεγνώματος: επιλέξτε ΑΔΕΙΑΣΜΑ+ΣΤΥΨΙΜΟ, μετά στεγνώστε σε χαμηλή θερμοκρασία."
+        "instructions": "Πλήρες πλυντήριο στον χώρο οικιακής χρήσης δίπλα στο μπάνιο. Υγρό απορρυπαντικό κάτω από τον νεροχύτη, βάλτε το στη θήκη II. Ρυθμίστε στους 40°C βαμβακερά για κανονικά φορτία, πατήστε START. Το μηχάνημα έχει και λειτουργία στεγνώματος: επιλέξτε ΑΔΕΙΑΣΜΑ+ΣΤΥΨΙΜΟ, μετά στεγνώστε σε χαμηλή θερμοκρασία."
       },
       {
         "name": "Smart TV",
@@ -587,7 +587,7 @@
         "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
       },
       {
-        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5–10 λεπτών με τα πόδια."
+        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5-10 λεπτών με τα πόδια."
       },
       {
         "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
@@ -656,13 +656,13 @@
       "byCar": "Depuis l'aéroport de Larnaca, prenez l'autoroute A3 en direction de Protaras. Sortez à Protaras/Paralimni et continuez jusqu'au rond-point principal. Prenez la troisième sortie sur l'avenue Protaras en direction du centre-ville. Tournez à gauche sur la rue Kypros, 500 m après le parc aquatique de Protaras sur la droite. Nous sommes le bâtiment de couleur sable à quatre étages. Cherchez la bougainvillée au-dessus de l'entrée.",
       "parking": "Parking gratuit en dehors de la voirie derrière le bâtiment. Entrée par la ruelle sur la droite du bâtiment. Votre place est marquée 'K14'.",
       "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 jusqu'à l'arrêt Tombs of the Kings. De là, à 18 minutes à pied (~1,3 km). ⚠️ Les bus n'acceptent que l'argent liquide. Tarif : 2,50 € par personne et par trajet.",
-      "taxi": "Des taxis sont disponibles directement à la sortie de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40–45 € en journée et 45–50 € en soirée. Le trajet dure environ 20–25 minutes.",
+      "taxi": "Des taxis sont disponibles directement à la sortie de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40-45 € en journée et 45-50 € en soirée. Le trajet dure environ 20-25 minutes.",
       "directionPhotos": []
     },
     "checkin": {
       "keyLocation": "Boîte à clés à l'entrée principale du bâtiment, rez-de-chaussée à gauche",
       "steps": [
-        "Entrer dans le bâtiment par la porte principale (pousser pour ouvrir – non verrouillée)",
+        "Entrer dans le bâtiment par la porte principale (pousser pour ouvrir, non verrouillée)",
         "La boîte à clés se trouve sur le mur gauche juste après l'entrée, à hauteur de poitrine",
         "Entrer le code 2468 et ouvrir le volet pour récupérer la clé",
         "Prendre l'ascenseur ou les escaliers jusqu'au 2ème étage. L'appartement est le numéro 14",
@@ -673,7 +673,7 @@
     },
     "houseRules": [
       "Interdiction de fumer partout dans l'appartement",
-      "Pas de fêtes ni d'événements. Heures de silence 23h–8h",
+      "Pas de fêtes ni d'événements. Heures de silence 23h-8h",
       "Capacité maximale : 5 personnes",
       "Pas d'animaux de compagnie",
       "Faire la vaisselle immédiatement et garder le comptoir dégagé. Le climat chaud de Chypre peut attirer des insectes",
@@ -688,7 +688,7 @@
     "appliances": [
       {
         "name": "Climatisation",
-        "instructions": "Il y a trois climatiseurs : un dans le salon, un dans chaque chambre. Chacun a sa propre télécommande dans la pièce respective. Appuyez sur POWER, sélectionnez COOL et réglez à 22–24°C. Toutes les unités peuvent fonctionner simultanément. Gardez toutes les portes et fenêtres fermées pendant le fonctionnement. Éteignez toutes les unités avant de partir."
+        "instructions": "Il y a trois climatiseurs : un dans le salon, un dans chaque chambre. Chacun a sa propre télécommande dans la pièce respective. Appuyez sur POWER, sélectionnez COOL et réglez à 22-24°C. Toutes les unités peuvent fonctionner simultanément. Gardez toutes les portes et fenêtres fermées pendant le fonctionnement. Éteignez toutes les unités avant de partir."
       },
       {
         "name": "Machine à laver",
@@ -795,7 +795,7 @@
         "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."
       },
       {
-        "info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5–10 minutes à pied."
+        "info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5-10 minutes à pied."
       },
       {
         "info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
@@ -864,7 +864,7 @@
       "byCar": "Desde el aeropuerto de Larnaca, tome la autopista A3 hacia Protaras. Salga en Protaras/Paralimni y continúe hasta la rotonda principal. Tome la tercera salida hacia la avenida Protaras en dirección al centro. Gire a la izquierda en la calle Kypros, 500 m después del parque acuático de Protaras a la derecha. Somos el edificio de cuatro plantas de color arena. Busque la buganvilla sobre la entrada.",
       "parking": "Aparcamiento gratuito en la calle detrás del edificio. Entrada por el callejón a la derecha. Su plaza está marcada 'K14'.",
       "publicTransport": "Desde el aeropuerto de Pafos, tome el autobús 612 hasta la parada Tombs of the Kings. Desde allí, a 18 minutos a pie (~1,3 km). ⚠️ Los autobuses solo aceptan efectivo. Tarifa: 2,50 € por persona y trayecto.",
-      "taxi": "Taxis disponibles a la salida del aeropuerto de Pafos. Tarifa típica a Pafos: 40–45 € de día, 45–50 € de noche. Tiempo de viaje: aprox. 20–25 minutos.",
+      "taxi": "Taxis disponibles a la salida del aeropuerto de Pafos. Tarifa típica a Pafos: 40-45 € de día, 45-50 € de noche. Tiempo de viaje: aprox. 20-25 minutos.",
       "directionPhotos": []
     },
     "checkin": {
@@ -896,7 +896,7 @@
     "appliances": [
       {
         "name": "Aire acondicionado",
-        "instructions": "Hay tres unidades de AC: una en el salón, una en cada dormitorio. Cada una tiene su propio mando en la habitación correspondiente. Pulse POWER, seleccione COOL y ajuste a 22–24°C. Todas las unidades pueden funcionar simultáneamente. Mantenga todas las puertas y ventanas cerradas durante el funcionamiento. Apague todas las unidades antes de salir."
+        "instructions": "Hay tres unidades de AC: una en el salón, una en cada dormitorio. Cada una tiene su propio mando en la habitación correspondiente. Pulse POWER, seleccione COOL y ajuste a 22-24°C. Todas las unidades pueden funcionar simultáneamente. Mantenga todas las puertas y ventanas cerradas durante el funcionamiento. Apague todas las unidades antes de salir."
       },
       {
         "name": "Lavadora",
@@ -1003,7 +1003,7 @@
         "info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
       },
       {
-        "info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5–10 minutos a pie."
+        "info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5-10 minutos a pie."
       },
       {
         "info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."
@@ -1067,18 +1067,18 @@
       "checkoutChecklist": "Lista wymeldowania",
       "contactHost": "Kontakt z gospodarzem"
     },
-    "welcomeMessage": "Witamy w naszym pięknym apartamencie 2-pokojowym! Jesteśmy bardzo zadowoleni, że wybraliście spędzenie tu czasu. Ten przestronny apartament został zaprojektowany z myślą o rodzinach i grupach. Dużo miejsca do wspólnego odpoczynku. Dwie sypialnie, duży salon, w pełni wyposażona kuchnia i szeroki prywatny balkon z widokiem na ogród. Chcemy, żeby Wasz pobyt był doskonały – nie wahajcie się kontaktować, jeśli czegoś potrzebujecie.",
+    "welcomeMessage": "Witamy w naszym pięknym apartamencie 2-pokojowym! Jesteśmy bardzo zadowoleni, że wybraliście spędzenie tu czasu. Ten przestronny apartament został zaprojektowany z myślą o rodzinach i grupach. Dużo miejsca do wspólnego odpoczynku. Dwie sypialnie, duży salon, w pełni wyposażona kuchnia i szeroki prywatny balkon z widokiem na ogród. Chcemy, żeby Wasz pobyt był doskonały, nie wahajcie się kontaktować, jeśli czegoś potrzebujecie.",
     "gettingHere": {
       "byCar": "Z lotniska w Larnace jedźcie autostradą A3 w kierunku Protaras. Zjedźcie przy Protaras/Paralimni i kontynuujcie do głównego ronda. Weźcie trzeci zjazd na aleję Protaras w kierunku centrum. Skręćcie w lewo w ulicę Kypros, 500 m za parkiem wodnym Protaras po prawej stronie. Jesteśmy piaskowym czteropiętrowym budynkiem. Szukajcie bugenwilli nad wejściem.",
       "parking": "Bezpłatny parking poza ulicą za budynkiem. Wjazd z alejki po prawej stronie budynku. Wasze miejsce jest oznaczone 'K14'.",
       "publicTransport": "Z lotniska w Pafos weźcie autobus 612 do przystanku Tombs of the Kings. Stamtąd 18 minut pieszo (~1,3 km). ⚠️ Autobusy akceptują tylko gotówkę. Opłata: 2,50 € za osobę za kurs.",
-      "taxi": "Taksówki dostępne przy wyjściu z hali przyletów lotniska Pafos. Typowa opłata do Pafos: 40–45 € w ciągu dnia, 45–50 € po godzinach. Czas podróży: ok. 20–25 minut.",
+      "taxi": "Taksówki dostępne przy wyjściu z hali przyletów lotniska Pafos. Typowa opłata do Pafos: 40-45 € w ciągu dnia, 45-50 € po godzinach. Czas podróży: ok. 20-25 minut.",
       "directionPhotos": []
     },
     "checkin": {
       "keyLocation": "Skrzynka na klucze przy głównym wejściu budynku, parter po lewej",
       "steps": [
-        "Wejdźcie do budynku przez główne drzwi (pchnij, aby otworzyć – nie są zamknięte na klucz)",
+        "Wejdźcie do budynku przez główne drzwi (pchnij, aby otworzyć, nie są zamknięte na klucz)",
         "Skrzynka na klucze jest na lewej ścianie tuż przy wejściu, na wysokości klatki piersiowej",
         "Wprowadźcie kod 2468 i otwórzcie klapkę, aby wyjąć klucz",
         "Weźcie windę lub schody na 2. piętro. Apartament ma numer 14",
@@ -1089,7 +1089,7 @@
     },
     "houseRules": [
       "Zakaz palenia w całym apartamencie",
-      "Zakaz imprez i wydarzeń. Cisza nocna 23:00–8:00",
+      "Zakaz imprez i wydarzeń. Cisza nocna 23:00-8:00",
       "Maksymalna liczba gości: 5",
       "Zakaz zwierząt",
       "Myjcie naczynia od razu i trzymajcie blat kuchenny wolny. Ciepły klimat Cypru może przyciągać owady",
@@ -1104,11 +1104,11 @@
     "appliances": [
       {
         "name": "Klimatyzacja",
-        "instructions": "Są trzy jednostki klimatyzacji: jedna w salonie, po jednej w każdej sypialni. Każda ma własny pilot w danym pokoju. Naciśnijcie POWER, wybierzcie COOL i ustawcie na 22–24°C. Wszystkie jednostki mogą działać jednocześnie. Trzymajcie wszystkie drzwi i okna zamknięte podczas pracy. Wyłączcie wszystkie jednostki przed wyjściem."
+        "instructions": "Są trzy jednostki klimatyzacji: jedna w salonie, po jednej w każdej sypialni. Każda ma własny pilot w danym pokoju. Naciśnijcie POWER, wybierzcie COOL i ustawcie na 22-24°C. Wszystkie jednostki mogą działać jednocześnie. Trzymajcie wszystkie drzwi i okna zamknięte podczas pracy. Wyłączcie wszystkie jednostki przed wyjściem."
       },
       {
         "name": "Pralka",
-        "instructions": "Pełnowymiarowa pralka w pralni obok łazienki. Płyn do prania pod zlewozmywakiem – dodajcie do szuflady oznaczonej II. Ustaw pokrętło na 40°C Bawełna dla normalnych ładunków i naciśnijcie START. Maszyna ma też funkcję suszenia: wybierzcie ODWIROWANIE+ODPOMPOWANIE, następnie suszcie przy niskiej temperaturze."
+        "instructions": "Pełnowymiarowa pralka w pralni obok łazienki. Płyn do prania pod zlewozmywakiem, dodajcie do szuflady oznaczonej II. Ustaw pokrętło na 40°C Bawełna dla normalnych ładunków i naciśnijcie START. Maszyna ma też funkcję suszenia: wybierzcie ODWIROWANIE+ODPOMPOWANIE, następnie suszcie przy niskiej temperaturze."
       },
       {
         "name": "Smart TV",
@@ -1211,7 +1211,7 @@
         "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."
       },
       {
-        "info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5–10 minutach pieszo."
+        "info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5-10 minutach pieszo."
       },
       {
         "info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."
@@ -1277,16 +1277,16 @@
     },
     "welcomeMessage": "Добро пожаловать в нашу прекрасную квартиру с 2 спальнями! Мы очень рады, что вы выбрали провести здесь своё время. Эта просторная квартира была разработана с учётом потребностей семей и групп. Много места для совместного отдыха. Две спальни, большая гостиная, полностью оборудованная кухня и широкий частный балкон с видом на сад. Мы хотим, чтобы ваше пребывание было идеальным, поэтому не стесняйтесь обращаться к нам по любому вопросу.",
     "gettingHere": {
-      "byCar": "Из аэропорта Ларнаки возьмите шоссе A3 в сторону Протараса. Съезжайте у Протараса/Паралимни и следуйте до главного кольца. Возьмите третий съезд на проспект Протарас в сторону центра. Поверните налево на улицу Кипрос, в 500 м за аквапарком Протарас справа. Мы — четырёхэтажное здание цвета песка. Ищите бугенвиллею над входом.",
+      "byCar": "Из аэропорта Ларнаки возьмите шоссе A3 в сторону Протараса. Съезжайте у Протараса/Паралимни и следуйте до главного кольца. Возьмите третий съезд на проспект Протарас в сторону центра. Поверните налево на улицу Кипрос, в 500 м за аквапарком Протарас справа. Мы, четырёхэтажное здание цвета песка. Ищите бугенвиллею над входом.",
       "parking": "Бесплатная парковка за зданием. Въезд по переулку справа. Ваше место обозначено 'K14'.",
-      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда 18 минут пешком (~1,3 км). ⚠️ Автобусы принимают только наличные. Стоимость — 2,50 € за человека за поездку.",
-      "taxi": "Такси доступны у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость до Пафоса: 40–45 € днём, 45–50 € в нерабочее время. Время в пути: около 20–25 минут.",
+      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда 18 минут пешком (~1,3 км). ⚠️ Автобусы принимают только наличные. Стоимость, 2,50 € за человека за поездку.",
+      "taxi": "Такси доступны у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость до Пафоса: 40-45 € днём, 45-50 € в нерабочее время. Время в пути: около 20-25 минут.",
       "directionPhotos": []
     },
     "checkin": {
       "keyLocation": "Ящик для ключей у главного входа в здание, первый этаж слева",
       "steps": [
-        "Войдите в здание через главную дверь (толкните для открытия — не заперта)",
+        "Войдите в здание через главную дверь (толкните для открытия, не заперта)",
         "Ящик для ключей находится на левой стене сразу за входом, на уровне груди",
         "Введите код 2468 и откройте крышку, чтобы взять ключ",
         "Возьмите лифт или лестницу на 2-й этаж. Квартира номер 14",
@@ -1312,7 +1312,7 @@
     "appliances": [
       {
         "name": "Кондиционер",
-        "instructions": "Есть три кондиционера: один в гостиной, по одному в каждой спальне. У каждого есть свой пульт в соответствующей комнате. Нажмите POWER, выберите COOL и установите 22–24°C. Все блоки могут работать одновременно. Держите все двери и окна закрытыми во время работы. Выключите все блоки перед выходом."
+        "instructions": "Есть три кондиционера: один в гостиной, по одному в каждой спальне. У каждого есть свой пульт в соответствующей комнате. Нажмите POWER, выберите COOL и установите 22-24°C. Все блоки могут работать одновременно. Держите все двери и окна закрытыми во время работы. Выключите все блоки перед выходом."
       },
       {
         "name": "Стиральная машина",
@@ -1324,7 +1324,7 @@
       },
       {
         "name": "Полная кухня",
-        "instructions": "Полная 4-конфорочная керамическая плита с духовкой. Кастрюли, сковороды и утварь в нижних шкафах. Духовка разогревается около 15 минут. Установите верхнее колесо на желаемую температуру, нижнее — на нужный режим приготовления (рекомендуется конвекция). Посудомоечная машина под раковиной. Таблетки в шкафу выше."
+        "instructions": "Полная 4-конфорочная керамическая плита с духовкой. Кастрюли, сковороды и утварь в нижних шкафах. Духовка разогревается около 15 минут. Установите верхнее колесо на желаемую температуру, нижнее, на нужный режим приготовления (рекомендуется конвекция). Посудомоечная машина под раковиной. Таблетки в шкафу выше."
       },
       {
         "name": "Барбекю / Гриль",
@@ -1419,7 +1419,7 @@
         "info": "Центральная автобусная станция (Tombs of the Kings) в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."
       },
       {
-        "info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5–10 минутах ходьбы."
+        "info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5-10 минутах ходьбы."
       },
       {
         "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."

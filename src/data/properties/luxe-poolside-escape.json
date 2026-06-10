@@ -104,7 +104,7 @@
         "caption": "First door on the left (ground floor). The white door is yours!"
       }
     ],
-    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40–45 (day), €45–50 (after hours). ~20–25 min. A slightly cheaper option is to order a Bolt ride.",
+    "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40-45 (day), €45-50 (after hours). ~20-25 min. A slightly cheaper option is to order a Bolt ride.",
     "directionPhotosStart": 4
   },
   "houseRules": [
@@ -913,7 +913,7 @@
     {
       "icon": "🚗",
       "name": "RideNow (Car Sharing)",
-      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5–10 min walk.",
+      "info": "Car-sharing app that works well around Paphos. Sign up in minutes. Cars typically within a 5-10 min walk.",
       "linkText": "Download the app",
       "linkUrl": "https://ridenow.tech"
     },
@@ -959,13 +959,13 @@
     "steps": [
       "If you could give the dishes a wash or run the dishwasher one last time, we'd really appreciate it!",
       "If you could clear out the fridge and pop any leftover food in the bin, that would be great!",
-      "If you could take the rubbish bags to the bins in the parking area — on your right as you walk out past the pool — that would be a big help!",
+      "If you could take the rubbish bags to the bins in the parking area, on your right as you walk out past the pool, that would be a big help!",
       "Please remember to close and securely tie the patio umbrella before you leave.",
       "If it's raining or looks like rain is on the way, please bring the outdoor sofa cushions back inside so they stay dry. Thank you!",
       "Before heading off, please lock all windows, balcony doors and shutters.",
       "Please switch off all lights, AC, and the TV when you're done.",
       "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",
-      "Drop us a WhatsApp to let us know you've left — and we'd truly love a review if you enjoyed your stay!"
+      "Drop us a WhatsApp to let us know you've left, and we'd truly love a review if you enjoyed your stay!"
     ],
     "lateCheckout": "We try to be flexible wherever we can. If you'd like a late checkout, please let us know 1-2 days before your departure and we'll do our best to make it happen."
   },

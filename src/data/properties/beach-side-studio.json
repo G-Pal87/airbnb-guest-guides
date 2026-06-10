@@ -142,6 +142,11 @@
       "instructions": "You'll find fresh towels, a hair dryer, and soap and shampoo all ready for you. If anything else is missing, just let me know and I'll sort it out."
     },
     {
+      "name": "Bathroom Ventilation",
+      "icon": "🌬️",
+      "instructions": "⚠️ IMPORTANT: As the bathroom doesn't have a window, it's important to get the steam out. There's a ventilation system that should ideally be on for 20 minutes every day. It works together with the bathroom's light, so please leave it on for a while after you use the bathroom, especially if you take a shower. Also, please make sure to leave the door open when you're not using the bathroom."
+    },
+    {
       "name": "Plants",
       "icon": "🌱",
       "instructions": "If you're staying a few days, the plants would love a little water every 3-4 days. They'll appreciate it!"

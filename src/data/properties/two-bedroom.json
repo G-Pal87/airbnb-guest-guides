@@ -87,8 +87,7 @@
       }
     ],
     "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running.",
-    "directionPhotosStart": 1,
-    "busStationUrl": "https://goo.gl/maps/q5DXMS7iLKb5cRy59"
+    "directionPhotosStart": 1
   },
   "houseRules": [
     "Please keep smoking to the balconies and terraces only",

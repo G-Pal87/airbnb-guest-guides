@@ -740,7 +740,7 @@
     {
       "name": "Kitchen",
       "icon": "🍳",
-      "instructions": "You have a kitchen area equipped with an electric stove, a mini oven, a fridge, and all the normal kitchen tools you might need. Since the whole electrical system of the house is a bit old, it can't handle many high-power appliances running at the same time: e.g. a hair dryer + washing machine + iron. Please make sure you only use one at a time to be on the safe side. In any case, if the electricity shuts down, do not worry: just let me know as soon as possible so I can help."
+      "instructions": "You have a kitchen area equipped with an electric stove, a mini oven, a fridge as well as the normal kitchen tools you might need. ⚠️ Important: as it's always summer in Tenerife, bugs and insects never sleep. Please make sure to remove all leftover food and throw it in the bin right away, and I also recommend cleaning the dishes right after eating to avoid flies and other insects showing up in the kitchen."
     },
     {
       "name": "Washing Machine",

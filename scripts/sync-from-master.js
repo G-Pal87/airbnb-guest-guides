@@ -3,8 +3,12 @@
  * Syncs master-managed fields from master-tenerife.json / master-cyprus.json
  * into each matching property file.
  *
- * Replace fields: thingsToDo, houseRules, gettingAround, emergency, gettingHere
+ * Replace fields: thingsToDo, houseRules, gettingAround, emergency
  *   — entire array/object replaced with the master version.
+ *
+ * Partial object fields: gettingHere
+ *   — sub-keys synced from master EXCEPT directionPhotos and directionPhotosBus,
+ *     which are property-specific (different door/entrance per unit).
  *
  * Merge fields: appliances
  *   — matched by name; master entries update matching property entries.
@@ -31,7 +35,8 @@ const PROPERTIES = {
   cyprus: ['luxe-poolside-escape', 'poolside-central-studio', 'venus-beach-retreat'],
 };
 
-const REPLACE_FIELDS = ['thingsToDo', 'houseRules', 'gettingAround', 'emergency', 'gettingHere'];
+const REPLACE_FIELDS = ['thingsToDo', 'houseRules', 'gettingAround', 'emergency'];
+const PARTIAL_OBJECT_FIELDS = { gettingHere: ['directionPhotos', 'directionPhotosBus'] };
 const MERGE_BY_NAME_FIELDS = ['appliances'];
 
 const filter = process.argv[2]; // optional: 'tenerife' or 'cyprus'
@@ -58,6 +63,23 @@ for (const [location, ids] of Object.entries(PROPERTIES)) {
           property[field] = master[field];
           updated = true;
         }
+      }
+    }
+
+    for (const [field, excludeKeys] of Object.entries(PARTIAL_OBJECT_FIELDS)) {
+      if (!(field in master)) continue;
+      const propObj = property[field] ?? {};
+      let fieldUpdated = false;
+      for (const [k, v] of Object.entries(master[field])) {
+        if (excludeKeys.includes(k)) continue;
+        if (JSON.stringify(propObj[k]) !== JSON.stringify(v)) {
+          propObj[k] = v;
+          fieldUpdated = true;
+        }
+      }
+      if (fieldUpdated) {
+        property[field] = propObj;
+        updated = true;
       }
     }
 

@@ -3,7 +3,7 @@
  * Syncs master-managed fields from master-tenerife.json / master-cyprus.json
  * into each matching property file.
  *
- * Replace fields: thingsToDo, houseRules, gettingAround, emergency
+ * Replace fields: thingsToDo, houseRules, gettingAround, emergency, gettingHere
  *   — entire array/object replaced with the master version.
  *
  * Merge fields: appliances
@@ -31,7 +31,7 @@ const PROPERTIES = {
   cyprus: ['luxe-poolside-escape', 'poolside-central-studio', 'venus-beach-retreat'],
 };
 
-const REPLACE_FIELDS = ['thingsToDo', 'houseRules', 'gettingAround', 'emergency'];
+const REPLACE_FIELDS = ['thingsToDo', 'houseRules', 'gettingAround', 'emergency', 'gettingHere'];
 const MERGE_BY_NAME_FIELDS = ['appliances'];
 
 const filter = process.argv[2]; // optional: 'tenerife' or 'cyprus'

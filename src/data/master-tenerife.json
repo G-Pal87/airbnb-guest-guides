@@ -772,5 +772,70 @@
       "icon": "🤗",
       "instructions": "My right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
     }
-  ]
+  ],
+  "gettingHere": {
+    "byCar": "The best is to park at the recommended spot (link below). There are always spaces available and you won't have to climb almost any stairs. Then follow the walking directions in the photo guide. Google Maps is not 100% accurate for the last stretch, so please use the photo guide!",
+    "parking": "There are always parking spaces available and it is a short flat walk to the house entrance.",
+    "parkingUrl": "https://maps.app.goo.gl/iZAoE6vizeim4x3K6",
+    "publicTransport": "There are various buses from Santa Cruz de Tenerife (e.g. Nr. 909, 910, 916). Make sure to get off at Valleseco (it's a small village with just one stop). Once you get off, find the Punto y Coma Minimarket and take the stairs on the left about 20 metres after passing it. It's a 5-10 minute uphill walk to the house. Google Maps is not fully accurate for the last stretch, so please follow the photo guide!",
+    "directionPhotos": [
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-05_at_13.13.45.webp",
+        "caption": "Park up here. There are always spaces available and you won't have to climb almost any stairs."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_06.55.49.webp",
+        "caption": "Starting from the parking, move in this direction and walk until the street ends, then go down the stairs on the left side."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.00.16.webp",
+        "caption": "Go down to the next street below and turn right. This is the street of the house."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.00.38.webp",
+        "caption": "Walk straight and cross the garden with cacti and other plants."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.03.webp",
+        "caption": "Continue between the houses..."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.33.webp",
+        "caption": "Keep going straight..."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.01.50.webp",
+        "caption": "After 1 min, on the left-hand side, you will see a white-coloured house."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/WhatsApp_Image_2024-02-09_at_07.03.24.webp",
+        "caption": "Getting closer. Your apartment is in the lower part of the house."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-05_at_13.14.09.webp",
+        "caption": "Look for the white door opening from the stairs at the side of the house, with a key box next to it. Code: 6015"
+      }
+    ],
+    "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running.",
+    "directionPhotosStart": 1,
+    "puntoYComaUrl": "https://goo.gl/maps/SxAHmMN7bQ8NW4gy6",
+    "directionPhotosBus": [
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-07_at_12.54.36.webp",
+        "caption": "Find the Punto y Coma Minimarket. After passing it, take the stairs on the left to go up."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-07_at_12.54.49.webp",
+        "caption": "Find the stairs on the left, about 20 metres after passing the minimarket."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-07_at_12.55.01.webp",
+        "caption": "After 5-10 minutes of climbing (depending on your ambitions!), you will see the house."
+      },
+      {
+        "src": "/airbnb-guest-guides/images/beach-house-style-studio/Screenshot_2023-08-05_at_13.14.09.webp",
+        "caption": "It's the lower part of the house. Look for the white door opening from the stairs at the side, with a key box next to it. Code: 6015"
+      }
+    ]
+  }
 }

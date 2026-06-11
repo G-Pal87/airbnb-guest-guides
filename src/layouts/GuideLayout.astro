@@ -279,8 +279,8 @@ html[data-theme="tenerife"] details > summary .text-charcoal{
   color:#0D3B43 !important;
 }
 
-/* --- Accordion cards: warm card bg --- */
-html[data-theme="tenerife"] details{background-color:#FFFDF9}
+/* --- Accordion cards: warm card bg (exclude the tile WiFi accordion) --- */
+html[data-theme="tenerife"] details:not(.bg-primary){background-color:#FFFDF9}
 
 /* Open accordion: tile accent */
 html[data-theme="tenerife"] details[open]{

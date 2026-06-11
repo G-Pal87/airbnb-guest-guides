@@ -280,16 +280,17 @@ html[data-theme="tenerife"] [id$="-heading"]{
   font-weight:460 !important;
   padding-bottom:0 !important;
   display:inline-flex;
-  align-items:baseline;
+  align-items:center;             /* dots ride on the same row as the text */
 }
 /* replace the underline bar with three rotated colour squares */
 html[data-theme="tenerife"] [id$="-heading"]::after{
   content:"";
-  position:static;
+  position:relative;
+  top:1px;
   width:8px;
   height:8px;
   border-radius:2.5px;
-  transform:rotate(45deg) translateY(-3px);
+  transform:rotate(45deg);
   background:#1E7F8C;                                   /* tile */
   box-shadow:13px 0 0 #E89A2F, 26px 0 0 #D95F3B;       /* mango, hibiscus */
   margin-left:18px;

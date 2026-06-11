@@ -283,8 +283,25 @@ html[data-theme="tenerife"] details > summary .text-charcoal{
   color:#0D3B43 !important;
 }
 
-/* --- Accordion cards: warm card bg (exclude the tile WiFi accordion) --- */
+/* --- Accordion cards: warm card bg --- */
 html[data-theme="tenerife"] details:not(.bg-primary){background-color:#FFFDF9}
+
+/* WiFi accordion: warm white card with dark text for contrast */
+html[data-theme="tenerife"] #wifi details.bg-primary{
+  background-color:#FFFDF9 !important;
+  border:1px solid rgba(13,59,67,.10) !important;
+  color:#27343A !important;
+}
+html[data-theme="tenerife"] #wifi details.bg-primary summary span.font-semibold{color:#0D3B43 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary summary svg{color:#8A9499 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary .border-white\/20{border-color:rgba(13,59,67,.10) !important}
+html[data-theme="tenerife"] #wifi details.bg-primary .bg-white\/15{background-color:#F4E7D4 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary .text-white\/70{color:#617078 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary .font-medium.text-white{color:#0D3B43 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary .bg-white\/20{background-color:rgba(13,59,67,.08) !important;color:#617078 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary button.bg-white\/20{background-color:#EAD9BF !important;color:#0D3B43 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary button.bg-white\/20:hover{background-color:#DEC9A8 !important}
+html[data-theme="tenerife"] #wifi details.bg-primary .text-white\/80{color:#617078 !important}
 
 /* Open accordion: tile accent */
 html[data-theme="tenerife"] details[open]{

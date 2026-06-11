@@ -315,18 +315,18 @@ html[data-theme="tenerife"] [id$="-heading"]{
   display:inline-flex;
   align-items:center;             /* dots ride on the same row as the text */
 }
-/* replace the underline bar with three rotated colour squares */
+/* three colour diamonds (tile / mango / hibiscus) in a straight row */
 html[data-theme="tenerife"] [id$="-heading"]::after{
   content:"";
   position:relative;
   top:1px;
-  width:8px;
-  height:8px;
-  border-radius:2.5px;
-  transform:rotate(45deg);
-  background:#1E7F8C;                                   /* tile */
-  box-shadow:13px 0 0 #E89A2F, 26px 0 0 #D95F3B;       /* mango, hibiscus */
+  width:34px;
+  height:10px;
   margin-left:18px;
+  transform:none;
+  box-shadow:none;
+  border-radius:0;
+  background:no-repeat center/contain url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='34' height='10' viewBox='0 0 34 10'><polygon points='4,1 8,5 4,9 0,5' fill='%231E7F8C'/><polygon points='17,1 21,5 17,9 13,5' fill='%23E89A2F'/><polygon points='30,1 34,5 30,9 26,5' fill='%23D95F3B'/></svg>");
 }
 /* Emergency heading keeps its red identity (no tile-dots) */
 html[data-theme="tenerife"] #emergency [id$="-heading"]{

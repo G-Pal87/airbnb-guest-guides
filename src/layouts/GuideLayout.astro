@@ -139,9 +139,69 @@ html[data-theme="tenerife"] .nav-link:active{
   border-color:#1E7F8C !important;
 }
 
-/* --- QuickRef "At a Glance" banner: warm Canarian gradient --- */
+/* --- QuickRef "At a Glance": light cards on plaster (mockup parity) --- */
 html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"]{
-  background:linear-gradient(135deg,#164F58 0%,#1E7F8C 50%,#C47B18 100%) !important;
+  background:#FBF3E8 !important;       /* plaster, no dark banner */
+}
+/* hide the decorative blur blobs */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] > .absolute.inset-0{
+  display:none !important;
+}
+/* heading -> atlantic ink */
+html[data-theme="tenerife"] #quickref-heading{
+  color:#0D3B43 !important;
+}
+/* glass cards -> warm light cards */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] .bg-white\/20{
+  background-color:#FFFDF9 !important;
+  border-color:rgba(13,59,67,.12) !important;
+  color:#27343A !important;
+  box-shadow:0 1px 2px rgba(13,59,67,.05),0 10px 30px -18px rgba(13,59,67,.25) !important;
+}
+/* labels / hints -> ink-soft */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] .text-white\/80,
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] .text-white\/70{
+  color:#5C6B70 !important;
+}
+/* big time values -> atlantic, Fraunces */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] .text-accent{
+  color:#0D3B43 !important;
+}
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] p.text-2xl{
+  font-family:'Fraunces',Georgia,serif !important;
+  font-weight:560 !important;
+  font-size:2.1rem !important;
+  line-height:1.1 !important;
+}
+/* network name -> atlantic bold */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] .bg-white\/20 .font-medium{
+  color:#0D3B43 !important;
+}
+/* WiFi password code -> hibiscus (coral) */
+html[data-theme="tenerife"] #wifi-password-quickref{
+  color:#D95F3B !important;
+}
+/* "Copied!" feedback -> leaf green */
+html[data-theme="tenerife"] #copy-feedback-quickref{
+  color:#5F7D52 !important;
+}
+/* icon copy button -> plaster-deep pill */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] button.bg-white\/20{
+  background-color:#F4E7D4 !important;
+  border:1px solid rgba(13,59,67,.12) !important;
+  color:#0D3B43 !important;
+}
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] button.bg-white\/20:hover{
+  background-color:#EAD9BF !important;
+}
+/* Contact CTA button -> solid tile with light text */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] a.bg-accent{
+  background-color:#1E7F8C !important;
+  color:#FDF8EE !important;
+  box-shadow:0 8px 20px -10px rgba(30,127,140,.6) !important;
+}
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"] a.bg-accent:hover{
+  background-color:#14525C !important;
 }
 
 /* --- Cards: warm white + warm borders + warm shadows --- */

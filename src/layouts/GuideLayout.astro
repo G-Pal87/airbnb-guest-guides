@@ -257,13 +257,13 @@ html[data-theme="tenerife"] .w-1[style*="0E7490"]{
   background:linear-gradient(to bottom,#1E7F8C,#E89A2F) !important;
 }
 
-/* --- GETTING HERE: full mockup parity --- */
-/* plaster section so the white cards read like the mockup */
-html[data-theme="tenerife"] #getting-here{
+/* --- Plaster page, white cards (mockup model) --- */
+/* every white section -> plaster background (matches body/page) */
+html[data-theme="tenerife"] section.bg-white{
   background-color:#FBF3E8 !important;
 }
-/* address card -> warm white card */
-html[data-theme="tenerife"] #getting-here .bg-surface{
+/* card-level surfaces (not the section/body) -> warm white card */
+html[data-theme="tenerife"] .bg-surface:not(section):not(body){
   background-color:#FFFDF9 !important;
 }
 /* street / address line -> Fraunces atlantic (mockup .street) */

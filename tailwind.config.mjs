@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#0E7490',
-        accent: '#F59E0B',
-        surface: '#FAFAF8',
-        charcoal: '#1C1917',
+        primary: 'rgb(var(--c-primary) / <alpha-value>)',
+        accent: 'rgb(var(--c-accent) / <alpha-value>)',
+        surface: 'rgb(var(--c-surface) / <alpha-value>)',
+        charcoal: 'rgb(var(--c-charcoal) / <alpha-value>)',
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],

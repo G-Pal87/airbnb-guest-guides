@@ -5,14 +5,16 @@ interface Props {
   title: string;
   propertyName: string;
   translations?: Record<string, unknown>;
+  theme?: string | null;
 }
 
-const { title, propertyName, translations } = Astro.props;
+const { title, propertyName, translations, theme } = Astro.props;
 const i18nJson = translations ? JSON.stringify(translations) : '{}';
+const isTenerife = theme === 'tenerife';
 ---
 
 <!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
+<html lang="en" class="scroll-smooth" data-theme={isTenerife ? 'tenerife' : undefined}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -27,10 +29,69 @@ const i18nJson = translations ? JSON.stringify(translations) : '{}';
       href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
+    {isTenerife && (
+      <link
+        href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,360;0,9..144,460;0,9..144,560;1,9..144,400&family=Karla:ital,wght@0,400;0,500;0,700;1,400&family=DM+Mono:wght@400;500&display=swap"
+        rel="stylesheet"
+      />
+    )}
     <script is:inline define:vars={{ i18nJson }}>
       window.__i18n__ = JSON.parse(i18nJson);
     </script>
     <style is:global>
+/* ---- Brand color tokens (default / Cyprus) ---- */
+:root{
+  --c-primary:14 116 144;   /* #0E7490 teal */
+  --c-accent:245 158 11;    /* #F59E0B amber */
+  --c-surface:250 250 248;  /* #FAFAF8 */
+  --c-charcoal:28 25 23;    /* #1C1917 */
+}
+
+/* ===========================================================
+   TENERIFE THEME — warm Canarian palette (formatting only)
+   Same skeleton, same functionality. Cyprus is unaffected.
+   =========================================================== */
+html[data-theme="tenerife"]{
+  --c-primary:30 127 140;   /* tile  #1E7F8C */
+  --c-accent:232 154 47;    /* mango #E89A2F */
+  --c-surface:251 243 232;  /* plaster #FBF3E8 */
+  --c-charcoal:39 52 58;    /* ink   #27343A */
+}
+/* Fonts */
+html[data-theme="tenerife"] body,
+html[data-theme="tenerife"] .font-sans{font-family:'Karla',system-ui,sans-serif}
+html[data-theme="tenerife"] .font-serif{font-family:'Fraunces',Georgia,serif}
+html[data-theme="tenerife"] .font-mono{font-family:'DM Mono',monospace}
+/* Warm cards & neutrals (override hardcoded stone/white literals) */
+html[data-theme="tenerife"] .bg-white{background-color:#FFFDF9}
+html[data-theme="tenerife"] .border-stone-100{border-color:rgba(13,59,67,.10)}
+html[data-theme="tenerife"] .border-stone-200{border-color:rgba(13,59,67,.16)}
+html[data-theme="tenerife"] .text-stone-600{color:#5C6B70}
+html[data-theme="tenerife"] .text-stone-500{color:#5C6B70}
+html[data-theme="tenerife"] .text-stone-400{color:#8A9499}
+html[data-theme="tenerife"] .bg-stone-100{background-color:#F4E7D4}
+html[data-theme="tenerife"] .bg-stone-200{background-color:#EAD9BF}
+html[data-theme="tenerife"] .hover\:bg-stone-200:hover{background-color:#EAD9BF}
+html[data-theme="tenerife"] .ring-stone-400{--tw-ring-color:#1E7F8C}
+/* Amber accents (check-in pills, late note) -> mango */
+html[data-theme="tenerife"] .bg-amber-50{background-color:#FCF1DC}
+html[data-theme="tenerife"] .bg-amber-100{background-color:#F8E4C0}
+html[data-theme="tenerife"] .hover\:bg-amber-100:hover{background-color:#F3D9A8}
+html[data-theme="tenerife"] .border-amber-200{border-color:rgba(232,154,47,.45)}
+html[data-theme="tenerife"] .text-amber-700{color:#9A6320}
+html[data-theme="tenerife"] .text-amber-800{color:#7d4d12}
+/* Info notes (blue) -> tile/teal to match the warm palette */
+html[data-theme="tenerife"] .bg-blue-50{background-color:#EAF3F4}
+html[data-theme="tenerife"] .border-blue-200{border-color:rgba(30,127,140,.25)}
+html[data-theme="tenerife"] .text-blue-700,
+html[data-theme="tenerife"] .text-blue-800,
+html[data-theme="tenerife"] .text-blue-900{color:#19545E}
+/* Teal hover on primary buttons -> atlantic-soft */
+html[data-theme="tenerife"] .hover\:bg-teal-700:hover{background-color:#14525C}
+/* Section-heading underline & open-accordion accent -> tile/mango */
+html[data-theme="tenerife"] [id$="-heading"]::after{background:linear-gradient(to right,#1E7F8C,#E89A2F)}
+html[data-theme="tenerife"] details[open]{border-left-color:#1E7F8C !important}
+
 /* Accordion slide-in animation */
 details > div {
   animation: accordionSlide 0.2s ease-out;

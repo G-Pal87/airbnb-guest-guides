@@ -42,12 +42,17 @@ export async function getStaticPaths() {
 }
 
 const { property, translations } = Astro.props;
+
+// Tenerife properties use the warm Canarian theme; Cyprus keeps the default.
+const TENERIFE_IDS = ['beach-side-studio', 'two-bedroom'];
+const theme = TENERIFE_IDS.includes(property.id) ? 'tenerife' : null;
 ---
 
 <GuideLayout
   title={`${property.name} | Guest Guide`}
   propertyName={property.name}
   translations={translations}
+  theme={theme}
 >
   <Hero property={property} />
   <QuickRef property={property} />

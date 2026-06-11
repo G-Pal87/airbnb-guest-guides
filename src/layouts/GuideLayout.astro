@@ -119,21 +119,24 @@ html[data-theme="tenerife"] .font-sans{font-family:'Karla',system-ui,sans-serif;
 html[data-theme="tenerife"] .font-serif{font-family:'Fraunces',Georgia,serif}
 html[data-theme="tenerife"] .font-mono{font-family:'DM Mono',monospace}
 
-/* --- Navigation: warm plaster bg + pill-style links --- */
+/* --- Navigation: warm plaster bg + always-visible pill links --- */
 html[data-theme="tenerife"] nav#main-nav{
   background:rgba(251,243,232,.94) !important;
   border-bottom-color:rgba(30,127,140,.15) !important;
   box-shadow:0 1px 4px rgba(13,59,67,.06) !important;
 }
 html[data-theme="tenerife"] .nav-link{
-  border:1px solid transparent;
-  transition:border-color .15s,color .15s,background-color .15s;
+  border:1px solid rgba(30,127,140,.40) !important;
+  border-radius:9999px !important;
+  color:#1E7F8C !important;
+  background-color:transparent !important;
+  transition:background-color .15s,color .15s,border-color .15s;
 }
 html[data-theme="tenerife"] .nav-link:hover,
 html[data-theme="tenerife"] .nav-link:active{
-  background-color:transparent !important;
-  color:#1E7F8C !important;
-  border-color:rgba(30,127,140,.55) !important;
+  background-color:#1E7F8C !important;
+  color:#fff !important;
+  border-color:#1E7F8C !important;
 }
 
 /* --- QuickRef "At a Glance" banner: warm Canarian gradient --- */

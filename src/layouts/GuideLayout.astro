@@ -274,14 +274,49 @@ html[data-theme="tenerife"] #wifi details.bg-primary[open]{
   border-left:3px solid #E89A2F !important;
 }
 
-/* --- Section heading underline -> tile/mango gradient --- */
+/* --- Section headings -> Fraunces + tile-dots decorator (mockup) --- */
+html[data-theme="tenerife"] [id$="-heading"]{
+  color:#0D3B43 !important;        /* atlantic */
+  font-weight:460 !important;
+  padding-bottom:0 !important;
+  display:inline-flex;
+  align-items:baseline;
+}
+/* replace the underline bar with three rotated colour squares */
 html[data-theme="tenerife"] [id$="-heading"]::after{
-  background:linear-gradient(to right,#1E7F8C,#E89A2F);
+  content:"";
+  position:static;
+  width:8px;
+  height:8px;
+  border-radius:2.5px;
+  transform:rotate(45deg) translateY(-3px);
+  background:#1E7F8C;                                   /* tile */
+  box-shadow:13px 0 0 #E89A2F, 26px 0 0 #D95F3B;       /* mango, hibiscus */
+  margin-left:18px;
 }
-/* Emergency heading stays red */
+/* Emergency heading keeps its red identity (no tile-dots) */
+html[data-theme="tenerife"] #emergency [id$="-heading"]{
+  color:#B91C1C !important;
+}
 html[data-theme="tenerife"] #emergency [id$="-heading"]::after{
-  background:linear-gradient(to right,#DC2626,#F87171);
+  display:none;
 }
+
+/* --- Emergency "nearest services": warm leaf-green pharmacy card --- */
+html[data-theme="tenerife"] .bg-green-50{background-color:#EDF1E8}
+html[data-theme="tenerife"] .border-green-200{border-color:rgba(95,125,82,.30)}
+html[data-theme="tenerife"] .text-green-700,
+html[data-theme="tenerife"] .text-green-900{color:#46603C}
+/* WhatsApp / leaf action buttons keep a warm leaf tone */
+html[data-theme="tenerife"] .bg-green-500{background-color:#5F7D52}
+html[data-theme="tenerife"] .hover\:bg-green-600:hover{background-color:#4d6843}
+/* Things-to-do price chips */
+html[data-theme="tenerife"] .bg-green-100{background-color:#E2EAD9}
+html[data-theme="tenerife"] .bg-orange-100{background-color:#F6E0CC}
+html[data-theme="tenerife"] .text-orange-700{color:#9A5A20}
+
+/* --- Things-to-do: tile count badge + item chips --- */
+html[data-theme="tenerife"] .bg-primary\/10{background-color:rgba(30,127,140,.12)}
 
 /* --- Expanded accordion text uses warm ink --- */
 html[data-theme="tenerife"] details[open] p{

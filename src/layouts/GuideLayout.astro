@@ -241,13 +241,42 @@ html[data-theme="tenerife"] .hover\:bg-teal-700:hover{background-color:#14525C}
 html[data-theme="tenerife"] .hover\:bg-yellow-300:hover{background-color:#F8D06A}
 
 /* --- Hardcoded-gradient overrides (inline style attributes) --- */
-/* Map / action buttons */
+/* Map button -> solid tile pill (mockup .btn) */
 html[data-theme="tenerife"] a[style*="0E7490"]{
-  background:linear-gradient(to right,#1E7F8C,#2A9BAA) !important;
+  background:#1E7F8C !important;
+  border-radius:999px !important;
+  box-shadow:0 8px 20px -10px rgba(30,127,140,.6) !important;
+  transition:background .15s,transform .15s !important;
+}
+html[data-theme="tenerife"] a[style*="0E7490"]:hover{
+  background:#14525C !important;
+  transform:translateY(-1px);
 }
 /* Welcome card left accent bar */
 html[data-theme="tenerife"] .w-1[style*="0E7490"]{
   background:linear-gradient(to bottom,#1E7F8C,#E89A2F) !important;
+}
+
+/* --- GETTING HERE: full mockup parity --- */
+/* plaster section so the white cards read like the mockup */
+html[data-theme="tenerife"] #getting-here{
+  background-color:#FBF3E8 !important;
+}
+/* address card -> warm white card */
+html[data-theme="tenerife"] #getting-here .bg-surface{
+  background-color:#FFFDF9 !important;
+}
+/* street / address line -> Fraunces atlantic (mockup .street) */
+html[data-theme="tenerife"] #getting-here .leading-snug{
+  font-family:'Fraunces',Georgia,serif !important;
+  color:#0D3B43 !important;
+  font-size:1.35rem !important;
+  font-weight:560 !important;
+  line-height:1.3 !important;
+}
+/* accordion summary titles -> atlantic bold (mockup fold summary) */
+html[data-theme="tenerife"] details > summary .text-charcoal{
+  color:#0D3B43 !important;
 }
 
 /* --- Accordion cards: warm card bg --- */

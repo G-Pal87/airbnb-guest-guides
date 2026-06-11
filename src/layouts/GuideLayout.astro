@@ -47,51 +47,6 @@ const isTenerife = theme === 'tenerife';
   --c-charcoal:28 25 23;    /* #1C1917 */
 }
 
-/* ===========================================================
-   TENERIFE THEME — warm Canarian palette (formatting only)
-   Same skeleton, same functionality. Cyprus is unaffected.
-   =========================================================== */
-html[data-theme="tenerife"]{
-  --c-primary:30 127 140;   /* tile  #1E7F8C */
-  --c-accent:232 154 47;    /* mango #E89A2F */
-  --c-surface:251 243 232;  /* plaster #FBF3E8 */
-  --c-charcoal:39 52 58;    /* ink   #27343A */
-}
-/* Fonts */
-html[data-theme="tenerife"] body,
-html[data-theme="tenerife"] .font-sans{font-family:'Karla',system-ui,sans-serif}
-html[data-theme="tenerife"] .font-serif{font-family:'Fraunces',Georgia,serif}
-html[data-theme="tenerife"] .font-mono{font-family:'DM Mono',monospace}
-/* Warm cards & neutrals (override hardcoded stone/white literals) */
-html[data-theme="tenerife"] .bg-white{background-color:#FFFDF9}
-html[data-theme="tenerife"] .border-stone-100{border-color:rgba(13,59,67,.10)}
-html[data-theme="tenerife"] .border-stone-200{border-color:rgba(13,59,67,.16)}
-html[data-theme="tenerife"] .text-stone-600{color:#5C6B70}
-html[data-theme="tenerife"] .text-stone-500{color:#5C6B70}
-html[data-theme="tenerife"] .text-stone-400{color:#8A9499}
-html[data-theme="tenerife"] .bg-stone-100{background-color:#F4E7D4}
-html[data-theme="tenerife"] .bg-stone-200{background-color:#EAD9BF}
-html[data-theme="tenerife"] .hover\:bg-stone-200:hover{background-color:#EAD9BF}
-html[data-theme="tenerife"] .ring-stone-400{--tw-ring-color:#1E7F8C}
-/* Amber accents (check-in pills, late note) -> mango */
-html[data-theme="tenerife"] .bg-amber-50{background-color:#FCF1DC}
-html[data-theme="tenerife"] .bg-amber-100{background-color:#F8E4C0}
-html[data-theme="tenerife"] .hover\:bg-amber-100:hover{background-color:#F3D9A8}
-html[data-theme="tenerife"] .border-amber-200{border-color:rgba(232,154,47,.45)}
-html[data-theme="tenerife"] .text-amber-700{color:#9A6320}
-html[data-theme="tenerife"] .text-amber-800{color:#7d4d12}
-/* Info notes (blue) -> tile/teal to match the warm palette */
-html[data-theme="tenerife"] .bg-blue-50{background-color:#EAF3F4}
-html[data-theme="tenerife"] .border-blue-200{border-color:rgba(30,127,140,.25)}
-html[data-theme="tenerife"] .text-blue-700,
-html[data-theme="tenerife"] .text-blue-800,
-html[data-theme="tenerife"] .text-blue-900{color:#19545E}
-/* Teal hover on primary buttons -> atlantic-soft */
-html[data-theme="tenerife"] .hover\:bg-teal-700:hover{background-color:#14525C}
-/* Section-heading underline & open-accordion accent -> tile/mango */
-html[data-theme="tenerife"] [id$="-heading"]::after{background:linear-gradient(to right,#1E7F8C,#E89A2F)}
-html[data-theme="tenerife"] details[open]{border-left-color:#1E7F8C !important}
-
 /* Accordion slide-in animation */
 details > div {
   animation: accordionSlide 0.2s ease-out;
@@ -145,6 +100,131 @@ details[open] {
 details[open] p {
   font-size: 0.9rem;
   line-height: 1.65;
+}
+
+/* ===========================================================
+   TENERIFE THEME — warm Canarian palette (formatting only)
+   Same skeleton, same functionality. Cyprus is unaffected.
+   =========================================================== */
+html[data-theme="tenerife"]{
+  --c-primary:30 127 140;   /* tile  #1E7F8C */
+  --c-accent:232 154 47;    /* mango #E89A2F */
+  --c-surface:251 243 232;  /* plaster #FBF3E8 */
+  --c-charcoal:39 52 58;    /* ink   #27343A */
+}
+
+/* --- Typography --- */
+html[data-theme="tenerife"] body,
+html[data-theme="tenerife"] .font-sans{font-family:'Karla',system-ui,sans-serif;font-size:17px;line-height:1.65}
+html[data-theme="tenerife"] .font-serif{font-family:'Fraunces',Georgia,serif}
+html[data-theme="tenerife"] .font-mono{font-family:'DM Mono',monospace}
+
+/* --- Navigation: warm plaster bg + pill-style links --- */
+html[data-theme="tenerife"] nav#main-nav{
+  background:rgba(251,243,232,.94) !important;
+  border-bottom-color:rgba(30,127,140,.15) !important;
+  box-shadow:0 1px 4px rgba(13,59,67,.06) !important;
+}
+html[data-theme="tenerife"] .nav-link{
+  border:1px solid transparent;
+  transition:border-color .15s,color .15s,background-color .15s;
+}
+html[data-theme="tenerife"] .nav-link:hover,
+html[data-theme="tenerife"] .nav-link:active{
+  background-color:transparent !important;
+  color:#1E7F8C !important;
+  border-color:rgba(30,127,140,.55) !important;
+}
+
+/* --- QuickRef "At a Glance" banner: warm Canarian gradient --- */
+html[data-theme="tenerife"] section[aria-labelledby="quickref-heading"]{
+  background:linear-gradient(135deg,#164F58 0%,#1E7F8C 50%,#C47B18 100%) !important;
+}
+
+/* --- Cards: warm white + warm borders + warm shadows --- */
+html[data-theme="tenerife"] .bg-white{background-color:#FFFDF9}
+html[data-theme="tenerife"] .border-stone-100{border-color:rgba(13,59,67,.10)}
+html[data-theme="tenerife"] .border-stone-200{border-color:rgba(13,59,67,.16)}
+html[data-theme="tenerife"] .shadow-sm{box-shadow:0 1px 3px rgba(13,59,67,.07) !important}
+html[data-theme="tenerife"] .shadow-md{box-shadow:0 1px 3px rgba(13,59,67,.06),0 8px 24px -10px rgba(13,59,67,.20) !important}
+html[data-theme="tenerife"] .shadow-lg{box-shadow:0 4px 8px rgba(13,59,67,.07),0 16px 40px -14px rgba(13,59,67,.26) !important}
+
+/* --- Text neutrals --- */
+html[data-theme="tenerife"] .text-stone-600{color:#5C6B70}
+html[data-theme="tenerife"] .text-stone-500{color:#617078}
+html[data-theme="tenerife"] .text-stone-400{color:#8A9499}
+html[data-theme="tenerife"] .bg-stone-100{background-color:#F4E7D4}
+html[data-theme="tenerife"] .bg-stone-200{background-color:#EAD9BF}
+html[data-theme="tenerife"] .hover\:bg-stone-200:hover{background-color:#EAD9BF}
+html[data-theme="tenerife"] .ring-stone-400{--tw-ring-color:#1E7F8C}
+
+/* --- Amber/mango accents --- */
+html[data-theme="tenerife"] .bg-amber-50{background-color:#FCF1DC}
+html[data-theme="tenerife"] .bg-amber-100{background-color:#F8E4C0}
+html[data-theme="tenerife"] .hover\:bg-amber-100:hover{background-color:#F3D9A8}
+html[data-theme="tenerife"] .border-amber-200{border-color:rgba(232,154,47,.45)}
+html[data-theme="tenerife"] .text-amber-700{color:#9A6320}
+html[data-theme="tenerife"] .text-amber-800{color:#7d4d12}
+
+/* --- Info notes (blue -> warm teal) --- */
+html[data-theme="tenerife"] .bg-blue-50{background-color:#EAF3F4}
+html[data-theme="tenerife"] .border-blue-200{border-color:rgba(30,127,140,.25)}
+html[data-theme="tenerife"] .text-blue-700,
+html[data-theme="tenerife"] .text-blue-800,
+html[data-theme="tenerife"] .text-blue-900{color:#19545E}
+
+/* --- Button hover overrides --- */
+html[data-theme="tenerife"] .hover\:bg-teal-700:hover{background-color:#14525C}
+html[data-theme="tenerife"] .hover\:bg-yellow-300:hover{background-color:#F8D06A}
+
+/* --- Hardcoded-gradient overrides (inline style attributes) --- */
+/* Map / action buttons */
+html[data-theme="tenerife"] a[style*="0E7490"]{
+  background:linear-gradient(to right,#1E7F8C,#2A9BAA) !important;
+}
+/* Welcome card left accent bar */
+html[data-theme="tenerife"] .w-1[style*="0E7490"]{
+  background:linear-gradient(to bottom,#1E7F8C,#E89A2F) !important;
+}
+
+/* --- Accordion cards: warm card bg --- */
+html[data-theme="tenerife"] details{background-color:#FFFDF9}
+
+/* Open accordion: tile accent */
+html[data-theme="tenerife"] details[open]{
+  box-shadow:0 4px 24px rgba(30,127,140,.10),0 1px 4px rgba(30,127,140,.08) !important;
+  border-left:3px solid #1E7F8C !important;
+  border-radius:1rem !important;
+}
+/* Emergency: red stays red */
+html[data-theme="tenerife"] #emergency details[open]{
+  box-shadow:0 4px 24px rgba(220,38,38,.10) !important;
+  border-left:3px solid #DC2626 !important;
+}
+/* Check-in key card: mango when open */
+html[data-theme="tenerife"] #checkin details[open]:first-of-type{
+  box-shadow:0 4px 24px rgba(232,154,47,.12) !important;
+  border-left:3px solid #E89A2F !important;
+}
+/* WiFi accordion (bg-primary) open: mango left bar */
+html[data-theme="tenerife"] #wifi details.bg-primary[open]{
+  border-left:3px solid #E89A2F !important;
+}
+
+/* --- Section heading underline -> tile/mango gradient --- */
+html[data-theme="tenerife"] [id$="-heading"]::after{
+  background:linear-gradient(to right,#1E7F8C,#E89A2F);
+}
+/* Emergency heading stays red */
+html[data-theme="tenerife"] #emergency [id$="-heading"]::after{
+  background:linear-gradient(to right,#DC2626,#F87171);
+}
+
+/* --- Expanded accordion text uses warm ink --- */
+html[data-theme="tenerife"] details[open] p{
+  color:#3A4A50;
+  font-size:0.9rem;
+  line-height:1.7;
 }
     </style>
   </head>

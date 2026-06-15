@@ -156,12 +156,17 @@
     {
       "name": "Pool Access",
       "icon": "🏊",
-      "instructions": "Your keychain includes the pool key. Please use the pool towels from the sun lounger basket rather than the bathroom ones. No glass or diving from the edge, and no pets in the pool please. Rubbish bins are in the parking area on your right as you walk out past the pool."
+      "instructions": "Your keychain includes the pool key. Please use the pool towels from the sun lounger basket rather than the bathroom ones. No glass or diving from the edge, and no pets in the pool please."
     },
     {
       "name": "Bathroom",
       "icon": "🛁",
       "instructions": "Towels, a hair dryer, and basic toiletries are all provided. Please use the bin next to the toilet rather than flushing paper, Cyprus plumbing really isn't built for it!"
+    },
+    {
+      "name": "Rubbish",
+      "icon": "🗑️",
+      "instructions": "Rubbish bins are in the parking area on your right as you walk out past the pool."
     },
     {
       "name": "Drinking Water",

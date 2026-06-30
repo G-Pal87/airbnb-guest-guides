@@ -27,154 +27,91 @@
       "checkoutChecklist": "Check-out-Checkliste",
       "contactHost": "Gastgeber kontaktieren"
     },
-    "welcomeMessage": "Willkommen in unserem schönen 2-Zimmer-Apartment! Wir freuen uns sehr, dass Sie Ihre Zeit hier verbringen. Dieses geräumige Apartment wurde für Familien und Gruppen konzipiert. Viel Platz zum gemeinsamen Entspannen und Ausbreiten. Zwei Schlafzimmer, ein großes Wohnzimmer, eine voll ausgestattete Küche und ein breiter privater Balkon mit Gartenblick. Wir möchten, dass Ihr Aufenthalt perfekt ist, zögern Sie also nicht, uns zu kontaktieren, wenn Sie etwas brauchen.",
+    "welcomeMessage": "Willkommen in meinem bunten Haus in den Hügeln von Teneriffa! Eingebettet in das charmante Dorf Valleseco, steckt es voller Charakter und ist von Natur umgeben. Ich hoffe, ihr liebt es genauso wie ich. Meldet euch jederzeit, wenn ihr irgendetwas braucht.",
     "gettingHere": {
-      "byCar": "Vom Flughafen Larnaka nehmen Sie die Autobahn A3 in Richtung Protaras. Verlassen Sie die Autobahn bei Protaras/Paralimni und fahren Sie zum Hauptkreisverkehr. Nehmen Sie die dritte Ausfahrt auf die Protaras Avenue Richtung Stadtzentrum. Biegen Sie 500 m nach dem Protaras-Wasserpark auf der rechten Seite links in die Kypros Street ab. Wir sind das sandfarbene viergeschossige Gebäude. Achten Sie auf die Bougainvillea über dem Eingang.",
-      "parking": "Kostenloser Parkplatz hinter dem Gebäude. Einfahrt über die Gasse rechts vom Gebäude. Ihr Stellplatz ist mit 'K14' gekennzeichnet.",
-      "publicTransport": "Ab dem Flughafen Paphos nehmen Sie den Bus 612 bis zur Haltestelle Tombs of the Kings. Von dort sind es 18 Gehminuten (~1,3 km). Alternativ Bus 615 für eine Haltestelle. ⚠️ Busse akzeptieren nur Bargeld. Der Fahrpreis beträgt €2,50 pro Person und Fahrt.",
-      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40-45 tagsüber und €45-50 nachts. Die Fahrtdauer beträgt etwa 20-25 Minuten.",
-      "directionPhotos": []
+      "byCar": "Am besten parkt ihr am empfohlenen Parkplatz (Link unten). Es gibt immer freie Plätze und ihr müsst fast keine Treppen steigen. Folgt dann den Gehwegbeschreibungen im Fotoguide. Google Maps ist für die letzte Strecke nicht 100% genau – bitte nutzt den Fotoguide!",
+      "parking": "Es sind immer Parkplätze vorhanden und es ist ein kurzer, flacher Spaziergang zum Hauseingang.",
+      "publicTransport": "Es gibt verschiedene Busse von Santa Cruz de Tenerife (z.B. Nr. 909, 910, 916). Achtet darauf, in Valleseco auszusteigen (ein kleines Dorf mit nur einer Haltestelle). Nach dem Aussteigen findet ihr den Punto y Coma Minimarkt und nehmt die Treppe links, etwa 20 Meter nach dem Vorbeilaufen. Es ist ein 5–10-minütiger Aufstieg zum Haus. Google Maps ist für die letzte Strecke nicht vollständig genau – bitte folgt dem Fotoguide!",
+      "taxi": "Taxis sind von den Flughäfen Teneriffa Nord (TFN) und Teneriffa Süd (TFS) verfügbar. Vereinbart den Preis vor der Abfahrt oder stellt sicher, dass das Taxameter läuft. Bittet den Fahrer, euch am unten verlinkten Parkplatz abzusetzen, und folgt dann dem Schritt-für-Schritt-Fotoguide ab Foto 1.",
+      "directionPhotos": [
+        { "caption": "Hier parken. Es sind immer freie Plätze vorhanden und ihr müsst fast keine Treppen steigen." },
+        { "caption": "Vom Parkplatz in diese Richtung gehen und bis zum Ende der Straße laufen, dann die Treppe auf der linken Seite hinuntergehen." },
+        { "caption": "Die nächste Straße unten hinuntersteigen und rechts abbiegen. Das ist die Straße des Hauses." },
+        { "caption": "Geradeaus gehen und den Garten mit Kakteen und anderen Pflanzen überqueren." },
+        { "caption": "Zwischen den Häusern weitergehen..." },
+        { "caption": "Geradeaus weitergehen..." },
+        { "caption": "Nach 1 Minute auf der linken Seite ein weißes Haus mit blauer Tür sehen." },
+        { "caption": "Schon fast da. Die Wohnung befindet sich im oberen Teil des Hauses." },
+        { "caption": "Es ist der obere Teil des Hauses. Die Treppe direkt neben dem Haus nehmen, um den Eingang zu erreichen. Nach der blauen Tür mit der Schlüsselbox suchen. Code: 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Schlüsselbox am Haupteingang des Gebäudes, Erdgeschoss links",
+      "keyLocation": "Sucht nach der blauen Tür im oberen Teil des Hauses – die Schlüsselbox befindet sich direkt daneben.",
       "steps": [
-        "Das Gebäude durch die Haupttür betreten (drücken zum Öffnen, nicht abgeschlossen)",
-        "Die Schlüsselbox befindet sich an der linken Wand gleich nach dem Eingang, in Brusthöhe",
-        "Code 2468 eingeben und die Klappe öffnen, um den Schlüssel zu nehmen",
-        "Fahrstuhl oder Treppe zum 2. Stock nehmen. Die Wohnung ist Nummer 14",
-        "Derselbe Schlüssel öffnet die Wohnungstür",
-        "Den Schlüssel beim Check-out in die Schlüsselbox zurücklegen"
+        "Am empfohlenen Parkplatz parken (dort ist immer Platz und ihr vermeidet fast alle Treppen)",
+        "Vom Parkplatz in Richtung Straßenende gehen, dann die Treppe auf der linken Seite hinuntergehen",
+        "An der nächsten Straße unten rechts abbiegen – das ist die Straße des Hauses",
+        "Geradeaus gehen, den kleinen Garten mit Kakteen und Pflanzen überqueren und zwischen den Häusern weitergehen",
+        "Nach etwa 1 Minute auf der linken Seite ein weißes Haus mit blauer Tür sehen",
+        "Es ist der obere Teil des Hauses – die Treppe neben dem Haus nehmen, um den Eingang zu erreichen",
+        "Die blaue Tür mit der Schlüsselbox daneben finden. Code: 1214"
       ],
-      "notes": "Im Gebäude gibt es einen Fahrstuhl. Ein Gepäcktrolley steht im Schrank im Erdgeschoss zur Verfügung. Bei Problemen mit der Schlüsselbox sofort anrufen."
+      "notes": "Wenn ihr Schwierigkeiten habt, mich zu finden, ruft mich jederzeit an oder schreibt mir auf WhatsApp – ich helfe euch gerne Schritt für Schritt. Hinweis: Google Maps ist für die letzte Strecke nicht 100% genau, also folgt dem Fotoguide!"
     },
     "houseRules": [
-      "Kein Rauchen in der gesamten Wohnung",
-      "Keine Partys oder Veranstaltungen. Ruhezeiten 23:00-8:00 Uhr",
-      "Maximale Belegung: 5 Gäste",
-      "Keine Haustiere erlaubt",
-      "Geschirr sofort spülen und Küchenarbeitsfläche freihalten. Das warme Wetter Zyperns kann Insekten anlocken",
-      "Bitte den Eimer neben der Toilette verwenden. Kein Toilettenpapier spülen (zyprisches Leitungsnetz verarbeitet es nicht)",
-      "Den Metallschlüssel in der Steckdose neben der Tür belassen, wenn Sie drin sind; herausnehmen, wenn Sie gehen",
-      "Alle Fenster und Balkontüren schließen, wenn Klimaanlage läuft",
-      "Terrassenschirm bei Nacht und in windigem Wetter schließen und festbinden",
-      "Schlüssel bei Check-out in die Schlüsselbox zurücklegen und Code zurücksetzen",
-      "Mit der Wohnung sorgfältig umgehen. Bitte Schäden umgehend melden",
-      "Schlüssel sorgfältig aufbewahren. Bei Verlust oder Aussperren wird ein Schlüsseldienst benötigt und die Kosten werden weitergegeben"
+      "Bitte nur draußen rauchen. Die Außenbereiche gehören euch, aber haltet bitte das Innere des Hauses rauchfrei. Danke!",
+      "Bitte seid rücksichtsvoll. Ruhezeiten sind von 23 Uhr bis 8 Uhr. Keine Partys oder Veranstaltungen.",
+      "Bitte behandelt die Wohnung wie eure eigene und informiert mich sofort, wenn etwas zu Bruch geht. Ich verstehe, dass Unfälle passieren."
     ],
     "appliances": [
       {
-        "name": "Klimaanlage",
-        "instructions": "Es gibt drei Klimaanlagen: eine im Wohnzimmer, je eine in jedem Schlafzimmer. Jede hat ihre eigene Fernbedienung im jeweiligen Zimmer. POWER drücken, COOL wählen, auf 22-24°C einstellen. Alle Anlagen können gleichzeitig betrieben werden. Türen und Fenster beim Betrieb geschlossen halten. Alle Anlagen beim Verlassen ausschalten."
+        "name": "Strom",
+        "instructions": "Das elektrische System des Hauses ist etwas älter und kann nicht mehrere Hochleistungsgeräte gleichzeitig betreiben – zum Beispiel Föhn, Ofen und Herd gleichzeitig. Zur Sicherheit bitte immer nur eines dieser Geräte auf einmal benutzen. Falls der Strom mal ausfällt, kein Stress – meldet euch einfach so schnell wie möglich und ich helfe, das Problem zu lösen."
+      },
+      {
+        "name": "Küche",
+        "instructions": "Es gibt eine Küchenzeile mit Elektroherd, Mini-Backofen, Kühlschrank sowie normalem Küchengeschirr. ⚠️ Wichtig: Da es in Teneriffa immer Sommer ist, schlafen Insekten nie. Bitte alle Essensreste sofort in den Müll werfen und ich empfehle, das Geschirr direkt nach dem Essen zu spülen, um Fliegen und andere Insekten fernzuhalten."
       },
       {
         "name": "Waschmaschine",
-        "instructions": "Vollständige Waschmaschine im Hauswirtschaftsraum neben dem Badezimmer. Flüssigwaschmittel unter dem Waschbecken, in die Schublade II geben. Auf 40°C Baumwolle für normale Ladungen einstellen, START drücken. Die Maschine hat auch eine Trockenfunktion: ABLASSEN+SCHLEUDERN wählen, dann bei niedriger Hitze trocknen."
+        "instructions": "Die Waschmaschine befindet sich in der Küche und kann gerne genutzt werden. Das Schnellprogramm \"Rapido\" reicht meistens aus. Bei Fragen einfach melden!"
       },
       {
-        "name": "Smart-TV",
-        "instructions": "65-Zoll-Smart-TV im Wohnzimmer. Ein- und Ausschaltknopf auf der Fernbedienung. Netflix und YouTube geladen. Unser Gastprofil nutzen oder eigenes Konto einloggen. Ein zweiter, kleinerer Fernseher im Hauptschlafzimmer. Beide TVs sind im selben Netzwerk. HDMI-Kabel in der Schublade unter dem TV-Ständer."
+        "name": "Trinkwasser",
+        "instructions": "Das Leitungswasser in Teneriffa gilt als sicher und sauber, die meisten Menschen bevorzugen jedoch Flaschenwasser, das in jedem Supermarkt oder Kiosk erhältlich ist. Die günstigere und praktischere Option ist ein 5-Liter-, 8-Liter- oder größerer Kanister."
       },
       {
-        "name": "Vollküche",
-        "instructions": "Vollständiger 4-Platten-Keramikkochfeld mit Backofen. Töpfe, Pfannen und Utensilien in den unteren Schränken. Der Backofen braucht etwa 15 Minuten zum Vorheizen. Oberes Rad auf die gewünschte Temperatur stellen, unteres Rad auf das gewünschte Kochsymbol (Umluft empfohlen). Geschirrspüler unter der Spüle. Tabs im Schrank darüber."
+        "name": "Badezimmer",
+        "instructions": "Frische Handtücher, ein Föhn sowie Seife und Shampoo sind bereits bereit. Falls etwas fehlt, einfach melden und ich sorge dafür."
       },
       {
-        "name": "Grill / Barbecue",
-        "instructions": "Holzkohle-Grill auf dem Balkon (in den Sommermonaten vorhanden). Kohle ist im Terrakotta-Topf daneben. Grillanzünder in der Küchenschublade verwenden. Den Anzünder entzünden, unter die Kohlepyramide legen und 20 Minuten warten. Danach immer vollständig mit Wasser löschen."
+        "name": "Die Magische Terrasse",
+        "instructions": "Das ist genau die Terrasse, die ihr auf den Fotos gesehen habt! Wegen Teneriffas wunderbar unberechenbarem Mikroklima (Hallo Regen, Wind und Sonne – manchmal alles an einem Tag! 🌧️💨☀️) kann ich die Kissen, Decken und Teppiche nicht draußen lassen, also wirkt sie zunächst etwas kahl mit einem abgedeckten Grill. Die gute Nachricht: Alles, was ihr braucht, um sie gemütlich und schön zu gestalten, wartet auf euch – entweder im beigen Schrank auf der Terrasse oder im Apartment. Richtet sie ein wie ihr möchtet und genießt sie einfach! 🏝️🪴"
       },
       {
-        "name": "Geschirrspüler",
-        "instructions": "Einbaugeschirrspüler unter der Spüle. Tabs in der Box unter der Arbeitsfläche. Geschirr einladen (Tassen umgedreht im oberen Korb, Teller unten), ein Tab in den Spender, ECO für volle Ladung oder QUICK 45 für leichten Gebrauch wählen. START drücken. Leeren, wenn er abgekühlt ist."
+        "name": "Grill",
+        "instructions": "Auf der Terrasse findet ihr den Grill, der mit Holzkohle betrieben wird. Ich halte normalerweise keine Kohle vorrätig, es sei denn, frühere Gäste haben welche hinterlassen. Alles was ihr braucht könnt ihr in jedem Supermarkt oder kleinen Markt kaufen – für einen schönen Grillnachmittag oder -abend. 🙂 ⚠️ Bitte denkt daran, den Grill nach der Benutzung gründlich zu reinigen und sicherzustellen, dass er vollständig aus ist. Vielen Dank! 🙏"
+      },
+      {
+        "name": "Pflanzen",
+        "instructions": "Wenn ihr ein paar Tage bleibt, würden sich die Pflanzen alle 3–4 Tage über etwas Wasser freuen. Sie werden es euch danken!"
+      },
+      {
+        "name": "Mari, die liebe Nachbarin",
+        "instructions": "Meine rechte Hand und größte Hilfe ist die liebe Mari, die direkt nebenan wohnt. Wenn ihr irgendetwas braucht (z.B. ein extra Handtuch), hilft sie immer gerne. Vielleicht bringt sie sogar hausgemachte Süßigkeiten vorbei, wenn sie Zeit hat! Mari spricht nur Spanisch, aber macht euch keine Sorgen – irgendwie klappt es immer wunderbar. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Strände 🏝️"
-      },
-      {
-        "category": "Historische Stätten & Spaziergänge 🏰"
-      },
-      {
-        "category": "Attraktionen & Ausflüge 📸"
-      },
-      {
-        "category": "Wandern & Naturpfade ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Griechisch / Mediterran"
-      },
-      {
-        "type": "Griechisch / Meze"
-      },
-      {
-        "type": "Café / Brunch"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Zyprisch"
-      },
-      {
-        "type": "Food Court"
-      },
-      {
-        "type": "Café / Lokal"
-      },
-      {
-        "type": "Zyprisch / Café"
-      },
-      {
-        "type": "Griechisch / Zyprisch"
-      },
-      {
-        "type": "Zyprische Taverne"
-      },
-      {
-        "type": "Verschiedenes / Hafen"
-      },
-      {
-        "type": "Zyprisch / Meeresfrüchte"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Café / Restaurant"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Bar / Restaurant"
-      },
-      {
-        "type": "Zyprisch / Wein"
-      },
-      {
-        "type": "Meeresfrüchte / Taverne"
-      },
-      {
-        "type": "Lebensmittelgeschäft"
-      },
-      {
-        "type": "Supermarkt"
-      }
+      { "category": "Strände 🏝️" },
+      { "category": "Historische Stätten & Malerische Spaziergänge 🏰" },
+      { "category": "Attraktionen & Ausflüge 📸" },
+      { "category": "Wandern & Naturpfade ⛰️" },
+      { "category": "Essen & Trinken" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."
-      },
-      {
-        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5-10 Gehminuten verfügbar."
-      },
-      {
-        "info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."
+        "info": "Um Teneriffa mit öffentlichen Verkehrsmitteln zu erkunden, schaut am besten zuerst auf die TITSA-Website oder die TITSA-App. Von Valleseco aus ist es meist am einfachsten, zuerst zum Intercambiador Santa Cruz zu fahren – das ist der Hauptbusbahnhof in Santa Cruz. Von dort könnt ihr zu Fuß ins Stadtzentrum gehen, die Straßenbahn nach La Laguna nehmen oder in Busse umsteigen, die zu anderen Städten, Flughäfen, Stränden und in den Süden der Insel fahren. Für Playa de Las Teresitas nehmt die TITSA-Linie 910 Richtung San Andrés / Playa de Las Teresitas. Ihr könnt den Bus entweder im Bereich Valleseco nehmen, wenn vorhanden, oder zunächst zum Intercambiador Santa Cruz fahren und dort umsteigen. Ich empfehle, vor der Abfahrt die genaue Route auf Google Maps, TITSA oder der TITSA-App zu prüfen, da sich die Buszeiten je nach Tag, Saison und Feiertagen ändern können."
       }
     ],
     "emergency": {
@@ -183,28 +120,21 @@
           "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"
         },
         {
-          "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"
-        },
-        {
-          "note": "Polizeistation Paphos"
+          "note": "Hauptkrankenhaus in Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung brauchen."
+      "nearestPharmacy": "Mehrere Apotheken in der Nähe auf der Hauptstraße. Fragt mich, wenn ihr eine Empfehlung braucht."
     },
     "checkout": {
       "steps": [
-        "Bettwäsche in beiden Schlafzimmern abziehen und auf den jeweiligen Betten lassen",
-        "Kühlschrank und Schränke von allen Lebensmitteln leeren",
-        "Müll in Säcke packen und zu den beschrifteten Behältern auf dem Parkplatz bringen",
-        "Geschirrspüler ein letztes Mal laufen lassen und offen lassen zum Lüften",
-        "Kochfeld und Küchenarbeitsflächen abwischen",
-        "Alle Fenster, Balkontüren und Rollläden schließen und verschließen",
-        "Alle Klimaanlagen, Lichter und den Fernseher ausschalten",
-        "Den Parkplatz für die nächsten Gäste frei lassen",
-        "Wohnungstür abschließen und Schlüssel in die Schlüsselbox zurücklegen (Code: 2468)",
-        "Uns eine WhatsApp schicken, dass Sie sicher unterwegs sind. Bewertungen bedeuten uns alles. Danke!"
-      ],
-      "lateCheckout": "Später Check-out bis 13 Uhr kann je nach taggleichen Ankünften möglich sein. Bitte bis 21 Uhr am Vorabend fragen und wir bestätigen. In der Hochsaison kann eine kleine Gebühr anfallen."
+        "Falls ihr das Geschirr kurz abwaschen und auf dem Abtropfgestell lassen könntet, wäre das super!",
+        "Falls ihr den Kühlschrank leeren und alle Essensreste in den Müll werfen könntet, wäre ich sehr dankbar!",
+        "Bitte entsorgt den Müll. Die großen Container findet ihr kurz vor dem Ortsausgang.",
+        "Bitte vor dem Gehen alle Fenster und die Tür schließen.",
+        "Bitte alle Lichter und elektrischen Geräte ausschalten (Ofen, Herd, Mixer), wenn ihr fertig seid.",
+        "Wenn ihr gehen möchtet, bitte abschließen und alle Schlüssel in die Schlüsselbox zurücklegen und den Code danach zurücksetzen.",
+        "Bitte sendet mir eine WhatsApp- oder Airbnb-Nachricht, damit ich weiß, dass ihr abgereist seid – und ich würde mich sehr über eine Bewertung freuen, wenn euch der Aufenthalt gefallen hat! 🩵"
+      ]
     }
   },
   "hu": {
@@ -217,7 +147,7 @@
       "houseRules": "Házirend",
       "gettingHere": "Megközelítés",
       "openGoogleMaps": "Megnyitás Google Térképen",
-      "byCar": "Autóval & Parkolás",
+      "byCar": "Autóval",
       "parking": "Parkolás",
       "publicTransport": "Tömegközlekedés",
       "taxi": "Taxi",
@@ -235,154 +165,91 @@
       "checkoutChecklist": "Kijelentkezési lista",
       "contactHost": "Kapcsolat a házigazdával"
     },
-    "welcomeMessage": "Üdvözöljük gyönyörű 2 hálószobás lakásunkban! Nagyon örülünk, hogy az idejüket nálunk töltik. Ez a tágas, kényelmes otthon tökéletes a két vagy több személy számára!",
+    "welcomeMessage": "Üdvözlöm színes házamban Tenerife dombjai között! A varázslatos Valleseco faluban megbúvó ház tele van egyéniséggel és természet veszi körül. Remélem, ti is annyira meg fogjátok szeretni, mint én. Bármikor keressetek, ha bármire szükségetek van.",
     "gettingHere": {
-      "byCar": "A larnacai repülőtérről vegye az A3-as autópályát Protaras irányába. Hagyja el az autópályát Protaras/Paralimni-nél és hajtson a fő körforgalomhoz. A harmadik kijáratot vegye a Protaras sugárútra a városközpont felé. A Protaras vízipark után 500 m-rel a jobb oldalon forduljon balra a Kypros utcába. Mi vagyunk a homokszínű négyemeletes épület. Figyelje a bejárat feletti bougainvilleát.",
-      "parking": "Ingyenes parkoló az épület mögött. Behajtás az épülettől jobbra lévő sikátoron keresztül. Az Ön parkolóhelye 'K14'-gyel van jelölve.",
-      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vegyen egy megállót a 615-ös busszal. ⚠️ A buszok csak készpénzt fogadnak el. A viteldíj 2,50€ személyenként és útonként.",
-      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40-45€, csúcsidőn kívül 45-50€. A repülőtérről az utazás körülbelül 20-25 percet vesz igénybe.",
-      "directionPhotos": []
+      "byCar": "A legjobb, ha az ajánlott parkolóban hagyjátok az autót (link lent). Mindig van szabad hely, és szinte egyetlen lépcsőt sem kell másznotok. Ezután kövessétek a fotóútmutatóban leírt gyalogos útvonalat. A Google Maps az utolsó szakaszon nem 100%-osan pontos – kérjük, használjátok a fotóútmutatót!",
+      "parking": "Mindig van szabad parkolóhely, és az oda vezető gyalogos út rövid és lapos.",
+      "publicTransport": "Santa Cruz de Tenerifféről több busz is indul (pl. 909, 910, 916). Győződjetek meg róla, hogy Vallesecóban szálltok le (kis falu, csak egy megállóval). A leszállás után keressétek meg a Punto y Coma Minimarketet, és vegyétek a lépcsőt a bal oldalon, kb. 20 méterrel az üzlet után. 5–10 perces kaptatóval éritek el a házat. A Google Maps nem teljesen pontos az utolsó szakaszon – kérjük, kövessétek a fotóútmutatót!",
+      "taxi": "Taxi elérhető a Tenerife Északi (TFN) és Tenerife Déli (TFS) repülőtereken. Állapodjatok meg a viteldíjban az indulás előtt, vagy győződjetek meg arról, hogy a taxaméter jár. Kérjétek a sofőrt, hogy az alább linkelt parkolónál tegyen ki, majd kövessétek a fotóútmutató 1. fotójától.",
+      "directionPhotos": [
+        { "caption": "Itt parkoljatok. Mindig van szabad hely, és szinte egyetlen lépcsőt sem kell másznotok." },
+        { "caption": "A parkolótól ebbe az irányba induljatok, és menjetek az utca végéig, majd ereszkedjetek le a bal oldali lépcsőn." },
+        { "caption": "Menjetek le a következő utcára, és forduljatok jobbra. Ez a ház utcája." },
+        { "caption": "Menjetek egyenesen, és keljetek át a kaktuszos és növényekkel teli kerten." },
+        { "caption": "Folytassátok a házak között..." },
+        { "caption": "Menjetek tovább egyenesen..." },
+        { "caption": "1 perc múlva a bal oldalon meglátjátok a fehér házat kék ajtóval." },
+        { "caption": "Már közel vagytok. A lakás a ház felső részén van." },
+        { "caption": "Ez a ház felső része. Vegyétek a közvetlenül a ház mellett lévő lépcsőt a bejárat eléréséhez. Keressétek a kék ajtót mellette a kulcsszekrénnyel. Kód: 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Kulcsszekrény az épület főbejáratánál, földszint balra",
+      "keyLocation": "Keressétek a kék ajtót a ház felső részén – a kulcsszekrény közvetlenül mellette van.",
       "steps": [
-        "Lépjen be az épületbe a főajtón (nyomja a nyitáshoz, nincs bezárva)",
-        "A kulcsszekrény a bal oldali falon található közvetlenül a bejárat után, mellmagasságban",
-        "Írja be a 2468 kódot és nyissa ki a fedelet a kulcs kivételéhez",
-        "Vegye a liftet vagy a lépcsőt a 2. emeletre. A lakás a 14-es szám",
-        "Ugyanaz a kulcs nyitja a lakás ajtaját",
-        "Kijelentkezéskor tegye vissza a kulcsot a kulcsszekrénybe"
+        "Parkoljatok az ajánlott parkolóban (mindig van hely, és szinte alig kell lépcsőzni)",
+        "A parkolótól az utca végéig menjetek, majd ereszkedjetek le a bal oldali lépcsőn",
+        "Az alatta lévő következő utcán forduljatok jobbra – ez a ház utcája",
+        "Menjetek egyenesen, keljetek át a kiskerten kaktuszokkal és növényekkel, majd folytassátok a házak között",
+        "Nagyjából 1 perc után a bal oldalon meglátjátok a fehér házat kék ajtóval",
+        "Ez a ház felső része – vegyétek a ház melletti lépcsőt a bejárat eléréséhez",
+        "Keressétek a kék ajtót mellette a kulcsszekrénnyel. Kód: 1214"
       ],
-      "notes": "Az épületben van lift. Egy poggyászkocsi áll rendelkezésre a földszinti szekrényben. A kulcsszekrénnyel kapcsolatos problémák esetén azonnal hívjon."
+      "notes": "Ha nehézségetek van megtalálni, bármikor hívhattok vagy írhattok WhatsAppon – szívesen segítek lépésről lépésre. Megjegyzés: A Google Maps az utolsó szakaszon nem 100%-osan pontos, ezért kövessétek a fotóútmutatót!"
     },
     "houseRules": [
-      "Tilos a dohányzás a teljes lakásban",
-      "Tilos a buli és rendezvény tartása. Csendes időszak 23:00-08:00",
-      "Maximális férőhely: 5 vendég",
-      "Háziállatok nem engedélyezettek",
-      "Mosogasson el azonnal és tartsa tisztán a konyhai pultot. Cipruson a meleg időjárás rovarokat vonzhat",
-      "Kérjük, használja a WC melletti szemetes kosarat. Ne dobjon WC-papírt a kagylóba (a ciprusi vízvezetékek nem bírják el)",
-      "Hagyja a fémkulcsot a konnektorban az ajtó mellett, amíg bent van; vegye ki, amikor távozik",
-      "Csukja be az összes ablakot és erkélyajtót, amikor a légkondicionáló működik",
-      "Csukja össze és rögzítse a teraszi napernyőt éjszaka és szeles időben",
-      "Adja vissza a kulcsot a kulcsszekrénybe és állítsa vissza a kódot kijelentkezéskor",
-      "Bánjon gondosan a lakással. Kérjük, azonnal jelezzen minden sérülést",
-      "Vigyázzon a kulcsokra. Ha elveszíti vagy bezárja magát, lakatosra lesz szükség, amelynek költségét Önre hárítjuk"
+      "Kérjük, csak kívül dohányozzatok. A kültéri területek mind a tiétek, de kérjük, tartsátok a ház belsejét dohányfüstmentesen. Köszönöm!",
+      "Kérjük, legyetek csendben. A csendes időszak 23:00-tól 8:00-ig tart. Partik és rendezvények nem engedélyezettek.",
+      "Kérjük, bánjatok a lakással úgy, mint a sajátotokkal, és azonnal értesítsetek, ha valami megsérül. Megértem, hogy balesetek előfordulnak."
     ],
     "appliances": [
       {
-        "name": "Légkondicionáló",
-        "instructions": "Három légkondicionáló van: egy a nappaliban, egy-egy mindkét hálószobában. Mindegyiknek saját távirányítója van az adott szobában. Nyomja meg a POWER gombot, válassza a COOL módot, állítsa 22-24°C-ra. Az összes egység egyszerre is működtethető. Tartsa csukva az ajtókat és ablakokat működés közben. Távozáskor kapcsolja ki az összes egységet."
+        "name": "Villamos energia",
+        "instructions": "A ház elektromos rendszere kissé régi, ezért egyszerre nem bír el több nagy teljesítményű készüléket: például hajszárítót, sütőt és főzőlapot egyszerre. Biztonsági okokból kérjük, egyszerre csak egyet használjatok ezekből. Ha esetleg kimegy az áram, semmi gond – csak szóljatok nekem, amint tudtok, és segítek megoldani."
+      },
+      {
+        "name": "Konyha",
+        "instructions": "Rendelkezésre áll egy konyhasarok elektromos főzőlappal, mini sütővel, hűtőszekrénnyel és a szükséges konyhaeszközökkel. ⚠️ Fontos: Mivel Tenerifén örökké nyár van, a rovarok sohasem alszanak. Kérjük, azonnal dobjátok el a maradék ételeket, és ajánlom, hogy közvetlenül étkezés után mossátok el az edényeket, hogy elkerüljétek a legyeket és más rovarokat a konyhában."
       },
       {
         "name": "Mosógép",
-        "instructions": "Teljes méretű mosógép a fürdőszoba melletti háztartási helyiségben. Folyékony mosószer a mosogató alatt, tegye a II-es fiókba. Állítsa 40°C pamut programra normál mosáshoz, nyomja meg a START gombot. A gépnek szárító funkciója is van: válassza a SZIVATTYÚZÁS+CENTRIFUGÁLÁS opciót, majd szárítson alacsony hőfokon."
+        "instructions": "A mosógép a konyhában található – nyugodtan használjátok. A \"Rapido\" nevű gyorsprogram általában minden igényt kielégít. Ha bármilyen kérdésetek van, szóljatok!"
       },
       {
-        "name": "Smart TV",
-        "instructions": "65 colos Smart TV a nappaliban. Be- és kikapcsoló gomb a távirányítón. A Netflix és a YouTube be van töltve. Használja a vendégprofilunkat vagy jelentkezzen be saját fiókkal. Egy második, kisebb tévé a főhálószobában. Mindkét tévé ugyanazon a hálózaton van. HDMI-kábel a TV-állvány alatti fiókban."
+        "name": "Ivóvíz",
+        "instructions": "Tenerife csapvize biztonságos és tiszta, bár a legtöbb ember palackozott vizet részesít előnyben, amely minden szupermarketben vagy kioszkban kapható. Az olcsóbb és praktikusabb megoldás egy 5 literes, 8 literes vagy nagyobb kaniszter vásárlása."
       },
       {
-        "name": "Teljes konyha",
-        "instructions": "Teljes 4 lapos kerámia főzőlap sütővel. Lábasok, serpenyők és eszközök az alsó szekrényekben. A sütőnek kb. 15 perc kell az előmelegítéshez. Állítsa a felső tárcsát a kívánt hőmérsékletre, az alsó tárcsát a kívánt főzési szimbólumra (légkeverés ajánlott). Mosogatógép a mosogató alatt. Tabletták a felette lévő szekrényben."
+        "name": "Fürdőszoba",
+        "instructions": "Friss törölközők, hajszárító, szappan és sampon mind készen várnak rátok. Ha bármi hiányzik, szóljatok és megoldom."
       },
       {
-        "name": "Grill / Barbecue",
-        "instructions": "Faszenes grill az erkélyen (a nyári hónapokban rendelkezésre áll). A szén a mellette lévő terrakotta cserépben van. Használja a grillgyújtót a konyhafiókból. Gyújtsa meg a gyújtót, tegye a szénpiramis alá és várjon 20 percet. Utána mindig teljesen oltsa el vízzel."
+        "name": "A Varázslatos Terasz",
+        "instructions": "Ez pontosan az a terasz, amelyet a fotókon láttatok! Tenerife csodálatosan kiszámíthatatlan mikroklímája miatt (Üdv, eső, szél és napsütés – néha mindhárman ugyanazon a napon! 🌧️💨☀️) nem tudom kint hagyni a párnákat, takarókat és szőnyegeket, ezért elsőre kicsit kopárnak tűnhet egy takart grillel. A jó hír: minden, ami szükséges a kellemes és szép hangulat megteremtéséhez, vár rátok – akár a teraszon lévő bézs szekrényben, akár a lakáson belül. Rendezzétek be tetszés szerint és egyszerűen élvezzétek! 🏝️🪴"
       },
       {
-        "name": "Mosogatógép",
-        "instructions": "Beépített mosogatógép a mosogató alatt. Tabletták a munkalap alatti dobozban. Pakolja be az edényeket (poharak fejjel lefelé a felső kosárban, tányérok alul), tegyen egy tablettát az adagolóba, válassza az ECO-t teljes adaghoz vagy a QUICK 45-öt könnyű használathoz. Nyomja meg a START gombot. Ürítse ki, amikor lehűlt."
+        "name": "Grill",
+        "instructions": "A teraszon megtaláljátok a faszenes grillsütőt. Általában nem tartok faszenet a házban, hacsak az előző vendégek nem hagytak némi mennyiséget, de mindent beszerezhetek bármelyik szupermarketben vagy helyi kispiacon egy kellemes grilldelutánhoz vagy -estéhez. 🙂 ⚠️ Kérjük, ne feledjétek alaposan megtisztítani a grillsütőt használat után, és győződjetek meg arról, hogy teljesen kialudt. Nagyon köszönöm! 🙏"
+      },
+      {
+        "name": "Növények",
+        "instructions": "Ha néhány napig maradtok, a növények örülnének egy kis víznek minden 3–4 napban. Értékelni fogják!"
+      },
+      {
+        "name": "Mari, a Kedves Szomszéd",
+        "instructions": "A jobbkezem és legnagyobb segítségem a kedves Mari, aki közvetlenül mellettünk lakik. Ha bármi felmerül (mondjuk extra törölközőre van szükségetek), mindig szívesen segít. Sőt, ha ráér, házi süteménnyel is betoppanhat! Mari csak spanyolul tud, de ne aggódjatok, ha ti nem – valahogy mindig gyönyörűen megoldódik. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Strandok 🏝️"
-      },
-      {
-        "category": "Történelmi helyek & Séták 🏰"
-      },
-      {
-        "category": "Látnivalók & Kirándulások 📸"
-      },
-      {
-        "category": "Túrázás & Természet ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Görög / Mediterrán"
-      },
-      {
-        "type": "Görög / Meze"
-      },
-      {
-        "type": "Kávézó / Brunch"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Ciprusi"
-      },
-      {
-        "type": "Ételudvar"
-      },
-      {
-        "type": "Kávézó / Helyi"
-      },
-      {
-        "type": "Ciprusi / Kávézó"
-      },
-      {
-        "type": "Görög / Ciprusi"
-      },
-      {
-        "type": "Ciprusi taverna"
-      },
-      {
-        "type": "Vegyes / Kikötő"
-      },
-      {
-        "type": "Ciprusi / Tenger gyümölcsei"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Kávézó / Étterem"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Bár / Étterem"
-      },
-      {
-        "type": "Ciprusi / Bor"
-      },
-      {
-        "type": "Tenger gyümölcsei / Taverna"
-      },
-      {
-        "type": "Élelmiszerbolt"
-      },
-      {
-        "type": "Szupermarket"
-      }
+      { "category": "Strandok 🏝️" },
+      { "category": "Történelmi helyek & Festői Séták 🏰" },
+      { "category": "Látnivalók & Kirándulások 📸" },
+      { "category": "Túrázás & Természeti Ösvények ⛰️" },
+      { "category": "Ételek & Italok" },
+      { "category": "Vásárlás" }
     ],
     "gettingAround": [
       {
-        "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
-      },
-      {
-        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5-10 perces sétán belül elérhetők."
-      },
-      {
-        "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
+        "info": "Ha Tenerifét tömegközlekedéssel szeretnétek felfedezni, először nézzétek meg a TITSA weboldalát vagy a TITSA appot. Vallesecóból általában a legegyszerűbb először az Intercambiador Santa Cruzra utazni – ez a főbuszpályaudvar Santa Cruzban. Onnan gyalog a városközpontba sétálhattok, villamossal La Lagunába mentek, vagy átszálltok más városokba, repülőterekre, strandokra és a sziget déli részébe tartó buszokra. A Playa de Las Teresitashoz vegyétek a TITSA 910-es vonalát San Andrés / Playa de Las Teresitas felé. Felszállhattok a buszra Valleseco körzetében, ha van ilyen lehetőség, vagy először menjetek az Intercambiador Santa Cruzra és ott szálljatok át. Indulás előtt javaslom ellenőrizni a pontos útvonalat a Google Mapsen, a TITSA oldalán vagy a TITSA appon, mivel a menetrendek a naptól, évszaktól és ünnepektől függően változhatnak."
       }
     ],
     "emergency": {
@@ -391,28 +258,21 @@
           "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
         },
         {
-          "note": "Fő kórház Páphoszban, kb. 10 perc autóút"
-        },
-        {
-          "note": "Páphai rendőrség"
+          "note": "Fő kórház Santa Cruz de Tenerifén"
         }
       ],
-      "nearestPharmacy": "Több gyógyszertár is található sétálótávolságon belül a főúton. Kérdezzenek minket, ha segítségre van szükségük a legközelebbi megtalálásában."
+      "nearestPharmacy": "Több gyógyszertár is található a közelben a főúton. Kérdezzetek engem, ha ajánlásra van szükségetek."
     },
     "checkout": {
       "steps": [
-        "Húzza le az ágyneműt mindkét hálószobában és hagyja az adott ágyakon",
-        "Ürítse ki a hűtőt és a szekrényeket minden élelmiszertől",
-        "Csomagolja zsákokba a szemetet és vigye a parkolóban lévő feliratozott kukákhoz",
-        "Indítsa el utoljára a mosogatógépet és hagyja nyitva a szellőzéshez",
-        "Törölje le a főzőlapot és a konyhai munkalapokat",
-        "Csukja be és zárja le az összes ablakot, erkélyajtót és redőnyt",
-        "Kapcsolja ki az összes légkondicionálót, lámpát és a tévét",
-        "Hagyja szabadon a parkolóhelyet a következő vendégeknek",
-        "Zárja be a lakás ajtaját és tegye vissza a kulcsot a kulcsszekrénybe (kód: 2468)",
-        "Írjon nekünk WhatsApp-on, hogy biztonságosan úton vannak. Az értékelések mindent jelentenek nekünk. Köszönjük!"
-      ],
-      "lateCheckout": "Késői, 13 óráig tartó kijelentkezés az aznapi érkezésektől függően lehetséges lehet. Kérjük, kérdezzen az előző este 21 óráig, és visszaigazoljuk. Főszezonban kis díj merülhet fel."
+        "Ha az edényeket gyorsan elmoshatnátok és a szárítóra tennétek, az nagyszerű lenne!",
+        "Ha a hűtőt ki tudnátok üríteni és a maradék ételt a kukába dobni, nagyon megköszönném!",
+        "Kérjük, dobjátok ki a szemetet. A nagy tartályokat közvetlenül a faluból kilépés előtt találjátok.",
+        "Indulás előtt kérjük, zárjátok be az ablakokat és az ajtót.",
+        "Kérjük, kapcsoljatok le minden lámpát és elektromos készüléket (sütő, főzőlap, turmixgép), ha végeztetek.",
+        "Ha készen álltok az indulásra, kérjük, zárjátok be és tegyétek vissza az összes kulcsot a kulcsszekrénybe, majd állítsátok vissza a kódot.",
+        "Kérjük, küldjetek nekem egy WhatsApp- vagy Airbnb-üzenetet, hogy tudjam, elmentetek – és nagyon örülnék egy értékelésnek, ha élveztétek a tartózkodást! 🩵"
+      ]
     }
   },
   "el": {
@@ -425,7 +285,7 @@
       "houseRules": "Κανόνες Κατοικίας",
       "gettingHere": "Πώς να φτάσετε",
       "openGoogleMaps": "Άνοιγμα στο Google Maps",
-      "byCar": "Με Αυτοκίνητο & Παρκάρισμα",
+      "byCar": "Με Αυτοκίνητο",
       "parking": "Παρκάρισμα",
       "publicTransport": "Δημόσια Συγκοινωνία",
       "taxi": "Ταξί",
@@ -441,156 +301,93 @@
       "checkout": "Check-out",
       "checkoutTime": "Ώρα Αναχώρησης",
       "checkoutChecklist": "Λίστα Αναχώρησης",
-      "contactHost": "Επικοινωνία"
+      "contactHost": "Επικοινωνία με τον Οικοδεσπότη"
     },
-    "welcomeMessage": "Καλώς ήρθατε στο όμορφο διαμέρισμά μας με 2 υπνοδωμάτια! Χαιρόμαστε πολύ που θα περάσετε τον χρόνο σας εδώ. Αυτό το ευρύχωρο διαμέρισμα σχεδιάστηκε για οικογένειες και παρέες. Άφθονος χώρος για να χαλαρώσετε και να απλωθείτε όλοι μαζί. Δύο υπνοδωμάτια, ένα μεγάλο σαλόνι, μια πλήρως εξοπλισμένη κουζίνα και ένα ευρύ ιδιωτικό μπαλκόνι με θέα στον κήπο. Θέλουμε η διαμονή σας να είναι τέλεια, μη διστάσετε λοιπόν να επικοινωνήσετε μαζί μας αν χρειαστείτε κάτι.",
+    "welcomeMessage": "Καλώς ήρθατε στο πολύχρωμο σπίτι μου στους λόφους της Τενερίφης! Χωμένο στο γοητευτικό χωριό Valleseco, είναι γεμάτο χαρακτήρα και περιτριγυρισμένο από φύση. Ελπίζω να το αγαπήσετε εξίσου με εμένα. Επικοινωνήστε μαζί μου οποιαδήποτε στιγμή αν χρειαστείτε οτιδήποτε.",
     "gettingHere": {
-      "byCar": "Από το αεροδρόμιο Λάρνακας πάρτε τον αυτοκινητόδρομο A3 προς Πρωταρά. Βγείτε από τον αυτοκινητόδρομο στον Πρωταρά/Παραλίμνι και οδηγήστε προς τον κεντρικό κυκλικό κόμβο. Πάρτε την τρίτη έξοδο στη λεωφόρο Πρωταρά προς το κέντρο της πόλης. Στρίψτε αριστερά στην οδό Κύπρου 500 μ. μετά το πάρκο νερού του Πρωταρά στη δεξιά πλευρά. Είμαστε το τετραώροφο κτίριο σε χρώμα άμμου. Προσέξτε τη βουκαμβίλια πάνω από την είσοδο.",
-      "parking": "Δωρεάν χώρος στάθμευσης πίσω από το κτίριο. Είσοδος από το δρομάκι δεξιά του κτιρίου. Η θέση σας είναι σημειωμένη με 'K14'.",
-      "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 μέχρι τη στάση Τάφοι των Βασιλέων. Από εκεί είναι 18 λεπτά με τα πόδια (~1,3 χλμ). Εναλλακτικά, το λεωφορείο 615 για μία στάση. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Η εισιτήριο κοστίζει 2,50€ ανά άτομο ανά διαδρομή.",
-      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40-45€ κατά τη διάρκεια της ημέρας και 45-50€ τη νύχτα. Η διαδρομή διαρκεί περίπου 20-25 λεπτά.",
-      "directionPhotos": []
+      "byCar": "Το καλύτερο είναι να παρκάρετε στο προτεινόμενο σημείο (σύνδεσμος παρακάτω). Υπάρχουν πάντα θέσεις και δεν θα χρειαστεί να ανεβείτε σχεδόν καμία σκάλα. Στη συνέχεια ακολουθήστε τις οδηγίες πεζοπορίας στον φωτογραφικό οδηγό. Το Google Maps δεν είναι 100% ακριβές για το τελευταίο κομμάτι – παρακαλώ χρησιμοποιήστε τον φωτογραφικό οδηγό!",
+      "parking": "Υπάρχουν πάντα διαθέσιμες θέσεις στάθμευσης και η διαδρομή ως την είσοδο του σπιτιού είναι σύντομη και επίπεδη.",
+      "publicTransport": "Υπάρχουν διάφορα λεωφορεία από τη Santa Cruz de Tenerife (π.χ. Νο. 909, 910, 916). Βεβαιωθείτε ότι κατεβαίνετε στο Valleseco (μικρό χωριό με μόνο μία στάση). Αφού κατεβείτε, βρείτε το Punto y Coma Minimarket και ανεβείτε τη σκάλα αριστερά, περίπου 20 μέτρα μετά. Είναι 5–10 λεπτά ανηφορικό μέχρι το σπίτι. Το Google Maps δεν είναι πλήρως ακριβές για το τελευταίο κομμάτι – παρακαλώ ακολουθήστε τον φωτογραφικό οδηγό!",
+      "taxi": "Τα ταξί είναι διαθέσιμα από τα αεροδρόμια Tenerife Norte (TFN) και Tenerife Sur (TFS). Συμφωνήστε στο κόμιστρο πριν ξεκινήσετε ή βεβαιωθείτε ότι τρέχει το ταξίμετρο. Ζητήστε από τον οδηγό να σας αφήσει στο χώρο στάθμευσης που συνδέεται παρακάτω, και έπειτα ακολουθήστε τον φωτογραφικό οδηγό από τη φωτογραφία 1.",
+      "directionPhotos": [
+        { "caption": "Παρκάρετε εδώ. Υπάρχουν πάντα θέσεις και δεν θα χρειαστεί να ανεβείτε σχεδόν καμία σκάλα." },
+        { "caption": "Ξεκινώντας από το πάρκινγκ, κινηθείτε προς αυτή την κατεύθυνση και περπατήστε μέχρι το τέλος της οδού, μετά κατεβείτε τη σκάλα στα αριστερά." },
+        { "caption": "Κατεβείτε στην επόμενη οδό και στρίψτε δεξιά. Αυτή είναι η οδός του σπιτιού." },
+        { "caption": "Πηγαίνετε ευθεία και περάστε τον κήπο με κάκτους και άλλα φυτά." },
+        { "caption": "Συνεχίστε ανάμεσα στα σπίτια..." },
+        { "caption": "Συνεχίστε ευθεία..." },
+        { "caption": "Μετά από 1 λεπτό, στα αριστερά θα δείτε ένα λευκό σπίτι με μπλε πόρτα." },
+        { "caption": "Πλησιάζετε. Το διαμέρισμά σας βρίσκεται στο πάνω μέρος του σπιτιού." },
+        { "caption": "Είναι το πάνω μέρος του σπιτιού. Πάρτε τη σκάλα ακριβώς δίπλα στο σπίτι για να φτάσετε στην είσοδο. Ψάξτε για τη μπλε πόρτα με το κουτί κλειδιών δίπλα. Κωδικός: 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Κουτί κλειδιών στην κύρια είσοδο του κτιρίου, ισόγειο αριστερά",
+      "keyLocation": "Ψάξτε για τη μπλε πόρτα στο πάνω μέρος του σπιτιού – το κουτί κλειδιών βρίσκεται ακριβώς δίπλα.",
       "steps": [
-        "Μπείτε στο κτίριο από την κύρια πόρτα (σπρώξτε για να ανοίξει, δεν είναι κλειδωμένη)",
-        "Το κουτί κλειδιών βρίσκεται στον αριστερό τοίχο αμέσως μετά την είσοδο, σε ύψος στήθους",
-        "Πληκτρολογήστε τον κωδικό 2468 και ανοίξτε το καπάκι για να πάρετε το κλειδί",
-        "Πάρτε τον ανελκυστήρα ή τις σκάλες στον 2ο όροφο. Το διαμέρισμα είναι το νούμερο 14",
-        "Το ίδιο κλειδί ανοίγει την πόρτα του διαμερίσματος",
-        "Επιστρέψτε το κλειδί στο κουτί κλειδιών κατά την αναχώρηση"
+        "Παρκάρετε στον προτεινόμενο χώρο (υπάρχει πάντα χώρος και αποφεύγετε σχεδόν όλες τις σκάλες)",
+        "Από το πάρκινγκ, περπατήστε προς το τέλος της οδού και κατεβείτε τη σκάλα στα αριστερά",
+        "Στην επόμενη οδό κάτω, στρίψτε δεξιά – αυτή είναι η οδός του σπιτιού",
+        "Πηγαίνετε ευθεία, περάστε τον μικρό κήπο με κάκτους και φυτά και συνεχίστε ανάμεσα στα σπίτια",
+        "Μετά από περίπου 1 λεπτό, στα αριστερά θα δείτε ένα λευκό σπίτι με μπλε πόρτα",
+        "Είναι το πάνω μέρος του σπιτιού – πάρτε τη σκάλα δίπλα στο σπίτι για να φτάσετε στην είσοδο",
+        "Βρείτε τη μπλε πόρτα με το κουτί κλειδιών δίπλα. Κωδικός: 1214"
       ],
-      "notes": "Στο κτίριο υπάρχει ανελκυστήρας. Ένα καρότσι αποσκευών είναι διαθέσιμο στην ντουλάπα του ισογείου. Αν έχετε πρόβλημα με το κουτί κλειδιών, καλέστε μας αμέσως."
+      "notes": "Αν αντιμετωπίσετε δυσκολία να με βρείτε, καλέστε ή στείλτε μήνυμα στο WhatsApp οποιαδήποτε στιγμή – χαίρομαι να σας οδηγήσω βήμα-βήμα. Σημείωση: Το Google Maps δεν είναι 100% ακριβές για το τελευταίο τμήμα, οπότε ακολουθήστε τον φωτογραφικό οδηγό!"
     },
     "houseRules": [
-      "Απαγορεύεται το κάπνισμα σε όλο το διαμέρισμα",
-      "Απαγορεύονται πάρτι και εκδηλώσεις. Ησυχία από τις 23:00 έως τις 08:00",
-      "Μέγιστη χωρητικότητα: 5 φιλοξενούμενοι",
-      "Δεν επιτρέπονται κατοικίδια",
-      "Καθαρίστε τα πιάτα αμέσως και διατηρείτε τον πάγκο κουζίνας καθαρό. Ο ζεστός καιρός της Κύπρου μπορεί να προσελκύσει έντομα",
-      "Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα. Μην ρίχνετε χαρτί υγείας στη λεκάνη (η κυπριακή υδραυλική εγκατάσταση δεν το αντέχει)",
-      "Αφήστε το μεταλλικό κλειδί στην πρίζα δίπλα στην πόρτα όταν είστε μέσα· αφαιρέστε το όταν φεύγετε",
-      "Κλείνετε όλα τα παράθυρα και τις πόρτες του μπαλκονιού όταν λειτουργεί το κλιματιστικό",
-      "Κλείνετε και δένετε την ομπρέλα της βεράντας τη νύχτα και με αέρα",
-      "Επιστρέψτε τα κλειδιά στο κουτί και επαναφέρετε τον κωδικό κατά την αναχώρηση",
-      "Φροντίστε το διαμέρισμα με προσοχή. Παρακαλούμε αναφέρετε τυχόν ζημιές άμεσα",
-      "Φυλάξτε τα κλειδιά με ασφάλεια. Αν τα χάσετε ή τα κλειδωθείτε έξω, θα χρειαστεί κλειδαράς και το κόστος θα χρεωθεί σε εσάς"
+      "Παρακαλώ καπνίστε μόνο έξω. Οι εξωτερικοί χώροι είναι όλοι δικοί σας, αλλά κρατήστε το εσωτερικό του σπιτιού χωρίς καπνό. Ευχαριστώ!",
+      "Παρακαλώ διατηρήστε την ησυχία. Ώρες κοινής ησυχίας 23:00 έως 8:00. Δεν επιτρέπονται πάρτι ή εκδηλώσεις.",
+      "Παρακαλώ φερθείτε στο διαμέρισμα σαν να ήταν δικό σας και ενημερώστε με αμέσως αν κάτι χαλάσει. Καταλαβαίνω ότι τα ατυχήματα συμβαίνουν."
     ],
     "appliances": [
       {
-        "name": "Κλιματισμός",
-        "instructions": "Υπάρχουν τρία κλιματιστικά: ένα στο σαλόνι και από ένα σε κάθε υπνοδωμάτιο. Καθένα έχει το δικό του τηλεχειριστήριο στο αντίστοιχο δωμάτιο. Πατήστε POWER, επιλέξτε COOL, ρυθμίστε στους 22-24°C. Όλα μπορούν να λειτουργούν ταυτόχρονα. Κρατήστε πόρτες και παράθυρα κλειστά όταν λειτουργούν. Σβήστε τα όλα κατά την αναχώρηση."
+        "name": "Ηλεκτρισμός",
+        "instructions": "Το ηλεκτρικό σύστημα του σπιτιού είναι λίγο παλιό, οπότε δεν αντέχει πολλές ηλεκτρικές συσκευές ταυτόχρονα: για παράδειγμα πιστολάκι μαλλιών μαζί με φούρνο και κουζίνα. Για ασφάλεια, παρακαλώ χρησιμοποιήστε μόνο μία κάθε φορά. Αν ο ηλεκτρισμός κοπεί, μην ανησυχείτε καθόλου – απλά ενημερώστε με το συντομότερο δυνατό και θα βοηθήσω να λυθεί."
+      },
+      {
+        "name": "Κουζίνα",
+        "instructions": "Διαθέτετε κουζινάκι με ηλεκτρική εστία, μικρό φούρνο, ψυγείο και τα συνηθισμένα σκεύη που μπορεί να χρειαστείτε. ⚠️ Σημαντικό: Καθώς στην Τενερίφη είναι πάντα καλοκαίρι, τα έντομα δεν κοιμούνται ποτέ. Παρακαλώ πετάξτε αμέσως τα υπολείμματα φαγητού στα σκουπίδια, και συνιστώ να πλένετε τα πιάτα αμέσως μετά το φαγητό για να αποφύγετε μύγες και άλλα έντομα."
       },
       {
         "name": "Πλυντήριο",
-        "instructions": "Πλήρες πλυντήριο στον χώρο οικιακής χρήσης δίπλα στο μπάνιο. Υγρό απορρυπαντικό κάτω από τον νεροχύτη, βάλτε το στη θήκη II. Ρυθμίστε στους 40°C βαμβακερά για κανονικά φορτία, πατήστε START. Το μηχάνημα έχει και λειτουργία στεγνώματος: επιλέξτε ΑΔΕΙΑΣΜΑ+ΣΤΥΨΙΜΟ, μετά στεγνώστε σε χαμηλή θερμοκρασία."
+        "instructions": "Θα βρείτε το πλυντήριο στην κουζίνα – νιώθετε ελεύθεροι να το χρησιμοποιήσετε. Το γρήγορο πρόγραμμα \"Rapido\" συνήθως αρκεί. Αν έχετε απορίες, απλά ρωτήστε!"
       },
       {
-        "name": "Smart TV",
-        "instructions": "Smart TV 65 ιντσών στο σαλόνι. Κουμπί ON/OFF στο τηλεχειριστήριο. Φορτωμένα Netflix και YouTube. Χρησιμοποιήστε το προφίλ επισκέπτη μας ή συνδεθείτε στον δικό σας λογαριασμό. Μια δεύτερη, μικρότερη τηλεόραση στο κύριο υπνοδωμάτιο. Και οι δύο τηλεοράσεις είναι στο ίδιο δίκτυο. Καλώδιο HDMI στο συρτάρι κάτω από τη βάση της τηλεόρασης."
+        "name": "Πόσιμο Νερό",
+        "instructions": "Το νερό της βρύσης στην Τενερίφη λέγεται ότι είναι ασφαλές και καθαρό, αν και οι περισσότεροι προτιμούν εμφιαλωμένο νερό, που βρίσκεται σε οποιοδήποτε σούπερ μάρκετ ή περίπτερο. Η φτηνότερη και πιο πρακτική επιλογή είναι ένα γκαλόν των 5 λίτρων, 8 λίτρων ή μεγαλύτερο."
       },
       {
-        "name": "Πλήρης Κουζίνα",
-        "instructions": "Πλήρης κεραμική εστία 4 εστιών με φούρνο. Κατσαρόλες, τηγάνια και σκεύη στα κάτω ντουλάπια. Ο φούρνος χρειάζεται περίπου 15 λεπτά για προθέρμανση. Ρυθμίστε τον πάνω επιλογέα στην επιθυμητή θερμοκρασία, τον κάτω επιλογέα στο επιθυμητό σύμβολο ψησίματος (συνιστάται αέρας). Πλυντήριο πιάτων κάτω από τον νεροχύτη. Ταμπλέτες στο ντουλάπι από πάνω."
+        "name": "Μπάνιο",
+        "instructions": "Θα βρείτε φρέσκες πετσέτες, πιστολάκι μαλλιών, σαπούνι και σαμπουάν έτοιμα για εσάς. Αν λείπει κάτι άλλο, απλά ενημερώστε με και θα το φροντίσω."
       },
       {
-        "name": "Ψησταριά / Μπάρμπεκιου",
-        "instructions": "Ψησταριά κάρβουνου στο μπαλκόνι (διαθέσιμη τους καλοκαιρινούς μήνες). Κάρβουνο στο πήλινο δοχείο δίπλα. Χρησιμοποιήστε προσάναμμα από το συρτάρι της κουζίνας. Ανάψτε το προσάναμμα, βάλτε το κάτω από την πυραμίδα κάρβουνου και περιμένετε 20 λεπτά. Μετά σβήνετε πάντα πλήρως με νερό."
+        "name": "Η Μαγική Ταράτσα",
+        "instructions": "Αυτή είναι ακριβώς η ταράτσα που είδατε στις φωτογραφίες! Λόγω του υπέροχα απρόβλεπτου μικροκλίματος της Τενερίφης (γεια σου βροχή, άνεμος και ηλιοφάνεια – μερικές φορές και τα τρία την ίδια μέρα! 🌧️💨☀️), δεν μπορώ να αφήνω τα μαξιλάρια, τα καλύμματα και τα χαλιά έξω, οπότε αρχικά φαίνεται λίγο γυμνή με ένα καλυμμένο BBQ. Τα καλά νέα: όλα όσα χρειάζεστε για να τη δημιουργήσετε άνετη και όμορφη σας περιμένουν – είτε στη μπεζ ντουλάπα στην ταράτσα είτε μέσα στο διαμέρισμα. Διαμορφώστε τη όπως θέλετε και απλά απολαύστε! 🏝️🪴"
       },
       {
-        "name": "Πλυντήριο Πιάτων",
-        "instructions": "Εντοιχισμένο πλυντήριο πιάτων κάτω από τον νεροχύτη. Ταμπλέτες στο κουτί κάτω από τον πάγκο. Φορτώστε τα πιάτα (φλιτζάνια ανάποδα στο πάνω καλάθι, πιάτα κάτω), μια ταμπλέτα στη θήκη, επιλέξτε ECO για πλήρες φορτίο ή QUICK 45 για ελαφριά χρήση. Πατήστε START. Αδειάστε όταν κρυώσει."
+        "name": "BBQ",
+        "instructions": "Στην ταράτσα θα βρείτε το BBQ, που λειτουργεί με κάρβουνο. Συνήθως δεν κρατώ κάρβουνο στο σπίτι εκτός αν έχουν αφήσει οι προηγούμενοι επισκέπτες, αλλά μπορείτε να προμηθευτείτε όλα όσα χρειάζεστε από οποιοδήποτε σούπερ μάρκετ ή τοπική αγορά για ένα υπέροχο απόγευμα ή βράδυ με σχάρα. 🙂 ⚠️ Παρακαλώ θυμηθείτε να καθαρίσετε καλά το BBQ μετά τη χρήση και βεβαιωθείτε ότι έχει σβήσει εντελώς. Ευχαριστώ πολύ! 🙏"
+      },
+      {
+        "name": "Φυτά",
+        "instructions": "Αν μείνετε λίγες μέρες, τα φυτά θα χαίρονταν λίγο νερό κάθε 3–4 μέρες. Θα το εκτιμήσουν!"
+      },
+      {
+        "name": "Η Mari, η Υπέροχη Γειτόνισσα",
+        "instructions": "Το δεξί μου χέρι και μεγαλύτερη βοήθεια είναι η αγαπητή Mari, που μένει ακριβώς δίπλα. Αν προκύψει οτιδήποτε (ας πούμε χρειάζεστε μια επιπλέον πετσέτα), είναι πάντα χαρούμενη να βοηθήσει. Ίσως περάσει ακόμα και με σπιτικά γλυκά αν έχει χρόνο! Η Mari μιλά μόνο ισπανικά, αλλά μην ανησυχείτε αν δεν μιλάτε – κάπως τα καταφέρνουν πάντα υπέροχα. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Παραλίες 🏝️"
-      },
-      {
-        "category": "Ιστορικά Μνημεία & Τοπίο 🏰"
-      },
-      {
-        "category": "Αξιοθέατα & Εκδρομές 📸"
-      },
-      {
-        "category": "Πεζοπορία & Φύση ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Ελληνικά / Μεσογειακά"
-      },
-      {
-        "type": "Ελληνικά / Μεζέ"
-      },
-      {
-        "type": "Καφέ / Brunch"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Κυπριακά"
-      },
-      {
-        "type": "Food Court"
-      },
-      {
-        "type": "Καφέ / Τοπικό"
-      },
-      {
-        "type": "Κυπριακά / Καφέ"
-      },
-      {
-        "type": "Ελληνικά / Κυπριακά"
-      },
-      {
-        "type": "Κυπριακή ταβέρνα"
-      },
-      {
-        "type": "Διάφορα / Λιμάνι"
-      },
-      {
-        "type": "Κυπριακά / Θαλασσινά"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Καφέ / Εστιατόριο"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Μπαρ / Εστιατόριο"
-      },
-      {
-        "type": "Κυπριακά / Κρασί"
-      },
-      {
-        "type": "Θαλασσινά / Ταβέρνα"
-      },
-      {
-        "type": "Παντοπωλείο"
-      },
-      {
-        "type": "Σούπερ μάρκετ"
-      }
+      { "category": "Παραλίες 🏝️" },
+      { "category": "Ιστορικά Μνημεία & Γραφικοί Περίπατοι 🏰" },
+      { "category": "Αξιοθέατα & Εκδρομές 📸" },
+      { "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️" },
+      { "category": "Φαγητό & Ποτό" },
+      { "category": "Ψώνια" }
     ],
     "gettingAround": [
       {
-        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
-      },
-      {
-        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5-10 λεπτών με τα πόδια."
-      },
-      {
-        "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
+        "info": "Για να εξερευνήσετε την Τενερίφη με μέσα μαζικής μεταφοράς, ξεκινήστε ελέγχοντας τον ιστότοπο TITSA ή την εφαρμογή TITSA. Από το Valleseco, η πιο εύκολη επιλογή είναι συνήθως να ταξιδέψετε πρώτα στο Intercambiador Santa Cruz, τον κύριο σταθμό λεωφορείων στη Santa Cruz. Από εκεί μπορείτε να πάτε με τα πόδια στο κέντρο της πόλης, να πάρετε το τραμ προς τη La Laguna, ή να αλλάξετε λεωφορεία για άλλες πόλεις, αεροδρόμια, παραλίες και το νότο του νησιού. Για την Playa de Las Teresitas, πάρτε τη γραμμή TITSA 910 προς San Andrés / Playa de Las Teresitas. Μπορείτε είτε να πάρετε το λεωφορείο από την περιοχή Valleseco όταν υπάρχει, ή να πάτε πρώτα στο Intercambiador Santa Cruz και να αλλάξετε εκεί. Πριν φύγετε, συνιστώ να ελέγξετε τη διαδρομή στο Google Maps, TITSA ή την εφαρμογή TITSA, καθώς οι ώρες των λεωφορείων μπορούν να αλλάξουν ανάλογα με την ημέρα, την εποχή και τις αργίες."
       }
     ],
     "emergency": {
@@ -599,28 +396,21 @@
           "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο"
         },
         {
-          "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο"
-        },
-        {
-          "note": "Αστυνομικό τμήμα Πάφου"
+          "note": "Κύριο νοσοκομείο στη Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Αρκετά φαρμακεία σε απόσταση βόλτας στον κεντρικό δρόμο. Ρωτήστε μας αν χρειάζεστε βοήθεια να βρείτε το πλησιέστερο."
+      "nearestPharmacy": "Πολλά φαρμακεία σε κοντινή απόσταση στον κεντρικό δρόμο. Ρωτήστε με αν χρειάζεστε σύσταση."
     },
     "checkout": {
       "steps": [
-        "Ξεστρώστε τα σεντόνια και στα δύο υπνοδωμάτια και αφήστε τα πάνω στα αντίστοιχα κρεβάτια",
-        "Αδειάστε το ψυγείο και τα ντουλάπια από όλα τα τρόφιμα",
-        "Βάλτε τα σκουπίδια σε σακούλες και μεταφέρετέ τα στους σημειωμένους κάδους στο πάρκινγκ",
-        "Βάλτε μια τελευταία φορά το πλυντήριο πιάτων και αφήστε το ανοιχτό για αερισμό",
-        "Σκουπίστε την εστία και τους πάγκους της κουζίνας",
-        "Κλείστε και ασφαλίστε όλα τα παράθυρα, τις πόρτες του μπαλκονιού και τα ρολά",
-        "Σβήστε όλα τα κλιματιστικά, τα φώτα και την τηλεόραση",
-        "Αφήστε ελεύθερη τη θέση στάθμευσης για τους επόμενους φιλοξενούμενους",
-        "Κλειδώστε την πόρτα του διαμερίσματος και επιστρέψτε το κλειδί στο κουτί κλειδιών (κωδικός: 2468)",
-        "Στείλτε μας WhatsApp ότι ταξιδεύετε με ασφάλεια. Οι αξιολογήσεις σημαίνουν τα πάντα για εμάς. Ευχαριστούμε!"
-      ],
-      "lateCheckout": "Η αργή αναχώρηση μέχρι τις 13:00 μπορεί να είναι δυνατή ανάλογα με τις αφίξεις της ίδιας ημέρας. Παρακαλούμε ρωτήστε μέχρι τις 21:00 της προηγούμενης βραδιάς και θα επιβεβαιώσουμε. Στην υψηλή περίοδο μπορεί να ισχύει μια μικρή χρέωση."
+        "Αν μπορούσατε να ξεπλύνετε γρήγορα τα πιάτα και να τα αφήσετε στη σχάρα στεγνώματος, θα ήταν υπέροχο!",
+        "Αν μπορούσατε να αδειάσετε το ψυγείο και να πετάξετε τα υπολείμματα φαγητού στα σκουπίδια, θα το εκτιμούσα πολύ!",
+        "Θα ήταν καλό να πετάξετε τα σκουπίδια. Θα βρείτε μεγάλους κάδους ακριβώς πριν βγείτε από το χωριό.",
+        "Πριν φύγετε, κλειδώστε τα παράθυρα και την πόρτα.",
+        "Παρακαλώ σβήστε όλα τα φώτα και τις ηλεκτρικές συσκευές (φούρνος, κουζίνα, μπλέντερ) όταν τελειώσετε.",
+        "Όταν είστε έτοιμοι να φύγετε, κλειδώστε και επιστρέψτε όλα τα κλειδιά στο κουτί κλειδιών, επαναφέροντας τον κωδικό μετά.",
+        "Παρακαλώ στείλτε μου ένα μήνυμα WhatsApp ή Airbnb για να μου πείτε ότι φύγατε – και θα χαιρόμουν πολύ αν αφήνατε μια κριτική αν σας άρεσε η διαμονή! 🩵"
+      ]
     }
   },
   "fr": {
@@ -651,154 +441,91 @@
       "checkoutChecklist": "Liste de départ",
       "contactHost": "Contacter l'hôte"
     },
-    "welcomeMessage": "Bienvenue dans notre bel appartement 2 chambres ! Nous sommes tellement contents que vous ayez choisi de passer du temps ici. Cet appartement spacieux a été conçu pour les familles et les groupes. Beaucoup d'espace pour se détendre ensemble et s'étaler. Deux chambres, un grand salon, une cuisine entièrement équipée et un grand balcon privé avec vue sur le jardin. Nous voulons que votre séjour soit parfait, alors n'hésitez pas à nous contacter pour tout ce dont vous avez besoin.",
+    "welcomeMessage": "Bienvenue dans ma maison colorée dans les collines de Tenerife ! Nichée dans le charmant village de Valleseco, elle est pleine de caractère et entourée de nature. J'espère que vous l'aimerez autant que moi. N'hésitez pas à me contacter à tout moment si vous avez besoin de quoi que ce soit.",
     "gettingHere": {
-      "byCar": "Depuis l'aéroport de Larnaca, prenez l'autoroute A3 en direction de Protaras. Sortez à Protaras/Paralimni et continuez jusqu'au rond-point principal. Prenez la troisième sortie sur l'avenue Protaras en direction du centre-ville. Tournez à gauche sur la rue Kypros, 500 m après le parc aquatique de Protaras sur la droite. Nous sommes le bâtiment de couleur sable à quatre étages. Cherchez la bougainvillée au-dessus de l'entrée.",
-      "parking": "Parking gratuit en dehors de la voirie derrière le bâtiment. Entrée par la ruelle sur la droite du bâtiment. Votre place est marquée 'K14'.",
-      "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 jusqu'à l'arrêt Tombs of the Kings. De là, à 18 minutes à pied (~1,3 km). ⚠️ Les bus n'acceptent que l'argent liquide. Tarif : 2,50 € par personne et par trajet.",
-      "taxi": "Des taxis sont disponibles directement à la sortie de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40-45 € en journée et 45-50 € en soirée. Le trajet dure environ 20-25 minutes.",
-      "directionPhotos": []
+      "byCar": "Le mieux est de se garer au parking recommandé (lien ci-dessous). Il y a toujours de la place et vous n'aurez presque pas d'escaliers à monter. Suivez ensuite les indications de marche dans le guide photo. Google Maps n'est pas précis à 100 % pour la dernière portion – veuillez utiliser le guide photo !",
+      "parking": "Des places de stationnement sont toujours disponibles et la marche jusqu'à l'entrée de la maison est courte et à plat.",
+      "publicTransport": "Plusieurs bus partent de Santa Cruz de Tenerife (ex. nos 909, 910, 916). Veillez à descendre à Valleseco (petit village avec un seul arrêt). Une fois descendu(e), repérez le Punto y Coma Minimarket et prenez l'escalier à gauche environ 20 mètres après l'avoir dépassé. La montée jusqu'à la maison dure 5 à 10 minutes. Google Maps n'est pas totalement précis pour la dernière portion – veuillez suivre le guide photo !",
+      "taxi": "Des taxis sont disponibles depuis les aéroports de Tenerife Nord (TFN) et Tenerife Sud (TFS). Convenez du tarif avant de partir ou assurez-vous que le compteur tourne. Demandez au chauffeur de vous déposer au parking indiqué ci-dessous, puis suivez le guide photo à partir de la photo 1.",
+      "directionPhotos": [
+        { "caption": "Garez-vous ici. Il y a toujours de la place et vous n'aurez presque pas d'escaliers à monter." },
+        { "caption": "Depuis le parking, avancez dans cette direction jusqu'au bout de la rue, puis descendez l'escalier à gauche." },
+        { "caption": "Descendez à la rue suivante en dessous et tournez à droite. C'est la rue de la maison." },
+        { "caption": "Allez tout droit et traversez le jardin avec les cactus et les autres plantes." },
+        { "caption": "Continuez entre les maisons..." },
+        { "caption": "Continuez tout droit..." },
+        { "caption": "Après 1 minute, sur la gauche, vous verrez une maison blanche avec une porte bleue." },
+        { "caption": "Vous approchez. Votre logement se trouve dans la partie supérieure de la maison." },
+        { "caption": "C'est la partie supérieure de la maison. Prenez l'escalier juste à côté de la maison pour atteindre l'entrée. Cherchez la porte bleue avec la boîte à clés à côté. Code : 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Boîte à clés à l'entrée principale du bâtiment, rez-de-chaussée à gauche",
+      "keyLocation": "Cherchez la porte bleue dans la partie supérieure de la maison – la boîte à clés se trouve juste à côté.",
       "steps": [
-        "Entrer dans le bâtiment par la porte principale (pousser pour ouvrir, non verrouillée)",
-        "La boîte à clés se trouve sur le mur gauche juste après l'entrée, à hauteur de poitrine",
-        "Entrer le code 2468 et ouvrir le volet pour récupérer la clé",
-        "Prendre l'ascenseur ou les escaliers jusqu'au 2ème étage. L'appartement est le numéro 14",
-        "La même clé ouvre la porte de l'appartement",
-        "Remettre la clé dans la boîte à votre départ"
+        "Garez-vous au parking recommandé (il y a toujours de la place et vous évitez presque tous les escaliers)",
+        "Depuis le parking, marchez vers le bout de la rue puis descendez l'escalier à gauche",
+        "Dans la rue suivante en dessous, tournez à droite – c'est la rue de la maison",
+        "Allez tout droit, traversez le petit jardin avec cactus et plantes, et continuez entre les maisons",
+        "Au bout d'environ 1 minute, sur votre gauche, vous verrez une maison blanche avec une porte bleue",
+        "C'est la partie supérieure de la maison – prenez l'escalier à côté de la maison pour atteindre l'entrée",
+        "Repérez la porte bleue avec la boîte à clés à côté. Code : 1214"
       ],
-      "notes": "Il y a un ascenseur dans le bâtiment. Un chariot à bagages est disponible dans le placard au rez-de-chaussée. Si la boîte à clés pose problème, appelez-nous immédiatement."
+      "notes": "Si vous avez du mal à me trouver, appelez-moi ou envoyez-moi un message WhatsApp à tout moment – je serai ravie de vous guider étape par étape. Remarque : Google Maps n'est pas fiable à 100 % pour la dernière portion, alors suivez le guide photo !"
     },
     "houseRules": [
-      "Interdiction de fumer partout dans l'appartement",
-      "Pas de fêtes ni d'événements. Heures de silence 23h-8h",
-      "Capacité maximale : 5 personnes",
-      "Pas d'animaux de compagnie",
-      "Faire la vaisselle immédiatement et garder le comptoir dégagé. Le climat chaud de Chypre peut attirer des insectes",
-      "Utilisez la poubelle à côté des toilettes. Ne pas jeter de papier toilette (la plomberie chypriote ne peut pas le gérer)",
-      "Insérer la clé métallique dans la fiche d'alimentation quand vous êtes à l'intérieur ; la retirer à chaque départ",
-      "Fermer toutes les fenêtres et portes de balcon quand la climatisation est en marche",
-      "Fermer et attacher le parasol la nuit et par temps venteux",
-      "Remettre les clés dans la boîte et réinitialiser le code au départ",
-      "Traiter l'appartement avec soin. Merci de signaler tout dommage rapidement",
-      "Conserver les clés précieusement. En cas de perte ou d'enfermement, un serrurier sera nécessaire et les frais vous seront facturés"
+      "Merci de fumer uniquement dehors. Les espaces extérieurs sont entièrement à votre disposition, mais veillez à garder l'intérieur de la maison sans fumée. Merci !",
+      "Merci de respecter la tranquillité du voisinage. Les heures de silence sont de 23h à 8h. Pas de fêtes ni d'événements.",
+      "Merci de traiter le logement comme le vôtre et de me prévenir immédiatement en cas de dommage. Je comprends que les accidents arrivent."
     ],
     "appliances": [
       {
-        "name": "Climatisation",
-        "instructions": "Il y a trois climatiseurs : un dans le salon, un dans chaque chambre. Chacun a sa propre télécommande dans la pièce respective. Appuyez sur POWER, sélectionnez COOL et réglez à 22-24°C. Toutes les unités peuvent fonctionner simultanément. Gardez toutes les portes et fenêtres fermées pendant le fonctionnement. Éteignez toutes les unités avant de partir."
+        "name": "Électricité",
+        "instructions": "Le système électrique de la maison est un peu ancien et ne peut pas gérer plusieurs appareils gourmands en énergie en même temps : par exemple un sèche-cheveux avec le four et la plaque de cuisson. Pour plus de sécurité, merci de n'utiliser qu'un seul de ces appareils à la fois. Si l'électricité coupe, pas d'inquiétude – prévenez-moi dès que possible et je vous aiderai à régler le problème."
       },
       {
-        "name": "Machine à laver",
-        "instructions": "Machine à laver pleine taille dans la buanderie à côté de la salle de bain. Lessive liquide sous l'évier, à ajouter dans le tiroir II. Sélectionnez 40°C Coton pour les chargements normaux. Appuyez sur START. La machine a aussi une fonction séchage : sélectionnez ESSORAGE+VIDANGE, puis séchez à basse température."
+        "name": "Cuisine",
+        "instructions": "Vous disposez d'une kitchenette avec plaque électrique, mini four, réfrigérateur et les ustensiles de cuisine courants. ⚠️ Important : comme c'est toujours l'été à Tenerife, les insectes ne dorment jamais. Veuillez jeter les restes de nourriture immédiatement à la poubelle, et je recommande de faire la vaisselle juste après avoir mangé pour éviter les mouches et autres insectes dans la cuisine."
       },
       {
-        "name": "Smart TV",
-        "instructions": "Smart TV 65 pouces dans le salon. Bouton d'alimentation sur la télécommande. Netflix et YouTube chargés. Utilisez notre profil invité ou connectez votre compte. Un deuxième téléviseur plus petit est dans la chambre principale. Les deux sont sur le même réseau. Câble HDMI dans le tiroir sous le meuble TV."
+        "name": "Lave-linge",
+        "instructions": "Vous trouverez le lave-linge dans la cuisine – n'hésitez pas à l'utiliser. Le programme rapide appelé \"Rapido\" suffit généralement. Si vous avez des questions, faites-le-moi savoir !"
       },
       {
-        "name": "Cuisine complète",
-        "instructions": "Plaque céramique 4 feux avec four. Casseroles, poêles et ustensiles dans les placards du bas. Le four préchauffe en environ 15 minutes. Réglez le cadran supérieur sur la température souhaitée et le cadran inférieur sur le symbole de cuisson (four à convection recommandé). Lave-vaisselle sous l'évier. Tablettes dans le placard au-dessus."
+        "name": "Eau potable",
+        "instructions": "L'eau du robinet à Tenerife est réputée sûre et propre, même si la plupart des gens préfèrent l'eau en bouteille, disponible dans n'importe quel supermarché ou kiosque. L'option la moins chère et la plus pratique est de prendre un bidon de 5 L, 8 L ou plus."
       },
       {
-        "name": "Barbecue / Grill",
-        "instructions": "Barbecue à charbon sur le balcon (fourni pendant les mois d'été). Le charbon est dans le pot en terre cuite à côté. Utilisez les allume-feu dans le tiroir de cuisine. Allumez l'allume-feu, placez-le sous la pyramide de charbon et attendez 20 minutes avant de cuisiner. Éteignez toujours complètement avec de l'eau après usage."
+        "name": "Salle de bain",
+        "instructions": "Vous trouverez des serviettes fraîches, un sèche-cheveux, du savon et du shampoing prêts pour vous. S'il manque quoi que ce soit, dites-le-moi et j'y remédierai."
       },
       {
-        "name": "Lave-vaisselle",
-        "instructions": "Lave-vaisselle intégré sous l'évier. Tablettes dans la boîte sous le comptoir. Charger la vaisselle (tasses à l'envers dans le panier supérieur, assiettes en bas), ajouter une tablette dans le distributeur, sélectionner ECO pour pleine charge ou RAPIDE 45 pour usage léger. Appuyer sur START. Vider quand il est refroidi."
+        "name": "La Terrasse Magique",
+        "instructions": "C'est exactement la terrasse que vous avez vue sur les photos ! En raison du microclimat merveilleusement imprévisible de Tenerife (bonjour la pluie, le vent et le soleil, parfois le tout dans la même journée ! 🌧️💨☀️), je ne peux pas laisser les coussins, couvertures et tapis dehors, donc au premier abord elle paraîtra un peu vide avec un BBQ couvert. La bonne nouvelle : tout ce qu'il faut pour la rendre confortable et belle vous attend, soit dans l'armoire beige sur la terrasse, soit à l'intérieur du logement. Installez-la à votre guise et profitez-en ! 🏝️🪴"
+      },
+      {
+        "name": "BBQ",
+        "instructions": "Sur la terrasse vous trouverez le barbecue, qui fonctionne au charbon de bois. Je ne garde généralement pas de charbon à la maison, sauf si des hôtes précédents en ont laissé, mais vous pouvez trouver tout ce qu'il faut dans n'importe quel supermarché ou petit marché local pour un bel après-midi ou une belle soirée grillade. 🙂 ⚠️ Merci de bien nettoyer le BBQ après utilisation et de vous assurer qu'il est entièrement éteint. Merci beaucoup ! 🙏"
+      },
+      {
+        "name": "Plantes",
+        "instructions": "Si vous restez quelques jours, les plantes seraient ravies d'un peu d'eau tous les 3 à 4 jours. Elles vous en seront reconnaissantes !"
+      },
+      {
+        "name": "Mari, la Charmante Voisine",
+        "instructions": "Ma précieuse aide est la charmante Mari, qui habite juste à côté. Si quoi que ce soit se présente (par exemple si vous avez besoin d'une serviette supplémentaire), elle est toujours heureuse d'aider. Elle pourrait même passer avec des gâteaux maison si elle a le temps ! Mari ne parle que l'espagnol, mais ne vous inquiétez pas si vous ne le parlez pas – ça finit toujours par s'arranger à merveille. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Plages 🏝️"
-      },
-      {
-        "category": "Sites historiques & promenades 🏰"
-      },
-      {
-        "category": "Attractions & Excursions 📸"
-      },
-      {
-        "category": "Randonnées & sentiers naturels ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Grec / Méditerranéen"
-      },
-      {
-        "type": "Grec / Meze"
-      },
-      {
-        "type": "Café / Brunch"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Chypriote"
-      },
-      {
-        "type": "Restauration rapide"
-      },
-      {
-        "type": "Café / Local"
-      },
-      {
-        "type": "Chypriote / Café"
-      },
-      {
-        "type": "Grec / Chypriote"
-      },
-      {
-        "type": "Taverne chypriote"
-      },
-      {
-        "type": "Divers / Port"
-      },
-      {
-        "type": "Chypriote / Fruits de mer"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Café / Restaurant"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Bar / Restaurant"
-      },
-      {
-        "type": "Chypriote / Vin"
-      },
-      {
-        "type": "Fruits de mer / Taverne"
-      },
-      {
-        "type": "Épicerie"
-      },
-      {
-        "type": "Supermarché"
-      }
+      { "category": "Plages 🏝️" },
+      { "category": "Sites historiques & Promenades panoramiques 🏰" },
+      { "category": "Attractions & Excursions 📸" },
+      { "category": "Randonnées & Sentiers naturels ⛰️" },
+      { "category": "Manger & Boire" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."
-      },
-      {
-        "info": "L'autopartage fonctionne bien à Paphos. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures disponibles à 5-10 minutes à pied."
-      },
-      {
-        "info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
+        "info": "Pour explorer Tenerife en transport en commun, commencez par consulter le site TITSA ou l'application TITSA. Depuis Valleseco, le plus simple est généralement de se rendre d'abord à l'Intercambiador Santa Cruz, la gare routière principale de Santa Cruz. De là, vous pouvez rejoindre le centre-ville à pied, prendre le tram vers La Laguna, ou changer de bus pour d'autres villes, les aéroports, les plages et le sud de l'île. Pour la Playa de Las Teresitas, prenez la ligne TITSA 910 vers San Andrés / Playa de Las Teresitas. Vous pouvez prendre le bus depuis la zone de Valleseco lorsqu'il est disponible, ou d'abord rejoindre l'Intercambiador Santa Cruz et y effectuer la correspondance. Avant de partir, je recommande de vérifier l'itinéraire exact sur Google Maps, TITSA ou l'application TITSA, car les horaires peuvent varier selon le jour, la saison et les jours fériés."
       }
     ],
     "emergency": {
@@ -807,28 +534,21 @@
           "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"
         },
         {
-          "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"
-        },
-        {
-          "note": "Poste de police de Paphos"
+          "note": "Hôpital principal de Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Plusieurs pharmacies à distance de marche sur la route principale. Demandez-nous si vous avez besoin d'une recommandation."
+      "nearestPharmacy": "Plusieurs pharmacies à proximité sur la route principale. Demandez-moi si vous avez besoin d'une recommandation."
     },
     "checkout": {
       "steps": [
-        "Défaire les draps dans les deux chambres et les laisser sur les lits respectifs",
-        "Vider le réfrigérateur et les placards de tous vos aliments",
-        "Mettre les ordures en sac et les apporter aux poubelles identifiées dans le parking",
-        "Lancer le lave-vaisselle un dernier cycle et laisser ouvert pour aérer",
-        "Essuyer la plaque et les surfaces de la cuisine",
-        "Fermer et verrouiller toutes les fenêtres, portes de balcon et volets",
-        "Éteindre tous les climatiseurs, lumières et la télévision",
-        "Laisser la place de parking libre pour les prochains clients",
-        "Verrouiller la porte de l'appartement et remettre la clé dans la boîte (code : 2468)",
-        "Nous envoyer un WhatsApp pour nous informer de votre départ. Les avis sont précieux pour nous. Merci !"
-      ],
-      "lateCheckout": "Un départ tardif jusqu'à 13h peut être possible selon les arrivées du même jour. Demandez avant 21h la veille et nous confirmerons. Des frais modiques peuvent s'appliquer en haute saison."
+        "Si vous pouviez faire une rapide vaisselle et laisser les plats sur l'égouttoir, ce serait parfait !",
+        "Si vous pouviez vider le réfrigérateur et jeter les restes à la poubelle, je vous en serais reconnaissante !",
+        "Ce serait bien de déposer les ordures. Vous trouverez de grands containers juste avant de quitter le village.",
+        "Avant de partir, veuillez fermer les fenêtres et la porte à clé.",
+        "Veuillez éteindre toutes les lumières et les appareils électriques (four, plaque, mixeur) lorsque vous avez terminé.",
+        "Quand vous êtes prêt(e) à partir, fermez à clé et remettez toutes les clés dans la boîte à clés en réinitialisant le code après.",
+        "Merci de m'envoyer un message WhatsApp ou Airbnb pour me faire savoir que vous êtes parti(e) – et j'adorerais un avis si vous avez apprécié votre séjour ! 🩵"
+      ]
     }
   },
   "es": {
@@ -850,163 +570,100 @@
       "wifi": "Detalles del WiFi",
       "thingsToDo": "Qué hacer",
       "eatAndDrink": "Comer y beber",
-      "gettingAround": "Moverse por la ciudad",
+      "gettingAround": "Moverse por la zona",
       "emergency": "Contactos de emergencia",
       "nearestHospital": "Hospital más cercano",
       "nearestPharmacy": "Farmacia más cercana",
       "checkout": "Salida",
       "checkoutTime": "Hora de salida",
       "checkoutChecklist": "Lista de salida",
-      "contactHost": "Contactar al anfitrión"
+      "contactHost": "Contactar a la anfitriona"
     },
-    "welcomeMessage": "¡Bienvenido a nuestro hermoso apartamento de 2 habitaciones! Estamos muy contentos de que haya elegido pasar su tiempo aquí. Este espacioso apartamento ha sido diseñado pensando en familias y grupos. Mucho espacio para relajarse juntos y extenderse. Dos dormitorios, una amplia zona de estar, una cocina totalmente equipada y un amplio balcón privado con vistas al jardín. Queremos que su estancia sea perfecta, así que no dude en ponerse en contacto con nosotros para cualquier cosa que necesite.",
+    "welcomeMessage": "¡Bienvenido a mi colorida casa en las colinas de Tenerife! Situada en el encantador pueblo de Valleseco, está llena de carácter y rodeada de naturaleza. Espero que la disfrutéis tanto como yo. No dudéis en escribirme en cualquier momento si necesitáis algo.",
     "gettingHere": {
-      "byCar": "Desde el aeropuerto de Larnaca, tome la autopista A3 hacia Protaras. Salga en Protaras/Paralimni y continúe hasta la rotonda principal. Tome la tercera salida hacia la avenida Protaras en dirección al centro. Gire a la izquierda en la calle Kypros, 500 m después del parque acuático de Protaras a la derecha. Somos el edificio de cuatro plantas de color arena. Busque la buganvilla sobre la entrada.",
-      "parking": "Aparcamiento gratuito en la calle detrás del edificio. Entrada por el callejón a la derecha. Su plaza está marcada 'K14'.",
-      "publicTransport": "Desde el aeropuerto de Pafos, tome el autobús 612 hasta la parada Tombs of the Kings. Desde allí, a 18 minutos a pie (~1,3 km). ⚠️ Los autobuses solo aceptan efectivo. Tarifa: 2,50 € por persona y trayecto.",
-      "taxi": "Taxis disponibles a la salida del aeropuerto de Pafos. Tarifa típica a Pafos: 40-45 € de día, 45-50 € de noche. Tiempo de viaje: aprox. 20-25 minutos.",
-      "directionPhotos": []
+      "byCar": "Lo mejor es aparcar en el sitio recomendado (enlace abajo). Siempre hay espacio disponible y casi no tendréis que subir escaleras. Luego seguid las instrucciones a pie del guía fotográfico. Google Maps no es 100% preciso en el último tramo, ¡por favor usad el guía fotográfico!",
+      "parking": "Siempre hay plazas de aparcamiento disponibles y el paseo hasta la entrada de la casa es corto y llano.",
+      "publicTransport": "Hay varios autobuses desde Santa Cruz de Tenerife (por ejemplo, nº 909, 910, 916). Aseguraos de bajar en Valleseco (es un pueblo pequeño con solo una parada). Una vez bajéis, encontrad el Punto y Coma Minimarket y tomad las escaleras a la izquierda unos 20 metros después de pasar por delante. Es una caminata cuesta arriba de 5 a 10 minutos hasta la casa. Google Maps no es del todo preciso en el último tramo, ¡por favor seguid el guía fotográfico!",
+      "taxi": "Hay taxis disponibles desde los aeropuertos de Tenerife Norte (TFN) y Tenerife Sur (TFS). Acordad la tarifa antes de salir o aseguraos de que el taxímetro esté en marcha. Pedid al conductor que os deje en el aparcamiento indicado abajo y luego seguid el guía fotográfico desde la foto 1.",
+      "directionPhotos": [
+        { "caption": "Aparcad aquí. Siempre hay plazas disponibles y casi no tendréis que subir escaleras." },
+        { "caption": "Desde el aparcamiento, avanzad en esta dirección hasta el final de la calle y luego bajad las escaleras del lado izquierdo." },
+        { "caption": "Bajad a la calle siguiente y girad a la derecha. Esta es la calle de la casa." },
+        { "caption": "Id recto y cruzad el jardín con cactus y otras plantas." },
+        { "caption": "Continuad entre las casas..." },
+        { "caption": "Seguid recto..." },
+        { "caption": "Después de 1 minuto, a la izquierda veréis una casa blanca con puerta azul." },
+        { "caption": "Ya casi llegáis. Vuestro alojamiento está en la parte superior de la casa." },
+        { "caption": "Es la parte superior de la casa. Subid las escaleras justo al lado de la casa para llegar a la entrada. Buscad la puerta azul con la caja de llaves al lado. Código: 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Caja de llaves en la entrada principal del edificio, planta baja a la izquierda",
+      "keyLocation": "Buscad la puerta azul en la parte superior de la casa; la caja de llaves está justo al lado.",
       "steps": [
-        "Entre al edificio por la puerta principal (empuje para abrir, no está cerrada con llave)",
-        "La caja de llaves está en la pared izquierda justo dentro de la entrada, a la altura del pecho",
-        "Introduzca el código 2468 y abra la tapa para recoger la llave",
-        "Tome el ascensor o las escaleras hasta el 2º piso. El apartamento es el número 14",
-        "La misma llave abre la puerta del apartamento",
-        "Devuelva la llave a la caja al hacer el check-out"
+        "Aparcad en el aparcamiento recomendado (siempre hay espacio y evitáis casi todas las escaleras)",
+        "Desde el aparcamiento, caminad hacia el final de la calle y bajad las escaleras del lado izquierdo",
+        "En la siguiente calle abajo, girad a la derecha – es la calle de la casa",
+        "Id recto, cruzad el pequeño jardín con cactus y plantas y continuad entre las casas",
+        "Después de unos 1 minuto, a vuestra izquierda veréis una casa blanca con puerta azul",
+        "Es la parte superior de la casa – subid las escaleras al lado de la casa para llegar a la entrada",
+        "Encontrad la puerta azul con la caja de llaves al lado. Código: 1214"
       ],
-      "notes": "Hay ascensor en el edificio. Hay un carro de equipaje disponible en el armario de la planta baja. Si la caja de llaves da problemas, llámenos de inmediato."
+      "notes": "Si tenéis algún problema para encontrarme, llamadme o escribidme por WhatsApp en cualquier momento; estaré encantada de guiaros paso a paso. Nota: Google Maps no es 100% preciso en el último tramo, ¡así que seguid el guía fotográfico!"
     },
     "houseRules": [
-      "Prohibido fumar en cualquier lugar del apartamento",
-      "No se permiten fiestas ni eventos. Horas de silencio de 23h a 8h",
-      "Ocupación máxima: 5 huéspedes",
-      "No se admiten mascotas",
-      "Lavar los platos inmediatamente y mantener la encimera despejada. El clima cálido de Chipre puede atraer insectos",
-      "Use el cubo junto al inodoro. No tire papel higiénico (la fontanería chipriota no puede gestionarlo)",
-      "Colocar la llave metálica en el enchufe junto a la puerta cuando esté dentro; quitarla al salir",
-      "Cerrar todas las ventanas y puertas del balcón cuando el aire acondicionado esté en marcha",
-      "Cerrar y atar el parasol por la noche y en condiciones de viento",
-      "Devolver las llaves a la caja y restablecer el código al hacer el check-out",
-      "Tratar el apartamento con cuidado. Por favor, informe de cualquier daño de inmediato",
-      "Guardar las llaves con cuidado. Si las pierde o se queda encerrado, necesitará un cerrajero y el coste se le repercutirá"
+      "Por favor, fumad solo fuera. Las zonas exteriores son todas vuestras, pero mantened el interior de la casa libre de humo. ¡Gracias!",
+      "Por favor, respetad la tranquilidad. El horario de silencio es de 23h a 8h. No se permiten fiestas ni eventos.",
+      "Por favor, tratad el alojamiento como si fuera vuestro y avisadme de inmediato si algo se rompe. Entiendo que los accidentes ocurren."
     ],
     "appliances": [
       {
-        "name": "Aire acondicionado",
-        "instructions": "Hay tres unidades de AC: una en el salón, una en cada dormitorio. Cada una tiene su propio mando en la habitación correspondiente. Pulse POWER, seleccione COOL y ajuste a 22-24°C. Todas las unidades pueden funcionar simultáneamente. Mantenga todas las puertas y ventanas cerradas durante el funcionamiento. Apague todas las unidades antes de salir."
+        "name": "Electricidad",
+        "instructions": "El sistema eléctrico de la casa es algo antiguo y no puede gestionar varios electrodomésticos de alto consumo a la vez: por ejemplo, el secador, el horno y la vitrocerámica simultáneamente. Por seguridad, por favor usad solo uno de estos a la vez. Si alguna vez se va la luz, no os preocupéis, avisadme lo antes posible y os ayudo a solucionarlo."
+      },
+      {
+        "name": "Cocina",
+        "instructions": "Tenéis una zona de cocina con vitrocerámica eléctrica, mini horno, nevera y los utensilios habituales. ⚠️ Importante: como en Tenerife siempre es verano, los insectos nunca duermen. Por favor, tirad inmediatamente los restos de comida a la basura, y también os recomiendo lavar los platos justo después de comer para evitar moscas y otros insectos en la cocina."
       },
       {
         "name": "Lavadora",
-        "instructions": "Lavadora de tamaño completo en el cuarto de lavandería junto al baño. Detergente líquido bajo el fregadero, en el cajón II. Seleccione 40°C Algodón para cargas normales y pulse START. La máquina también tiene función de secado: seleccione CENTRIFUGADO+DESAGÜE, luego seque a temperatura baja."
+        "instructions": "Encontraréis la lavadora en la cocina; sentíos libres de usarla. El programa rápido llamado \"Rapido\" suele ser suficiente. Si tenéis alguna pregunta, ¡solo decídmelo!"
       },
       {
-        "name": "Smart TV",
-        "instructions": "Smart TV de 65 pulgadas en el salón. Botón de encendido en el mando. Netflix y YouTube cargados. Use nuestro perfil de invitado o inicie sesión con su cuenta. Un segundo televisor más pequeño en el dormitorio principal. Ambos están en la misma red. Cable HDMI en el cajón bajo el mueble de TV."
+        "name": "Agua potable",
+        "instructions": "El agua del grifo en Tenerife se considera segura y limpia, aunque la mayoría de la gente prefiere agua embotellada, que encontraréis en cualquier supermercado o kiosco. La opción más económica y práctica es coger un bidón de 5 L, 8 L o más grande."
       },
       {
-        "name": "Cocina completa",
-        "instructions": "Vitrocerámica de 4 fuegos con horno. Ollas, sartenes y utensilios en los armarios inferiores. El horno tarda unos 15 minutos en precalentarse. Ajuste el dial superior a la temperatura deseada y el inferior al símbolo de cocción (horno con ventilador recomendado). Lavavajillas bajo el fregadero. Pastillas en el armario de arriba."
+        "name": "Baño",
+        "instructions": "Encontraréis toallas limpias, secador de pelo, jabón y champú ya listos. Si falta algo, avisadme y lo soluciono."
       },
       {
-        "name": "Barbacoa / Parrilla",
-        "instructions": "Barbacoa de carbón en el balcón (disponible durante los meses de verano). El carbón está en la maceta de terracota junto a ella. Use encendedores del cajón de la cocina. Encienda el encendedor, colóquelo bajo la pirámide de carbón y espere 20 minutos antes de cocinar. Apague siempre completamente con agua después de usar."
+        "name": "La Terraza Mágica",
+        "instructions": "¡Es exactamente la terraza que visteis en las fotos! Debido al maravillosamente imprevisible microclima de Tenerife (¡hola lluvia, viento y sol, a veces todo en el mismo día! 🌧️💨☀️), no puedo dejar los cojines, mantas y alfombras fuera, por lo que al principio parecerá algo vacía con una barbacoa cubierta. La buena noticia: todo lo que necesitáis para hacerla acogedora y bonita os espera, ya sea en el armario beis de la terraza o dentro del apartamento. ¡Organizadla como queráis y disfrutadla! 🏝️🪴"
       },
       {
-        "name": "Lavavajillas",
-        "instructions": "Lavavajillas integrado bajo el fregadero. Pastillas en la caja bajo la encimera. Cargue los platos (tazas boca abajo en el cesto superior, platos abajo), añada una pastilla al dispensador y seleccione ECO para carga completa o RÁPIDO 45 para uso ligero. Pulse START. Vacíe cuando esté frío."
+        "name": "Barbacoa",
+        "instructions": "En la terraza encontraréis la barbacoa, que funciona con carbón. Normalmente no tengo carbón en casa a menos que los huéspedes anteriores hayan dejado algo, pero podéis encontrar todo lo que necesitáis en cualquier supermercado o mercadillo local para una agradable tarde o noche de barbacoa. 🙂 ⚠️ Por favor, recordad limpiar bien la barbacoa después de usarla y aseguraos de que esté completamente apagada. ¡Muchas gracias! 🙏"
+      },
+      {
+        "name": "Plantas",
+        "instructions": "Si os quedáis unos días, las plantas agradecerían un poco de agua cada 3 o 4 días. ¡Lo apreciarán!"
+      },
+      {
+        "name": "Mari, la Encantadora Vecina",
+        "instructions": "Mi mano derecha y mayor ayuda es la encantadora Mari, que vive justo al lado. Si surge cualquier cosa (por ejemplo, si necesitáis una toalla extra), siempre estará encantada de ayudar. ¡Incluso podría pasarse con dulces caseros si tiene tiempo! Mari solo habla español, pero no os preocupéis si no lo habláis – de alguna manera siempre funciona de maravilla. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Playas 🏝️"
-      },
-      {
-        "category": "Sitios históricos y paseos escénicos 🏰"
-      },
-      {
-        "category": "Atracciones y excursiones 📸"
-      },
-      {
-        "category": "Senderismo y rutas naturales ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Griego / Mediterráneo"
-      },
-      {
-        "type": "Griego / Meze"
-      },
-      {
-        "type": "Cafetería / Brunch"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Chipriota"
-      },
-      {
-        "type": "Patio de comidas"
-      },
-      {
-        "type": "Cafetería / Local"
-      },
-      {
-        "type": "Chipriota / Cafetería"
-      },
-      {
-        "type": "Griego / Chipriota"
-      },
-      {
-        "type": "Taberna chipriota"
-      },
-      {
-        "type": "Varios / Puerto"
-      },
-      {
-        "type": "Chipriota / Mariscos"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Cafetería / Restaurante"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Bar / Restaurante"
-      },
-      {
-        "type": "Chipriota / Vino"
-      },
-      {
-        "type": "Mariscos / Taberna"
-      },
-      {
-        "type": "Tienda de alimentación"
-      },
-      {
-        "type": "Supermercado"
-      }
+      { "category": "Playas 🏝️" },
+      { "category": "Lugares históricos y paseos pintorescos 🏰" },
+      { "category": "Atracciones y excursiones 📸" },
+      { "category": "Senderismo y rutas de naturaleza ⛰️" },
+      { "category": "Comer y beber" },
+      { "category": "Compras" }
     ],
     "gettingAround": [
       {
-        "info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
-      },
-      {
-        "info": "El carsharing funciona bien en Pafos. Descargue la app, regístrese en 5 minutos. Coches disponibles en 5-10 minutos a pie."
-      },
-      {
-        "info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."
+        "info": "Para explorar Tenerife en transporte público, empezad consultando la web de TITSA o la app de TITSA. Desde Valleseco, la opción más fácil suele ser viajar primero al Intercambiador Santa Cruz, la estación principal de autobuses de Santa Cruz. Desde allí podéis caminar al centro de la ciudad, tomar el tranvía hacia La Laguna, o hacer transbordo a autobuses que van a otras ciudades, aeropuertos, playas y el sur de la isla. Para la Playa de Las Teresitas, tomad la línea TITSA 910 hacia San Andrés / Playa de Las Teresitas. Podéis coger el autobús desde la zona de Valleseco si está disponible, o ir primero al Intercambiador Santa Cruz y hacer transbordo allí. Antes de salir, os recomiendo comprobar la ruta exacta en Google Maps, TITSA o la app de TITSA, ya que los horarios pueden cambiar según el día, la temporada y los festivos."
       }
     ],
     "emergency": {
@@ -1015,28 +672,21 @@
           "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"
         },
         {
-          "note": "Hospital principal de Pafos, a unos 10 minutos en coche"
-        },
-        {
-          "note": "Comisaría de Pafos"
+          "note": "Hospital principal en Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntenos si necesita una recomendación."
+      "nearestPharmacy": "Varias farmacias cerca en la carretera principal. Preguntadme si necesitáis una recomendación."
     },
     "checkout": {
       "steps": [
-        "Retirar toda la ropa de cama en ambos dormitorios y dejarla en las respectivas camas",
-        "Vaciar la nevera y los armarios de todos sus alimentos",
-        "Meter la basura en bolsas y llevarla a los contenedores del aparcamiento",
-        "Poner el lavavajillas en el ciclo final y dejarlo abierto para que se airee",
-        "Limpiar la vitrocerámica y las superficies de la cocina",
-        "Cerrar y bloquear todas las ventanas, puertas del balcón y persianas",
-        "Apagar todas las unidades de AC, luces y el televisor",
-        "Dejar la plaza de aparcamiento libre para los próximos huéspedes",
-        "Cerrar la puerta del apartamento con llave y devolver la llave a la caja (código: 2468)",
-        "Enviarnos un WhatsApp para avisarnos de que está en camino. Las reseñas son muy importantes para nosotros. ¡Gracias!"
-      ],
-      "lateCheckout": "La salida tardía hasta la 1pm puede ser posible dependiendo de las llegadas del mismo día. Por favor, pregunte antes de las 21h del día anterior y confirmaremos. Puede aplicarse una pequeña tarifa en temporada alta."
+        "Si pudierais lavar rápidamente los platos y dejarlos en el escurridor, ¡sería estupendo!",
+        "Si pudierais vaciar la nevera y echar los restos de comida a la basura, ¡os lo agradecería mucho!",
+        "Estaría genial que tirarais la basura. Encontraréis contenedores grandes justo antes de salir del pueblo.",
+        "Antes de iros, por favor cerrad las ventanas y la puerta con llave.",
+        "Por favor, apagad todas las luces y los electrodomésticos (horno, vitrocerámica, batidora) cuando hayáis terminado.",
+        "Cuando estéis listos para iros, cerrad con llave y devolved todas las llaves a la caja, restableciendo el código después.",
+        "Por favor, enviadme un mensaje de WhatsApp o Airbnb para avisarme de que os habéis ido – ¡y me encantaría una reseña si habéis disfrutado de vuestra estancia! 🩵"
+      ]
     }
   },
   "pl": {
@@ -1058,7 +708,7 @@
       "wifi": "Szczegóły WiFi",
       "thingsToDo": "Co robić",
       "eatAndDrink": "Jedzenie i napoje",
-      "gettingAround": "Poruszanie się po mieście",
+      "gettingAround": "Poruszanie się",
       "emergency": "Kontakty alarmowe",
       "nearestHospital": "Najbliższy szpital",
       "nearestPharmacy": "Najbliższa apteka",
@@ -1067,392 +717,252 @@
       "checkoutChecklist": "Lista wymeldowania",
       "contactHost": "Kontakt z gospodarzem"
     },
-    "welcomeMessage": "Witamy w naszym pięknym apartamencie 2-pokojowym! Jesteśmy bardzo zadowoleni, że wybraliście spędzenie tu czasu. Ten przestronny apartament został zaprojektowany z myślą o rodzinach i grupach. Dużo miejsca do wspólnego odpoczynku. Dwie sypialnie, duży salon, w pełni wyposażona kuchnia i szeroki prywatny balkon z widokiem na ogród. Chcemy, żeby Wasz pobyt był doskonały, nie wahajcie się kontaktować, jeśli czegoś potrzebujecie.",
+    "welcomeMessage": "Witamy w moim kolorowym domu na wzgórzach Teneryfy! Położony w uroczej wiosce Valleseco, pełen jest charakteru i otoczony przyrodą. Mam nadzieję, że pokochacie go tak jak ja. Piszcie do mnie w każdej chwili, jeśli czegokolwiek potrzebujecie.",
     "gettingHere": {
-      "byCar": "Z lotniska w Larnace jedźcie autostradą A3 w kierunku Protaras. Zjedźcie przy Protaras/Paralimni i kontynuujcie do głównego ronda. Weźcie trzeci zjazd na aleję Protaras w kierunku centrum. Skręćcie w lewo w ulicę Kypros, 500 m za parkiem wodnym Protaras po prawej stronie. Jesteśmy piaskowym czteropiętrowym budynkiem. Szukajcie bugenwilli nad wejściem.",
-      "parking": "Bezpłatny parking poza ulicą za budynkiem. Wjazd z alejki po prawej stronie budynku. Wasze miejsce jest oznaczone 'K14'.",
-      "publicTransport": "Z lotniska w Pafos weźcie autobus 612 do przystanku Tombs of the Kings. Stamtąd 18 minut pieszo (~1,3 km). ⚠️ Autobusy akceptują tylko gotówkę. Opłata: 2,50 € za osobę za kurs.",
-      "taxi": "Taksówki dostępne przy wyjściu z hali przyletów lotniska Pafos. Typowa opłata do Pafos: 40-45 € w ciągu dnia, 45-50 € po godzinach. Czas podróży: ok. 20-25 minut.",
-      "directionPhotos": []
+      "byCar": "Najlepiej zaparkować w zalecanym miejscu (link poniżej). Zawsze są wolne miejsca i prawie nie trzeba wspinać się po schodach. Następnie postępujcie zgodnie ze wskazówkami pieszymi w przewodniku fotograficznym. Google Maps nie jest w 100% dokładne na ostatnim odcinku – proszę korzystajcie z przewodnika fotograficznego!",
+      "parking": "Miejsca parkingowe są zawsze dostępne, a spacer do wejścia do domu jest krótki i płaski.",
+      "publicTransport": "Z Santa Cruz de Tenerife kursuje kilka autobusów (np. nr 909, 910, 916). Pamiętajcie, żeby wysiąść w Valleseco (to mała wioska z tylko jednym przystankiem). Po wyjściu znajdźcie Punto y Coma Minimarket i wejdźcie po schodach po lewej stronie, około 20 metrów za nim. To 5–10 minut pod górę do domu. Google Maps nie jest w pełni dokładne na ostatnim odcinku – proszę postępujcie zgodnie z przewodnikiem fotograficznym!",
+      "taxi": "Taksówki są dostępne na lotniskach Tenerife Norte (TFN) i Tenerife Sur (TFS). Uzgodnijcie cenę przed odjazdem lub upewnijcie się, że taksometr jest włączony. Poproście kierowcę, aby wysadził was przy parkingu podlinkowanym poniżej, a następnie postępujcie zgodnie z przewodnikiem fotograficznym od zdjęcia 1.",
+      "directionPhotos": [
+        { "caption": "Parkujcie tutaj. Zawsze są wolne miejsca i prawie nie trzeba wspinać się po schodach." },
+        { "caption": "Z parkingu idźcie w tym kierunku aż do końca ulicy, a następnie zejdźcie po schodach po lewej stronie." },
+        { "caption": "Zejdźcie na następną ulicę poniżej i skręćcie w prawo. To ulica domu." },
+        { "caption": "Idźcie prosto i przejdźcie przez ogród z kaktusami i innymi roślinami." },
+        { "caption": "Kontynuujcie między domami..." },
+        { "caption": "Idźcie dalej prosto..." },
+        { "caption": "Po 1 minucie po lewej stronie zobaczycie biały dom z niebieskimi drzwiami." },
+        { "caption": "Już blisko. Wasze mieszkanie jest w górnej części domu." },
+        { "caption": "To górna część domu. Wejdźcie po schodach obok domu, aby dotrzeć do wejścia. Szukajcie niebieskich drzwi ze skrzynką na klucze obok. Kod: 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Skrzynka na klucze przy głównym wejściu budynku, parter po lewej",
+      "keyLocation": "Szukajcie niebieskich drzwi w górnej części domu – skrzynka na klucze jest tuż obok.",
       "steps": [
-        "Wejdźcie do budynku przez główne drzwi (pchnij, aby otworzyć, nie są zamknięte na klucz)",
-        "Skrzynka na klucze jest na lewej ścianie tuż przy wejściu, na wysokości klatki piersiowej",
-        "Wprowadźcie kod 2468 i otwórzcie klapkę, aby wyjąć klucz",
-        "Weźcie windę lub schody na 2. piętro. Apartament ma numer 14",
-        "Ten sam klucz otwiera drzwi apartamentu",
-        "Zwróćcie klucz do skrzynki przy wymeldowaniu"
+        "Zaparkujcie w zalecanym miejscu (zawsze jest miejsce i unikacie prawie wszystkich schodów)",
+        "Z parkingu idźcie w kierunku końca ulicy, następnie zejdźcie po schodach po lewej stronie",
+        "Na następnej ulicy poniżej skręćcie w prawo – to ulica domu",
+        "Idźcie prosto, przejdźcie przez mały ogród z kaktusami i roślinami i kontynuujcie między domami",
+        "Po około 1 minucie po lewej stronie zobaczycie biały dom z niebieskimi drzwiami",
+        "To górna część domu – wejdźcie po schodach obok domu, aby dotrzeć do wejścia",
+        "Znajdźcie niebieskie drzwi ze skrzynką na klucze obok. Kod: 1214"
       ],
-      "notes": "W budynku jest winda. Wózek na bagaż jest dostępny w szafce na parterze. Jeśli skrzynka na klucze sprawi problemy, zadzwońcie do nas od razu."
+      "notes": "Jeśli będziecie mieli problem z odnalezieniem drogi, zadzwońcie lub napiszcie na WhatsApp w dowolnym momencie – chętnie poprowadzę was krok po kroku. Uwaga: Google Maps nie jest w 100% dokładne na ostatnim odcinku, więc postępujcie zgodnie z przewodnikiem fotograficznym!"
     },
     "houseRules": [
-      "Zakaz palenia w całym apartamencie",
-      "Zakaz imprez i wydarzeń. Cisza nocna 23:00-8:00",
-      "Maksymalna liczba gości: 5",
-      "Zakaz zwierząt",
-      "Myjcie naczynia od razu i trzymajcie blat kuchenny wolny. Ciepły klimat Cypru może przyciągać owady",
-      "Używajcie pojemnika obok toalety. Nie spłukujcie papieru toaletowego (cypryjska kanalizacja nie radzi sobie z tym)",
-      "Wkładajcie metalowy klucz do gniazda przy drzwiach, gdy jesteście w środku; wyjmujcie przy każdym wyjściu",
-      "Zamykajcie wszystkie okna i drzwi balkonowe, gdy działa klimatyzacja",
-      "Zamykajcie i przywiązujcie parasol na noc i w wietrznych warunkach",
-      "Zwróćcie klucze do skrzynki i przywróćcie kod przy wymeldowaniu",
-      "Traktujcie apartament z troską. Prosimy o niezwłoczne zgłaszanie uszkodzeń",
-      "Przechowujcie klucze bezpiecznie. W przypadku zagubienia lub zablokowania potrzebny będzie ślusarz, a koszt zostanie przeniesiony na Was"
+      "Prosimy palić tylko na zewnątrz. Zewnętrzne obszary są do waszej dyspozycji, ale prosimy trzymać wnętrze domu wolne od dymu. Dziękuję!",
+      "Prosimy o zachowanie ciszy. Godziny ciszy to 23:00–8:00. Żadnych imprez ani wydarzeń.",
+      "Prosimy traktować mieszkanie jak własne i natychmiast informować mnie, jeśli cokolwiek się uszkodzi. Rozumiem, że wypadki się zdarzają."
     ],
     "appliances": [
       {
-        "name": "Klimatyzacja",
-        "instructions": "Są trzy jednostki klimatyzacji: jedna w salonie, po jednej w każdej sypialni. Każda ma własny pilot w danym pokoju. Naciśnijcie POWER, wybierzcie COOL i ustawcie na 22-24°C. Wszystkie jednostki mogą działać jednocześnie. Trzymajcie wszystkie drzwi i okna zamknięte podczas pracy. Wyłączcie wszystkie jednostki przed wyjściem."
+        "name": "Elektryczność",
+        "instructions": "System elektryczny w domu jest nieco stary i nie obsłuży kilku urządzeń o wysokim poborze mocy jednocześnie: na przykład suszarki do włosów plus piekarnika plus płyty grzejnej. Dla bezpieczeństwa prosimy używać tylko jednego z tych urządzeń naraz. Jeśli kiedykolwiek nastąpi przerwa w dostawie prądu, nie martwcie się wcale – po prostu dajcie mi znać jak najszybciej, a pomogę to rozwiązać."
+      },
+      {
+        "name": "Kuchnia",
+        "instructions": "Dysponujecie strefą kuchenną z elektryczną płytą, mini piekarnikiem, lodówką oraz zwykłymi narzędziami kuchennymi. ⚠️ Ważne: ponieważ na Teneryfie zawsze jest lato, owady nigdy nie śpią. Prosimy natychmiast wyrzucać resztki jedzenia do kosza i polecam mycie naczyń zaraz po jedzeniu, aby uniknąć much i innych owadów w kuchni."
       },
       {
         "name": "Pralka",
-        "instructions": "Pełnowymiarowa pralka w pralni obok łazienki. Płyn do prania pod zlewozmywakiem, dodajcie do szuflady oznaczonej II. Ustaw pokrętło na 40°C Bawełna dla normalnych ładunków i naciśnijcie START. Maszyna ma też funkcję suszenia: wybierzcie ODWIROWANIE+ODPOMPOWANIE, następnie suszcie przy niskiej temperaturze."
+        "instructions": "Pralkę znajdziecie w kuchni – możecie z niej swobodnie korzystać. Szybki program o nazwie \"Rapido\" zazwyczaj w zupełności wystarcza. W razie pytań po prostu dajcie znać!"
       },
       {
-        "name": "Smart TV",
-        "instructions": "65-calowy Smart TV w salonie. Przycisk zasilania na pilocie. Netflix i YouTube załadowane. Użyjcie naszego profilu gościa lub zalogujcie się na własne konto. Drugi, mniejszy telewizor w sypialni głównej. Oba są w tej samej sieci. Kabel HDMI w szufladzie pod stojakiem TV."
+        "name": "Woda pitna",
+        "instructions": "Woda z kranu na Teneryfie jest uważana za bezpieczną i czystą, choć większość ludzi woli wodę butelkowaną, którą znajdziecie w każdym supermarkecie lub kiosku. Tańszą i bardziej praktyczną opcją jest kupienie galonu 5 L, 8 L lub większego."
       },
       {
-        "name": "Pełna kuchnia",
-        "instructions": "Pełna ceramiczna płyta 4-palnikowa z piekarnikiem. Garnki, patelnie i naczynia w dolnych szafkach. Piekarnik nagrzewa się przez około 15 minut. Ustawcie górne pokrętło na żądaną temperaturę, a dolne na symbol metody gotowania (zalecany termoobieg). Zmywarka pod zlewozmywakiem. Tabletki w szafce powyżej."
+        "name": "Łazienka",
+        "instructions": "Znajdziecie świeże ręczniki, suszarkę do włosów, mydło i szampon – wszystko gotowe. Jeśli czegokolwiek brakuje, wystarczy dać mi znać i to załatwię."
       },
       {
-        "name": "Grill / BBQ",
-        "instructions": "Grill węglowy na balkonie (dostępny w miesiącach letnich). Węgiel jest w doniczce z terakoty obok. Używajcie podpałki z szuflady kuchennej. Zapalcie podpałkę, umieśćcie pod piramidą z węgla i poczekajcie 20 minut przed gotowaniem. Zawsze gaszcie całkowicie wodą po użyciu."
+        "name": "Magiczny Taras",
+        "instructions": "To dokładnie ten taras, który widzieliście na zdjęciach! Ze względu na cudownie nieprzewidywalny mikroklimat Teneryfy (cześć deszczu, wietrze i słońce, czasem wszystko w ciągu jednego dnia! 🌧️💨☀️) nie mogę zostawiać poduszek, koców i dywanów na zewnątrz, więc początkowo będzie wyglądał trochę pusto z przykrytym grillem. Dobra wiadomość: wszystko, czego potrzebujecie, żeby był przytulny i piękny, czeka na was – albo w beżowej szafie na tarasie, albo wewnątrz mieszkania. Urządźcie go jak chcecie i po prostu cieszcie się! 🏝️🪴"
       },
       {
-        "name": "Zmywarka",
-        "instructions": "Zintegrowana zmywarka pod zlewozmywakiem. Tabletki w pudełku pod blatem. Załadujcie naczynia (kubki odwrócone w górnym koszyku, talerze na dole), dodajcie tabletkę do dozownika i wybierzcie ECO dla pełnego załadunku lub SZYBKI 45 dla lżejszego użycia. Naciśnijcie START. Opróżnijcie, gdy ostygnie."
+        "name": "Grill (BBQ)",
+        "instructions": "Na tarasie znajdziecie grill na węgiel drzewny. Zazwyczaj nie trzymam węgla w domu, chyba że poprzedni goście zostawili trochę, ale możecie kupić wszystko, czego potrzebujecie, w każdym supermarkecie lub lokalnym sklepiku – na przyjemne grillowe popołudnie lub wieczór. 🙂 ⚠️ Pamiętajcie, żeby dokładnie wyczyścić grill po użyciu i upewnić się, że jest całkowicie wygaszony. Bardzo dziękuję! 🙏"
+      },
+      {
+        "name": "Rośliny",
+        "instructions": "Jeśli zostajecie kilka dni, rośliny będą wdzięczne za trochę wody co 3–4 dni. Docenią to!"
+      },
+      {
+        "name": "Mari, Cudowna Sąsiadka",
+        "instructions": "Moją prawą ręką i największą pomocą jest urocza Mari, która mieszka tuż obok. Jeśli cokolwiek się przydarzy (powiedzmy że potrzebujecie dodatkowego ręcznika), zawsze chętnie pomoże. Może nawet wpaść z domowymi słodkościami, jeśli będzie miała czas! Mari mówi tylko po hiszpańsku, ale nie martwcie się, jeśli nie znacie tego języka – jakoś zawsze cudownie się dogadują. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Plaże 🏝️"
-      },
-      {
-        "category": "Miejsca historyczne i malownicze spacery 🏰"
-      },
-      {
-        "category": "Atrakcje i wycieczki 📸"
-      },
-      {
-        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Greckie / Śródziemnomorskie"
-      },
-      {
-        "type": "Greckie / Meze"
-      },
-      {
-        "type": "Kawiarnia / Brunch"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Cypryjskie"
-      },
-      {
-        "type": "Food court"
-      },
-      {
-        "type": "Kawiarnia / Lokalne"
-      },
-      {
-        "type": "Cypryjskie / Kawiarnia"
-      },
-      {
-        "type": "Greckie / Cypryjskie"
-      },
-      {
-        "type": "Cypryjska tawerna"
-      },
-      {
-        "type": "Różne / Port"
-      },
-      {
-        "type": "Cypryjskie / Owoce morza"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Kawiarnia / Restauracja"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Bar / Restauracja"
-      },
-      {
-        "type": "Cypryjskie / Wino"
-      },
-      {
-        "type": "Owoce morza / Tawerna"
-      },
-      {
-        "type": "Sklep spożywczy"
-      },
-      {
-        "type": "Supermarket"
-      }
+      { "category": "Plaże 🏝️" },
+      { "category": "Miejsca historyczne i malownicze spacery 🏰" },
+      { "category": "Atrakcje i wycieczki 📸" },
+      { "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️" },
+      { "category": "Jedzenie i napoje" },
+      { "category": "Zakupy" }
     ],
     "gettingAround": [
       {
-        "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."
-      },
-      {
-        "info": "Carsharing działa dobrze w Pafos. Pobierz aplikację, zarejestruj się w 5 minut. Samochody dostępne w 5-10 minutach pieszo."
-      },
-      {
-        "info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."
+        "info": "Aby zwiedzać Teneryfę komunikacją publiczną, zacznijcie od sprawdzenia strony TITSA lub aplikacji TITSA. Z Valleseco najłatwiej jest zwykle najpierw pojechać do Intercambiador Santa Cruz, czyli głównego dworca autobusowego w Santa Cruz. Stamtąd możecie pójść pieszo do centrum miasta, wziąć tramwaj do La Laguna lub przesiąść się do autobusów jadących do innych miast, na lotniska, plaże i na południe wyspy. Na Playa de Las Teresitas weźcie linię TITSA 910 w kierunku San Andrés / Playa de Las Teresitas. Możecie wsiąść do autobusu z okolic Valleseco, kiedy jest dostępny, lub najpierw pojechać do Intercambiador Santa Cruz i przesiąść się tam. Przed wyjazdem polecam sprawdzić dokładną trasę w Google Maps, na stronie TITSA lub w aplikacji TITSA, ponieważ godziny odjazdów mogą się zmieniać w zależności od dnia, sezonu i świąt."
       }
     ],
     "emergency": {
       "contacts": [
         {
-          "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"
+          "note": "Policja, pogotowie, straż pożarna. Bezpłatne z każdego telefonu"
         },
         {
-          "note": "Główny szpital w Pafos, ok. 10 minut jazdy"
-        },
-        {
-          "note": "Posterunek policji w Pafos"
+          "note": "Główny szpital w Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Kilka aptek w odległości krótkiego spaceru przy głównej drodze. Zapytajcie nas, jeśli potrzebujecie rekomendacji."
+      "nearestPharmacy": "Kilka aptek w pobliżu przy głównej drodze. Zapytajcie mnie, jeśli potrzebujecie rekomendacji."
     },
     "checkout": {
       "steps": [
-        "Zdejmijcie pościel w obu sypialniach i zostawcie na odpowiednich łóżkach",
-        "Opróżnijcie lodówkę i szafki ze wszystkich swoich produktów",
-        "Włóżcie śmieci do worków i zanieście do oznaczonych pojemników na parkingu",
-        "Uruchomcie zmywarkę na ostatni cykl i pozostawcie otwartą do przewietrzenia",
-        "Wytryjcie płytę kuchenną i blaty",
-        "Zamknijcie i zablokujcie wszystkie okna, drzwi balkonowe i żaluzje",
-        "Wyłączcie wszystkie klimatyzatory, światła i telewizor",
-        "Zostawcie miejsce parkingowe wolne dla następnych gości",
-        "Zamknijcie drzwi apartamentu na klucz i zwróćcie klucz do skrzynki (kod: 2468)",
-        "Wyślijcie nam WhatsApp, żebyśmy wiedzieli, że bezpiecznie wyruszacie. Opinie bardzo wiele dla nas znaczą. Dziękujemy!"
-      ],
-      "lateCheckout": "Późniejsze wymeldowanie do 13:00 może być możliwe w zależności od przyjazdów tego samego dnia. Zapytajcie do 21:00 poprzedniego wieczoru, a my potwierdzimy. W sezonie szczytowym może obowiązywać mała opłata."
+        "Jeśli moglibyście szybko umyć naczynia i zostawić je na suszarce, byłoby świetnie!",
+        "Jeśli moglibyście opróżnić lodówkę i wyrzucić pozostałe jedzenie do kosza, byłabym wdzięczna!",
+        "Byłoby wspaniale, gdybyście wyrzucili śmieci. Duże pojemniki znajdziecie tuż przed wyjazdem z wioski.",
+        "Przed wyjściem prosimy zamknąć okna i drzwi na klucz.",
+        "Prosimy wyłączyć wszystkie światła i urządzenia elektryczne (piekarnik, płytę, blender) po zakończeniu.",
+        "Kiedy będziecie gotowi do wyjazdu, prosimy zamknąć na klucz i włożyć wszystkie klucze do skrzynki, resetując po tym kod.",
+        "Prosimy wysłać mi wiadomość na WhatsApp lub Airbnb, aby dać mi znać, że wyjechaliście – i byłabym niezmiernie wdzięczna za opinię, jeśli podobał wam się pobyt! 🩵"
+      ]
     }
   },
   "ru": {
     "ui": {
       "welcome": "Добро пожаловать!",
-      "checkIn": "Заезд",
+      "checkIn": "Заселение",
       "keyLocation": "Расположение ключа",
       "accessCode": "Код доступа",
-      "stepByStep": "Пошаговая инструкция",
+      "stepByStep": "Шаг за шагом",
       "houseRules": "Правила дома",
       "gettingHere": "Как добраться",
       "openGoogleMaps": "Открыть в Google Maps",
       "byCar": "На машине",
       "parking": "Парковка",
-      "publicTransport": "На общественном транспорте",
+      "publicTransport": "Общественный транспорт",
       "taxi": "Такси",
       "photoGuide": "Пошаговый фотогид",
-      "appliances": "WiFi и техника",
+      "appliances": "WiFi и оборудование",
       "wifi": "Данные WiFi",
       "thingsToDo": "Чем заняться",
       "eatAndDrink": "Еда и напитки",
-      "gettingAround": "Передвижение по городу",
+      "gettingAround": "Передвижение",
       "emergency": "Экстренные контакты",
       "nearestHospital": "Ближайшая больница",
       "nearestPharmacy": "Ближайшая аптека",
       "checkout": "Выезд",
       "checkoutTime": "Время выезда",
       "checkoutChecklist": "Список при выезде",
-      "contactHost": "Связаться с хозяином"
+      "contactHost": "Связаться с хозяйкой"
     },
-    "welcomeMessage": "Добро пожаловать в нашу прекрасную квартиру с 2 спальнями! Мы очень рады, что вы выбрали провести здесь своё время. Эта просторная квартира была разработана с учётом потребностей семей и групп. Много места для совместного отдыха. Две спальни, большая гостиная, полностью оборудованная кухня и широкий частный балкон с видом на сад. Мы хотим, чтобы ваше пребывание было идеальным, поэтому не стесняйтесь обращаться к нам по любому вопросу.",
+    "welcomeMessage": "Добро пожаловать в мой красочный дом на холмах Тенерифе! Уютно расположенный в очаровательной деревне Валлесеко, он полон характера и окружён природой. Я рада, что вы здесь, и надеюсь, что он понравится вам так же, как мне. Обращайтесь в любое время, если вам что-нибудь понадобится.",
     "gettingHere": {
-      "byCar": "Из аэропорта Ларнаки возьмите шоссе A3 в сторону Протараса. Съезжайте у Протараса/Паралимни и следуйте до главного кольца. Возьмите третий съезд на проспект Протарас в сторону центра. Поверните налево на улицу Кипрос, в 500 м за аквапарком Протарас справа. Мы, четырёхэтажное здание цвета песка. Ищите бугенвиллею над входом.",
-      "parking": "Бесплатная парковка за зданием. Въезд по переулку справа. Ваше место обозначено 'K14'.",
-      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда 18 минут пешком (~1,3 км). ⚠️ Автобусы принимают только наличные. Стоимость, 2,50 € за человека за поездку.",
-      "taxi": "Такси доступны у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость до Пафоса: 40-45 € днём, 45-50 € в нерабочее время. Время в пути: около 20-25 минут.",
-      "directionPhotos": []
+      "byCar": "Лучше всего припарковаться на рекомендуемой стоянке (ссылка ниже). Там всегда есть места и практически не придётся подниматься по лестницам. Далее следуйте пешим указаниям в фотогиде. Google Maps не точен на 100% для последнего участка – пожалуйста, используйте фотогид!",
+      "parking": "Парковочные места доступны всегда, и путь от стоянки до входа в дом короткий и ровный.",
+      "publicTransport": "Из Санта-Крус-де-Тенерифе ходят разные автобусы (например, №№ 909, 910, 916). Обязательно выходите в Валлесеко (маленькая деревня с единственной остановкой). Выйдя, найдите минимаркет Punto y Coma и поднимитесь по лестнице слева примерно в 20 метрах после него. До дома около 5–10 минут в гору. Google Maps не вполне точен на последнем участке – пожалуйста, следуйте фотогиду!",
+      "taxi": "Такси доступно в аэропортах Тенерифе Норте (TFN) и Тенерифе Сур (TFS). Заранее договоритесь о цене или убедитесь, что счётчик включён. Попросите водителя высадить вас у парковки, указанной по ссылке ниже, а затем следуйте пошаговому фотогиду, начиная с фото 1.",
+      "directionPhotos": [
+        { "caption": "Паркуйтесь здесь. Места всегда есть, и подниматься по лестницам почти не придётся." },
+        { "caption": "От парковки двигайтесь в этом направлении до конца улицы, затем спуститесь по лестнице слева." },
+        { "caption": "Спуститесь на следующую улицу ниже и поверните направо. Это улица дома." },
+        { "caption": "Идите прямо и пройдите через сад с кактусами и другими растениями." },
+        { "caption": "Продолжайте идти между домами..." },
+        { "caption": "Продолжайте прямо..." },
+        { "caption": "Через 1 минуту слева вы увидите белый дом с синей дверью." },
+        { "caption": "Уже почти рядом. Ваша квартира находится в верхней части дома." },
+        { "caption": "Это верхняя часть дома. Поднимитесь по лестнице прямо рядом с домом, чтобы попасть ко входу. Ищите синюю дверь с ключевым боксом рядом. Код: 1214" }
+      ]
     },
     "checkin": {
-      "keyLocation": "Ящик для ключей у главного входа в здание, первый этаж слева",
+      "keyLocation": "Найдите синюю дверь в верхней части дома – ключевой бокс находится прямо рядом с ней.",
       "steps": [
-        "Войдите в здание через главную дверь (толкните для открытия, не заперта)",
-        "Ящик для ключей находится на левой стене сразу за входом, на уровне груди",
-        "Введите код 2468 и откройте крышку, чтобы взять ключ",
-        "Возьмите лифт или лестницу на 2-й этаж. Квартира номер 14",
-        "Тот же ключ открывает дверь квартиры",
-        "Верните ключ в ящик при выезде"
+        "Припаркуйтесь на рекомендуемой стоянке (место всегда найдётся, и почти не придётся подниматься по лестницам)",
+        "От парковки идите к концу улицы, затем спуститесь по лестнице слева",
+        "На следующей улице ниже поверните направо – это улица дома",
+        "Идите прямо, пройдите через небольшой садик с кактусами и растениями и продолжайте между домами",
+        "Примерно через 1 минуту слева вы увидите белый дом с синей дверью",
+        "Это верхняя часть дома – поднимитесь по лестнице рядом с домом, чтобы попасть ко входу",
+        "Найдите синюю дверь с ключевым боксом рядом. Код: 1214"
       ],
-      "notes": "В здании есть лифт. Тележка для багажа доступна в шкафу на первом этаже. Если ящик для ключей не работает, звоните нам немедленно."
+      "notes": "Если вы не можете найти дорогу, звоните или пишите в WhatsApp в любое время – я рада помочь вам шаг за шагом. Примечание: Google Maps не точен на 100% для последнего участка, поэтому следуйте фотогиду!"
     },
     "houseRules": [
-      "Курение запрещено везде в квартире",
-      "Вечеринки и мероприятия запрещены. Тихие часы с 23:00 до 8:00",
-      "Максимальная вместимость: 5 гостей",
-      "Животные не допускаются",
-      "Мойте посуду сразу и держите столешницу свободной. Тёплый климат Кипра может привлекать насекомых",
-      "Используйте корзину рядом с унитазом. Не смывайте туалетную бумагу (кипрская канализация не справляется)",
-      "Вставляйте металлический ключ в розетку у двери, когда находитесь внутри; вынимайте при каждом уходе",
-      "Закрывайте все окна и балконные двери при работающем кондиционере",
-      "Закрывайте и привязывайте зонт на ночь и в ветреную погоду",
-      "Верните ключи в ящик и сбросьте код при выезде",
-      "Обращайтесь с квартирой бережно. Сообщайте о любых повреждениях незамедлительно",
-      "Бережно храните ключи. В случае потери или блокировки внутри потребуется слесарь, и расходы будут переданы вам"
+      "Пожалуйста, курите только на улице. Все внешние зоны в вашем распоряжении, но внутри дома просьба не курить. Спасибо!",
+      "Пожалуйста, соблюдайте тишину. Часы тишины с 23:00 до 8:00. Вечеринки и мероприятия не разрешены.",
+      "Пожалуйста, относитесь к жилью как к своему и немедленно сообщайте мне, если что-то повредится. Я понимаю, что несчастные случаи случаются."
     ],
     "appliances": [
       {
-        "name": "Кондиционер",
-        "instructions": "Есть три кондиционера: один в гостиной, по одному в каждой спальне. У каждого есть свой пульт в соответствующей комнате. Нажмите POWER, выберите COOL и установите 22-24°C. Все блоки могут работать одновременно. Держите все двери и окна закрытыми во время работы. Выключите все блоки перед выходом."
+        "name": "Электричество",
+        "instructions": "Электрическая система дома немного старая и не выдержит одновременной работы нескольких мощных приборов: например, фена, духовки и плиты одновременно. В целях безопасности пожалуйста используйте только один из них за раз. Если электричество вдруг отключится, не беспокойтесь – просто сообщите мне как можно скорее, и я помогу разобраться."
+      },
+      {
+        "name": "Кухня",
+        "instructions": "В вашем распоряжении кухонная зона с электрической плитой, мини-духовкой, холодильником и необходимой кухонной утварью. ⚠️ Важно: поскольку на Тенерифе всегда лето, насекомые не спят никогда. Пожалуйста, сразу выбрасывайте остатки еды в мусор, и я рекомендую мыть посуду сразу после еды, чтобы избежать мух и других насекомых на кухне."
       },
       {
         "name": "Стиральная машина",
-        "instructions": "Стиральная машина полного размера в прачечной рядом с ванной. Жидкий порошок под раковиной, добавьте в ящик II. Установите 40°C Хлопок для обычных вещей и нажмите СТАРТ. Машина также имеет функцию сушки: выберите СЛИВ+ОТЖИМ, затем сушите при низкой температуре."
+        "instructions": "Стиральную машину вы найдёте на кухне – пользуйтесь ею без стеснения. Быстрая программа \"Rapido\" обычно вполне достаточна. Если возникнут вопросы, просто спросите!"
       },
       {
-        "name": "Smart TV",
-        "instructions": "65-дюймовый Smart TV в гостиной. Кнопка питания на пульте. Netflix и YouTube загружены. Используйте наш гостевой профиль или войдите в свой аккаунт. Второй, меньший телевизор в главной спальне. Оба на одной сети. HDMI-кабель в ящике под тумбой для TV."
+        "name": "Питьевая вода",
+        "instructions": "Водопроводная вода на Тенерифе считается безопасной и чистой, хотя большинство людей предпочитают бутилированную, которую найдёте в любом супермаркете или киоске. Более дешёвый и удобный вариант – купить галлон объёмом 5 л, 8 л или больше."
       },
       {
-        "name": "Полная кухня",
-        "instructions": "Полная 4-конфорочная керамическая плита с духовкой. Кастрюли, сковороды и утварь в нижних шкафах. Духовка разогревается около 15 минут. Установите верхнее колесо на желаемую температуру, нижнее, на нужный режим приготовления (рекомендуется конвекция). Посудомоечная машина под раковиной. Таблетки в шкафу выше."
+        "name": "Ванная комната",
+        "instructions": "Вас ждут свежие полотенца, фен, мыло и шампунь. Если чего-то не хватает, просто скажите мне, и я всё улажу."
       },
       {
-        "name": "Барбекю / Гриль",
-        "instructions": "Угольный гриль на балконе (доступен в летние месяцы). Уголь в терракотовом горшке рядом. Используйте растопку из кухонного ящика. Поджигайте её, кладите под пирамиду из угля и ждите 20 минут перед приготовлением. После использования всегда полностью тушите водой."
+        "name": "Волшебная Терраса",
+        "instructions": "Это именно та терраса, которую вы видели на фотографиях! Из-за чудесного непредсказуемого микроклимата Тенерифе (привет дождь, ветер и солнце, иногда всё в один день! 🌧️💨☀️) я не могу оставлять подушки, покрывала и ковры снаружи, поэтому поначалу терраса может выглядеть немного пустовато с накрытым грилем. Хорошая новость: всё необходимое, чтобы сделать её уютной и красивой, уже ждёт вас – либо в бежевом шкафу на террасе, либо внутри апартаментов. Обустройте её на свой вкус и просто наслаждайтесь! 🏝️🪴"
       },
       {
-        "name": "Посудомоечная машина",
-        "instructions": "Встроенная посудомоечная машина под раковиной. Таблетки в коробке под столешницей. Загрузите посуду (чашки вверх дном в верхней корзине, тарелки внизу), добавьте таблетку в дозатор и выберите ECO для полной загрузки или БЫСТРЫЙ 45 для лёгкого использования. Нажмите СТАРТ. Опустошите, когда остынет."
+        "name": "Барбекю",
+        "instructions": "На террасе вы найдёте гриль, работающий на древесном угле. Обычно я не держу уголь в доме, если только предыдущие гости не оставили немного, но всё необходимое можно купить в любом супермаркете или местном магазинчике для приятного вечера у гриля. 🙂 ⚠️ Пожалуйста, не забудьте хорошенько почистить гриль после использования и убедитесь, что он полностью потушен. Большое спасибо! 🙏"
+      },
+      {
+        "name": "Растения",
+        "instructions": "Если вы остаётесь на несколько дней, растениям будет очень приятно немного воды каждые 3–4 дня. Они это оценят!"
+      },
+      {
+        "name": "Мари, Чудесная Соседка",
+        "instructions": "Моей правой рукой и главной помощницей является замечательная Мари, которая живёт прямо по соседству. Если возникнет что угодно (скажем, нужно лишнее полотенце), она всегда рада помочь. Может даже заглянуть с домашними сладостями, если найдётся время! Мари говорит только по-испански, но не волнуйтесь, если вы его не знаете – как-то всегда всё прекрасно получается. 🙂"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Пляжи 🏝️"
-      },
-      {
-        "category": "Исторические места и живописные прогулки 🏰"
-      },
-      {
-        "category": "Достопримечательности и экскурсии 📸"
-      },
-      {
-        "category": "Пешие прогулки и природные тропы ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Греческая / Средиземноморская"
-      },
-      {
-        "type": "Греческая / Мезе"
-      },
-      {
-        "type": "Кафе / Бранч"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Кипрская"
-      },
-      {
-        "type": "Фуд-корт"
-      },
-      {
-        "type": "Кафе / Местная"
-      },
-      {
-        "type": "Кипрская / Кафе"
-      },
-      {
-        "type": "Греческая / Кипрская"
-      },
-      {
-        "type": "Кипрская таверна"
-      },
-      {
-        "type": "Разное / Гавань"
-      },
-      {
-        "type": "Кипрская / Морепродукты"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Кафе / Ресторан"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Бар / Ресторан"
-      },
-      {
-        "type": "Кипрская / Вино"
-      },
-      {
-        "type": "Морепродукты / Таверна"
-      },
-      {
-        "type": "Продуктовый магазин"
-      },
-      {
-        "type": "Супермаркет"
-      }
+      { "category": "Пляжи 🏝️" },
+      { "category": "Исторические места и живописные прогулки 🏰" },
+      { "category": "Достопримечательности и экскурсии 📸" },
+      { "category": "Пешие прогулки и природные маршруты ⛰️" },
+      { "category": "Еда и напитки" },
+      { "category": "Шопинг" }
     ],
     "gettingAround": [
       {
-        "info": "Центральная автобусная станция (Tombs of the Kings) в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."
-      },
-      {
-        "info": "Каршеринг хорошо работает в Пафосе. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили в 5-10 минутах ходьбы."
-      },
-      {
-        "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."
+        "info": "Чтобы исследовать Тенерифе на общественном транспорте, начните с проверки сайта TITSA или приложения TITSA. Из Валлесеко обычно проще всего сначала добраться до Intercambiador Santa Cruz – главного автовокзала Санта-Крус. Оттуда можно пешком дойти до центра города, сесть на трамвай до Ла-Лагуны или пересесть на автобусы, идущие в другие города, аэропорты, к пляжам и на юг острова. До пляжа Playa de Las Teresitas садитесь на маршрут TITSA № 910 в сторону San Andrés / Playa de Las Teresitas. Вы можете сесть на автобус в районе Валлесеко, если он там останавливается, или сначала доехать до Intercambiador Santa Cruz и пересесть там. Перед поездкой рекомендую проверить точный маршрут в Google Maps, на сайте TITSA или в приложении TITSA, так как расписание может меняться в зависимости от дня, сезона и праздников."
       }
     ],
     "emergency": {
       "contacts": [
         {
-          "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"
+          "note": "Полиция, скорая помощь, пожарная служба. Бесплатно с любого телефона"
         },
         {
-          "note": "Главная больница Пафоса, примерно 10 минут езды"
-        },
-        {
-          "note": "Полицейский участок Пафоса"
+          "note": "Главная больница в Санта-Крус-де-Тенерифе"
         }
       ],
-      "nearestPharmacy": "Несколько аптек в нескольких минутах ходьбы на главной дороге. Спросите нас, если нужна рекомендация."
+      "nearestPharmacy": "Несколько аптек поблизости на главной дороге. Спросите меня, если нужна рекомендация."
     },
     "checkout": {
       "steps": [
-        "Снять постельное бельё в обеих спальнях и оставить на соответствующих кроватях",
-        "Освободить холодильник и шкафы от всех своих продуктов",
-        "Упаковать мусор в пакеты и отнести к обозначенным контейнерам на парковке",
-        "Запустить посудомоечную машину последний раз и оставить открытой для проветривания",
-        "Протереть плиту и столешницы на кухне",
-        "Закрыть и заблокировать все окна, балконные двери и ставни",
-        "Выключить все кондиционеры, светильники и телевизор",
-        "Освободить парковочное место для следующих гостей",
-        "Запереть дверь квартиры и вернуть ключ в ящик (код: 2468)",
-        "Напишите нам в WhatsApp, что вы благополучно уезжаете. Отзывы очень важны для нас. Спасибо!"
-      ],
-      "lateCheckout": "Поздний выезд до 13:00 может быть возможен в зависимости от прибытия в тот же день. Пожалуйста, спрашивайте до 21:00 накануне, и мы подтвердим. В высокий сезон может взиматься небольшая плата."
+        "Если вы могли бы быстро помыть посуду и оставить её на сушилке, было бы замечательно!",
+        "Если вы могли бы очистить холодильник и выбросить остатки еды в мусор, я была бы очень благодарна!",
+        "Было бы хорошо выбросить мусор. Большие контейнеры вы найдёте прямо перед выездом из деревни.",
+        "Перед выходом, пожалуйста, закройте окна и дверь на ключ.",
+        "Пожалуйста, выключите весь свет и электрические приборы (духовку, плиту, блендер), когда закончите.",
+        "Когда будете готовы уходить, заприте дверь и верните все ключи в ключевой бокс, после чего сбросьте код.",
+        "Пожалуйста, напишите мне в WhatsApp или на Airbnb, чтобы сообщить, что вы уехали – и я была бы очень рада отзыву, если вам понравилось пребывание! 🩵"
+      ]
     }
   }
 }

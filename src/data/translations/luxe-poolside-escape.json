@@ -25,7 +25,39 @@
       "checkout": "Check-out",
       "checkoutTime": "Check-out-Zeit",
       "checkoutChecklist": "Check-out-Checkliste",
-      "contactHost": "Gastgeber kontaktieren"
+      "contactHost": "Gastgeber kontaktieren",
+      "ruleTitleNoSmoking": "Rauchverbot",
+      "ruleTitleQuietHours": "Ruhezeiten",
+      "ruleTitleNoParties": "Keine Partys oder Veranstaltungen",
+      "ruleTitleMaxOccupancy": "Maximale Belegung",
+      "ruleTitleNoPets": "Keine Haustiere",
+      "ruleTitleKitchen": "Küche",
+      "ruleTitlePlumbing": "Sanitäranlagen",
+      "ruleTitlePool": "Poolregeln",
+      "ruleTitleACWindows": "Klimaanlage & Fenster",
+      "ruleTitleLostKeys": "Verlorene Schlüssel",
+      "ruleTitleKeys": "Schlüssel",
+      "ruleTitlePropertyCare": "Pflege der Unterkunft",
+      "stepTitleFridge": "Kühlschrank ausräumen",
+      "stepTitleDishes": "Geschirr spülen",
+      "stepTitleRubbish": "Müll entsorgen",
+      "stepTitleCushions": "Regen? Kissen reinholen",
+      "stepTitleCloseWindows": "Fenster & Türen schließen",
+      "stepTitleSwitchOffAppliances": "Lichter & Geräte ausschalten",
+      "stepTitleSwitchOffAC": "Lichter & Klimaanlage ausschalten",
+      "stepTitleReturnKeys": "Schlüssel zurückgeben",
+      "stepTitleDropMeMessage": "Schreiben Sie mir kurz!",
+      "stepTitleDropUsMessage": "Schreiben Sie uns kurz!",
+      "yourHost": "Ihr Gastgeber",
+      "cohost": "Mitgastgeber",
+      "call": "Anrufen",
+      "whatsapp": "WhatsApp",
+      "email": "E-Mail",
+      "enjoyStay": "Genießen Sie Ihren Aufenthalt!",
+      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht Ihren Aufenthalt noch angenehmer. Wenn Sie Ihre Zeit hier genießen, wäre ich Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
+      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden Ihren Aufenthalt noch angenehmer macht. Wenn Sie Ihre Zeit hier genießen, wären wir Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
+      "contactHostIntroSolo": "Ich bin während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass Sie eine wunderbare Zeit haben.",
+      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben."
     },
     "welcomeMessage": "Ihr privates Mittelmeer-Refugium – Pool, zwei Terrassen und alles vorbereitet. Einfach entspannen und die Insel genießen. Schreibt uns jederzeit.",
     "gettingHere": {
@@ -34,17 +66,39 @@
       "publicTransport": "Ab Flughafen Paphos Bus 612 nehmen (~35 Min. Fahrt, je nach Saison und Haltestellen). Ab der Haltestelle zwei Möglichkeiten: zu Fuß gehen (~18 Min., 1,3 km) oder Bus 615 für eine Haltestelle, dann noch ein kurzes Stück laufen (~4 Min.). Zu Fuß: Richtung AVLIDA Hotel, daran vorbeigehen, rechts an der Esso-Tankstelle abbiegen – der Eingang des King's-Park-Komplexes liegt direkt dahinter. ⚠️ Busse akzeptieren nur Bargeld. 2,50 € pro Person und Fahrt.",
       "taxi": "Taxis warten vor dem Ankunftsbereich am Flughafen Paphos. Tarif: 40–45 € (Tag), 45–50 € (Nacht). ~20–25 Min. Etwas günstiger ist ein Bolt-Fahrauftrag.",
       "directionPhotos": [
-        { "caption": "An der Esso-Tankstelle rechts abbiegen (in die Morphou-Straße)" },
-        { "caption": "Etwa 50 m bis zur großen Baustelle auf der rechten Seite gehen" },
-        { "caption": "Weiter gehen, noch ein kleines Stück..." },
-        { "caption": "An dieser Baustelle rechts in die schmale Straße abbiegen" },
-        { "caption": "Hier parken oder zu Fuß am Pool vorbeigehen" },
-        { "caption": "Der Straße zum hinteren Teil folgen, wo sich der Poolbereich befindet" },
-        { "caption": "Am ersten Steinbogengang links abbiegen" },
-        { "caption": "Weiter gehen..." },
-        { "caption": "Zwei Schlüsselboxen unter Briefkasten 'D6'. Die rechte öffnen. Code: 9006" },
-        { "caption": "Durch den Korridor gehen" },
-        { "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört Ihnen!" }
+        {
+          "caption": "An der Esso-Tankstelle rechts abbiegen (in die Morphou-Straße)"
+        },
+        {
+          "caption": "Etwa 50 m bis zur großen Baustelle auf der rechten Seite gehen"
+        },
+        {
+          "caption": "Weiter gehen, noch ein kleines Stück..."
+        },
+        {
+          "caption": "An dieser Baustelle rechts in die schmale Straße abbiegen"
+        },
+        {
+          "caption": "Hier parken oder zu Fuß am Pool vorbeigehen"
+        },
+        {
+          "caption": "Der Straße zum hinteren Teil folgen, wo sich der Poolbereich befindet"
+        },
+        {
+          "caption": "Am ersten Steinbogengang links abbiegen"
+        },
+        {
+          "caption": "Weiter gehen..."
+        },
+        {
+          "caption": "Zwei Schlüsselboxen unter Briefkasten 'D6'. Die rechte öffnen. Code: 9006"
+        },
+        {
+          "caption": "Durch den Korridor gehen"
+        },
+        {
+          "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört Ihnen!"
+        }
       ]
     },
     "checkin": {
@@ -123,12 +177,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Strände 🏝️" },
-      { "category": "Historische Stätten & Spaziergänge 🏰" },
-      { "category": "Attraktionen & Ausflüge 📸" },
-      { "category": "Wandern & Naturpfade ⛰️" },
-      { "category": "Essen & Trinken" },
-      { "category": "Shopping" }
+      {
+        "category": "Strände 🏝️"
+      },
+      {
+        "category": "Historische Stätten & Spaziergänge 🏰"
+      },
+      {
+        "category": "Attraktionen & Ausflüge 📸"
+      },
+      {
+        "category": "Wandern & Naturpfade ⛰️"
+      },
+      {
+        "category": "Essen & Trinken"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -146,9 +212,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon" },
-        { "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt" },
-        { "note": "Polizeistation Paphos" }
+        {
+          "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"
+        },
+        {
+          "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"
+        },
+        {
+          "note": "Polizeistation Paphos"
+        }
       ],
       "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung brauchen."
     },
@@ -192,7 +264,39 @@
       "checkout": "Kijelentkezés",
       "checkoutTime": "Kijelentkezési idő",
       "checkoutChecklist": "Kijelentkezési lista",
-      "contactHost": "Kapcsolat a házigazdával"
+      "contactHost": "Kapcsolat a házigazdával",
+      "ruleTitleNoSmoking": "Tilos a dohányzás",
+      "ruleTitleQuietHours": "Csendes órák",
+      "ruleTitleNoParties": "Tilos a buli és rendezvény",
+      "ruleTitleMaxOccupancy": "Maximális férőhely",
+      "ruleTitleNoPets": "Állatok nem engedélyezettek",
+      "ruleTitleKitchen": "Konyha",
+      "ruleTitlePlumbing": "Vízvezetékek",
+      "ruleTitlePool": "Medence szabályai",
+      "ruleTitleACWindows": "Légkondicionáló & Ablakok",
+      "ruleTitleLostKeys": "Elveszett kulcsok",
+      "ruleTitleKeys": "Kulcsok",
+      "ruleTitlePropertyCare": "Az ingatlan gondozása",
+      "stepTitleFridge": "Ürítse ki a hűtőt",
+      "stepTitleDishes": "Mossa el az edényeket",
+      "stepTitleRubbish": "Vigye ki a szemetet",
+      "stepTitleCushions": "Eső esetén vigye be a párnákat",
+      "stepTitleCloseWindows": "Zárja be az ablakokat és ajtókat",
+      "stepTitleSwitchOffAppliances": "Kapcsolja le a villanyt és a készülékeket",
+      "stepTitleSwitchOffAC": "Kapcsolja le a villanyt és a légkondicionálót",
+      "stepTitleReturnKeys": "Adja vissza a kulcsokat",
+      "stepTitleDropMeMessage": "Írjon nekem egy üzenetet!",
+      "stepTitleDropUsMessage": "Írjon nekünk egy üzenetet!",
+      "yourHost": "Az Ön házigazdája",
+      "cohost": "Társ-házigazda",
+      "call": "Hívás",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "enjoyStay": "Kellemes tartózkodást kívánunk!",
+      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
+      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
+      "contactHostIntroSolo": "Egész tartózkodása alatt elérhető vagyok. Ne habozzon felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsön itt.",
+      "contactHostIntroCohost": "Egész tartózkodása alatt elérhetők vagyunk. Ne habozzon felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsön itt."
     },
     "welcomeMessage": "Privát mediterrán menedékünk – medence, két terasz és minden előkészítve. Pihenjenek és élvezzék a szigetet. Írjanak bármikor.",
     "gettingHere": {
@@ -201,17 +305,39 @@
       "publicTransport": "A páfoszi repülőtérről vegyék a 612-es buszt (~35 perces menet, évszaktól és megállóktól függően). A megállótól két lehetőség: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót, majd gyalog (~4 perc). Gyalog: az AVLIDA Hotel felé, mellette elhaladni, az Esso benzinkútnál jobbra fordulni – a King's Park komplexum bejárata rögtön mögötte van. ⚠️ A buszok csak készpénzt fogadnak el. 2,50 € személyenként és útonként.",
       "taxi": "Taxis várakoznak a páfoszi repülőtér érkezési csarnoka előtt. Tarifa: 40–45 € (nappal), 45–50 € (éjjel). ~20–25 perc. Valamivel olcsóbb lehet egy Bolt-fuvar rendelése.",
       "directionPhotos": [
-        { "caption": "Az Esso benzinkútnál forduljon jobbra (a Morphou utcába)" },
-        { "caption": "Menjen kb. 50 m-t a jobb oldalon lévő nagy építkezésig" },
-        { "caption": "Menjen tovább, még egy kicsit..." },
-        { "caption": "Ennél az építkezésnél forduljon jobbra a keskeny utcába" },
-        { "caption": "Itt parkoljon, vagy gyalog menjen el a medence mellett" },
-        { "caption": "Kövesse az utat a hátsó részig, ahol a medence területe található" },
-        { "caption": "Az első kőboltíves átjárónál forduljon balra" },
-        { "caption": "Menjen tovább..." },
-        { "caption": "Két kulcsszekrény a 'D6' postaláda alatt. A jobb oldalit nyissa ki. Kód: 9006" },
-        { "caption": "Menjen át a folyosón" },
-        { "caption": "Első ajtó balra (földszint). A fehér ajtó az Öné!" }
+        {
+          "caption": "Az Esso benzinkútnál forduljon jobbra (a Morphou utcába)"
+        },
+        {
+          "caption": "Menjen kb. 50 m-t a jobb oldalon lévő nagy építkezésig"
+        },
+        {
+          "caption": "Menjen tovább, még egy kicsit..."
+        },
+        {
+          "caption": "Ennél az építkezésnél forduljon jobbra a keskeny utcába"
+        },
+        {
+          "caption": "Itt parkoljon, vagy gyalog menjen el a medence mellett"
+        },
+        {
+          "caption": "Kövesse az utat a hátsó részig, ahol a medence területe található"
+        },
+        {
+          "caption": "Az első kőboltíves átjárónál forduljon balra"
+        },
+        {
+          "caption": "Menjen tovább..."
+        },
+        {
+          "caption": "Két kulcsszekrény a 'D6' postaláda alatt. A jobb oldalit nyissa ki. Kód: 9006"
+        },
+        {
+          "caption": "Menjen át a folyosón"
+        },
+        {
+          "caption": "Első ajtó balra (földszint). A fehér ajtó az Öné!"
+        }
       ]
     },
     "checkin": {
@@ -290,12 +416,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Strandok 🏝️" },
-      { "category": "Történelmi helyek & Séták 🏰" },
-      { "category": "Látnivalók & Kirándulások 📸" },
-      { "category": "Túrázás & Természet ⛰️" },
-      { "category": "Étkezés & Italok" },
-      { "category": "Vásárlás" }
+      {
+        "category": "Strandok 🏝️"
+      },
+      {
+        "category": "Történelmi helyek & Séták 🏰"
+      },
+      {
+        "category": "Látnivalók & Kirándulások 📸"
+      },
+      {
+        "category": "Túrázás & Természet ⛰️"
+      },
+      {
+        "category": "Étkezés & Italok"
+      },
+      {
+        "category": "Vásárlás"
+      }
     ],
     "gettingAround": [
       {
@@ -313,9 +451,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról" },
-        { "note": "Fő kórház Páphoszban, kb. 10 perc autóút" },
-        { "note": "Páphai rendőrség" }
+        {
+          "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
+        },
+        {
+          "note": "Fő kórház Páphoszban, kb. 10 perc autóút"
+        },
+        {
+          "note": "Páphai rendőrség"
+        }
       ],
       "nearestPharmacy": "Több gyógyszertár is sétálótávolságra van a főúton. Kérdezzenek minket, ha segítségre van szükségük."
     },
@@ -359,7 +503,39 @@
       "checkout": "Check-out",
       "checkoutTime": "Ώρα Αναχώρησης",
       "checkoutChecklist": "Λίστα Αναχώρησης",
-      "contactHost": "Επικοινωνία"
+      "contactHost": "Επικοινωνία",
+      "ruleTitleNoSmoking": "Απαγορεύεται το κάπνισμα",
+      "ruleTitleQuietHours": "Ώρες κοινής ησυχίας",
+      "ruleTitleNoParties": "Απαγορεύονται τα πάρτι και εκδηλώσεις",
+      "ruleTitleMaxOccupancy": "Μέγιστος αριθμός επισκεπτών",
+      "ruleTitleNoPets": "Δεν επιτρέπονται κατοικίδια",
+      "ruleTitleKitchen": "Κουζίνα",
+      "ruleTitlePlumbing": "Υδραυλικά",
+      "ruleTitlePool": "Κανόνες πισίνας",
+      "ruleTitleACWindows": "Κλιματισμός & Παράθυρα",
+      "ruleTitleLostKeys": "Χαμένα κλειδιά",
+      "ruleTitleKeys": "Κλειδιά",
+      "ruleTitlePropertyCare": "Φροντίδα του χώρου",
+      "stepTitleFridge": "Αδειάστε το ψυγείο",
+      "stepTitleDishes": "Πλύνετε τα πιάτα",
+      "stepTitleRubbish": "Βγάλτε τα σκουπίδια",
+      "stepTitleCushions": "Βροχή; Μαζέψτε τα μαξιλάρια",
+      "stepTitleCloseWindows": "Κλείστε παράθυρα & πόρτες",
+      "stepTitleSwitchOffAppliances": "Σβήστε φώτα & συσκευές",
+      "stepTitleSwitchOffAC": "Σβήστε φώτα & κλιματισμό",
+      "stepTitleReturnKeys": "Επιστρέψτε τα κλειδιά",
+      "stepTitleDropMeMessage": "Στείλτε μου ένα μήνυμα!",
+      "stepTitleDropUsMessage": "Στείλτε μας ένα μήνυμα!",
+      "yourHost": "Ο οικοδεσπότης σας",
+      "cohost": "Συν-οικοδεσπότης",
+      "call": "Κλήση",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "enjoyStay": "Απολαύστε τη διαμονή σας!",
+      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
+      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
+      "contactHostIntroSolo": "Είμαι εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσετε υπέροχα.",
+      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα."
     },
     "welcomeMessage": "Το ιδιωτικό σας μεσογειακό καταφύγιο – πισίνα, δύο βεράντες και όλα έτοιμα. Χαλαρώστε και απολαύστε το νησί. Γράψτε μας οποιαδήποτε στιγμή.",
     "gettingHere": {
@@ -368,17 +544,39 @@
       "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 (~35 λεπτά, ανάλογα με την εποχή και τις στάσεις). Από τη στάση δύο επιλογές: με τα πόδια (~18 λεπτά, 1,3 χλμ) ή λεωφορείο 615 για μία στάση και μετά λίγο πεζή (~4 λεπτά). Με τα πόδια: κατευθυνθείτε στο ξενοδοχείο AVLIDA, περάστε δίπλα του, στρίψτε δεξιά στο πρατήριο Esso – η είσοδος του King's Park βρίσκεται ακριβώς πίσω. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. 2,50 € ανά άτομο ανά διαδρομή.",
       "taxi": "Ταξί περιμένουν έξω από τον χώρο αφίξεων στο αεροδρόμιο Πάφου. Κόμιστρο: 40–45 € (ημέρα), 45–50 € (νύχτα). ~20–25 λεπτά. Λίγο πιο οικονομική επιλογή είναι το Bolt.",
       "directionPhotos": [
-        { "caption": "Στο πρατήριο Esso στρίψτε δεξιά (στην οδό Μόρφου)" },
-        { "caption": "Περπατήστε περίπου 50 μ. μέχρι το μεγάλο εργοτάξιο στη δεξιά πλευρά" },
-        { "caption": "Συνεχίστε λίγο ακόμα..." },
-        { "caption": "Σε αυτό το εργοτάξιο στρίψτε δεξιά στον στενό δρόμο" },
-        { "caption": "Παρκάρετε εδώ ή περπατήστε περνώντας την πισίνα" },
-        { "caption": "Ακολουθήστε τον δρόμο προς το πίσω μέρος, όπου βρίσκεται η περιοχή της πισίνας" },
-        { "caption": "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά" },
-        { "caption": "Συνεχίστε..." },
-        { "caption": "Δύο κουτιά κλειδιών κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί. Κωδικός: 9006" },
-        { "caption": "Περάστε μέσα από τον διάδρομο" },
-        { "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σας!" }
+        {
+          "caption": "Στο πρατήριο Esso στρίψτε δεξιά (στην οδό Μόρφου)"
+        },
+        {
+          "caption": "Περπατήστε περίπου 50 μ. μέχρι το μεγάλο εργοτάξιο στη δεξιά πλευρά"
+        },
+        {
+          "caption": "Συνεχίστε λίγο ακόμα..."
+        },
+        {
+          "caption": "Σε αυτό το εργοτάξιο στρίψτε δεξιά στον στενό δρόμο"
+        },
+        {
+          "caption": "Παρκάρετε εδώ ή περπατήστε περνώντας την πισίνα"
+        },
+        {
+          "caption": "Ακολουθήστε τον δρόμο προς το πίσω μέρος, όπου βρίσκεται η περιοχή της πισίνας"
+        },
+        {
+          "caption": "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά"
+        },
+        {
+          "caption": "Συνεχίστε..."
+        },
+        {
+          "caption": "Δύο κουτιά κλειδιών κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί. Κωδικός: 9006"
+        },
+        {
+          "caption": "Περάστε μέσα από τον διάδρομο"
+        },
+        {
+          "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σας!"
+        }
       ]
     },
     "checkin": {
@@ -457,12 +655,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Παραλίες 🏝️" },
-      { "category": "Ιστορικά Μνημεία & Περίπατοι 🏰" },
-      { "category": "Αξιοθέατα & Εκδρομές 📸" },
-      { "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️" },
-      { "category": "Φαγητό & Ποτό" },
-      { "category": "Ψώνια" }
+      {
+        "category": "Παραλίες 🏝️"
+      },
+      {
+        "category": "Ιστορικά Μνημεία & Περίπατοι 🏰"
+      },
+      {
+        "category": "Αξιοθέατα & Εκδρομές 📸"
+      },
+      {
+        "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️"
+      },
+      {
+        "category": "Φαγητό & Ποτό"
+      },
+      {
+        "category": "Ψώνια"
+      }
     ],
     "gettingAround": [
       {
@@ -480,9 +690,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο" },
-        { "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο" },
-        { "note": "Αστυνομικό τμήμα Πάφου" }
+        {
+          "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο"
+        },
+        {
+          "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο"
+        },
+        {
+          "note": "Αστυνομικό τμήμα Πάφου"
+        }
       ],
       "nearestPharmacy": "Αρκετά φαρμακεία σε κοντινή απόσταση στον κεντρικό δρόμο. Ρωτήστε μας αν χρειαστείτε βοήθεια."
     },
@@ -526,7 +742,39 @@
       "checkout": "Départ",
       "checkoutTime": "Heure de départ",
       "checkoutChecklist": "Liste de départ",
-      "contactHost": "Contacter l'hôte"
+      "contactHost": "Contacter l'hôte",
+      "ruleTitleNoSmoking": "Interdiction de fumer",
+      "ruleTitleQuietHours": "Heures calmes",
+      "ruleTitleNoParties": "Pas de fêtes ni d'événements",
+      "ruleTitleMaxOccupancy": "Capacité maximale",
+      "ruleTitleNoPets": "Animaux non admis",
+      "ruleTitleKitchen": "Cuisine",
+      "ruleTitlePlumbing": "Plomberie",
+      "ruleTitlePool": "Règles de la piscine",
+      "ruleTitleACWindows": "Climatisation & Fenêtres",
+      "ruleTitleLostKeys": "Clés perdues",
+      "ruleTitleKeys": "Clés",
+      "ruleTitlePropertyCare": "Entretien du logement",
+      "stepTitleFridge": "Vider le réfrigérateur",
+      "stepTitleDishes": "Faire la vaisselle",
+      "stepTitleRubbish": "Sortir les poubelles",
+      "stepTitleCushions": "Pluie ? Rentrez les coussins",
+      "stepTitleCloseWindows": "Fermer les fenêtres et les portes",
+      "stepTitleSwitchOffAppliances": "Éteindre les lumières et les appareils",
+      "stepTitleSwitchOffAC": "Éteindre les lumières et la climatisation",
+      "stepTitleReturnKeys": "Rendre les clés",
+      "stepTitleDropMeMessage": "Envoyez-moi un message !",
+      "stepTitleDropUsMessage": "Envoyez-nous un message !",
+      "yourHost": "Votre hôte",
+      "cohost": "Co-hôte",
+      "call": "Appeler",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "enjoyStay": "Profitez bien de votre séjour !",
+      "enjoyStayMessageSolo": "J'espère que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, je vous serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
+      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, nous vous serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
+      "contactHostIntroSolo": "Je suis disponible pour vous tout au long de votre séjour. N'hésitez pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que vous passiez un merveilleux moment.",
+      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment."
     },
     "welcomeMessage": "Votre retraite méditerranéenne privée – piscine, deux terrasses et tout est prêt. Détendez-vous et profitez de l'île. Écrivez-nous à tout moment.",
     "gettingHere": {
@@ -535,17 +783,39 @@
       "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 (~35 min selon la saison et les arrêts). Depuis l'arrêt, deux options : à pied (~18 min, 1,3 km) ou bus 615 pour un arrêt puis quelques minutes à pied (~4 min). À pied : dirigez-vous vers l'hôtel AVLIDA, dépassez-le, tournez à droite à la station Esso – l'entrée du complexe King's Park est juste derrière. ⚠️ Les bus n'acceptent que les espèces. 2,50 € par personne et par trajet.",
       "taxi": "Des taxis attendent à la sortie des arrivées à l'aéroport de Paphos. Tarif : 40–45 € (jour), 45–50 € (nuit). ~20–25 min. Une option légèrement moins chère est de commander un Bolt.",
       "directionPhotos": [
-        { "caption": "Tournez à droite à la station Esso (dans la rue Morphou)" },
-        { "caption": "Avancez d'environ 50 m jusqu'à la grande construction sur la droite" },
-        { "caption": "Continuez, encore un peu..." },
-        { "caption": "À cette construction, tournez à droite dans la rue étroite" },
-        { "caption": "Garez-vous ici ou continuez à pied après la piscine" },
-        { "caption": "Suivez la route vers l'arrière où se trouve la zone de la piscine" },
-        { "caption": "Tournez à gauche au premier passage sous arche en pierre" },
-        { "caption": "Continuez..." },
-        { "caption": "Deux boîtes à clés sous la boîte aux lettres 'D6'. Ouvrez celle de droite. Code : 9006" },
-        { "caption": "Passez par le couloir" },
-        { "caption": "Première porte à gauche (rez-de-chaussée). La porte blanche, c'est la vôtre !" }
+        {
+          "caption": "Tournez à droite à la station Esso (dans la rue Morphou)"
+        },
+        {
+          "caption": "Avancez d'environ 50 m jusqu'à la grande construction sur la droite"
+        },
+        {
+          "caption": "Continuez, encore un peu..."
+        },
+        {
+          "caption": "À cette construction, tournez à droite dans la rue étroite"
+        },
+        {
+          "caption": "Garez-vous ici ou continuez à pied après la piscine"
+        },
+        {
+          "caption": "Suivez la route vers l'arrière où se trouve la zone de la piscine"
+        },
+        {
+          "caption": "Tournez à gauche au premier passage sous arche en pierre"
+        },
+        {
+          "caption": "Continuez..."
+        },
+        {
+          "caption": "Deux boîtes à clés sous la boîte aux lettres 'D6'. Ouvrez celle de droite. Code : 9006"
+        },
+        {
+          "caption": "Passez par le couloir"
+        },
+        {
+          "caption": "Première porte à gauche (rez-de-chaussée). La porte blanche, c'est la vôtre !"
+        }
       ]
     },
     "checkin": {
@@ -624,12 +894,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Plages 🏝️" },
-      { "category": "Sites historiques & promenades 🏰" },
-      { "category": "Attractions & Excursions 📸" },
-      { "category": "Randonnées & sentiers naturels ⛰️" },
-      { "category": "Eat & Drink" },
-      { "category": "Shopping" }
+      {
+        "category": "Plages 🏝️"
+      },
+      {
+        "category": "Sites historiques & promenades 🏰"
+      },
+      {
+        "category": "Attractions & Excursions 📸"
+      },
+      {
+        "category": "Randonnées & sentiers naturels ⛰️"
+      },
+      {
+        "category": "Eat & Drink"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -647,9 +929,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone" },
-        { "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture" },
-        { "note": "Poste de police de Paphos" }
+        {
+          "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"
+        },
+        {
+          "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"
+        },
+        {
+          "note": "Poste de police de Paphos"
+        }
       ],
       "nearestPharmacy": "Plusieurs pharmacies à distance de marche sur la route principale. Demandez-nous si vous avez besoin d'une recommandation."
     },
@@ -693,7 +981,39 @@
       "checkout": "Salida",
       "checkoutTime": "Hora de salida",
       "checkoutChecklist": "Lista de salida",
-      "contactHost": "Contactar al anfitrión"
+      "contactHost": "Contactar al anfitrión",
+      "ruleTitleNoSmoking": "Prohibido fumar",
+      "ruleTitleQuietHours": "Horas de silencio",
+      "ruleTitleNoParties": "Prohibidas las fiestas y eventos",
+      "ruleTitleMaxOccupancy": "Capacidad máxima",
+      "ruleTitleNoPets": "No se admiten mascotas",
+      "ruleTitleKitchen": "Cocina",
+      "ruleTitlePlumbing": "Fontanería",
+      "ruleTitlePool": "Normas de la piscina",
+      "ruleTitleACWindows": "Aire acondicionado y ventanas",
+      "ruleTitleLostKeys": "Llaves perdidas",
+      "ruleTitleKeys": "Llaves",
+      "ruleTitlePropertyCare": "Cuidado del alojamiento",
+      "stepTitleFridge": "Vacía la nevera",
+      "stepTitleDishes": "Lava los platos",
+      "stepTitleRubbish": "Saca la basura",
+      "stepTitleCushions": "¿Lluvia? Mete los cojines",
+      "stepTitleCloseWindows": "Cierra ventanas y puertas",
+      "stepTitleSwitchOffAppliances": "Apaga las luces y los electrodomésticos",
+      "stepTitleSwitchOffAC": "Apaga las luces y el aire acondicionado",
+      "stepTitleReturnKeys": "Devuelve las llaves",
+      "stepTitleDropMeMessage": "¡Envíame un mensaje!",
+      "stepTitleDropUsMessage": "¡Envíanos un mensaje!",
+      "yourHost": "Tu anfitrión",
+      "cohost": "Co-anfitrión",
+      "call": "Llamar",
+      "whatsapp": "WhatsApp",
+      "email": "Correo electrónico",
+      "enjoyStay": "¡Disfruta tu estancia!",
+      "enjoyStayMessageSolo": "Espero que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradecería muchísimo que dejaras una reseña en Airbnb – significa todo para mí.",
+      "enjoyStayMessageCohost": "Esperamos que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradeceríamos muchísimo que dejaras una reseña en Airbnb – significa todo para nosotros.",
+      "contactHostIntroSolo": "Estoy aquí para ti durante toda tu estancia. No dudes en contactarme con cualquier pregunta, solicitud o si algo necesita atención – de verdad quiero que tengas un tiempo maravilloso.",
+      "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso."
     },
     "welcomeMessage": "Nuestro retiro mediterráneo privado – piscina, dos terrazas y todo listo. Relájense y disfruten de la isla. Escríbannos cuando quieran.",
     "gettingHere": {
@@ -702,17 +1022,39 @@
       "publicTransport": "Desde el aeropuerto de Pafos, tomen el autobús 612 (~35 min según la temporada y las paradas). Desde la parada, dos opciones: a pie (~18 min, 1,3 km) o autobús 615 una parada y luego un corto paseo (~4 min). A pie: dirección al hotel AVLIDA, pasar por delante, girar a la derecha en la gasolinera Esso – la entrada al complejo King's Park está justo detrás. ⚠️ Los autobuses solo aceptan efectivo. 2,50 € por persona y trayecto.",
       "taxi": "Hay taxis esperando a la salida de llegadas en el aeropuerto de Pafos. Tarifa: 40–45 € (día), 45–50 € (noche). ~20–25 min. Una opción algo más económica es pedir un Bolt.",
       "directionPhotos": [
-        { "caption": "Gire a la derecha en la gasolinera Esso (hacia la calle Morphou)" },
-        { "caption": "Avance unos 50 m hasta la gran construcción a la derecha" },
-        { "caption": "Siga adelante, un poco más..." },
-        { "caption": "En esta construcción, gire a la derecha hacia la calle estrecha" },
-        { "caption": "Aparque aquí o continúe a pie pasando la piscina" },
-        { "caption": "Siga la carretera hacia la parte trasera donde está la zona de la piscina" },
-        { "caption": "Gire a la izquierda en el primer pasaje de arco de piedra" },
-        { "caption": "Continúe..." },
-        { "caption": "Dos cajas de llaves bajo el buzón 'D6'. Abra la de la derecha. Código: 9006" },
-        { "caption": "Pase por el corredor" },
-        { "caption": "Primera puerta a la izquierda (planta baja). ¡La puerta blanca es la suya!" }
+        {
+          "caption": "Gire a la derecha en la gasolinera Esso (hacia la calle Morphou)"
+        },
+        {
+          "caption": "Avance unos 50 m hasta la gran construcción a la derecha"
+        },
+        {
+          "caption": "Siga adelante, un poco más..."
+        },
+        {
+          "caption": "En esta construcción, gire a la derecha hacia la calle estrecha"
+        },
+        {
+          "caption": "Aparque aquí o continúe a pie pasando la piscina"
+        },
+        {
+          "caption": "Siga la carretera hacia la parte trasera donde está la zona de la piscina"
+        },
+        {
+          "caption": "Gire a la izquierda en el primer pasaje de arco de piedra"
+        },
+        {
+          "caption": "Continúe..."
+        },
+        {
+          "caption": "Dos cajas de llaves bajo el buzón 'D6'. Abra la de la derecha. Código: 9006"
+        },
+        {
+          "caption": "Pase por el corredor"
+        },
+        {
+          "caption": "Primera puerta a la izquierda (planta baja). ¡La puerta blanca es la suya!"
+        }
       ]
     },
     "checkin": {
@@ -791,12 +1133,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Playas 🏝️" },
-      { "category": "Sitios históricos y paseos escénicos 🏰" },
-      { "category": "Atracciones y excursiones 📸" },
-      { "category": "Senderismo y rutas naturales ⛰️" },
-      { "category": "Eat & Drink" },
-      { "category": "Shopping" }
+      {
+        "category": "Playas 🏝️"
+      },
+      {
+        "category": "Sitios históricos y paseos escénicos 🏰"
+      },
+      {
+        "category": "Atracciones y excursiones 📸"
+      },
+      {
+        "category": "Senderismo y rutas naturales ⛰️"
+      },
+      {
+        "category": "Eat & Drink"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -814,9 +1168,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono" },
-        { "note": "Hospital principal de Pafos, a unos 10 minutos en coche" },
-        { "note": "Comisaría de Pafos" }
+        {
+          "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"
+        },
+        {
+          "note": "Hospital principal de Pafos, a unos 10 minutos en coche"
+        },
+        {
+          "note": "Comisaría de Pafos"
+        }
       ],
       "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntennos si necesitan una recomendación."
     },
@@ -860,7 +1220,39 @@
       "checkout": "Wymeldowanie",
       "checkoutTime": "Godzina wymeldowania",
       "checkoutChecklist": "Lista wymeldowania",
-      "contactHost": "Kontakt z gospodarzem"
+      "contactHost": "Kontakt z gospodarzem",
+      "ruleTitleNoSmoking": "Zakaz palenia",
+      "ruleTitleQuietHours": "Cisza nocna",
+      "ruleTitleNoParties": "Zakaz imprez i wydarzeń",
+      "ruleTitleMaxOccupancy": "Maksymalna liczba gości",
+      "ruleTitleNoPets": "Zakaz trzymania zwierząt",
+      "ruleTitleKitchen": "Kuchnia",
+      "ruleTitlePlumbing": "Instalacja wodno-kanalizacyjna",
+      "ruleTitlePool": "Zasady korzystania z basenu",
+      "ruleTitleACWindows": "Klimatyzacja i okna",
+      "ruleTitleLostKeys": "Zgubione klucze",
+      "ruleTitleKeys": "Klucze",
+      "ruleTitlePropertyCare": "Dbałość o nieruchomość",
+      "stepTitleFridge": "Oprózni lodówkę",
+      "stepTitleDishes": "Umyj naczynia",
+      "stepTitleRubbish": "Wyrzuć śmieci",
+      "stepTitleCushions": "Deszcz? Wnieś poduszki",
+      "stepTitleCloseWindows": "Zamknij okna i drzwi",
+      "stepTitleSwitchOffAppliances": "Wyłącz światła i urządzenia",
+      "stepTitleSwitchOffAC": "Wyłącz światła i klimatyzację",
+      "stepTitleReturnKeys": "Zwróć klucze",
+      "stepTitleDropMeMessage": "Napisz do mnie wiadomość!",
+      "stepTitleDropUsMessage": "Napisz do nas wiadomość!",
+      "yourHost": "Twój gospodarz",
+      "cohost": "Współgospodarz",
+      "call": "Zadzwoń",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "enjoyStay": "Miłego pobytu!",
+      "enjoyStayMessageSolo": "Mam nadzieję, że ten przewodnik sprawi, że Twój pobyt będzie jeszcze lepszy. Jeśli dobrze spędzisz tu czas, będę niezmiernie wdzięczny/-a za opinię na Airbnb – to dla mnie naprawdę wszystko.",
+      "enjoyStayMessageCohost": "Mamy nadzieję, że ten przewodnik sprawi, że Twój pobyt będzie jeszcze lepszy. Jeśli dobrze spędzisz tu czas, będziemy niezmiernie wdzięczni za opinię na Airbnb – to dla nas naprawdę wszystko.",
+      "contactHostIntroSolo": "Jestem do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować ze mną w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy mi, żebyś spędził/-a tu wspaniały czas.",
+      "contactHostIntroCohost": "Jesteśmy do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować z nami w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy nam, żebyś spędził/-a tu wspaniały czas."
     },
     "welcomeMessage": "Wasza prywatna śródziemnomorska oaza – basen, dwa tarasy i wszystko gotowe. Odpoczywajcie i cieszcie się wyspą. Piszcie do nas w każdej chwili.",
     "gettingHere": {
@@ -869,17 +1261,39 @@
       "publicTransport": "Z lotniska w Pafos jedźcie autobusem 612 (~35 min, w zależności od sezonu i przystanków). Od przystanku dwie opcje: pieszo (~18 min, 1,3 km) lub autobusem 615 jeden przystanek i chwila drogi pieszo (~4 min). Pieszo: kierujcie się w stronę hotelu AVLIDA, mijajcie go, skręćcie w prawo przy stacji Esso – wejście do kompleksu King's Park jest tuż za nią. ⚠️ Autobusy przyjmują tylko gotówkę. 2,50 € od osoby za przejazd.",
       "taxi": "Taksówki czekają przed wyjściem z hali przylotów na lotnisku w Pafos. Taryfa: 40–45 € (dzień), 45–50 € (noc). ~20–25 min. Nieco taniej można zamówić przejazd Boltem.",
       "directionPhotos": [
-        { "caption": "Skręćcie w prawo przy stacji Esso (na ulicę Morphou)" },
-        { "caption": "Idźcie około 50 m do dużej budowy po prawej stronie" },
-        { "caption": "Idźcie dalej, jeszcze trochę..." },
-        { "caption": "Przy tej budowie skręćcie w prawo w wąską uliczkę" },
-        { "caption": "Zaparkujcie tutaj lub kontynuujcie pieszo obok basenu" },
-        { "caption": "Podążajcie drogą na tył, gdzie znajduje się strefa basenowa" },
-        { "caption": "Skręćcie w lewo przy pierwszym przejściu pod kamiennym łukiem" },
-        { "caption": "Kontynuujcie..." },
-        { "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D6'. Otwórzcie tę po prawej. Kod: 9006" },
-        { "caption": "Przejdźcie przez korytarz" },
-        { "caption": "Pierwsze drzwi po lewej (parter). Białe drzwi należą do Was!" }
+        {
+          "caption": "Skręćcie w prawo przy stacji Esso (na ulicę Morphou)"
+        },
+        {
+          "caption": "Idźcie około 50 m do dużej budowy po prawej stronie"
+        },
+        {
+          "caption": "Idźcie dalej, jeszcze trochę..."
+        },
+        {
+          "caption": "Przy tej budowie skręćcie w prawo w wąską uliczkę"
+        },
+        {
+          "caption": "Zaparkujcie tutaj lub kontynuujcie pieszo obok basenu"
+        },
+        {
+          "caption": "Podążajcie drogą na tył, gdzie znajduje się strefa basenowa"
+        },
+        {
+          "caption": "Skręćcie w lewo przy pierwszym przejściu pod kamiennym łukiem"
+        },
+        {
+          "caption": "Kontynuujcie..."
+        },
+        {
+          "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D6'. Otwórzcie tę po prawej. Kod: 9006"
+        },
+        {
+          "caption": "Przejdźcie przez korytarz"
+        },
+        {
+          "caption": "Pierwsze drzwi po lewej (parter). Białe drzwi należą do Was!"
+        }
       ]
     },
     "checkin": {
@@ -958,12 +1372,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Plaże 🏝️" },
-      { "category": "Miejsca historyczne i malownicze spacery 🏰" },
-      { "category": "Atrakcje i wycieczki 📸" },
-      { "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️" },
-      { "category": "Eat & Drink" },
-      { "category": "Shopping" }
+      {
+        "category": "Plaże 🏝️"
+      },
+      {
+        "category": "Miejsca historyczne i malownicze spacery 🏰"
+      },
+      {
+        "category": "Atrakcje i wycieczki 📸"
+      },
+      {
+        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
+      },
+      {
+        "category": "Eat & Drink"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -981,9 +1407,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu" },
-        { "note": "Główny szpital w Pafos, ok. 10 minut jazdy" },
-        { "note": "Posterunek policji w Pafos" }
+        {
+          "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"
+        },
+        {
+          "note": "Główny szpital w Pafos, ok. 10 minut jazdy"
+        },
+        {
+          "note": "Posterunek policji w Pafos"
+        }
       ],
       "nearestPharmacy": "Kilka aptek w odległości krótkiego spaceru przy głównej drodze. Zapytajcie nas, jeśli potrzebujecie rekomendacji."
     },
@@ -1027,7 +1459,39 @@
       "checkout": "Выезд",
       "checkoutTime": "Время выезда",
       "checkoutChecklist": "Список при выезде",
-      "contactHost": "Связаться с хозяевами"
+      "contactHost": "Связаться с хозяевами",
+      "ruleTitleNoSmoking": "Курение запрещено",
+      "ruleTitleQuietHours": "Тихие часы",
+      "ruleTitleNoParties": "Вечеринки и мероприятия запрещены",
+      "ruleTitleMaxOccupancy": "Максимальная заполняемость",
+      "ruleTitleNoPets": "Животные не допускаются",
+      "ruleTitleKitchen": "Кухня",
+      "ruleTitlePlumbing": "Водопровод",
+      "ruleTitlePool": "Правила бассейна",
+      "ruleTitleACWindows": "Кондиционер и окна",
+      "ruleTitleLostKeys": "Утерянные ключи",
+      "ruleTitleKeys": "Ключи",
+      "ruleTitlePropertyCare": "Бережное отношение к жилью",
+      "stepTitleFridge": "Освободите холодильник",
+      "stepTitleDishes": "Вымойте посуду",
+      "stepTitleRubbish": "Вынесите мусор",
+      "stepTitleCushions": "Дождь? Занесите подушки",
+      "stepTitleCloseWindows": "Закройте окна и двери",
+      "stepTitleSwitchOffAppliances": "Выключите свет и приборы",
+      "stepTitleSwitchOffAC": "Выключите свет и кондиционер",
+      "stepTitleReturnKeys": "Верните ключи",
+      "stepTitleDropMeMessage": "Напишите мне сообщение!",
+      "stepTitleDropUsMessage": "Напишите нам сообщение!",
+      "yourHost": "Ваш хозяин",
+      "cohost": "Со-хозяйка",
+      "call": "Позвонить",
+      "whatsapp": "WhatsApp",
+      "email": "Эл. почта",
+      "enjoyStay": "Приятного пребывания!",
+      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
+      "enjoyStayMessageCohost": "Надеемся, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
+      "contactHostIntroSolo": "Я здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы вы провели здесь замечательное время.",
+      "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время."
     },
     "welcomeMessage": "Ваш личный средиземноморский уголок – бассейн, две террасы и всё готово. Отдыхайте и наслаждайтесь островом. Пишите нам в любое время.",
     "gettingHere": {
@@ -1036,17 +1500,39 @@
       "publicTransport": "Из аэропорта Пафоса садитесь на автобус 612 (~35 мин в зависимости от сезона и остановок). От остановки два варианта: пешком (~18 мин, 1,3 км) или автобус 615 одну остановку, затем немного пешком (~4 мин). Пешком: идите в сторону отеля AVLIDA, пройдите мимо, поверните направо у заправки Esso – вход в комплекс King's Park сразу за ней. ⚠️ Автобусы принимают только наличные. 2,50 € за человека за поездку.",
       "taxi": "Такси ждут у выхода из зала прилёта в аэропорту Пафоса. Тариф: 40–45 € (день), 45–50 € (ночь). ~20–25 мин. Немного дешевле заказать Bolt.",
       "directionPhotos": [
-        { "caption": "Поверните направо у заправки Esso (на улицу Morphou)" },
-        { "caption": "Пройдите около 50 м до большой стройки справа" },
-        { "caption": "Продолжайте идти, ещё немного..." },
-        { "caption": "У этой стройки поверните направо в узкую улочку" },
-        { "caption": "Припаркуйтесь здесь или продолжайте пешком мимо бассейна" },
-        { "caption": "Следуйте по дороге к задней части, где находится зона бассейна" },
-        { "caption": "Поверните налево у первого прохода под каменной аркой" },
-        { "caption": "Продолжайте..." },
-        { "caption": "Два ящика для ключей под почтовым ящиком 'D6'. Откройте правый. Код: 9006" },
-        { "caption": "Пройдите через коридор" },
-        { "caption": "Первая дверь слева (первый этаж). Белая дверь – ваша!" }
+        {
+          "caption": "Поверните направо у заправки Esso (на улицу Morphou)"
+        },
+        {
+          "caption": "Пройдите около 50 м до большой стройки справа"
+        },
+        {
+          "caption": "Продолжайте идти, ещё немного..."
+        },
+        {
+          "caption": "У этой стройки поверните направо в узкую улочку"
+        },
+        {
+          "caption": "Припаркуйтесь здесь или продолжайте пешком мимо бассейна"
+        },
+        {
+          "caption": "Следуйте по дороге к задней части, где находится зона бассейна"
+        },
+        {
+          "caption": "Поверните налево у первого прохода под каменной аркой"
+        },
+        {
+          "caption": "Продолжайте..."
+        },
+        {
+          "caption": "Два ящика для ключей под почтовым ящиком 'D6'. Откройте правый. Код: 9006"
+        },
+        {
+          "caption": "Пройдите через коридор"
+        },
+        {
+          "caption": "Первая дверь слева (первый этаж). Белая дверь – ваша!"
+        }
       ]
     },
     "checkin": {
@@ -1125,12 +1611,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Пляжи 🏝️" },
-      { "category": "Исторические места и живописные прогулки 🏰" },
-      { "category": "Достопримечательности и экскурсии 📸" },
-      { "category": "Пешие маршруты и природные тропы ⛰️" },
-      { "category": "Eat & Drink" },
-      { "category": "Shopping" }
+      {
+        "category": "Пляжи 🏝️"
+      },
+      {
+        "category": "Исторические места и живописные прогулки 🏰"
+      },
+      {
+        "category": "Достопримечательности и экскурсии 📸"
+      },
+      {
+        "category": "Пешие маршруты и природные тропы ⛰️"
+      },
+      {
+        "category": "Eat & Drink"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -1148,9 +1646,15 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона" },
-        { "note": "Главная больница Пафоса, примерно 10 минут езды" },
-        { "note": "Полицейский участок Пафоса" }
+        {
+          "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"
+        },
+        {
+          "note": "Главная больница Пафоса, примерно 10 минут езды"
+        },
+        {
+          "note": "Полицейский участок Пафоса"
+        }
       ],
       "nearestPharmacy": "Несколько аптек в нескольких минутах ходьбы на главной дороге. Спросите нас, если нужна рекомендация."
     },

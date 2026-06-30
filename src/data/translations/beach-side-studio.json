@@ -25,7 +25,39 @@
       "checkout": "Check-out",
       "checkoutTime": "Check-out-Zeit",
       "checkoutChecklist": "Check-out-Checkliste",
-      "contactHost": "Gastgeber kontaktieren"
+      "contactHost": "Gastgeber kontaktieren",
+      "ruleTitleNoSmoking": "Rauchverbot",
+      "ruleTitleQuietHours": "Ruhezeiten",
+      "ruleTitleNoParties": "Keine Partys oder Veranstaltungen",
+      "ruleTitleMaxOccupancy": "Maximale Belegung",
+      "ruleTitleNoPets": "Keine Haustiere",
+      "ruleTitleKitchen": "Küche",
+      "ruleTitlePlumbing": "Sanitäranlagen",
+      "ruleTitlePool": "Poolregeln",
+      "ruleTitleACWindows": "Klimaanlage & Fenster",
+      "ruleTitleLostKeys": "Verlorene Schlüssel",
+      "ruleTitleKeys": "Schlüssel",
+      "ruleTitlePropertyCare": "Pflege der Unterkunft",
+      "stepTitleFridge": "Kühlschrank ausräumen",
+      "stepTitleDishes": "Geschirr spülen",
+      "stepTitleRubbish": "Müll entsorgen",
+      "stepTitleCushions": "Regen? Kissen reinholen",
+      "stepTitleCloseWindows": "Fenster & Türen schließen",
+      "stepTitleSwitchOffAppliances": "Lichter & Geräte ausschalten",
+      "stepTitleSwitchOffAC": "Lichter & Klimaanlage ausschalten",
+      "stepTitleReturnKeys": "Schlüssel zurückgeben",
+      "stepTitleDropMeMessage": "Schreiben Sie mir kurz!",
+      "stepTitleDropUsMessage": "Schreiben Sie uns kurz!",
+      "yourHost": "Ihr Gastgeber",
+      "cohost": "Mitgastgeber",
+      "call": "Anrufen",
+      "whatsapp": "WhatsApp",
+      "email": "E-Mail",
+      "enjoyStay": "Genießen Sie Ihren Aufenthalt!",
+      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht Ihren Aufenthalt noch angenehmer. Wenn Sie Ihre Zeit hier genießen, wäre ich Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
+      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden Ihren Aufenthalt noch angenehmer macht. Wenn Sie Ihre Zeit hier genießen, wären wir Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
+      "contactHostIntroSolo": "Ich bin während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass Sie eine wunderbare Zeit haben.",
+      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben."
     },
     "welcomeMessage": "Willkommen in meinem bunten Haus in den Hügeln von Teneriffa! Eingebettet in das charmante Dorf Valleseco ist es voller Charakter und von Natur umgeben. Ich hoffe, Sie lieben es genauso wie ich. Melden Sie sich jederzeit, wenn Sie etwas brauchen.",
     "gettingHere": {
@@ -34,15 +66,33 @@
       "publicTransport": "Es gibt verschiedene Busse von Santa Cruz de Tenerife (z. B. Nr. 909, 910, 916). Steigen Sie unbedingt in Valleseco aus (es ist ein kleines Dorf mit nur einer Haltestelle). Suchen Sie nach dem Punto y Coma Minimarket und nehmen Sie die Treppe links, etwa 20 Meter nach dem Vorbeilaufen. Es ist ein 5–10-minütiger Anstieg zum Haus. Google Maps ist für den letzten Abschnitt nicht ganz genau, bitte folgen Sie dem Fotoguide!",
       "taxi": "Taxis sind am Flughafen Teneriffa Nord (TFN) und Teneriffa Süd (TFS) verfügbar. Vereinbaren Sie den Fahrpreis vor der Abfahrt oder stellen Sie sicher, dass das Taxameter läuft. Bitten Sie den Fahrer, Sie am unten verlinkten Parkplatz abzusetzen, und folgen Sie dann dem Fotoguide ab Foto 1.",
       "directionPhotos": [
-        { "caption": "Hier parken. Es sind immer Plätze verfügbar und Sie müssen fast keine Treppen steigen." },
-        { "caption": "Vom Parkplatz in diese Richtung gehen, bis die Straße endet, dann links die Treppe hinuntergehen." },
-        { "caption": "Die nächste Straße darunter hinuntergehen und rechts abbiegen. Das ist die Straße des Hauses." },
-        { "caption": "Geradeaus gehen und den Garten mit Kakteen und anderen Pflanzen durchqueren." },
-        { "caption": "Zwischen den Häusern weitergehen..." },
-        { "caption": "Geradeaus weitergehen..." },
-        { "caption": "Nach 1 Minute sehen Sie auf der linken Seite ein weißes Haus." },
-        { "caption": "Fast da. Ihre Wohnung befindet sich im unteren Teil des Hauses." },
-        { "caption": "Suchen Sie die weiße Tür, die von der Treppe an der Seite des Hauses geht, mit einer Schlüsselbox daneben. Code: 6015" }
+        {
+          "caption": "Hier parken. Es sind immer Plätze verfügbar und Sie müssen fast keine Treppen steigen."
+        },
+        {
+          "caption": "Vom Parkplatz in diese Richtung gehen, bis die Straße endet, dann links die Treppe hinuntergehen."
+        },
+        {
+          "caption": "Die nächste Straße darunter hinuntergehen und rechts abbiegen. Das ist die Straße des Hauses."
+        },
+        {
+          "caption": "Geradeaus gehen und den Garten mit Kakteen und anderen Pflanzen durchqueren."
+        },
+        {
+          "caption": "Zwischen den Häusern weitergehen..."
+        },
+        {
+          "caption": "Geradeaus weitergehen..."
+        },
+        {
+          "caption": "Nach 1 Minute sehen Sie auf der linken Seite ein weißes Haus."
+        },
+        {
+          "caption": "Fast da. Ihre Wohnung befindet sich im unteren Teil des Hauses."
+        },
+        {
+          "caption": "Suchen Sie die weiße Tür, die von der Treppe an der Seite des Hauses geht, mit einer Schlüsselbox daneben. Code: 6015"
+        }
       ]
     },
     "checkin": {
@@ -98,12 +148,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Strände 🏝️" },
-      { "category": "Historische Stätten & Landschaftsspaziergänge 🏰" },
-      { "category": "Attraktionen & Ausflüge 📸" },
-      { "category": "Wandern & Naturpfade ⛰️" },
-      { "category": "Essen & Trinken" },
-      { "category": "Shopping" }
+      {
+        "category": "Strände 🏝️"
+      },
+      {
+        "category": "Historische Stätten & Landschaftsspaziergänge 🏰"
+      },
+      {
+        "category": "Attraktionen & Ausflüge 📸"
+      },
+      {
+        "category": "Wandern & Naturpfade ⛰️"
+      },
+      {
+        "category": "Essen & Trinken"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -112,8 +174,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon" },
-        { "note": "Hauptkrankenhaus in Santa Cruz de Tenerife" }
+        {
+          "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"
+        },
+        {
+          "note": "Hauptkrankenhaus in Santa Cruz de Tenerife"
+        }
       ],
       "nearestPharmacy": "Mehrere Apotheken in der Nähe auf der Hauptstraße. Fragen Sie mich, wenn Sie eine Empfehlung brauchen."
     },
@@ -155,7 +221,39 @@
       "checkout": "Kijelentkezés",
       "checkoutTime": "Kijelentkezési idő",
       "checkoutChecklist": "Kijelentkezési lista",
-      "contactHost": "Kapcsolat a házigazdával"
+      "contactHost": "Kapcsolat a házigazdával",
+      "ruleTitleNoSmoking": "Tilos a dohányzás",
+      "ruleTitleQuietHours": "Csendes órák",
+      "ruleTitleNoParties": "Tilos a buli és rendezvény",
+      "ruleTitleMaxOccupancy": "Maximális férőhely",
+      "ruleTitleNoPets": "Állatok nem engedélyezettek",
+      "ruleTitleKitchen": "Konyha",
+      "ruleTitlePlumbing": "Vízvezetékek",
+      "ruleTitlePool": "Medence szabályai",
+      "ruleTitleACWindows": "Légkondicionáló & Ablakok",
+      "ruleTitleLostKeys": "Elveszett kulcsok",
+      "ruleTitleKeys": "Kulcsok",
+      "ruleTitlePropertyCare": "Az ingatlan gondozása",
+      "stepTitleFridge": "Ürítse ki a hűtőt",
+      "stepTitleDishes": "Mossa el az edényeket",
+      "stepTitleRubbish": "Vigye ki a szemetet",
+      "stepTitleCushions": "Eső esetén vigye be a párnákat",
+      "stepTitleCloseWindows": "Zárja be az ablakokat és ajtókat",
+      "stepTitleSwitchOffAppliances": "Kapcsolja le a villanyt és a készülékeket",
+      "stepTitleSwitchOffAC": "Kapcsolja le a villanyt és a légkondicionálót",
+      "stepTitleReturnKeys": "Adja vissza a kulcsokat",
+      "stepTitleDropMeMessage": "Írjon nekem egy üzenetet!",
+      "stepTitleDropUsMessage": "Írjon nekünk egy üzenetet!",
+      "yourHost": "Az Ön házigazdája",
+      "cohost": "Társ-házigazda",
+      "call": "Hívás",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "enjoyStay": "Kellemes tartózkodást kívánunk!",
+      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
+      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
+      "contactHostIntroSolo": "Egész tartózkodása alatt elérhető vagyok. Ne habozzon felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsön itt.",
+      "contactHostIntroCohost": "Egész tartózkodása alatt elérhetők vagyunk. Ne habozzon felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsön itt."
     },
     "welcomeMessage": "Üdvözlöm a színes teneriffai hegyekben lévő házamban! A bájos Valleseco faluban található, tele egyedi hangulattal és természettel körülvéve. Remélem, annyira szereti majd, amennyire én szeretem. Keressen meg bármikor, ha bármire szüksége van.",
     "gettingHere": {
@@ -164,15 +262,33 @@
       "publicTransport": "Santa Cruz de Tenerifféről különböző buszok indulnak (pl. 909-es, 910-es, 916-os). Feltétlenül szálljon le Vallesecónál (ez egy kis falu, mindössze egy megállóval). Amikor leszállt, keresse meg a Punto y Coma Minimarketet, és menjen fel a bal oldali lépcsőn, nagyjából 20 méterrel azután, hogy elhalad mellette. A házhoz 5–10 perces emelkedő séta vezet. A Google Maps az utolsó szakaszon nem teljesen pontos, ezért kérjük, kövesse a fotóútmutatót!",
       "taxi": "Taxik elérhetők a Tenerife Norte (TFN) és Tenerife Sur (TFS) repülőtereken. Indulás előtt egyezzen meg a viteldíjban, vagy ellenőrizze, hogy fut-e a taxióra. Kérje a sofőrt, hogy tegye le az alább linkelt parkolónál, majd kövesse a fotóútmutatót az 1. fotótól.",
       "directionPhotos": [
-        { "caption": "Itt parkoljon. Mindig van szabad hely, és szinte nem kell lépcsőzni." },
-        { "caption": "A parkolóból induljon ebbe az irányba, és sétáljon addig, amíg az utca véget ér, majd menjen le a bal oldali lépcsőn." },
-        { "caption": "Menjen le a következő utcába alul, majd forduljon jobbra. Ez a ház utcája." },
-        { "caption": "Menjen egyenesen, és sétáljon át a kaktuszos és egyéb növényes kerten." },
-        { "caption": "Folytassa a házak között..." },
-        { "caption": "Menjen tovább egyenesen..." },
-        { "caption": "1 perc után a bal oldalon meglát egy fehér házat." },
-        { "caption": "Már közel. A lakása a ház alsó részén található." },
-        { "caption": "Keresse a fehér ajtót, amely a ház oldalán lévő lépcsőről nyílik, mellette egy kulcstárolóval. Kód: 6015" }
+        {
+          "caption": "Itt parkoljon. Mindig van szabad hely, és szinte nem kell lépcsőzni."
+        },
+        {
+          "caption": "A parkolóból induljon ebbe az irányba, és sétáljon addig, amíg az utca véget ér, majd menjen le a bal oldali lépcsőn."
+        },
+        {
+          "caption": "Menjen le a következő utcába alul, majd forduljon jobbra. Ez a ház utcája."
+        },
+        {
+          "caption": "Menjen egyenesen, és sétáljon át a kaktuszos és egyéb növényes kerten."
+        },
+        {
+          "caption": "Folytassa a házak között..."
+        },
+        {
+          "caption": "Menjen tovább egyenesen..."
+        },
+        {
+          "caption": "1 perc után a bal oldalon meglát egy fehér házat."
+        },
+        {
+          "caption": "Már közel. A lakása a ház alsó részén található."
+        },
+        {
+          "caption": "Keresse a fehér ajtót, amely a ház oldalán lévő lépcsőről nyílik, mellette egy kulcstárolóval. Kód: 6015"
+        }
       ]
     },
     "checkin": {
@@ -228,12 +344,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Strandok 🏝️" },
-      { "category": "Történelmi helyszínek & Festői séták 🏰" },
-      { "category": "Látnivalók & Kirándulások 📸" },
-      { "category": "Túrázás & Természeti ösvények ⛰️" },
-      { "category": "Étkezés & Italok" },
-      { "category": "Bevásárlás" }
+      {
+        "category": "Strandok 🏝️"
+      },
+      {
+        "category": "Történelmi helyszínek & Festői séták 🏰"
+      },
+      {
+        "category": "Látnivalók & Kirándulások 📸"
+      },
+      {
+        "category": "Túrázás & Természeti ösvények ⛰️"
+      },
+      {
+        "category": "Étkezés & Italok"
+      },
+      {
+        "category": "Bevásárlás"
+      }
     ],
     "gettingAround": [
       {
@@ -242,8 +370,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról" },
-        { "note": "Főkórház Santa Cruz de Tenerifén" }
+        {
+          "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
+        },
+        {
+          "note": "Főkórház Santa Cruz de Tenerifén"
+        }
       ],
       "nearestPharmacy": "Több gyógyszertár is található a főúton a közelben. Kérdezzen, ha ajánlásra van szüksége."
     },
@@ -285,7 +417,39 @@
       "checkout": "Αναχώρηση",
       "checkoutTime": "Ώρα Αναχώρησης",
       "checkoutChecklist": "Λίστα Ελέγχου Αναχώρησης",
-      "contactHost": "Επικοινωνία με τον Οικοδεσπότη"
+      "contactHost": "Επικοινωνία με τον Οικοδεσπότη",
+      "ruleTitleNoSmoking": "Απαγορεύεται το κάπνισμα",
+      "ruleTitleQuietHours": "Ώρες κοινής ησυχίας",
+      "ruleTitleNoParties": "Απαγορεύονται τα πάρτι και εκδηλώσεις",
+      "ruleTitleMaxOccupancy": "Μέγιστος αριθμός επισκεπτών",
+      "ruleTitleNoPets": "Δεν επιτρέπονται κατοικίδια",
+      "ruleTitleKitchen": "Κουζίνα",
+      "ruleTitlePlumbing": "Υδραυλικά",
+      "ruleTitlePool": "Κανόνες πισίνας",
+      "ruleTitleACWindows": "Κλιματισμός & Παράθυρα",
+      "ruleTitleLostKeys": "Χαμένα κλειδιά",
+      "ruleTitleKeys": "Κλειδιά",
+      "ruleTitlePropertyCare": "Φροντίδα του χώρου",
+      "stepTitleFridge": "Αδειάστε το ψυγείο",
+      "stepTitleDishes": "Πλύνετε τα πιάτα",
+      "stepTitleRubbish": "Βγάλτε τα σκουπίδια",
+      "stepTitleCushions": "Βροχή; Μαζέψτε τα μαξιλάρια",
+      "stepTitleCloseWindows": "Κλείστε παράθυρα & πόρτες",
+      "stepTitleSwitchOffAppliances": "Σβήστε φώτα & συσκευές",
+      "stepTitleSwitchOffAC": "Σβήστε φώτα & κλιματισμό",
+      "stepTitleReturnKeys": "Επιστρέψτε τα κλειδιά",
+      "stepTitleDropMeMessage": "Στείλτε μου ένα μήνυμα!",
+      "stepTitleDropUsMessage": "Στείλτε μας ένα μήνυμα!",
+      "yourHost": "Ο οικοδεσπότης σας",
+      "cohost": "Συν-οικοδεσπότης",
+      "call": "Κλήση",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "enjoyStay": "Απολαύστε τη διαμονή σας!",
+      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
+      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
+      "contactHostIntroSolo": "Είμαι εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσετε υπέροχα.",
+      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα."
     },
     "welcomeMessage": "Καλώς ήρθατε στο πολύχρωμο σπίτι μου στους λόφους της Τενερίφης! Φωλιασμένο στο γοητευτικό χωριό Valleseco, είναι γεμάτο χαρακτήρα και περιτριγυρισμένο από φύση. Ελπίζω να το αγαπήσετε τόσο όσο και εγώ. Επικοινωνήστε μαζί μου οποτεδήποτε αν χρειαστείτε οτιδήποτε.",
     "gettingHere": {
@@ -294,15 +458,33 @@
       "publicTransport": "Υπάρχουν διάφορα λεωφορεία από τη Santa Cruz de Tenerife (π.χ. αρ. 909, 910, 916). Φροντίστε να κατεβείτε στο Valleseco (είναι ένα μικρό χωριό με μόνο μία στάση). Μόλις κατεβείτε, βρείτε το Punto y Coma Minimarket και ανεβείτε τα σκαλιά στα αριστερά, περίπου 20 μέτρα αφού το περάσετε. Είναι 5-10 λεπτά ανηφόρα περπάτημα μέχρι το σπίτι. Το Google Maps δεν είναι απολύτως ακριβές για το τελευταίο τμήμα, γι' αυτό ακολουθήστε τον φωτογραφικό οδηγό!",
       "taxi": "Τα ταξί είναι διαθέσιμα από τα αεροδρόμια Tenerife Norte (TFN) και Tenerife Sur (TFS). Συμφωνήστε την τιμή πριν αναχωρήσετε ή βεβαιωθείτε ότι τρέχει ταξίμετρο. Ζητήστε από τον οδηγό να σας αφήσει στη θέση στάθμευσης που συνδέεται παρακάτω, και στη συνέχεια ακολουθήστε τον φωτογραφικό οδηγό από τη φωτογραφία 1.",
       "directionPhotos": [
-        { "caption": "Παρκάρετε εδώ. Υπάρχουν πάντα διαθέσιμες θέσεις και δεν θα χρειαστεί να ανεβείτε σχεδόν καθόλου σκαλιά." },
-        { "caption": "Από το πάρκινγκ, κινηθείτε προς αυτή την κατεύθυνση και περπατήστε μέχρι να τελειώσει ο δρόμος, μετά κατεβείτε τα σκαλιά στα αριστερά." },
-        { "caption": "Κατεβείτε στον επόμενο δρόμο από κάτω και στρίψτε δεξιά. Αυτός είναι ο δρόμος του σπιτιού." },
-        { "caption": "Περπατήστε ευθεία και διασχίστε τον κήπο με τα κάκτους και άλλα φυτά." },
-        { "caption": "Συνεχίστε ανάμεσα στα σπίτια..." },
-        { "caption": "Συνεχίστε ευθεία..." },
-        { "caption": "Μετά από 1 λεπτό, στα αριστερά σας θα δείτε ένα λευκό σπίτι." },
-        { "caption": "Πλησιάζετε. Το διαμέρισμά σας βρίσκεται στο κατώτερο τμήμα του σπιτιού." },
-        { "caption": "Αναζητήστε τη λευκή πόρτα που ανοίγει από τη σκάλα στο πλάι του σπιτιού, με ένα κουτί κλειδιών δίπλα της. Κωδικός: 6015" }
+        {
+          "caption": "Παρκάρετε εδώ. Υπάρχουν πάντα διαθέσιμες θέσεις και δεν θα χρειαστεί να ανεβείτε σχεδόν καθόλου σκαλιά."
+        },
+        {
+          "caption": "Από το πάρκινγκ, κινηθείτε προς αυτή την κατεύθυνση και περπατήστε μέχρι να τελειώσει ο δρόμος, μετά κατεβείτε τα σκαλιά στα αριστερά."
+        },
+        {
+          "caption": "Κατεβείτε στον επόμενο δρόμο από κάτω και στρίψτε δεξιά. Αυτός είναι ο δρόμος του σπιτιού."
+        },
+        {
+          "caption": "Περπατήστε ευθεία και διασχίστε τον κήπο με τα κάκτους και άλλα φυτά."
+        },
+        {
+          "caption": "Συνεχίστε ανάμεσα στα σπίτια..."
+        },
+        {
+          "caption": "Συνεχίστε ευθεία..."
+        },
+        {
+          "caption": "Μετά από 1 λεπτό, στα αριστερά σας θα δείτε ένα λευκό σπίτι."
+        },
+        {
+          "caption": "Πλησιάζετε. Το διαμέρισμά σας βρίσκεται στο κατώτερο τμήμα του σπιτιού."
+        },
+        {
+          "caption": "Αναζητήστε τη λευκή πόρτα που ανοίγει από τη σκάλα στο πλάι του σπιτιού, με ένα κουτί κλειδιών δίπλα της. Κωδικός: 6015"
+        }
       ]
     },
     "checkin": {
@@ -358,12 +540,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Παραλίες 🏝️" },
-      { "category": "Ιστορικά Μνημεία & Γραφικές Βόλτες 🏰" },
-      { "category": "Αξιοθέατα & Εκδρομές 📸" },
-      { "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️" },
-      { "category": "Φαγητό & Ποτό" },
-      { "category": "Αγορές" }
+      {
+        "category": "Παραλίες 🏝️"
+      },
+      {
+        "category": "Ιστορικά Μνημεία & Γραφικές Βόλτες 🏰"
+      },
+      {
+        "category": "Αξιοθέατα & Εκδρομές 📸"
+      },
+      {
+        "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️"
+      },
+      {
+        "category": "Φαγητό & Ποτό"
+      },
+      {
+        "category": "Αγορές"
+      }
     ],
     "gettingAround": [
       {
@@ -372,8 +566,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο" },
-        { "note": "Κεντρικό νοσοκομείο στη Santa Cruz de Tenerife" }
+        {
+          "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο"
+        },
+        {
+          "note": "Κεντρικό νοσοκομείο στη Santa Cruz de Tenerife"
+        }
       ],
       "nearestPharmacy": "Αρκετά φαρμακεία κοντά στον κεντρικό δρόμο. Ρωτήστε με αν χρειάζεστε σύσταση."
     },
@@ -415,7 +613,39 @@
       "checkout": "Départ",
       "checkoutTime": "Heure de départ",
       "checkoutChecklist": "Liste de départ",
-      "contactHost": "Contacter l'hôte"
+      "contactHost": "Contacter l'hôte",
+      "ruleTitleNoSmoking": "Interdiction de fumer",
+      "ruleTitleQuietHours": "Heures calmes",
+      "ruleTitleNoParties": "Pas de fêtes ni d'événements",
+      "ruleTitleMaxOccupancy": "Capacité maximale",
+      "ruleTitleNoPets": "Animaux non admis",
+      "ruleTitleKitchen": "Cuisine",
+      "ruleTitlePlumbing": "Plomberie",
+      "ruleTitlePool": "Règles de la piscine",
+      "ruleTitleACWindows": "Climatisation & Fenêtres",
+      "ruleTitleLostKeys": "Clés perdues",
+      "ruleTitleKeys": "Clés",
+      "ruleTitlePropertyCare": "Entretien du logement",
+      "stepTitleFridge": "Vider le réfrigérateur",
+      "stepTitleDishes": "Faire la vaisselle",
+      "stepTitleRubbish": "Sortir les poubelles",
+      "stepTitleCushions": "Pluie ? Rentrez les coussins",
+      "stepTitleCloseWindows": "Fermer les fenêtres et les portes",
+      "stepTitleSwitchOffAppliances": "Éteindre les lumières et les appareils",
+      "stepTitleSwitchOffAC": "Éteindre les lumières et la climatisation",
+      "stepTitleReturnKeys": "Rendre les clés",
+      "stepTitleDropMeMessage": "Envoyez-moi un message !",
+      "stepTitleDropUsMessage": "Envoyez-nous un message !",
+      "yourHost": "Votre hôte",
+      "cohost": "Co-hôte",
+      "call": "Appeler",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "enjoyStay": "Profitez bien de votre séjour !",
+      "enjoyStayMessageSolo": "J'espère que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, je vous serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
+      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, nous vous serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
+      "contactHostIntroSolo": "Je suis disponible pour vous tout au long de votre séjour. N'hésitez pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que vous passiez un merveilleux moment.",
+      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment."
     },
     "welcomeMessage": "Bienvenue dans ma maison colorée dans les collines de Tenerife ! Nichée dans le charmant village de Valleseco, elle est pleine de caractère et entourée de nature. J'espère que vous l'aimerez autant que moi. N'hésitez pas à me contacter à tout moment si vous avez besoin de quoi que ce soit.",
     "gettingHere": {
@@ -424,15 +654,33 @@
       "publicTransport": "Il y a plusieurs bus depuis Santa Cruz de Tenerife (ex. n° 909, 910, 916). Assurez-vous de descendre à Valleseco (c'est un petit village avec un seul arrêt). Une fois descendu, trouvez le Punto y Coma Minimarket et prenez l'escalier à gauche environ 20 mètres après l'avoir dépassé. C'est une montée de 5 à 10 minutes jusqu'à la maison. Google Maps n'est pas entièrement fiable pour le dernier tronçon, veuillez donc suivre le guide photo !",
       "taxi": "Des taxis sont disponibles depuis les aéroports de Tenerife Norte (TFN) et Tenerife Sur (TFS). Convenez du tarif avant de partir ou assurez-vous que le compteur fonctionne. Demandez au chauffeur de vous déposer à la place de parking indiquée ci-dessous, puis suivez le guide photo étape par étape à partir de la photo 1.",
       "directionPhotos": [
-        { "caption": "Garez-vous ici. Des places sont toujours disponibles et vous n'aurez presque pas d'escaliers à monter." },
-        { "caption": "Depuis le parking, avancez dans cette direction et marchez jusqu'au bout de la rue, puis descendez l'escalier à gauche." },
-        { "caption": "Descendez dans la rue suivante en dessous et tournez à droite. C'est la rue de la maison." },
-        { "caption": "Continuez tout droit et traversez le jardin avec des cactus et d'autres plantes." },
-        { "caption": "Continuez entre les maisons..." },
-        { "caption": "Continuez tout droit..." },
-        { "caption": "Après 1 minute, sur votre gauche, vous verrez une maison blanche." },
-        { "caption": "Vous approchez. Votre appartement se trouve dans la partie inférieure de la maison." },
-        { "caption": "Cherchez la porte blanche qui s'ouvre depuis l'escalier sur le côté de la maison, avec un boîtier à clé à côté. Code : 6015" }
+        {
+          "caption": "Garez-vous ici. Des places sont toujours disponibles et vous n'aurez presque pas d'escaliers à monter."
+        },
+        {
+          "caption": "Depuis le parking, avancez dans cette direction et marchez jusqu'au bout de la rue, puis descendez l'escalier à gauche."
+        },
+        {
+          "caption": "Descendez dans la rue suivante en dessous et tournez à droite. C'est la rue de la maison."
+        },
+        {
+          "caption": "Continuez tout droit et traversez le jardin avec des cactus et d'autres plantes."
+        },
+        {
+          "caption": "Continuez entre les maisons..."
+        },
+        {
+          "caption": "Continuez tout droit..."
+        },
+        {
+          "caption": "Après 1 minute, sur votre gauche, vous verrez une maison blanche."
+        },
+        {
+          "caption": "Vous approchez. Votre appartement se trouve dans la partie inférieure de la maison."
+        },
+        {
+          "caption": "Cherchez la porte blanche qui s'ouvre depuis l'escalier sur le côté de la maison, avec un boîtier à clé à côté. Code : 6015"
+        }
       ]
     },
     "checkin": {
@@ -488,12 +736,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Plages 🏝️" },
-      { "category": "Sites historiques & Promenades panoramiques 🏰" },
-      { "category": "Attractions & Excursions 📸" },
-      { "category": "Randonnées & Sentiers naturels ⛰️" },
-      { "category": "Manger & Boire" },
-      { "category": "Shopping" }
+      {
+        "category": "Plages 🏝️"
+      },
+      {
+        "category": "Sites historiques & Promenades panoramiques 🏰"
+      },
+      {
+        "category": "Attractions & Excursions 📸"
+      },
+      {
+        "category": "Randonnées & Sentiers naturels ⛰️"
+      },
+      {
+        "category": "Manger & Boire"
+      },
+      {
+        "category": "Shopping"
+      }
     ],
     "gettingAround": [
       {
@@ -502,8 +762,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone" },
-        { "note": "Hôpital principal de Santa Cruz de Tenerife" }
+        {
+          "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"
+        },
+        {
+          "note": "Hôpital principal de Santa Cruz de Tenerife"
+        }
       ],
       "nearestPharmacy": "Plusieurs pharmacies à proximité sur la route principale. Demandez-moi si vous avez besoin d'une recommandation."
     },
@@ -545,7 +809,39 @@
       "checkout": "Check-out",
       "checkoutTime": "Hora de salida",
       "checkoutChecklist": "Lista de salida",
-      "contactHost": "Contactar con la anfitriona"
+      "contactHost": "Contactar con la anfitriona",
+      "ruleTitleNoSmoking": "Prohibido fumar",
+      "ruleTitleQuietHours": "Horas de silencio",
+      "ruleTitleNoParties": "Prohibidas las fiestas y eventos",
+      "ruleTitleMaxOccupancy": "Capacidad máxima",
+      "ruleTitleNoPets": "No se admiten mascotas",
+      "ruleTitleKitchen": "Cocina",
+      "ruleTitlePlumbing": "Fontanería",
+      "ruleTitlePool": "Normas de la piscina",
+      "ruleTitleACWindows": "Aire acondicionado y ventanas",
+      "ruleTitleLostKeys": "Llaves perdidas",
+      "ruleTitleKeys": "Llaves",
+      "ruleTitlePropertyCare": "Cuidado del alojamiento",
+      "stepTitleFridge": "Vacía la nevera",
+      "stepTitleDishes": "Lava los platos",
+      "stepTitleRubbish": "Saca la basura",
+      "stepTitleCushions": "¿Lluvia? Mete los cojines",
+      "stepTitleCloseWindows": "Cierra ventanas y puertas",
+      "stepTitleSwitchOffAppliances": "Apaga las luces y los electrodomésticos",
+      "stepTitleSwitchOffAC": "Apaga las luces y el aire acondicionado",
+      "stepTitleReturnKeys": "Devuelve las llaves",
+      "stepTitleDropMeMessage": "¡Envíame un mensaje!",
+      "stepTitleDropUsMessage": "¡Envíanos un mensaje!",
+      "yourHost": "Tu anfitrión",
+      "cohost": "Co-anfitrión",
+      "call": "Llamar",
+      "whatsapp": "WhatsApp",
+      "email": "Correo electrónico",
+      "enjoyStay": "¡Disfruta tu estancia!",
+      "enjoyStayMessageSolo": "Espero que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradecería muchísimo que dejaras una reseña en Airbnb – significa todo para mí.",
+      "enjoyStayMessageCohost": "Esperamos que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradeceríamos muchísimo que dejaras una reseña en Airbnb – significa todo para nosotros.",
+      "contactHostIntroSolo": "Estoy aquí para ti durante toda tu estancia. No dudes en contactarme con cualquier pregunta, solicitud o si algo necesita atención – de verdad quiero que tengas un tiempo maravilloso.",
+      "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso."
     },
     "welcomeMessage": "¡Bienvenido a mi colorida casa en las colinas de Tenerife! Ubicada en el encantador pueblo de Valleseco, está llena de carácter y rodeada de naturaleza. Espero que te guste tanto como a mí. Escríbeme en cualquier momento si necesitas algo.",
     "gettingHere": {
@@ -554,15 +850,33 @@
       "publicTransport": "Hay varios autobuses desde Santa Cruz de Tenerife (p. ej. nº 909, 910, 916). Asegúrate de bajarte en Valleseco (es un pueblo pequeño con solo una parada). Una vez que bajes, encuentra el Punto y Coma Minimarket y sube las escaleras de la izquierda unos 20 metros después de pasarlo. Son 5-10 minutos de subida hasta la casa. Google Maps no es del todo preciso para el último tramo, ¡sigue el guía fotográfico!",
       "taxi": "Los taxis están disponibles en los aeropuertos de Tenerife Norte (TFN) y Tenerife Sur (TFS). Acuerda la tarifa antes de salir o asegúrate de que el taxímetro esté en marcha. Pide al conductor que te deje en el aparcamiento enlazado abajo y sigue el guía fotográfico desde la foto 1.",
       "directionPhotos": [
-        { "caption": "Aparca aquí. Siempre hay plazas disponibles y no tendrás que subir casi ninguna escalera." },
-        { "caption": "Desde el aparcamiento, avanza en esta dirección y camina hasta que acabe la calle, luego baja las escaleras del lado izquierdo." },
-        { "caption": "Baja a la siguiente calle de abajo y gira a la derecha. Esta es la calle de la casa." },
-        { "caption": "Sigue recto y cruza el jardín con cactus y otras plantas." },
-        { "caption": "Continúa entre las casas..." },
-        { "caption": "Sigue recto..." },
-        { "caption": "Después de 1 minuto, a la izquierda, verás una casa de color blanco." },
-        { "caption": "Ya casi. Tu apartamento está en la parte inferior de la casa." },
-        { "caption": "Busca la puerta blanca que se abre desde las escaleras del lateral de la casa, con una caja de llaves al lado. Código: 6015" }
+        {
+          "caption": "Aparca aquí. Siempre hay plazas disponibles y no tendrás que subir casi ninguna escalera."
+        },
+        {
+          "caption": "Desde el aparcamiento, avanza en esta dirección y camina hasta que acabe la calle, luego baja las escaleras del lado izquierdo."
+        },
+        {
+          "caption": "Baja a la siguiente calle de abajo y gira a la derecha. Esta es la calle de la casa."
+        },
+        {
+          "caption": "Sigue recto y cruza el jardín con cactus y otras plantas."
+        },
+        {
+          "caption": "Continúa entre las casas..."
+        },
+        {
+          "caption": "Sigue recto..."
+        },
+        {
+          "caption": "Después de 1 minuto, a la izquierda, verás una casa de color blanco."
+        },
+        {
+          "caption": "Ya casi. Tu apartamento está en la parte inferior de la casa."
+        },
+        {
+          "caption": "Busca la puerta blanca que se abre desde las escaleras del lateral de la casa, con una caja de llaves al lado. Código: 6015"
+        }
       ]
     },
     "checkin": {
@@ -618,12 +932,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Playas 🏝️" },
-      { "category": "Lugares históricos y paseos panorámicos 🏰" },
-      { "category": "Atracciones y excursiones 📸" },
-      { "category": "Senderismo y rutas naturales ⛰️" },
-      { "category": "Comer y beber" },
-      { "category": "Compras" }
+      {
+        "category": "Playas 🏝️"
+      },
+      {
+        "category": "Lugares históricos y paseos panorámicos 🏰"
+      },
+      {
+        "category": "Atracciones y excursiones 📸"
+      },
+      {
+        "category": "Senderismo y rutas naturales ⛰️"
+      },
+      {
+        "category": "Comer y beber"
+      },
+      {
+        "category": "Compras"
+      }
     ],
     "gettingAround": [
       {
@@ -632,8 +958,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono" },
-        { "note": "Hospital principal en Santa Cruz de Tenerife" }
+        {
+          "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"
+        },
+        {
+          "note": "Hospital principal en Santa Cruz de Tenerife"
+        }
       ],
       "nearestPharmacy": "Varias farmacias cerca en la carretera principal. Pregúntame si necesitas una recomendación."
     },
@@ -675,7 +1005,39 @@
       "checkout": "Wymeldowanie",
       "checkoutTime": "Godzina wymeldowania",
       "checkoutChecklist": "Lista wymeldowania",
-      "contactHost": "Kontakt z gospodarzem"
+      "contactHost": "Kontakt z gospodarzem",
+      "ruleTitleNoSmoking": "Zakaz palenia",
+      "ruleTitleQuietHours": "Cisza nocna",
+      "ruleTitleNoParties": "Zakaz imprez i wydarzeń",
+      "ruleTitleMaxOccupancy": "Maksymalna liczba gości",
+      "ruleTitleNoPets": "Zakaz trzymania zwierząt",
+      "ruleTitleKitchen": "Kuchnia",
+      "ruleTitlePlumbing": "Instalacja wodno-kanalizacyjna",
+      "ruleTitlePool": "Zasady korzystania z basenu",
+      "ruleTitleACWindows": "Klimatyzacja i okna",
+      "ruleTitleLostKeys": "Zgubione klucze",
+      "ruleTitleKeys": "Klucze",
+      "ruleTitlePropertyCare": "Dbałość o nieruchomość",
+      "stepTitleFridge": "Oprózni lodówkę",
+      "stepTitleDishes": "Umyj naczynia",
+      "stepTitleRubbish": "Wyrzuć śmieci",
+      "stepTitleCushions": "Deszcz? Wnieś poduszki",
+      "stepTitleCloseWindows": "Zamknij okna i drzwi",
+      "stepTitleSwitchOffAppliances": "Wyłącz światła i urządzenia",
+      "stepTitleSwitchOffAC": "Wyłącz światła i klimatyzację",
+      "stepTitleReturnKeys": "Zwróć klucze",
+      "stepTitleDropMeMessage": "Napisz do mnie wiadomość!",
+      "stepTitleDropUsMessage": "Napisz do nas wiadomość!",
+      "yourHost": "Twój gospodarz",
+      "cohost": "Współgospodarz",
+      "call": "Zadzwoń",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail",
+      "enjoyStay": "Miłego pobytu!",
+      "enjoyStayMessageSolo": "Mam nadzieję, że ten przewodnik sprawi, że Twój pobyt będzie jeszcze lepszy. Jeśli dobrze spędzisz tu czas, będę niezmiernie wdzięczny/-a za opinię na Airbnb – to dla mnie naprawdę wszystko.",
+      "enjoyStayMessageCohost": "Mamy nadzieję, że ten przewodnik sprawi, że Twój pobyt będzie jeszcze lepszy. Jeśli dobrze spędzisz tu czas, będziemy niezmiernie wdzięczni za opinię na Airbnb – to dla nas naprawdę wszystko.",
+      "contactHostIntroSolo": "Jestem do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować ze mną w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy mi, żebyś spędził/-a tu wspaniały czas.",
+      "contactHostIntroCohost": "Jesteśmy do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować z nami w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy nam, żebyś spędził/-a tu wspaniały czas."
     },
     "welcomeMessage": "Witaj w moim kolorowym domu na wzgórzach Teneryfy! Położony w uroczej wiosce Valleseco, jest pełen charakteru i otoczony naturą. Mam nadzieję, że spodoba ci się tak samo jak mnie. Odezwij się w każdej chwili, jeśli czegoś potrzebujesz.",
     "gettingHere": {
@@ -684,15 +1046,33 @@
       "publicTransport": "Z Santa Cruz de Tenerife kursuje kilka autobusów (np. nr 909, 910, 916). Koniecznie wysiądź w Valleseco (to mała wioska z tylko jednym przystankiem). Po wyjściu znajdź Punto y Coma Minimarket i wejdź po schodach po lewej stronie, około 20 metrów za nim. To 5-10 minut pod górę do domu. Google Maps nie jest w pełni dokładny dla ostatniego odcinka, dlatego postępuj zgodnie z przewodnikiem fotograficznym!",
       "taxi": "Taksówki są dostępne na lotniskach Tenerife Norte (TFN) i Tenerife Sur (TFS). Uzgodnij cenę przed odjazdem lub upewnij się, że taksometr jest włączony. Poproś kierowcę, żeby wysadził cię w miejscu parkingowym podanym poniżej, a następnie postępuj zgodnie z przewodnikiem fotograficznym od zdjęcia 1.",
       "directionPhotos": [
-        { "caption": "Zaparkuj tutaj. Zawsze są wolne miejsca i nie będziesz musiał prawie wcale wspinać się po schodach." },
-        { "caption": "Z parkingu idź w tym kierunku i spaceruj, aż ulica się skończy, a następnie zejdź schodami po lewej stronie." },
-        { "caption": "Zejdź na następną ulicę poniżej i skręć w prawo. To ulica domu." },
-        { "caption": "Idź prosto i przejdź przez ogród z kaktusami i innymi roślinami." },
-        { "caption": "Kontynuuj między domami..." },
-        { "caption": "Idź dalej prosto..." },
-        { "caption": "Po 1 minucie po lewej stronie zobaczysz biały dom." },
-        { "caption": "Już blisko. Twoje mieszkanie znajduje się w dolnej części domu." },
-        { "caption": "Szukaj białych drzwi otwierających się od schodów po boku domu, ze skrytką na klucze obok. Kod: 6015" }
+        {
+          "caption": "Zaparkuj tutaj. Zawsze są wolne miejsca i nie będziesz musiał prawie wcale wspinać się po schodach."
+        },
+        {
+          "caption": "Z parkingu idź w tym kierunku i spaceruj, aż ulica się skończy, a następnie zejdź schodami po lewej stronie."
+        },
+        {
+          "caption": "Zejdź na następną ulicę poniżej i skręć w prawo. To ulica domu."
+        },
+        {
+          "caption": "Idź prosto i przejdź przez ogród z kaktusami i innymi roślinami."
+        },
+        {
+          "caption": "Kontynuuj między domami..."
+        },
+        {
+          "caption": "Idź dalej prosto..."
+        },
+        {
+          "caption": "Po 1 minucie po lewej stronie zobaczysz biały dom."
+        },
+        {
+          "caption": "Już blisko. Twoje mieszkanie znajduje się w dolnej części domu."
+        },
+        {
+          "caption": "Szukaj białych drzwi otwierających się od schodów po boku domu, ze skrytką na klucze obok. Kod: 6015"
+        }
       ]
     },
     "checkin": {
@@ -748,12 +1128,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Plaże 🏝️" },
-      { "category": "Miejsca historyczne i malownicze spacery 🏰" },
-      { "category": "Atrakcje i wycieczki 📸" },
-      { "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️" },
-      { "category": "Jedzenie i napoje" },
-      { "category": "Zakupy" }
+      {
+        "category": "Plaże 🏝️"
+      },
+      {
+        "category": "Miejsca historyczne i malownicze spacery 🏰"
+      },
+      {
+        "category": "Atrakcje i wycieczki 📸"
+      },
+      {
+        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
+      },
+      {
+        "category": "Jedzenie i napoje"
+      },
+      {
+        "category": "Zakupy"
+      }
     ],
     "gettingAround": [
       {
@@ -762,8 +1154,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu" },
-        { "note": "Główny szpital w Santa Cruz de Tenerife" }
+        {
+          "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"
+        },
+        {
+          "note": "Główny szpital w Santa Cruz de Tenerife"
+        }
       ],
       "nearestPharmacy": "Kilka aptek w pobliżu przy głównej drodze. Zapytaj mnie, jeśli potrzebujesz rekomendacji."
     },
@@ -805,7 +1201,39 @@
       "checkout": "Выезд",
       "checkoutTime": "Время выезда",
       "checkoutChecklist": "Чек-лист при выезде",
-      "contactHost": "Связаться с хозяйкой"
+      "contactHost": "Связаться с хозяйкой",
+      "ruleTitleNoSmoking": "Курение запрещено",
+      "ruleTitleQuietHours": "Тихие часы",
+      "ruleTitleNoParties": "Вечеринки и мероприятия запрещены",
+      "ruleTitleMaxOccupancy": "Максимальная заполняемость",
+      "ruleTitleNoPets": "Животные не допускаются",
+      "ruleTitleKitchen": "Кухня",
+      "ruleTitlePlumbing": "Водопровод",
+      "ruleTitlePool": "Правила бассейна",
+      "ruleTitleACWindows": "Кондиционер и окна",
+      "ruleTitleLostKeys": "Утерянные ключи",
+      "ruleTitleKeys": "Ключи",
+      "ruleTitlePropertyCare": "Бережное отношение к жилью",
+      "stepTitleFridge": "Освободите холодильник",
+      "stepTitleDishes": "Вымойте посуду",
+      "stepTitleRubbish": "Вынесите мусор",
+      "stepTitleCushions": "Дождь? Занесите подушки",
+      "stepTitleCloseWindows": "Закройте окна и двери",
+      "stepTitleSwitchOffAppliances": "Выключите свет и приборы",
+      "stepTitleSwitchOffAC": "Выключите свет и кондиционер",
+      "stepTitleReturnKeys": "Верните ключи",
+      "stepTitleDropMeMessage": "Напишите мне сообщение!",
+      "stepTitleDropUsMessage": "Напишите нам сообщение!",
+      "yourHost": "Ваш хозяин",
+      "cohost": "Со-хозяйка",
+      "call": "Позвонить",
+      "whatsapp": "WhatsApp",
+      "email": "Эл. почта",
+      "enjoyStay": "Приятного пребывания!",
+      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
+      "enjoyStayMessageCohost": "Надеемся, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
+      "contactHostIntroSolo": "Я здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы вы провели здесь замечательное время.",
+      "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время."
     },
     "welcomeMessage": "Добро пожаловать в мой красочный дом на холмах Тенерифе! Уютно расположенный в очаровательной деревне Вальесеко, он полон характера и окружён природой. Надеюсь, вам здесь понравится так же, как мне. Пишите в любое время, если вам что-нибудь понадобится.",
     "gettingHere": {
@@ -814,15 +1242,33 @@
       "publicTransport": "Из Санта-Крус-де-Тенерифе ходят различные автобусы (например, № 909, 910, 916). Обязательно выйдите в Вальесеко (это маленькая деревня с единственной остановкой). После выхода найдите минимаркет Punto y Coma и поднимитесь по лестнице слева, примерно в 20 метрах после него. До дома около 5–10 минут подъёма. Google Maps не полностью точен на последнем участке, поэтому следуйте фотогиду!",
       "taxi": "Такси доступны в аэропортах Тенерифе-Норте (TFN) и Тенерифе-Сур (TFS). Договоритесь о цене до поездки или убедитесь, что счётчик включён. Попросите водителя высадить вас на парковке по ссылке ниже, а затем следуйте фотогиду с фото 1.",
       "directionPhotos": [
-        { "caption": "Паркуйтесь здесь. Места всегда есть, и вам почти не придётся подниматься по лестнице." },
-        { "caption": "От парковки идите в этом направлении до конца улицы, затем спуститесь по лестнице слева." },
-        { "caption": "Спуститесь на следующую улицу ниже и поверните направо. Это улица дома." },
-        { "caption": "Идите прямо и пройдите через сад с кактусами и другими растениями." },
-        { "caption": "Продолжайте между домами..." },
-        { "caption": "Идите прямо..." },
-        { "caption": "Через 1 минуту слева вы увидите белый дом." },
-        { "caption": "Уже близко. Ваша квартира находится в нижней части дома." },
-        { "caption": "Найдите белую дверь, открывающуюся со стороны лестницы сбоку дома, рядом с боксом для ключей. Код: 6015" }
+        {
+          "caption": "Паркуйтесь здесь. Места всегда есть, и вам почти не придётся подниматься по лестнице."
+        },
+        {
+          "caption": "От парковки идите в этом направлении до конца улицы, затем спуститесь по лестнице слева."
+        },
+        {
+          "caption": "Спуститесь на следующую улицу ниже и поверните направо. Это улица дома."
+        },
+        {
+          "caption": "Идите прямо и пройдите через сад с кактусами и другими растениями."
+        },
+        {
+          "caption": "Продолжайте между домами..."
+        },
+        {
+          "caption": "Идите прямо..."
+        },
+        {
+          "caption": "Через 1 минуту слева вы увидите белый дом."
+        },
+        {
+          "caption": "Уже близко. Ваша квартира находится в нижней части дома."
+        },
+        {
+          "caption": "Найдите белую дверь, открывающуюся со стороны лестницы сбоку дома, рядом с боксом для ключей. Код: 6015"
+        }
       ]
     },
     "checkin": {
@@ -878,12 +1324,24 @@
       }
     ],
     "thingsToDo": [
-      { "category": "Пляжи 🏝️" },
-      { "category": "Исторические места и живописные прогулки 🏰" },
-      { "category": "Достопримечательности и экскурсии 📸" },
-      { "category": "Пешие прогулки и природные тропы ⛰️" },
-      { "category": "Еда и напитки" },
-      { "category": "Шопинг" }
+      {
+        "category": "Пляжи 🏝️"
+      },
+      {
+        "category": "Исторические места и живописные прогулки 🏰"
+      },
+      {
+        "category": "Достопримечательности и экскурсии 📸"
+      },
+      {
+        "category": "Пешие прогулки и природные тропы ⛰️"
+      },
+      {
+        "category": "Еда и напитки"
+      },
+      {
+        "category": "Шопинг"
+      }
     ],
     "gettingAround": [
       {
@@ -892,8 +1350,12 @@
     ],
     "emergency": {
       "contacts": [
-        { "note": "Полиция, скорая помощь, пожарные. Бесплатно с любого телефона" },
-        { "note": "Главная больница в Санта-Крус-де-Тенерифе" }
+        {
+          "note": "Полиция, скорая помощь, пожарные. Бесплатно с любого телефона"
+        },
+        {
+          "note": "Главная больница в Санта-Крус-де-Тенерифе"
+        }
       ],
       "nearestPharmacy": "Несколько аптек рядом на главной дороге. Спросите меня, если нужна рекомендация."
     },

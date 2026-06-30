@@ -1,13 +1,13 @@
 ---
 const navLinks = [
-  { href: '#getting-here', label: 'Getting Here' },
-  { href: '#checkin', label: 'Check-in' },
-  { href: '#house-rules', label: 'House Rules' },
-  { href: '#wifi', label: 'WiFi & Appliances' },
-  { href: '#things-to-do', label: 'Things To Do' },
-  { href: '#emergency', label: 'Emergencies' },
-  { href: '#checkout', label: 'Check-out' },
-  { href: '#contact', label: 'Contact' },
+  { href: '#getting-here', label: 'Getting Here', i18nKey: 'ui.gettingHere' },
+  { href: '#checkin', label: 'Check-in', i18nKey: 'ui.checkIn' },
+  { href: '#house-rules', label: 'House Rules', i18nKey: 'ui.houseRules' },
+  { href: '#wifi', label: 'WiFi & Appliances', i18nKey: 'ui.appliances' },
+  { href: '#things-to-do', label: 'Things To Do', i18nKey: 'ui.thingsToDo' },
+  { href: '#emergency', label: 'Emergencies', i18nKey: 'ui.emergency' },
+  { href: '#checkout', label: 'Check-out', i18nKey: 'ui.checkout' },
+  { href: '#contact', label: 'Contact', i18nKey: 'ui.contact' },
 ];
 ---
 
@@ -23,6 +23,7 @@ const navLinks = [
           <a
             href={link.href}
             class="nav-link inline-block text-sm font-medium text-primary px-3 py-2 rounded-lg whitespace-nowrap transition-colors duration-150 hover:bg-primary hover:text-white active:bg-primary active:text-white focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-1 min-h-[44px] flex items-center"
+            data-i18n={link.i18nKey}
           >
             {link.label}
           </a>

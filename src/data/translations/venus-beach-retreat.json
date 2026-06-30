@@ -57,7 +57,15 @@
       "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht Ihren Aufenthalt noch angenehmer. Wenn Sie Ihre Zeit hier genießen, wäre ich Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
       "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden Ihren Aufenthalt noch angenehmer macht. Wenn Sie Ihre Zeit hier genießen, wären wir Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
       "contactHostIntroSolo": "Ich bin während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass Sie eine wunderbare Zeit haben.",
-      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben."
+      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben.",
+      "atAGlance": "Auf einen Blick",
+      "checkInNote": "Ab diesem Zeitpunkt",
+      "checkoutNote": "Bitte bis zu dieser Zeit abreisen",
+      "contacts": "Kontakte",
+      "contactsNote": "Benötigen Sie Hilfe? Wir sind immer für Sie da.",
+      "contactUs": "Kontakt aufnehmen",
+      "copied": "Kopiert!",
+      "contact": "Kontakt"
     },
     "welcomeMessage": "Euer lebendiges, farbenfrohes Zuhause mit Pool und zwei Terrassen wartet auf euch. Entspannt euch, erkundet die Umgebung und genießt das Mittelmeer. Wir sind nur eine Nachricht entfernt.",
     "gettingHere": {
@@ -287,7 +295,15 @@
       "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
       "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
       "contactHostIntroSolo": "Egész tartózkodása alatt elérhető vagyok. Ne habozzon felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsön itt.",
-      "contactHostIntroCohost": "Egész tartózkodása alatt elérhetők vagyunk. Ne habozzon felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsön itt."
+      "contactHostIntroCohost": "Egész tartózkodása alatt elérhetők vagyunk. Ne habozzon felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsön itt.",
+      "atAGlance": "Gyors áttekintés",
+      "checkInNote": "Ettől az időponttól",
+      "checkoutNote": "Kérjük, eddig az időpontig hagyja el a szállást",
+      "contacts": "Kapcsolatok",
+      "contactsNote": "Segítségre van szüksége? Mindig elérhetők vagyunk.",
+      "contactUs": "Lépjen kapcsolatba velünk",
+      "copied": "Másolva!",
+      "contact": "Kapcsolat"
     },
     "welcomeMessage": "Az élénk, színes otthonunk medencével és két terasszal készen vár rátok. Pihenjetek, fedezzétek fel a környéket, és élvezzétek a Mediterráneumot. Csak egy üzenet távolságra vagyunk.",
     "gettingHere": {
@@ -517,7 +533,15 @@
       "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
       "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
       "contactHostIntroSolo": "Είμαι εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσετε υπέροχα.",
-      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα."
+      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα.",
+      "atAGlance": "Με μια ματιά",
+      "checkInNote": "Από αυτή την ώρα και μετά",
+      "checkoutNote": "Παρακαλούμε να έχετε αποχωρήσει μέχρι τότε",
+      "contacts": "Επικοινωνία",
+      "contactsNote": "Χρειάζεστε βοήθεια; Είμαστε πάντα διαθέσιμοι.",
+      "contactUs": "Επικοινωνήστε μαζί μας",
+      "copied": "Αντιγράφηκε!",
+      "contact": "Επικοινωνία"
     },
     "welcomeMessage": "Το ζωντανό, πολύχρωμο σπίτι μας με πισίνα και δύο βεράντες σάς περιμένει. Χαλαρώστε, εξερευνήστε και απολαύστε τη Μεσόγειο. Είμαστε μόλις ένα μήνυμα μακριά.",
     "gettingHere": {
@@ -747,7 +771,15 @@
       "enjoyStayMessageSolo": "J'espère que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, je vous serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
       "enjoyStayMessageCohost": "Nous espérons que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, nous vous serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
       "contactHostIntroSolo": "Je suis disponible pour vous tout au long de votre séjour. N'hésitez pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que vous passiez un merveilleux moment.",
-      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment."
+      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment.",
+      "atAGlance": "En un coup d'œil",
+      "checkInNote": "À partir de cette heure",
+      "checkoutNote": "Veuillez partir avant cette heure",
+      "contacts": "Contacts",
+      "contactsNote": "Besoin d'aide ? Nous sommes toujours disponibles.",
+      "contactUs": "Nous contacter",
+      "copied": "Copié !",
+      "contact": "Contact"
     },
     "welcomeMessage": "Notre maison vibrante et colorée avec piscine et deux terrasses vous attend. Détendez-vous, explorez et profitez de la Méditerranée. Nous ne sommes qu'à un message.",
     "gettingHere": {
@@ -977,7 +1009,15 @@
       "enjoyStayMessageSolo": "Espero que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradecería muchísimo que dejaras una reseña en Airbnb – significa todo para mí.",
       "enjoyStayMessageCohost": "Esperamos que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradeceríamos muchísimo que dejaras una reseña en Airbnb – significa todo para nosotros.",
       "contactHostIntroSolo": "Estoy aquí para ti durante toda tu estancia. No dudes en contactarme con cualquier pregunta, solicitud o si algo necesita atención – de verdad quiero que tengas un tiempo maravilloso.",
-      "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso."
+      "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso.",
+      "atAGlance": "De un vistazo",
+      "checkInNote": "A partir de esta hora",
+      "checkoutNote": "Por favor, salga antes de esta hora",
+      "contacts": "Contactos",
+      "contactsNote": "¿Necesita ayuda? Siempre estamos disponibles.",
+      "contactUs": "Contáctenos",
+      "copied": "¡Copiado!",
+      "contact": "Contacto"
     },
     "welcomeMessage": "Nuestra casa vibrante y colorida con piscina y dos terrazas os espera. Relajaos, explorad y disfrutad del Mediterráneo. Estamos a solo un mensaje.",
     "gettingHere": {
@@ -1207,7 +1247,15 @@
       "enjoyStayMessageSolo": "Mam nadzieję, że ten przewodnik sprawi, że Twój pobyt będzie jeszcze lepszy. Jeśli dobrze spędzisz tu czas, będę niezmiernie wdzięczny/-a za opinię na Airbnb – to dla mnie naprawdę wszystko.",
       "enjoyStayMessageCohost": "Mamy nadzieję, że ten przewodnik sprawi, że Twój pobyt będzie jeszcze lepszy. Jeśli dobrze spędzisz tu czas, będziemy niezmiernie wdzięczni za opinię na Airbnb – to dla nas naprawdę wszystko.",
       "contactHostIntroSolo": "Jestem do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować ze mną w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy mi, żebyś spędził/-a tu wspaniały czas.",
-      "contactHostIntroCohost": "Jesteśmy do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować z nami w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy nam, żebyś spędził/-a tu wspaniały czas."
+      "contactHostIntroCohost": "Jesteśmy do Twojej dyspozycji przez cały czas pobytu. Nie wahaj się skontaktować z nami w razie jakichkolwiek pytań, próśb lub jeśli coś wymaga uwagi – naprawdę zależy nam, żebyś spędził/-a tu wspaniały czas.",
+      "atAGlance": "W skrócie",
+      "checkInNote": "Od tej godziny",
+      "checkoutNote": "Prosimy opuścić pokój przed tą godziną",
+      "contacts": "Kontakty",
+      "contactsNote": "Potrzebujesz pomocy? Zawsze jesteśmy dostępni.",
+      "contactUs": "Skontaktuj się z nami",
+      "copied": "Skopiowano!",
+      "contact": "Kontakt"
     },
     "welcomeMessage": "Nasz żywy, kolorowy dom z basenem i dwiema tarasami czeka na Was. Odpoczywajcie, odkrywajcie i delektujcie się Morzem Śródziemnym. Jesteśmy tylko o wiadomość dalej.",
     "gettingHere": {
@@ -1437,7 +1485,15 @@
       "enjoyStayMessageSolo": "Надеюсь, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
       "enjoyStayMessageCohost": "Надеемся, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
       "contactHostIntroSolo": "Я здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы вы провели здесь замечательное время.",
-      "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время."
+      "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время.",
+      "atAGlance": "Краткий обзор",
+      "checkInNote": "Начиная с этого времени",
+      "checkoutNote": "Пожалуйста, освободите номер до этого времени",
+      "contacts": "Контакты",
+      "contactsNote": "Нужна помощь? Мы всегда на связи.",
+      "contactUs": "Связаться с нами",
+      "copied": "Скопировано!",
+      "contact": "Контакт"
     },
     "welcomeMessage": "Наш яркий, красочный дом с бассейном и двумя террасами ждёт вас. Отдыхайте, исследуйте и наслаждайтесь Средиземноморьем. Мы всегда на связи — одно сообщение, и мы тут.",
     "gettingHere": {

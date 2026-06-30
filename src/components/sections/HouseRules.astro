@@ -38,6 +38,23 @@ function ruleTitle(rule: string): string {
   if (r.includes('breakage') || r.includes('report') || r.includes('treat the')) return 'Property Care';
   return rule.split(/[.!]/)[0].slice(0, 45);
 }
+
+function ruleI18nKey(rule: string): string {
+  const r = rule.toLowerCase();
+  if (r.includes('smok')) return 'ui.ruleTitleNoSmoking';
+  if (r.includes('quiet') || r.includes('noise')) return 'ui.ruleTitleQuietHours';
+  if (r.includes('party') || r.includes('parties')) return 'ui.ruleTitleNoParties';
+  if (r.includes('occupancy') || r.includes('maximum') && r.includes('guest')) return 'ui.ruleTitleMaxOccupancy';
+  if (r.includes('pet')) return 'ui.ruleTitleNoPets';
+  if (r.includes('kitchen') || r.includes('dishes') || r.includes('insect') || r.includes('counter')) return 'ui.ruleTitleKitchen';
+  if (r.includes('toilet') || r.includes('flush') || r.includes('plumbing')) return 'ui.ruleTitlePlumbing';
+  if (r.includes('pool')) return 'ui.ruleTitlePool';
+  if (r.includes('air con') || r.includes('balcony') || r.includes('window')) return 'ui.ruleTitleACWindows';
+  if (r.includes('locksmith') || r.includes('lose') && r.includes('key')) return 'ui.ruleTitleLostKeys';
+  if (r.includes('key') || r.includes('keybox')) return 'ui.ruleTitleKeys';
+  if (r.includes('breakage') || r.includes('report') || r.includes('treat the')) return 'ui.ruleTitlePropertyCare';
+  return '';
+}
 ---
 
 <section id="house-rules" class="py-12 bg-white" aria-labelledby="house-rules-heading">
@@ -51,7 +68,7 @@ function ruleTitle(rule: string): string {
         <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">
           <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer list-none select-none min-h-[56px] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset rounded-2xl">
             <span class="text-2xl flex-shrink-0" aria-hidden="true">{ruleIcon(rule)}</span>
-            <span class="font-semibold text-charcoal flex-1">{ruleTitle(rule)}</span>
+            <span class="font-semibold text-charcoal flex-1" data-i18n={ruleI18nKey(rule)}>{ruleTitle(rule)}</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="h-5 w-5 text-stone-400 flex-shrink-0 transition-transform duration-200 group-open:rotate-180"

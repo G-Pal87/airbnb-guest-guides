@@ -43,6 +43,22 @@ function stepTitle(step: string): string {
   if (s.includes('whatsapp') || s.includes('message') || s.includes('let us know') || s.includes('let me know')) return s.includes('drop us') || s.includes('let us know') ? 'Drop us a message!' : 'Drop me a message!';
   return step.split(/[.!,]/)[0].slice(0, 45);
 }
+
+function stepI18nKey(step: string): string {
+  const s = step.toLowerCase();
+  if (s.includes('fridge') || s.includes('food')) return 'ui.stepTitleFridge';
+  if (s.includes('dish') || s.includes('washing')) return 'ui.stepTitleDishes';
+  if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste') || s.includes('garbage') || s.includes('dispose') || s.includes('container')) return 'ui.stepTitleRubbish';
+  if (s.includes('cushion')) return 'ui.stepTitleCushions';
+  if (s.includes('window') || s.includes('balcony') || s.includes('close')) return 'ui.stepTitleCloseWindows';
+  if (s.includes('appliance')) return 'ui.stepTitleSwitchOffAppliances';
+  if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return 'ui.stepTitleSwitchOffAC';
+  if (s.includes('key') || s.includes('keybox') || s.includes('reception')) return 'ui.stepTitleReturnKeys';
+  if (s.includes('whatsapp') || s.includes('message') || s.includes('let us know') || s.includes('let me know')) {
+    return (s.includes('drop us') || s.includes('let us know')) ? 'ui.stepTitleDropUsMessage' : 'ui.stepTitleDropMeMessage';
+  }
+  return '';
+}
 ---
 
 <section id="checkout" class="py-12 bg-surface" aria-labelledby="checkout-heading">
@@ -74,7 +90,7 @@ function stepTitle(step: string): string {
           <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">
             <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer list-none select-none min-h-[56px] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset rounded-2xl">
               <span class="text-2xl flex-shrink-0" aria-hidden="true">{stepIcon(text)}</span>
-              <span class="font-semibold text-charcoal flex-1">{stepTitle(text)}</span>
+              <span class="font-semibold text-charcoal flex-1" data-i18n={stepI18nKey(text)}>{stepTitle(text)}</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 class="h-5 w-5 text-stone-400 flex-shrink-0 transition-transform duration-200 group-open:rotate-180"

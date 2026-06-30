@@ -27,52 +27,30 @@
       "checkoutChecklist": "Check-out-Checkliste",
       "contactHost": "Gastgeber kontaktieren"
     },
-    "welcomeMessage": "Willkommen im Luxe Poolside Escape! Wir freuen uns sehr, Sie in diesem wunderschön gestalteten Rückzugsort begrüßen zu dürfen. Eingerichtet für Komfort und Eleganz ist dieses Zuhause Ihr privates Refugium am Mittelmeer. Alles wurde mit Sorgfalt vorbereitet. Tauchen Sie in den Pool, genießen Sie Kaffee auf der Terrasse und lassen Sie die Insel ihre Magie entfalten. Wir sind immer eine Nachricht entfernt, wenn Sie etwas brauchen.",
+    "welcomeMessage": "Ihr privates Mittelmeer-Refugium – Pool, zwei Terrassen und alles vorbereitet. Einfach entspannen und die Insel genießen. Schreibt uns jederzeit.",
     "gettingHere": {
-      "byCar": "Der Google Maps-Link oben ist korrekt und navigiert Sie direkt in den Komplex, bis zum Pool- und Parkbereich. Sie können überall im Komplex parken. Folgen Sie nach Ihrer Ankunft dem Schritt-für-Schritt-Fotoguide unten, um zur Wohnung zu gelangen.",
-      "parking": "Fahren Sie zum Poolbereich, wo die Straße endet. Parkplätze sind frei verfügbar, parken Sie, wo Sie möchten. Der Wohnungseingang ist in einer Minute zu Fuß erreichbar. An windigen Tagen lieber nicht unter den Bäumen parken! 🌳",
-      "publicTransport": "Ab dem Flughafen Paphos nehmen Sie den Bus 612 bis zur Haltestelle Tombs of the Kings. Von dort sind es 18 Gehminuten (~1,3 km). Alternativ können Sie den Bus 615 für eine Haltestelle (~2 Min.) nehmen und dann den Rest laufen. Zu Fuß gehen Sie Richtung AVLIDA Hotel, gehen Sie daran vorbei, biegen Sie an der Esso-Tankstelle rechts ab und finden Sie den King's Park Komplex dahinter. Sie können auch Google Maps für aktuelle Strecken und Zeiten nutzen. ⚠️ Busse akzeptieren nur Bargeld. Karten werden nicht akzeptiert. Der Fahrpreis beträgt €2,50 pro Person und Fahrt, halten Sie Münzen oder kleine Scheine bereit.",
-      "taxi": "Taxis sind direkt vor der Ankunftshalle am Flughafen Paphos verfügbar. Ein typischer Fahrpreis nach Paphos beträgt €40-45 tagsüber und €45-50 nachts. Die Fahrtdauer vom Flughafen beträgt etwa 20-25 Minuten.",
+      "byCar": "Dem Google-Maps-Link folgen – er navigiert direkt in den Komplex bis zum Poolbereich. Überall parken, dann dem Fotoguide unten zum Apartment folgen.",
+      "parking": "Kostenloser Parkplatz am Poolbereich, Stellplätze frei verfügbar. Eingang zum Apartment ca. 1 Minuten zu Fuß. An windigen Tagen nicht unter Bäumen parken.",
+      "publicTransport": "Ab Flughafen Paphos Bus 612 nehmen (~35 Min. Fahrt, je nach Saison und Haltestellen). Ab der Haltestelle zwei Möglichkeiten: zu Fuß gehen (~18 Min., 1,3 km) oder Bus 615 für eine Haltestelle, dann noch ein kurzes Stück laufen (~4 Min.). Zu Fuß: Richtung AVLIDA Hotel, daran vorbeigehen, rechts an der Esso-Tankstelle abbiegen – der Eingang des King's-Park-Komplexes liegt direkt dahinter. ⚠️ Busse akzeptieren nur Bargeld. 2,50 € pro Person und Fahrt.",
+      "taxi": "Taxis warten vor dem Ankunftsbereich am Flughafen Paphos. Tarif: 40–45 € (Tag), 45–50 € (Nacht). ~20–25 Min. Etwas günstiger ist ein Bolt-Fahrauftrag.",
       "directionPhotos": [
-        {
-          "caption": "An der Esso-Tankstelle rechts abbiegen (in die Morphou-Straße)"
-        },
-        {
-          "caption": "Etwa 50 m bis zur großen Baustelle auf der rechten Seite gehen"
-        },
-        {
-          "caption": "Weiter gehen, noch ein kleines Stück..."
-        },
-        {
-          "caption": "An dieser Baustelle rechts in die schmale Straße abbiegen"
-        },
-        {
-          "caption": "Hier parken oder zu Fuß am Pool vorbeigehen"
-        },
-        {
-          "caption": "Der Straße zum hinteren Teil folgen, wo sich der Poolbereich befindet"
-        },
-        {
-          "caption": "Am ersten Steinbogengang links abbiegen"
-        },
-        {
-          "caption": "Am Pool vorbei, rechts entlang des Poolzauns abbiegen"
-        },
-        {
-          "caption": "Zwei Schlüsselboxen unter Briefkasten 'D6'. Die rechte öffnen. Code: 9006"
-        },
-        {
-          "caption": "Durch den Korridor gehen"
-        },
-        {
-          "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört Ihnen!"
-        }
+        { "caption": "An der Esso-Tankstelle rechts abbiegen (in die Morphou-Straße)" },
+        { "caption": "Etwa 50 m bis zur großen Baustelle auf der rechten Seite gehen" },
+        { "caption": "Weiter gehen, noch ein kleines Stück..." },
+        { "caption": "An dieser Baustelle rechts in die schmale Straße abbiegen" },
+        { "caption": "Hier parken oder zu Fuß am Pool vorbeigehen" },
+        { "caption": "Der Straße zum hinteren Teil folgen, wo sich der Poolbereich befindet" },
+        { "caption": "Am ersten Steinbogengang links abbiegen" },
+        { "caption": "Weiter gehen..." },
+        { "caption": "Zwei Schlüsselboxen unter Briefkasten 'D6'. Die rechte öffnen. Code: 9006" },
+        { "caption": "Durch den Korridor gehen" },
+        { "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört Ihnen!" }
       ]
     },
     "checkin": {
       "keyLocation": "Zwei Schlüsselboxen an der linken Wand, unter Briefkasten 'D6'. Die rechte öffnen",
       "steps": [
-        "Zum Poolbereich im hinteren Teil des King's Park Komplexes gehen",
+        "Zum Poolbereich im hinteren Teil des King's-Park-Komplexes gehen",
         "Am Pool vorbeigehen und rechts entlang des Poolzauns abbiegen",
         "Am ersten Steinbogengang links abbiegen",
         "Die beiden Schlüsselboxen an der linken Wand unter dem Briefkasten 'D6' finden",
@@ -82,183 +60,110 @@
         "Nach dem Eintreten den Metallschlüssel in den Schlüsselstecker neben der Tür stecken, um den Strom einzuschalten (genau wie in Hotels)",
         "Den Schlüssel beim Check-out in die Box zurücklegen und den Code zurücksetzen"
       ],
-      "notes": "Falls Sie uns nicht finden, rufen Sie uns jederzeit an oder schreiben Sie auf WhatsApp, wir führen Sie gerne Schritt für Schritt."
+      "notes": "Falls Sie uns nicht finden, rufen Sie uns jederzeit an oder schreiben Sie auf WhatsApp – wir führen Sie gerne Schritt für Schritt."
     },
     "houseRules": [
-      "Kein Rauchen im Inneren, nur auf Balkonen und Terrassen",
-      "Keine Partys, Veranstaltungen oder laute Musik. Ruhezeiten 22:00-8:00 Uhr",
-      "Maximale Belegung: 4 Gäste",
-      "Keine Haustiere auf dem Mobiliar oder im Pool",
-      "Bitte Poolhandtücher verwenden (im Korb der Liegestühle), nicht die Badezimmerhandtücher",
-      "Poolbereich: absolut kein Glas, kein Kopfsprung vom Rand",
-      "Klimaanlage: Türen und Fenster geschlossen halten, wenn sie in Betrieb ist",
-      "Die Wohnung regelmäßig lüften, solange Sie drin sind. Fenster und Türen öffnen, wenn die Klimaanlage ausgeschaltet ist",
-      "Check-out streng bis 11:00 Uhr",
-      "Bruch muss gemeldet werden, wir verstehen, dass Unfälle passieren",
-      "Mülltonnen befinden sich auf dem Parkplatz. Beim Verlassen des Parkplatzes sind sie rechts nach dem Pool",
-      "Schlüssel sorgfältig aufbewahren. Bei Verlust oder Aussperren wird ein Schlüsseldienst benötigt und die Kosten werden weitergegeben"
+      "Bitte rauchen Sie nur auf den Balkonen und Terrassen",
+      "Bitte sorgen Sie für Ruhe. Ruhestunden 23–8 Uhr. Keine Partys oder Veranstaltungen",
+      "Wir lieben Tiere, können aber leider keine Haustiere aufnehmen. Entschuldigung!",
+      "Bitte benutzen Sie den Eimer neben der Toilette anstatt Papier zu spülen – die Kanalisation auf Zypern kann das wirklich nicht vertragen",
+      "Metallschlüssel in den Stromstecker neben der Tür stecken, wenn Sie drinnen sind, und mitnehmen, wenn Sie gehen",
+      "Balkon- und Terrassentüren sowie Fenster schließen, wenn die Klimaanlage läuft",
+      "Bitte die Schlüssel beim Auschecken in die Schlüsselbox zurücklegen und den Code zurücksetzen. Bei Verlust oder Aussperrung gehen die Kosten für den Schlüsseldienst zu Ihren Lasten",
+      "Bitte behandeln Sie das Apartment wie Ihr eigenes und teilen Sie uns sofort mit, wenn etwas beschädigt wird. Wir verstehen, dass Unfälle passieren"
     ],
     "appliances": [
       {
         "name": "Strom",
-        "instructions": "Um Strom zu haben, stecken Sie den Metallschlüssel in den Schlüsselstecker an der Wand neben der Tür, genau wie in Hotels. Denken Sie daran, ihn herauszuziehen und Ihre Schlüssel jedes Mal mitzunehmen, wenn Sie die Wohnung verlassen. Wichtig: Jede Steckdose in Zypern hat ihren eigenen Schalter an der Wand. Falls ein Gerät nicht funktioniert, überprüfen Sie, ob der Steckdosenschalter eingeschaltet ist. EU-Adapter sind in der Wohnung verfügbar."
+        "instructions": "Den Metallschlüssel in den Stecker neben der Tür stecken, um das Apartment mit Strom zu versorgen – und daran denken, ihn mitzunehmen, wenn man rausgeht. Jede Steckdose hat außerdem einen eigenen Wandschalter: Falls etwas nicht angeht, liegt es meistens daran. EU-Adapter sind bei Bedarf vorhanden."
       },
       {
         "name": "Küche",
-        "instructions": "Die Küche umfasst einen Elektroherd, einen Elektroofen, eine einfache Kaffeemaschine und eine Kaffeemühle. Sie sind herzlich eingeladen, alles zu nutzen, bitte reinigen Sie jedes Gerät nach dem Gebrauch. Grundlegende Kochzutaten sind vorhanden (Salz, Pfeffer, Olivenöl) sowie Kaffeebohnen. Bedienen Sie sich! Wichtig: Das warme Wetter in Zypern kann Insekten anlocken. Bitte Geschirr sofort spülen, Essensreste sofort entsorgen und nichts auf der Arbeitsfläche oder auf dem Boden liegen lassen."
+        "instructions": "Alles Nötige ist vorhanden: Elektroherd, Backofen, Heißluftfritteuse, Kaffeemaschine und -mühle. Salz, Pfeffer, Olivenöl und Kaffeebohnen können gerne verwendet werden. Tipp: Bitte Geschirr sofort spülen und Arbeitsflächen frei halten – das warme Wetter kann Insekten anziehen."
+      },
+      {
+        "name": "Klimaanlage",
+        "instructions": "Die Fernbedienung liegt auf dem Nachttisch. POWER drücken, COOL wählen, 22–24 Grad einstellen. Fenster beim Betrieb geschlossen halten. Zum Ausschalten den Power-Knopf etwas länger gedrückt halten (nicht nur kurz tippen) und bitte vor dem Weggehen ausschalten."
       },
       {
         "name": "Waschmaschine",
-        "instructions": "Die Waschmaschine befindet sich in der Küche. Das Schnellwaschprogramm funktioniert gut für die meisten Beladungen. Bei Fragen wenden Sie sich gerne an uns!"
+        "instructions": "Das Schnellwaschprogramm funktioniert gut für die meisten Beladungen. Sie finden sie in der Küche."
       },
       {
         "name": "Geschirrspüler",
-        "instructions": "Der Geschirrspüler steht Ihnen zur Verfügung. Tabs befinden sich unter dem Spülbecken. Wir empfehlen das Eco-Programm: Es ist energieeffizient und arbeitet perfekt für alltägliches Geschirr."
+        "instructions": "Tabs befinden sich unter dem Spülbecken. Das Eco-Programm eignet sich hervorragend für das alltägliche Geschirr."
       },
       {
         "name": "Dusche & Warmwasser",
-        "instructions": "Es dauert normalerweise 2-3 Minuten, bis das Wasser warm wird, das ist normal. Falls das Wasser nicht warm wird, hat die Sonne an diesem Tag möglicherweise nicht genug für die Solaranlage gereicht. Drücken Sie in diesem Fall den Heizknopf neben der Badezimmertür und warten Sie 20 Minuten. Wichtig: Schalten Sie die Heizung aus, bevor Sie duschen. (Dies ist nur in etwa 10 % der Fälle nötig. Zypern ist normalerweise sehr sonnig! ☀️)"
+        "instructions": "Das Wasser wird durch Solarpanele auf dem Dach erhitzt – daher warm und umweltfreundlich! Bitte 2–3 Minuten warten, bis es durchkommt. An bewölkten Tagen reicht die Solaranlage möglicherweise nicht aus: Den Boilerschalter neben der Badezimmertür drücken und 20–30 Minuten pro Person warten, bevor man duscht. ⚠️ Den Boiler immer ausschalten, bevor man duscht."
       },
       {
         "name": "Terrassen & Sonnenschirm",
-        "instructions": "Die Wohnung hat zwei Terrassen. Richten Sie sie nach Belieben ein. Außenkissen und Dekoration sind drinnen gelagert und können auf den Terrassen arrangiert werden. Für den großen Terrassenschirm gilt: Nicht bei Wind benutzen, nachts oder wenn nicht genutzt schließen und vor dem Check-out sicher schließen und befestigen."
+        "instructions": "Zwei Terrassen stehen zur Verfügung! Außenkissen sind drinnen gelagert, wenn sie nicht genutzt werden. Bitte den Sonnenschirm bei Wind, nachts und vor dem Auschecken geschlossen lassen."
       },
       {
         "name": "Poolzugang",
-        "instructions": "Der Poolschlüssel befindet sich am Schlüsselbund mit Ihren Wohnungsschlüsseln. Der gemeinschaftliche Pool ist normalerweise ruhig. Bitte denken Sie an andere Gäste und beachten Sie die im Poolbereich ausgehängten Regeln. Nutzen Sie die bereitgestellten Strandtücher, nicht die Badezimmerhandtücher."
+        "instructions": "Der Schlüsselbund enthält den Poolschlüssel. Bitte die Poolhandtücher aus dem Korb der Liegen verwenden, nicht die Badhandtücher. Kein Glas und kein Springen vom Rand, und bitte keine Haustiere im Pool."
       },
       {
         "name": "Badezimmer",
-        "instructions": "Frische Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Falls Sie etwas Zusätzliches benötigen, melden Sie sich einfach. Wichtig: Das zyprische Leitungsnetz kann kein Toilettenpapier verarbeiten. Bitte nutzen Sie stattdessen den Eimer neben der Toilette. Danke!"
+        "instructions": "Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Bitte den Eimer neben der Toilette benutzen und kein Papier spülen – die Kanalisation auf Zypern ist dafür wirklich nicht ausgelegt!"
+      },
+      {
+        "name": "Müll",
+        "instructions": "Die Mülleimer befinden sich auf dem Parkplatz rechts, wenn man am Pool vorbei rausgeht."
       },
       {
         "name": "Trinkwasser",
-        "instructions": "Leitungswasser in Zypern ist grundsätzlich sicher, viele Gäste bevorzugen jedoch Flaschenwasser. Große Flaschen sind in jedem nahe gelegenen Supermarkt erhältlich."
+        "instructions": "Leitungswasser ist trinkbar, viele Gäste bevorzugen jedoch Flaschenwasser. Erhältlich in den nahe gelegenen Supermärkten."
       },
       {
         "name": "Pflanzen",
-        "instructions": "In der Wohnung befinden sich einige Pflanzen, sie sorgen für ein natürliches und gemütliches Ambiente. Bei einem längeren Aufenthalt würden wir uns sehr freuen, wenn Sie sie alle 3-4 Tage gießen könnten. Danke! 🌿"
+        "instructions": "Wenn Sie ein paar Tage bleiben, würden sich die Pflanzen über etwas Wasser alle 3–4 Tage freuen. Die werden es Ihnen danken!"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Strände 🏝️"
-      },
-      {
-        "category": "Historische Stätten & Spaziergänge 🏰"
-      },
-      {
-        "category": "Attraktionen & Ausflüge 📸"
-      },
-      {
-        "category": "Wandern & Naturpfade ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Griechisch / Mediterran"
-      },
-      {
-        "type": "Griechisch / Meze"
-      },
-      {
-        "type": "Café / Brunch"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Zyprisch"
-      },
-      {
-        "type": "Food Court"
-      },
-      {
-        "type": "Café / Lokal"
-      },
-      {
-        "type": "Zyprisch / Café"
-      },
-      {
-        "type": "Griechisch / Zyprisch"
-      },
-      {
-        "type": "Zyprische Taverne"
-      },
-      {
-        "type": "Verschiedenes / Hafen"
-      },
-      {
-        "type": "Zyprisch / Meeresfrüchte"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Café / Restaurant"
-      },
-      {
-        "type": "Meeresfrüchte"
-      },
-      {
-        "type": "Bar / Restaurant"
-      },
-      {
-        "type": "Zyprisch / Wein"
-      },
-      {
-        "type": "Meeresfrüchte / Taverne"
-      },
-      {
-        "type": "Lebensmittelgeschäft"
-      },
-      {
-        "type": "Supermarkt"
-      }
+      { "category": "Strände 🏝️" },
+      { "category": "Historische Stätten & Spaziergänge 🏰" },
+      { "category": "Attraktionen & Ausflüge 📸" },
+      { "category": "Wandern & Naturpfade ⛰️" },
+      { "category": "Essen & Trinken" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten."
+        "info": "Die zentrale Busstation (Tombs of the Kings) ist 18 Gehminuten (~1,3 km) entfernt, mit direkten Verbindungen zu den wichtigsten Sehenswürdigkeiten, dem Flughafen und umliegenden Städten. Haltestellen sind mittlerweile auch in Google Maps eingetragen, zur Sicherheit lohnt sich aber ein Blick auf die offizielle Website für aktuelle Fahrpläne."
       },
       {
-        "info": "Car-Sharing funktioniert gut in Paphos, auch zum und vom Flughafen. App herunterladen, in 5 Minuten anmelden. Autos sind normalerweise in 5-10 Gehminuten verfügbar."
+        "info": "Car-Sharing-App, die rund um Paphos gut funktioniert. Anmeldung in wenigen Minuten. Fahrzeuge typischerweise in 5–10 Gehminuten erreichbar."
       },
       {
-        "info": "Preiswerter Taxi-App. Empfohlen für die Fortbewegung in Paphos ohne die Unsicherheit von Taxametern."
+        "info": "Günstige Taxi-App. Gute Alternative zu Taxametertaxis rund um Paphos."
+      },
+      {
+        "info": "Verschiedene Taxidienste sind online verfügbar. Eine zuverlässige Option ist Paphos Taxi Airport, wo man auch direkt per WhatsApp einen Abholtermin vereinbaren kann: +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon"
-        },
-        {
-          "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt"
-        },
-        {
-          "note": "Polizeistation Paphos"
-        }
+        { "note": "Polizei, Krankenwagen, Feuerwehr. Kostenlos von jedem Telefon" },
+        { "note": "Hauptkrankenhaus in Paphos, ca. 10 Minuten Fahrt" },
+        { "note": "Polizeistation Paphos" }
       ],
       "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragen Sie uns, wenn Sie eine Empfehlung brauchen."
     },
     "checkout": {
       "steps": [
-        "Bettwäsche abziehen und auf dem Bett stapeln",
-        "Abwaschen oder ein letztes Mal den Geschirrspüler laufen lassen",
-        "Kühlschrank leeren und alle Essensreste entsorgen",
-        "Alle Müllbeutel zu den Mülltonnen auf dem Parkplatz bringen. Beim Hinausgehen sind sie rechts nach dem Pool",
-        "Terrassenschirm schließen und sicher festbinden",
-        "Außenkissen und Dekoration nach innen bringen",
-        "Alle Fenster, Türen und Rollläden schließen",
-        "Alle Lichter, Klimaanlage und Fernseher ausschalten",
-        "Den Metallschlüssel aus dem Stromstecker neben der Tür nehmen",
-        "Wohnungstür abschließen und alle Schlüssel in die Schlüsselbox zurücklegen, Code danach zurücksetzen",
-        "Schreiben Sie uns eine WhatsApp, um zu sagen, dass Sie abgereist sind, und wir freuen uns über eine Bewertung! 😊"
-      ],
-      "lateCheckout": "Wir versuchen flexibel zu sein. Wenn Sie einen späten Check-out möchten, informieren Sie uns bitte 1-2 Tage vor Ihrer Abreise und wir geben unser Bestes."
+        "Falls Sie noch das Geschirr abwaschen oder die Spülmaschine ein letztes Mal einschalten könnten – das wäre toll!",
+        "Falls Sie den Kühlschrank leeren und Essensreste in den Müll werfen könnten – vielen Dank!",
+        "Falls Sie die Müllbeutel zu den Mülltonnen auf dem Parkplatz bringen könnten (rechts, wenn man am Pool vorbeigeht) – das wäre eine große Hilfe!",
+        "Bitte daran denken, den Sonnenschirm zu schließen und sicher zu befestigen, bevor Sie gehen.",
+        "Falls es regnet oder Regen aufzieht, bitte die Außensofa-Kissen nach drinnen bringen, damit sie trocken bleiben. Danke!",
+        "Vor dem Aufbruch bitte alle Fenster, Balkontüren und Rollläden schließen.",
+        "Bitte alle Lichter, die Klimaanlage und den Fernseher ausschalten.",
+        "Wenn Sie bereit sind zu gehen, bitte abschließen und alle Schlüssel in die Schlüsselbox zurücklegen und den Code danach zurücksetzen.",
+        "Schicken Sie uns eine WhatsApp, dass Sie abgereist sind – und über eine Bewertung würden wir uns sehr freuen, wenn Ihnen der Aufenthalt gefallen hat!"
+      ]
     }
   },
   "hu": {
@@ -271,13 +176,13 @@
       "houseRules": "Házirend",
       "gettingHere": "Megközelítés",
       "openGoogleMaps": "Megnyitás Google Térképen",
-      "byCar": "Autóval & Parkolás",
+      "byCar": "Autóval",
       "parking": "Parkolás",
       "publicTransport": "Tömegközlekedés",
       "taxi": "Taxi",
       "photoGuide": "Lépésről lépésre fotóútmutató",
       "appliances": "WiFi & Berendezések",
-      "wifi": "WiFi",
+      "wifi": "WiFi adatok",
       "thingsToDo": "Látnivalók & Programok",
       "eatAndDrink": "Étkezés & Italok",
       "gettingAround": "Közlekedés",
@@ -289,46 +194,24 @@
       "checkoutChecklist": "Kijelentkezési lista",
       "contactHost": "Kapcsolat a házigazdával"
     },
-    "welcomeMessage": "Üdvözöljük a Luxe Poolside Escape-ben! Örömmel fogadjuk Önöket ebben a gyönyörűen berendezett páphai otthonban. Reméljük, hogy kényelmesen érzik magukat és csodálatos tartózkodásuk lesz!",
+    "welcomeMessage": "Privát mediterrán menedékünk – medence, két terasz és minden előkészítve. Pihenjenek és élvezzék a szigetet. Írjanak bármikor.",
     "gettingHere": {
-      "byCar": "A fenti Google Térkép-link helyes, és közvetlenül a komplexumba, a medence- és parkolóterületig navigálja Önöket. Bárhol parkolhat a komplexumban. Megérkezés után kövesse az alábbi lépésről lépésre fotóútmutatót, hogy a lakáshoz jusson.",
-      "parking": "Hajtson a medence területéhez, ahol az út véget ér. A parkolóhelyek szabadon elérhetők, ott parkoljon, ahol szeretne. A lakás bejárata egy perc sétára van. Szeles napokon inkább ne parkoljon a fák alatt! 🌳",
-      "publicTransport": "A páphoszi repülőtérről vegye a 612-es buszt a Királyok Sírjai megállóig. Onnan 18 perc gyaloglás (~1,3 km). Alternatívaként vehet egy megállót a 615-ös busszal (~2 perc), majd gyalogol a többit. Gyalog menjen az AVLIDA Hotel felé, haladjon el mellette, az Esso benzinkútnál forduljon jobbra, és mögötte találja a King's Park komplexumot. A friss útvonalakhoz és időkhöz használhatja a Google Térképet is. ⚠️ A buszok csak készpénzt fogadnak el. Bankkártyát nem fogadnak el. A viteldíj 2,50 € személyenként és útonként, készítsen elő érméket vagy kis címleteket.",
-      "taxi": "Taxi közvetlenül a páphai repülőtér érkezési csarnoka előtt áll rendelkezésre. Egy tipikus viteldíj Páphoszba napközben 40-45€, csúcsidőn kívül 45-50€. A repülőtérről az utazás körülbelül 20-25 percet vesz igénybe.",
+      "byCar": "Kövessék a Google Maps-linket – közvetlenül a komplexumba, a medenceterületig navigál. Bárhol lehet parkolni, majd kövessék az alábbi fotóútmutatót a lakáshoz.",
+      "parking": "Ingyenes parkolás a medenceterületnél, helyek szabadon elérhetők. A lakás bejárata 1 perc sétára van. Szeles napokon kerüljék a fák alatti parkolást.",
+      "publicTransport": "A páfoszi repülőtérről vegyék a 612-es buszt (~35 perces menet, évszaktól és megállóktól függően). A megállótól két lehetőség: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót, majd gyalog (~4 perc). Gyalog: az AVLIDA Hotel felé, mellette elhaladni, az Esso benzinkútnál jobbra fordulni – a King's Park komplexum bejárata rögtön mögötte van. ⚠️ A buszok csak készpénzt fogadnak el. 2,50 € személyenként és útonként.",
+      "taxi": "Taxis várakoznak a páfoszi repülőtér érkezési csarnoka előtt. Tarifa: 40–45 € (nappal), 45–50 € (éjjel). ~20–25 perc. Valamivel olcsóbb lehet egy Bolt-fuvar rendelése.",
       "directionPhotos": [
-        {
-          "caption": "Az Esso benzinkútnál forduljon jobbra (a Morphou utcába)"
-        },
-        {
-          "caption": "Menjen kb. 50 m-t a jobb oldalon lévő nagy építkezésig"
-        },
-        {
-          "caption": "Menjen tovább, még egy kicsit..."
-        },
-        {
-          "caption": "Ennél az építkezésnél forduljon jobbra a keskeny utcába"
-        },
-        {
-          "caption": "Itt parkoljon, vagy gyalog menjen el a medence mellett"
-        },
-        {
-          "caption": "Kövesse az utat a hátsó részig, ahol a medence területe található"
-        },
-        {
-          "caption": "Az első kőboltíves átjárónál forduljon balra"
-        },
-        {
-          "caption": "A medence mellett, jobbra a medence kerítése mentén forduljon"
-        },
-        {
-          "caption": "Két kulcsszekrény a 'D6' postaláda alatt. A jobb oldalit nyissa ki. Kód: 9006"
-        },
-        {
-          "caption": "Menjen át a folyosón"
-        },
-        {
-          "caption": "Első ajtó balra (földszint). A fehér ajtó az Öné!"
-        }
+        { "caption": "Az Esso benzinkútnál forduljon jobbra (a Morphou utcába)" },
+        { "caption": "Menjen kb. 50 m-t a jobb oldalon lévő nagy építkezésig" },
+        { "caption": "Menjen tovább, még egy kicsit..." },
+        { "caption": "Ennél az építkezésnél forduljon jobbra a keskeny utcába" },
+        { "caption": "Itt parkoljon, vagy gyalog menjen el a medence mellett" },
+        { "caption": "Kövesse az utat a hátsó részig, ahol a medence területe található" },
+        { "caption": "Az első kőboltíves átjárónál forduljon balra" },
+        { "caption": "Menjen tovább..." },
+        { "caption": "Két kulcsszekrény a 'D6' postaláda alatt. A jobb oldalit nyissa ki. Kód: 9006" },
+        { "caption": "Menjen át a folyosón" },
+        { "caption": "Első ajtó balra (földszint). A fehér ajtó az Öné!" }
       ]
     },
     "checkin": {
@@ -344,183 +227,110 @@
         "Belépés után tegye a fémkulcsot a kulcskapcsolóba az ajtó mellett, hogy bekapcsolja az áramot (akárcsak a szállodákban)",
         "Kijelentkezéskor tegye vissza a kulcsot a szekrénybe és állítsa vissza a kódot"
       ],
-      "notes": "Ha bármilyen gondja van megtalálni minket, hívjon vagy írjon WhatsApp-on bármikor, szívesen segítünk."
+      "notes": "Ha bármilyen gondja van megtalálni minket, hívjon vagy írjon WhatsApp-on bármikor, szívesen segítünk lépésről lépésre."
     },
     "houseRules": [
-      "Tilos a dohányzás beltéren, csak az erkélyeken és teraszokon",
-      "Tilos a buli, rendezvény vagy hangos zene. Csendes időszak 22:00-08:00",
-      "Maximális férőhely: 4 vendég",
-      "Háziállatok nem engedélyezettek a bútorokon vagy a medencében",
-      "Kérjük, használja a medence törölközőit (a napozóágyak kosarában), ne a fürdőszobai törölközőket",
-      "Medence területe: üveg szigorúan tilos, fejesugrás a szélről tilos",
-      "Légkondicionáló: tartsa csukva az ajtókat és ablakokat, amikor működik",
-      "Rendszeresen szellőztesse a lakást, amíg bent van. Nyissa ki az ablakokat és ajtókat, amikor a légkondicionáló ki van kapcsolva",
-      "Kijelentkezés szigorúan 11:00-ig",
-      "A törést jelezni kell, megértjük, hogy a balesetek megtörténnek",
-      "A kukák a parkolóban találhatók. A parkolóból kilépve a medence után jobbra vannak",
-      "Vigyázzon a kulcsokra. Ha elveszíti vagy bezárja magát, lakatosra lesz szükség, amelynek költségét Önre hárítjuk"
+      "Kérjük, csak az erkélyeken és teraszokon dohányozzon",
+      "Kérjük, legyen csöndes. Csöndes időszak 23:00–8:00. Sem bulira, sem rendezvényre nincs lehetőség",
+      "Az állatokat szeretjük, de sajnos nem tudjuk fogadni őket. Elnézést!",
+      "Kérjük, a vécé melletti szemétládát használja a papírnak, ne öblítse le – a ciprusi csatorna valóban nem bírja el",
+      "Tegye a fémkulcsot az áramkapcsolóba az ajtó mellett, amikor belép, és vigye magával, amikor elmegy",
+      "Zárja be az erkély- és teraszajtókat, valamint ablakokat, amikor a légkondicionáló működik",
+      "Kérjük, kijelentkezéskor tegye vissza a kulcsokat a szekrénybe és állítsa vissza a kódot. Ha elvesznek vagy bezárják magukat, a záros költsége az Önöket terheli",
+      "Kérjük, úgy bánjon a lakással, mint a sajátjával, és azonnal jelezze, ha valami megsérül. Értjük, hogy a balesetek megtörténnek"
     ],
     "appliances": [
       {
         "name": "Áram",
-        "instructions": "Az áramhoz tegye a fémkulcsot a kulcskapcsolóba a fal mellett az ajtónál, akárcsak a szállodákban. Ne feledje kihúzni és magával vinni a kulcsokat minden alkalommal, amikor elhagyja a lakást. Fontos: Cipruson minden konnektornak külön kapcsolója van a falon. Ha egy készülék nem működik, ellenőrizze, hogy a konnektor kapcsolója be van-e kapcsolva. EU-adapterek elérhetők a lakásban."
+        "instructions": "Tegye a fémkulcsot az ajtó melletti dugóba, hogy áramot kapjon – és ne felejtse el kivenni és magával vinni, amikor elmegy. Minden aljzatnak van saját fali kapcsolója: ha valami nem kapcsol be, általában ez az ok. EU-adapter szükség esetén elérhető."
       },
       {
         "name": "Konyha",
-        "instructions": "A konyha elektromos főzőlapot, elektromos sütőt, egy egyszerű kávéfőzőt és egy kávédarálót tartalmaz. Szívesen használhat mindent, kérjük, használat után tisztítson meg minden készüléket. Alapvető főzési hozzávalók rendelkezésre állnak (só, bors, olívaolaj), valamint kávébab. Csak nyugodtan! Fontos: Cipruson a meleg időjárás rovarokat vonzhat. Kérjük, azonnal mossa el az edényeket, azonnal dobja ki az ételmaradékot, és ne hagyjon semmit a pulton vagy a padlón."
+        "instructions": "Minden megtalálható: elektromos tűzhely, sütő, forrólevegős sütő, kávéfőző és kávédaráló. Só, bors, olívaolaj és kávébab szabadon használható. Egy tipp: kérjük, azonnal mossa el az edényeket és tartsa tisztán a pultot – a meleg időjárás rovarokat vonzhat."
+      },
+      {
+        "name": "Légkondicionáló",
+        "instructions": "A távirányító az éjjeliszekrényen van. Nyomja meg a POWER gombot, válassza a COOL lehetőséget, állítsa 22–24 fokra. Működés közben tartsa csukva az ablakokat. A kikapcsoláshoz tartsa nyomva a power gombot egy pillanatra – ne csak érintse meg –, és kérjük, kapcsolja ki, mielőtt elmegy."
       },
       {
         "name": "Mosógép",
-        "instructions": "A mosógép a konyhában található. A gyorsmosó program a legtöbb mosáshoz jól működik. Ha kérdése van, forduljon hozzánk bizalommal!"
+        "instructions": "A gyorsmosó program a legtöbb mosáshoz jól működik. A konyhában találja."
       },
       {
         "name": "Mosogatógép",
-        "instructions": "A mosogatógép a rendelkezésére áll. A tabletták a mosogató alatt találhatók. Az Eco programot ajánljuk: energiatakarékos és tökéletesen működik a mindennapi edényekhez."
+        "instructions": "A tabletták a mosogató alatt találhatók. Az Eco program remekül működik a mindennapi edényekhez."
       },
       {
         "name": "Zuhany & Melegvíz",
-        "instructions": "Általában 2-3 percig tart, amíg a víz felmelegszik, ez normális. Ha a víz nem melegszik fel, lehet, hogy a nap aznap nem volt elegendő a napelemekhez. Ebben az esetben nyomja meg a fűtés gombját a fürdőszobaajtó mellett, és várjon 20 percet. Fontos: Kapcsolja ki a fűtést, mielőtt zuhanyozik. (Erre csak az esetek kb. 10%-ában van szükség. Ciprus általában nagyon napos! ☀️)"
+        "instructions": "A vizet a tetőn lévő napelemek melegítik – meleg és környezetbarát! Várjon 2–3 percet, amíg lejön a víz. Borús napokon a napenergia nem biztos, hogy elegendő: nyomja meg a bojler gombját a fürdőszobaajtó mellett, és várjon 20–30 percet személyenként, mielőtt zuhanyozik. ⚠️ A bojlert mindig kapcsolja ki, mielőtt belép a zuhany alá."
       },
       {
         "name": "Teraszok & Napernyő",
-        "instructions": "A lakásnak két terasza van. Rendezze be őket tetszés szerint. A kültéri párnák és dekoráció bent vannak tárolva és a teraszokon elrendezhetők. A nagy teraszi napernyőre vonatkozóan: Ne használja szélben, éjszaka vagy használaton kívül csukja össze, és kijelentkezés előtt biztonságosan csukja össze és rögzítse."
+        "instructions": "Két terasz áll rendelkezésre! A kültéri párnákat belül tárolják, amikor nincsenek használatban. Kérjük, tartsa csukva a terasz napernyőt szeles időben, éjjel és kijelentkezés előtt."
       },
       {
         "name": "Medencehasználat",
-        "instructions": "A medencekulcs a lakáskulcsok kulcstartóján található. A közös medence általában nyugodt. Kérjük, gondoljon a többi vendégre, és tartsa be a medence területén kifüggesztett szabályokat. Használja a biztosított strandtörölközőket, ne a fürdőszobai törölközőket."
+        "instructions": "A kulcstartón megtalálható a medencekulcs. Kérjük, a napozóágy kosarában lévő medencetörölközőket használja, ne a fürdőszobaiakat. Üveg és az uszodamedence szélétől való ugrás tilos, és kérjük, ne vigyen háziállatot a medencébe."
       },
       {
         "name": "Fürdőszoba",
-        "instructions": "Friss törölközők, hajszárító és alapvető tisztálkodószerek rendelkezésre állnak. Ha valami extrára van szüksége, csak jelezze. Fontos: A ciprusi vízvezetékek nem bírják el a WC-papírt. Kérjük, helyette használja a WC melletti kosarat. Köszönjük!"
+        "instructions": "Törölközők, hajszárító és alapvető tisztálkodószerek rendelkezésre állnak. Kérjük, a vécé melletti szemétládát használja a papírnak, ne öblítse le – a ciprusi csatorna erre valóban nem alkalmas!"
+      },
+      {
+        "name": "Szemét",
+        "instructions": "A szeméttárolók a parkolóterületen vannak, a medencén túl jobbra, amikor kimegy."
       },
       {
         "name": "Ivóvíz",
-        "instructions": "A csapvíz Cipruson alapvetően biztonságos, de sok vendég előnyben részesíti a palackozott vizet. Nagy palackok minden közeli szupermarketben kaphatók."
+        "instructions": "A csapvíz iható, bár sokan előnyben részesítik a palackozottat. Megvásárolható a közeli szupermarketekben."
       },
       {
         "name": "Növények",
-        "instructions": "A lakásban van néhány növény, természetes és otthonos hangulatot teremtenek. Hosszabb tartózkodás esetén nagyon örülnénk, ha 3-4 naponta megöntözné őket. Köszönjük! 🌿"
+        "instructions": "Ha néhány napot tölt nálunk, a növények hálásak lennének egy kis vízért 3–4 naponta. Meghálálja!"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Strandok 🏝️"
-      },
-      {
-        "category": "Történelmi helyek & Séták 🏰"
-      },
-      {
-        "category": "Látnivalók & Kirándulások 📸"
-      },
-      {
-        "category": "Túrázás & Természet ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Görög / Mediterrán"
-      },
-      {
-        "type": "Görög / Meze"
-      },
-      {
-        "type": "Kávézó / Brunch"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Ciprusi"
-      },
-      {
-        "type": "Ételudvar"
-      },
-      {
-        "type": "Kávézó / Helyi"
-      },
-      {
-        "type": "Ciprusi / Kávézó"
-      },
-      {
-        "type": "Görög / Ciprusi"
-      },
-      {
-        "type": "Ciprusi taverna"
-      },
-      {
-        "type": "Vegyes / Kikötő"
-      },
-      {
-        "type": "Ciprusi / Tenger gyümölcsei"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Kávézó / Étterem"
-      },
-      {
-        "type": "Tenger gyümölcsei"
-      },
-      {
-        "type": "Bár / Étterem"
-      },
-      {
-        "type": "Ciprusi / Bor"
-      },
-      {
-        "type": "Tenger gyümölcsei / Taverna"
-      },
-      {
-        "type": "Élelmiszerbolt"
-      },
-      {
-        "type": "Szupermarket"
-      }
+      { "category": "Strandok 🏝️" },
+      { "category": "Történelmi helyek & Séták 🏰" },
+      { "category": "Látnivalók & Kirándulások 📸" },
+      { "category": "Túrázás & Természet ⛰️" },
+      { "category": "Étkezés & Italok" },
+      { "category": "Vásárlás" }
     ],
     "gettingAround": [
       {
-        "info": "A központi buszállomás (Királyok Sírjai) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz."
+        "info": "A központi buszállomás (Tombs of the Kings) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz. A megállók mostanra a Google Térképen is megjelentek, de az aktuális menetrendhez érdemes az hivatalos weboldalt is ellenőrizni."
       },
       {
-        "info": "Az autómegosztás jól működik Páphoszban, a repülőtérre és onnan is. Töltse le az alkalmazást, regisztráljon 5 perc alatt. Az autók általában 5-10 perces sétán belül elérhetők."
+        "info": "Autómegosztó alkalmazás, amely jól működik Páfosz környékén. Néhány percen belül regisztrálhat. Az autók általában 5–10 perces sétán belül elérhetők."
       },
       {
-        "info": "Olcsó taxialkalmazás. Ajánlott a páphai közlekedéshez az ismeretlen taxióráktól való bizonytalanság nélkül."
+        "info": "Kedvező árú taxialkalmazás. Jó alternatíva a taxiórás fuvarokhoz képest Páfosz körül."
+      },
+      {
+        "info": "Különböző taxiszolgáltatások érhetők el online. Egy megbízható lehetőség a Paphos Taxi Airport, ahol WhatsApp-on is megrendelhet fuvart: +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról"
-        },
-        {
-          "note": "Fő kórház Páphoszban, kb. 10 perc autóút"
-        },
-        {
-          "note": "Páphai rendőrség"
-        }
+        { "note": "Rendőrség, mentő, tűzoltóság. Ingyenes bármely telefonról" },
+        { "note": "Fő kórház Páphoszban, kb. 10 perc autóút" },
+        { "note": "Páphai rendőrség" }
       ],
-      "nearestPharmacy": "Több gyógyszertár is található sétálótávolságon belül a főúton. Kérdezzenek minket, ha segítségre van szükségük a legközelebbi megtalálásában."
+      "nearestPharmacy": "Több gyógyszertár is sétálótávolságra van a főúton. Kérdezzenek minket, ha segítségre van szükségük."
     },
     "checkout": {
       "steps": [
-        "Húzza le az ágyneműt és halmozza fel az ágyon",
-        "Mosogasson el, vagy indítsa el utoljára a mosogatógépet",
-        "Ürítse ki a hűtőt és dobja ki az összes ételmaradékot",
-        "Vigye az összes szemeteszsákot a parkolóban lévő kukákhoz. Kifelé menet a medence után jobbra vannak",
-        "Csukja össze és rögzítse biztonságosan a teraszi napernyőt",
-        "Vigye be a kültéri párnákat és a dekorációt",
-        "Csukja be az összes ablakot, ajtót és redőnyt",
-        "Kapcsolja ki az összes lámpát, a légkondicionálót és a tévét",
-        "Vegye ki a fémkulcsot az áramkapcsolóból az ajtó mellett",
-        "Zárja be a lakás ajtaját és tegye vissza az összes kulcsot a kulcsszekrénybe, majd állítsa vissza a kódot",
-        "Írjon nekünk WhatsApp-on, hogy elutaztak, és örülünk az értékelésnek! 😊"
-      ],
-      "lateCheckout": "Igyekszünk rugalmasak lenni. Ha késői kijelentkezést szeretnének, kérjük jelezzék 1-2 nappal korábban, és megpróbálunk segíteni."
+        "Ha megmosná az edényeket vagy utoljára beindítaná a mosogatógépet, nagyon megköszönnénk!",
+        "Ha kiürítené a hűtőt és a maradék ételeket a kukába dobná, az nagyszerű lenne!",
+        "Ha a szemetes zsákokat a parkolóban lévő kukákhoz vinné (jobbra, a medencén túl), az nagy segítség lenne!",
+        "Kérjük, csukja be és rögzítse a terasz napernyőt, mielőtt elmegy.",
+        "Ha esik vagy esőre áll az idő, kérjük, vigye be a kültéri ülőpárna huzatokat, hogy szárazak maradjanak. Köszönjük!",
+        "Indulás előtt kérjük, zárjon be minden ablakot, erkélyajtót és redőnyt.",
+        "Kérjük, kapcsoljon ki minden lámpát, a légkondicionálót és a televíziót.",
+        "Amikor készen áll az indulásra, kérjük, zárja be a lakást, és tegye vissza az összes kulcsot a szekrénybe, majd állítsa vissza a kódot.",
+        "Küldjön nekünk egy WhatsApp-üzenetet, hogy elindult – és nagyon örülnénk egy értékelésnek, ha jól érezte magát!"
+      ]
     }
   },
   "el": {
@@ -533,7 +343,7 @@
       "houseRules": "Κανόνες Κατοικίας",
       "gettingHere": "Πώς να φτάσετε",
       "openGoogleMaps": "Άνοιγμα στο Google Maps",
-      "byCar": "Με Αυτοκίνητο & Παρκάρισμα",
+      "byCar": "Με Αυτοκίνητο",
       "parking": "Παρκάρισμα",
       "publicTransport": "Δημόσια Συγκοινωνία",
       "taxi": "Ταξί",
@@ -551,46 +361,24 @@
       "checkoutChecklist": "Λίστα Αναχώρησης",
       "contactHost": "Επικοινωνία"
     },
-    "welcomeMessage": "Καλώς ήρθατε στο Luxe Poolside Escape! Είμαστε ιδιαίτερα χαρούμενοι που σας υποδεχόμαστε σε αυτό το όμορφα διαμορφωμένο κατάλυμα. Σχεδιασμένο για άνεση και κομψότητα, αυτό το σπίτι είναι το ιδιωτικό σας καταφύγιο στη Μεσόγειο. Όλα έχουν προετοιμαστεί με φροντίδα. Βουτήξτε στην πισίνα, απολαύστε καφέ στη βεράντα και αφήστε το νησί να ξεδιπλώσει τη μαγεία του. Είμαστε πάντα μόλις ένα μήνυμα μακριά, αν χρειαστείτε κάτι.",
+    "welcomeMessage": "Το ιδιωτικό σας μεσογειακό καταφύγιο – πισίνα, δύο βεράντες και όλα έτοιμα. Χαλαρώστε και απολαύστε το νησί. Γράψτε μας οποιαδήποτε στιγμή.",
     "gettingHere": {
-      "byCar": "Ο σύνδεσμος Google Maps παραπάνω είναι σωστός και σας οδηγεί απευθείας μέσα στο συγκρότημα, μέχρι την περιοχή της πισίνας και του πάρκινγκ. Μπορείτε να παρκάρετε οπουδήποτε στο συγκρότημα. Μετά την άφιξή σας, ακολουθήστε τον οδηγό φωτογραφιών παρακάτω για να φτάσετε στο διαμέρισμα.",
-      "parking": "Οδηγήστε προς την περιοχή της πισίνας, εκεί που τελειώνει ο δρόμος. Οι θέσεις στάθμευσης είναι ελεύθερες, παρκάρετε όπου θέλετε. Η είσοδος του διαμερίσματος είναι ένα λεπτό με τα πόδια. Τις ημέρες με αέρα, καλύτερα μην παρκάρετε κάτω από τα δέντρα! 🌳",
-      "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 μέχρι τη στάση Τάφοι των Βασιλέων. Από εκεί είναι 18 λεπτά με τα πόδια (~1,3 χλμ). Εναλλακτικά, μπορείτε να πάρετε το λεωφορείο 615 για μία στάση (~2 λεπτά) και να περπατήσετε τα υπόλοιπα. Με τα πόδια, κατευθυνθείτε προς το ξενοδοχείο AVLIDA, προσπεράστε το, στρίψτε δεξιά στο πρατήριο Esso και βρείτε το συγκρότημα King's Park πίσω από αυτό. Μπορείτε επίσης να χρησιμοποιήσετε το Google Maps για ενημερωμένες διαδρομές και ώρες. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. Δεν δέχονται κάρτες. Η εισιτήριο κοστίζει 2,50€ ανά άτομο ανά διαδρομή, έχετε ψιλά ή μικρά χαρτονομίσματα μαζί σας.",
-      "taxi": "Ταξί είναι διαθέσιμα ακριβώς έξω από την αίθουσα αφίξεων του αεροδρομίου Πάφου. Ένα τυπικό κόμιστρο για την Πάφο είναι 40-45€ κατά τη διάρκεια της ημέρας και 45-50€ τη νύχτα. Η διαδρομή από το αεροδρόμιο διαρκεί περίπου 20-25 λεπτά.",
+      "byCar": "Ακολουθήστε τον σύνδεσμο Google Maps – πλοηγεί απευθείας μέσα στο συγκρότημα έως την περιοχή της πισίνας. Παρκάρετε οπουδήποτε και ακολουθήστε τον φωτογραφικό οδηγό παρακάτω για να φτάσετε στο διαμέρισμα.",
+      "parking": "Δωρεάν πάρκινγκ στην περιοχή της πισίνας, θέσεις ελεύθερες. Η είσοδος του διαμερίσματος είναι 1 λεπτό με τα πόδια. Σε ανεμώδεις μέρες αποφύγετε να παρκάρετε κάτω από δέντρα.",
+      "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 (~35 λεπτά, ανάλογα με την εποχή και τις στάσεις). Από τη στάση δύο επιλογές: με τα πόδια (~18 λεπτά, 1,3 χλμ) ή λεωφορείο 615 για μία στάση και μετά λίγο πεζή (~4 λεπτά). Με τα πόδια: κατευθυνθείτε στο ξενοδοχείο AVLIDA, περάστε δίπλα του, στρίψτε δεξιά στο πρατήριο Esso – η είσοδος του King's Park βρίσκεται ακριβώς πίσω. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. 2,50 € ανά άτομο ανά διαδρομή.",
+      "taxi": "Ταξί περιμένουν έξω από τον χώρο αφίξεων στο αεροδρόμιο Πάφου. Κόμιστρο: 40–45 € (ημέρα), 45–50 € (νύχτα). ~20–25 λεπτά. Λίγο πιο οικονομική επιλογή είναι το Bolt.",
       "directionPhotos": [
-        {
-          "caption": "Στο πρατήριο Esso στρίψτε δεξιά (στην οδό Μόρφου)"
-        },
-        {
-          "caption": "Περπατήστε περίπου 50 μ. μέχρι το μεγάλο εργοτάξιο στη δεξιά πλευρά"
-        },
-        {
-          "caption": "Συνεχίστε λίγο ακόμα..."
-        },
-        {
-          "caption": "Σε αυτό το εργοτάξιο στρίψτε δεξιά στον στενό δρόμο"
-        },
-        {
-          "caption": "Παρκάρετε εδώ ή περπατήστε περνώντας την πισίνα"
-        },
-        {
-          "caption": "Ακολουθήστε τον δρόμο προς το πίσω μέρος, όπου βρίσκεται η περιοχή της πισίνας"
-        },
-        {
-          "caption": "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά"
-        },
-        {
-          "caption": "Προσπεράστε την πισίνα, στρίψτε δεξιά κατά μήκος του φράχτη της πισίνας"
-        },
-        {
-          "caption": "Δύο κουτιά κλειδιών κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί. Κωδικός: 9006"
-        },
-        {
-          "caption": "Περάστε μέσα από τον διάδρομο"
-        },
-        {
-          "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σας!"
-        }
+        { "caption": "Στο πρατήριο Esso στρίψτε δεξιά (στην οδό Μόρφου)" },
+        { "caption": "Περπατήστε περίπου 50 μ. μέχρι το μεγάλο εργοτάξιο στη δεξιά πλευρά" },
+        { "caption": "Συνεχίστε λίγο ακόμα..." },
+        { "caption": "Σε αυτό το εργοτάξιο στρίψτε δεξιά στον στενό δρόμο" },
+        { "caption": "Παρκάρετε εδώ ή περπατήστε περνώντας την πισίνα" },
+        { "caption": "Ακολουθήστε τον δρόμο προς το πίσω μέρος, όπου βρίσκεται η περιοχή της πισίνας" },
+        { "caption": "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά" },
+        { "caption": "Συνεχίστε..." },
+        { "caption": "Δύο κουτιά κλειδιών κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί. Κωδικός: 9006" },
+        { "caption": "Περάστε μέσα από τον διάδρομο" },
+        { "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σας!" }
       ]
     },
     "checkin": {
@@ -606,183 +394,110 @@
         "Αφού μπείτε, βάλτε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να ενεργοποιήσετε το ρεύμα (όπως ακριβώς στα ξενοδοχεία)",
         "Επιστρέψτε το κλειδί στο κουτί κατά την αναχώρηση και επαναφέρετε τον κωδικό"
       ],
-      "notes": "Αν δεν μας βρείτε, καλέστε μας ή στείλτε μας WhatsApp οποιαδήποτε στιγμή, θα σας καθοδηγήσουμε με χαρά βήμα-βήμα."
+      "notes": "Αν δεν μας βρείτε, καλέστε μας ή στείλτε WhatsApp οποιαδήποτε στιγμή – θα σας καθοδηγήσουμε με χαρά βήμα-βήμα."
     },
     "houseRules": [
-      "Απαγορεύεται το κάπνισμα εντός, μόνο σε μπαλκόνια και βεράντες",
-      "Απαγορεύονται πάρτι, εκδηλώσεις ή δυνατή μουσική. Ησυχία από τις 22:00 έως τις 08:00",
-      "Μέγιστη χωρητικότητα: 4 φιλοξενούμενοι",
-      "Δεν επιτρέπονται κατοικίδια στα έπιπλα ή στην πισίνα",
-      "Παρακαλούμε χρησιμοποιήστε τις πετσέτες πισίνας (στο καλάθι των ξαπλώστρων), όχι τις πετσέτες μπάνιου",
-      "Περιοχή πισίνας: απολύτως κανένα γυαλί, χωρίς βουτιές από την άκρη",
-      "Κλιματισμός: κρατήστε πόρτες και παράθυρα κλειστά όταν λειτουργεί",
-      "Αερίζετε το διαμέρισμα τακτικά όσο μένετε. Ανοίγετε παράθυρα και πόρτες όταν το κλιματιστικό είναι κλειστό",
-      "Αναχώρηση αυστηρά μέχρι τις 11:00",
-      "Τυχόν σπασίματα πρέπει να αναφέρονται, καταλαβαίνουμε ότι τα ατυχήματα συμβαίνουν",
-      "Οι κάδοι σκουπιδιών βρίσκονται στο πάρκινγκ. Καθώς φεύγετε από το πάρκινγκ είναι δεξιά μετά την πισίνα",
-      "Φυλάξτε τα κλειδιά με ασφάλεια. Αν τα χάσετε ή τα κλειδωθείτε έξω, θα χρειαστεί κλειδαράς και το κόστος θα χρεωθεί σε εσάς"
+      "Παρακαλούμε περιορίστε το κάπνισμα στα μπαλκόνια και τις βεράντες",
+      "Παρακαλούμε τηρήστε την ησυχία. Ώρες κοινής ησυχίας 23:00–8:00. Απαγορεύονται πάρτι και εκδηλώσεις",
+      "Αγαπάμε τα ζώα, αλλά δυστυχώς δεν μπορούμε να φιλοξενήσουμε κατοικίδια. Συγγνώμη!",
+      "Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα αντί να ξεπλένετε χαρτί – η κυπριακή υδραυλική εγκατάσταση δεν αντέχει",
+      "Βάλτε το μεταλλικό κλειδί στην υποδοχή ρεύματος δίπλα στην πόρτα όταν είστε μέσα και πάρτε το μαζί σας όταν φεύγετε",
+      "Κλείνετε τις πόρτες και τα παράθυρα βεράντας-μπαλκονιών όταν λειτουργεί το κλιματιστικό",
+      "Παρακαλούμε επιστρέψτε τα κλειδιά στο κουτί κατά την αναχώρηση και επαναφέρετε τον κωδικό. Σε περίπτωση απώλειας ή κλειδώματος, ο κλειδαράς χρεώνεται στους διαμένοντες",
+      "Παρακαλούμε φερθείτε στο διαμέρισμα σαν δικό σας και ενημερώστε μας αμέσως αν κάτι πάθει ζημιά. Καταλαβαίνουμε ότι τα ατυχήματα γίνονται"
     ],
     "appliances": [
       {
         "name": "Ρεύμα",
-        "instructions": "Για να έχετε ρεύμα, βάλτε το μεταλλικό κλειδί στην υποδοχή στον τοίχο δίπλα στην πόρτα, όπως ακριβώς στα ξενοδοχεία. Θυμηθείτε να το βγάζετε και να παίρνετε τα κλειδιά σας κάθε φορά που φεύγετε από το διαμέρισμα. Σημαντικό: Κάθε πρίζα στην Κύπρο έχει τον δικό της διακόπτη στον τοίχο. Αν μια συσκευή δεν λειτουργεί, ελέγξτε αν ο διακόπτης της πρίζας είναι ανοιχτός. Αντάπτορες EU είναι διαθέσιμοι στο διαμέρισμα."
+        "instructions": "Βάλτε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να έχετε ρεύμα – και θυμηθείτε να το παίρνετε μαζί σας όταν φεύγετε. Κάθε πρίζα έχει επίσης τον δικό της διακόπτη στον τοίχο: αν κάτι δεν ανάβει, συνήθως αυτός είναι ο λόγος. Διαθέσιμοι αντάπτορες EU αν χρειαστεί."
       },
       {
         "name": "Κουζίνα",
-        "instructions": "Η κουζίνα διαθέτει ηλεκτρική εστία, ηλεκτρικό φούρνο, μια απλή καφετιέρα και μύλο καφέ. Μπορείτε να χρησιμοποιήσετε τα πάντα, παρακαλούμε καθαρίζετε κάθε συσκευή μετά τη χρήση. Βασικά υλικά μαγειρικής υπάρχουν (αλάτι, πιπέρι, ελαιόλαδο) καθώς και κόκκοι καφέ. Εξυπηρετηθείτε! Σημαντικό: Ο ζεστός καιρός της Κύπρου μπορεί να προσελκύσει έντομα. Παρακαλούμε πλένετε τα πιάτα αμέσως, πετάξτε τα υπολείμματα φαγητού άμεσα και μην αφήνετε τίποτα στον πάγκο ή στο πάτωμα."
+        "instructions": "Υπάρχουν όλα: ηλεκτρική εστία, φούρνος, φριτέζα αέρος, καφετιέρα και μύλος καφέ. Αλάτι, πιπέρι, ελαιόλαδο και κόκκοι καφέ είναι στη διάθεσή σας. Μια συμβουλή: παρακαλούμε πλένετε τα πιάτα αμέσως και κρατάτε τους πάγκους καθαρούς – ο ζεστός καιρός μπορεί να προσελκύσει έντομα."
+      },
+      {
+        "name": "Κλιματισμός",
+        "instructions": "Το τηλεχειριστήριο είναι στο κομοδίνο. Πατήστε POWER, επιλέξτε COOL και ρυθμίστε στους 22–24 βαθμούς. Κρατάτε τα παράθυρα κλειστά κατά τη λειτουργία. Για να το απενεργοποιήσετε, κρατήστε το κουμπί λίγο πιο πολύ αντί να το πατήσετε γρήγορα, και παρακαλούμε κλείστε το πριν φύγετε."
       },
       {
         "name": "Πλυντήριο",
-        "instructions": "Το πλυντήριο βρίσκεται στην κουζίνα. Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα φορτία. Αν έχετε απορίες, επικοινωνήστε μαζί μας!"
+        "instructions": "Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα φορτία. Θα το βρείτε στην κουζίνα."
       },
       {
         "name": "Πλυντήριο Πιάτων",
-        "instructions": "Το πλυντήριο πιάτων είναι στη διάθεσή σας. Οι ταμπλέτες βρίσκονται κάτω από τον νεροχύτη. Συνιστούμε το πρόγραμμα Eco: είναι ενεργειακά αποδοτικό και λειτουργεί τέλεια για τα καθημερινά πιάτα."
+        "instructions": "Οι ταμπλέτες βρίσκονται κάτω από τον νεροχύτη. Το πρόγραμμα Eco είναι ιδανικό για τα καθημερινά πιάτα."
       },
       {
         "name": "Ντους & Ζεστό Νερό",
-        "instructions": "Συνήθως χρειάζονται 2-3 λεπτά για να ζεσταθεί το νερό, αυτό είναι φυσιολογικό. Αν το νερό δεν ζεσταθεί, ο ήλιος εκείνη την ημέρα μπορεί να μην ήταν αρκετός για το ηλιακό σύστημα. Σε αυτή την περίπτωση, πατήστε τον διακόπτη θέρμανσης δίπλα στην πόρτα του μπάνιου και περιμένετε 20 λεπτά. Σημαντικό: Σβήστε τη θέρμανση πριν κάνετε ντους. (Αυτό χρειάζεται μόνο στο 10% περίπου των περιπτώσεων. Η Κύπρος είναι συνήθως πολύ ηλιόλουστη! ☀️)"
+        "instructions": "Το νερό θερμαίνεται από ηλιακούς συλλέκτες στη στέγη – ζεστό και φιλικό προς το περιβάλλον! Δώστε 2–3 λεπτά για να κατεβεί. Σε συννεφιασμένες μέρες η ηλιακή ενέργεια μπορεί να μην αρκεί: πατήστε τον διακόπτη του μπόιλερ δίπλα στην πόρτα του μπάνιου και περιμένετε 20–30 λεπτά ανά άτομο. ⚠️ Πάντα σβήνετε το μπόιλερ πριν μπείτε στο ντους."
       },
       {
         "name": "Βεράντες & Ομπρέλα",
-        "instructions": "Το διαμέρισμα έχει δύο βεράντες. Διαμορφώστε τες όπως θέλετε. Μαξιλάρια εξωτερικού χώρου και διακόσμηση φυλάσσονται μέσα και μπορούν να διαταχθούν στις βεράντες. Για τη μεγάλη ομπρέλα της βεράντας: Μην τη χρησιμοποιείτε με αέρα, κλείστε τη τη νύχτα ή όταν δεν χρησιμοποιείται και κλείστε και ασφαλίστε τη πριν την αναχώρηση."
+        "instructions": "Δύο βεράντες για να απολαύσετε! Τα υπαίθρια μαξιλάρια φυλάσσονται μέσα όταν δεν χρησιμοποιούνται. Παρακαλούμε κρατάτε την ομπρέλα κλειστή σε ανεμώδεις συνθήκες, τη νύχτα και πριν αναχωρήσετε."
       },
       {
         "name": "Πρόσβαση στην Πισίνα",
-        "instructions": "Το κλειδί της πισίνας βρίσκεται στο μπρελόκ με τα κλειδιά του διαμερίσματός σας. Η κοινόχρηστη πισίνα είναι συνήθως ήσυχη. Παρακαλούμε σκεφτείτε τους άλλους φιλοξενούμενους και τηρείτε τους κανόνες που αναρτώνται στην περιοχή της πισίνας. Χρησιμοποιήστε τις πετσέτες παραλίας που παρέχονται, όχι τις πετσέτες μπάνιου."
+        "instructions": "Το μπρελόκ σας περιλαμβάνει το κλειδί της πισίνας. Παρακαλούμε χρησιμοποιήστε τις πετσέτες πισίνας από το καλάθι της ξαπλώστρας και όχι τις πετσέτες μπάνιου. Απαγορεύεται το γυαλί και η βουτιά από την άκρη, καθώς και τα κατοικίδια στην πισίνα."
       },
       {
         "name": "Μπάνιο",
-        "instructions": "Φρέσκες πετσέτες, ένα πιστολάκι μαλλιών και βασικά είδη τουαλέτας υπάρχουν. Αν χρειάζεστε κάτι επιπλέον, απλώς ενημερώστε μας. Σημαντικό: Η κυπριακή υδραυλική εγκατάσταση δεν αντέχει το χαρτί υγείας. Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα. Ευχαριστούμε!"
+        "instructions": "Παρέχονται πετσέτες, πιστολάκι μαλλιών και βασικά είδη τουαλέτας. Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα και μην ξεπλένετε χαρτί – η κυπριακή υδραυλική εγκατάσταση δεν είναι φτιαγμένη γι' αυτό!"
+      },
+      {
+        "name": "Σκουπίδια",
+        "instructions": "Οι κάδοι σκουπιδιών βρίσκονται στον χώρο πάρκινγκ, δεξιά καθώς βγαίνετε περνώντας την πισίνα."
       },
       {
         "name": "Πόσιμο Νερό",
-        "instructions": "Το νερό βρύσης στην Κύπρο είναι γενικά ασφαλές, ωστόσο πολλοί φιλοξενούμενοι προτιμούν το εμφιαλωμένο νερό. Μεγάλα μπουκάλια διατίθενται σε κάθε κοντινό σούπερ μάρκετ."
+        "instructions": "Το νερό βρύσης είναι ασφαλές για κατανάλωση, αν και πολλοί επισκέπτες προτιμούν εμφιαλωμένο. Διατίθεται στα κοντινά σούπερ μάρκετ."
       },
       {
         "name": "Φυτά",
-        "instructions": "Στο διαμέρισμα θα βρείτε μερικά φυτά, προσφέρουν μια φυσική και ζεστή ατμόσφαιρα. Σε μεγαλύτερη διαμονή, θα χαιρόμασταν πολύ αν μπορούσατε να τα ποτίζετε κάθε 3-4 ημέρες. Ευχαριστούμε! 🌿"
+        "instructions": "Αν μείνετε μερικές μέρες, τα φυτά θα χαρούν λίγο νερό κάθε 3–4 μέρες. Θα σας το ανταποδώσουν!"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Παραλίες 🏝️"
-      },
-      {
-        "category": "Ιστορικά Μνημεία & Τοπίο 🏰"
-      },
-      {
-        "category": "Αξιοθέατα & Εκδρομές 📸"
-      },
-      {
-        "category": "Πεζοπορία & Φύση ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Ελληνικά / Μεσογειακά"
-      },
-      {
-        "type": "Ελληνικά / Μεζέ"
-      },
-      {
-        "type": "Καφέ / Brunch"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Κυπριακά"
-      },
-      {
-        "type": "Food Court"
-      },
-      {
-        "type": "Καφέ / Τοπικό"
-      },
-      {
-        "type": "Κυπριακά / Καφέ"
-      },
-      {
-        "type": "Ελληνικά / Κυπριακά"
-      },
-      {
-        "type": "Κυπριακή ταβέρνα"
-      },
-      {
-        "type": "Διάφορα / Λιμάνι"
-      },
-      {
-        "type": "Κυπριακά / Θαλασσινά"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Καφέ / Εστιατόριο"
-      },
-      {
-        "type": "Θαλασσινά"
-      },
-      {
-        "type": "Μπαρ / Εστιατόριο"
-      },
-      {
-        "type": "Κυπριακά / Κρασί"
-      },
-      {
-        "type": "Θαλασσινά / Ταβέρνα"
-      },
-      {
-        "type": "Παντοπωλείο"
-      },
-      {
-        "type": "Σούπερ μάρκετ"
-      }
+      { "category": "Παραλίες 🏝️" },
+      { "category": "Ιστορικά Μνημεία & Περίπατοι 🏰" },
+      { "category": "Αξιοθέατα & Εκδρομές 📸" },
+      { "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️" },
+      { "category": "Φαγητό & Ποτό" },
+      { "category": "Ψώνια" }
     ],
     "gettingAround": [
       {
-        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις."
+        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις. Οι στάσεις έχουν πλέον προστεθεί και στο Google Maps, αλλά αξίζει πάντα να ελέγχετε και την επίσημη ιστοσελίδα για τα τελευταία δρομολόγια."
       },
       {
-        "info": "Η κοινή χρήση αυτοκινήτου λειτουργεί καλά στην Πάφο, συμπεριλαμβανομένης της διαδρομής προς/από το αεροδρόμιο. Κατεβάστε την εφαρμογή, εγγραφείτε σε 5 λεπτά. Αυτοκίνητα συνήθως διαθέσιμα εντός 5-10 λεπτών με τα πόδια."
+        "info": "Εφαρμογή κοινής χρήσης αυτοκινήτου που λειτουργεί καλά στην Πάφο. Εγγραφή σε λίγα λεπτά. Αυτοκίνητα συνήθως σε 5–10 λεπτά με τα πόδια."
       },
       {
-        "info": "Οικονομική εφαρμογή ταξί. Συνιστάται για μετακίνηση στην Πάφο χωρίς την αβεβαιότητα των ταξιμέτρων."
+        "info": "Οικονομική εφαρμογή ταξί. Καλή εναλλακτική στα κλασικά ταξί με ταξίμετρο στην Πάφο."
+      },
+      {
+        "info": "Διάφορες υπηρεσίες ταξί διαθέσιμες online. Αξιόπιστη επιλογή είναι το Paphos Taxi Airport, όπου μπορείτε να κανονίσετε παραλαβή και μέσω WhatsApp: +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο"
-        },
-        {
-          "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο"
-        },
-        {
-          "note": "Αστυνομικό τμήμα Πάφου"
-        }
+        { "note": "Αστυνομία, ασθενοφόρο, πυροσβεστική. Δωρεάν από οποιοδήποτε τηλέφωνο" },
+        { "note": "Κεντρικό νοσοκομείο στην Πάφο, περίπου 10 λεπτά με αυτοκίνητο" },
+        { "note": "Αστυνομικό τμήμα Πάφου" }
       ],
-      "nearestPharmacy": "Αρκετά φαρμακεία σε απόσταση βόλτας στον κεντρικό δρόμο. Ρωτήστε μας αν χρειάζεστε βοήθεια να βρείτε το πλησιέστερο."
+      "nearestPharmacy": "Αρκετά φαρμακεία σε κοντινή απόσταση στον κεντρικό δρόμο. Ρωτήστε μας αν χρειαστείτε βοήθεια."
     },
     "checkout": {
       "steps": [
-        "Ξεστρώστε τα σεντόνια και στοιβάξτε τα πάνω στο κρεβάτι",
-        "Πλύνετε τα πιάτα ή βάλτε μια τελευταία φορά το πλυντήριο πιάτων",
-        "Αδειάστε το ψυγείο και πετάξτε όλα τα υπολείμματα φαγητού",
-        "Μεταφέρετε όλες τις σακούλες σκουπιδιών στους κάδους στο πάρκινγκ. Καθώς βγαίνετε είναι δεξιά μετά την πισίνα",
-        "Κλείστε την ομπρέλα της βεράντας και δέστε την με ασφάλεια",
-        "Μεταφέρετε τα εξωτερικά μαξιλάρια και τη διακόσμηση μέσα",
-        "Κλείστε όλα τα παράθυρα, τις πόρτες και τα ρολά",
-        "Σβήστε όλα τα φώτα, το κλιματιστικό και την τηλεόραση",
-        "Βγάλτε το μεταλλικό κλειδί από την υποδοχή ρεύματος δίπλα στην πόρτα",
-        "Κλειδώστε την πόρτα του διαμερίσματος και επιστρέψτε όλα τα κλειδιά στο κουτί κλειδιών, στη συνέχεια επαναφέρετε τον κωδικό",
-        "Στείλτε μας WhatsApp για να μας πείτε ότι φύγατε, και θα χαρούμε για μια αξιολόγηση! 😊"
-      ],
-      "lateCheckout": "Προσπαθούμε να είμαστε ευέλικτοι. Αν θέλετε αργή αναχώρηση, παρακαλούμε ενημερώστε μας 1-2 ημέρες πριν την αναχώρησή σας και θα κάνουμε ό,τι μπορούμε."
+        "Αν μπορούσατε να πλύνετε τα πιάτα ή να βάλετε τελευταία φορά το πλυντήριο, θα το εκτιμούσαμε πολύ!",
+        "Αν μπορούσατε να αδειάσετε το ψυγείο και να πετάξετε τα υπολείμματα φαγητού, θα ήταν υπέροχο!",
+        "Αν μπορούσατε να μεταφέρετε τους σάκους σκουπιδιών στους κάδους στο πάρκινγκ (δεξιά καθώς βγαίνετε από την πισίνα), θα βοηθούσατε πάρα πολύ!",
+        "Παρακαλούμε θυμηθείτε να κλείσετε και να στερεώσετε καλά την ομπρέλα πριν φύγετε.",
+        "Αν βρέχει ή φαίνεται ότι θα βρέξει, παρακαλούμε μαζέψτε τα μαξιλάρια του εξωτερικού καναπέ μέσα. Ευχαριστούμε!",
+        "Πριν φύγετε, παρακαλούμε κλείστε όλα τα παράθυρα, τις πόρτες βεράντας και τα ρολά.",
+        "Παρακαλούμε σβήστε όλα τα φώτα, το κλιματιστικό και την τηλεόραση.",
+        "Όταν είστε έτοιμοι να φύγετε, κλειδώστε και επιστρέψτε όλα τα κλειδιά στο κουτί, επαναφέροντας τον κωδικό.",
+        "Στείλτε μας ένα WhatsApp για να μας ενημερώσετε ότε φύγατε – και θα χαρούμε πολύ για μια αξιολόγηση αν σας άρεσε η διαμονή!"
+      ]
     }
   },
   "fr": {
@@ -813,46 +528,24 @@
       "checkoutChecklist": "Liste de départ",
       "contactHost": "Contacter l'hôte"
     },
-    "welcomeMessage": "Bienvenue au Luxe Poolside Escape ! Nous sommes ravis de vous accueillir dans cette retraite magnifiquement conçue. Pensée pour le confort et l'élégance, cette maison est votre sanctuaire privé sur la Méditerranée. Tout a été préparé avec soin. Plongez dans la piscine, savourez un café sur la terrasse et laissez l'île opérer sa magie. Nous sommes toujours à portée d'un message si vous avez besoin de quoi que ce soit.",
+    "welcomeMessage": "Votre retraite méditerranéenne privée – piscine, deux terrasses et tout est prêt. Détendez-vous et profitez de l'île. Écrivez-nous à tout moment.",
     "gettingHere": {
-      "byCar": "Le lien Google Maps ci-dessus est précis et vous guidera directement dans le complexe, jusqu'à la piscine et au parking. Vous pouvez vous garer où vous le souhaitez dans le complexe. Une fois arrivé, suivez le guide photo étape par étape ci-dessous pour rejoindre l'appartement.",
-      "parking": "Descendez jusqu'à la zone de la piscine où la route se termine. Les places de parking sont librement disponibles, garez-vous où vous le souhaitez. L'entrée de l'appartement est à 1 minute à pied. Par temps venteux, évitez de vous garer sous les arbres pour des raisons évidentes ! 🌳",
-      "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 jusqu'à l'arrêt Tombs of the Kings. De là, l'appartement est à 18 minutes à pied (~1,3 km). Vous pouvez aussi prendre le bus 615 pour 1 arrêt (~2 min) pour vous rapprocher, puis marcher. À pied, dirigez-vous vers l'hôtel AVLIDA, dépassez-le, tournez à droite à la station Esso et vous trouverez l'entrée du complexe King's Park derrière. ⚠️ Les bus n'acceptent que l'argent liquide. Tarif : 2,50 € par personne et par trajet.",
-      "taxi": "Des taxis sont disponibles directement à la sortie de la salle d'arrivée de l'aéroport de Paphos. Un tarif typique vers Paphos est de 40-45 € en journée et 45-50 € en soirée. Le trajet depuis l'aéroport dure environ 20-25 minutes.",
+      "byCar": "Suivez le lien Google Maps – il vous guide directement dans la résidence jusqu'à la zone de la piscine. Garez-vous n'importe où, puis suivez le guide photo ci-dessous pour rejoindre l'appartement.",
+      "parking": "Parking gratuit au niveau de la piscine, places disponibles librement. L'entrée de l'appartement est à 1 minute à pied. Par temps venteux, évitez de vous garer sous les arbres.",
+      "publicTransport": "Depuis l'aéroport de Paphos, prenez le bus 612 (~35 min selon la saison et les arrêts). Depuis l'arrêt, deux options : à pied (~18 min, 1,3 km) ou bus 615 pour un arrêt puis quelques minutes à pied (~4 min). À pied : dirigez-vous vers l'hôtel AVLIDA, dépassez-le, tournez à droite à la station Esso – l'entrée du complexe King's Park est juste derrière. ⚠️ Les bus n'acceptent que les espèces. 2,50 € par personne et par trajet.",
+      "taxi": "Des taxis attendent à la sortie des arrivées à l'aéroport de Paphos. Tarif : 40–45 € (jour), 45–50 € (nuit). ~20–25 min. Une option légèrement moins chère est de commander un Bolt.",
       "directionPhotos": [
-        {
-          "caption": "Tournez à droite à la station Esso (dans la rue Morphou)"
-        },
-        {
-          "caption": "Avancez d'environ 50 m jusqu'à la grande construction sur la droite"
-        },
-        {
-          "caption": "Continuez, encore un peu..."
-        },
-        {
-          "caption": "À cette construction, tournez à droite dans la rue étroite"
-        },
-        {
-          "caption": "Garez-vous ici ou continuez à pied après la piscine"
-        },
-        {
-          "caption": "Suivez la route vers l'arrière où se trouve la zone de la piscine"
-        },
-        {
-          "caption": "Tournez à gauche au premier passage sous arche en pierre"
-        },
-        {
-          "caption": "Longez la piscine, tournez à droite le long de la clôture"
-        },
-        {
-          "caption": "Deux boîtes à clés sous la boîte aux lettres 'D6'. Ouvrez celle de droite. Code : 9006"
-        },
-        {
-          "caption": "Passez par le couloir"
-        },
-        {
-          "caption": "Première porte à gauche (rez-de-chaussée). La porte blanche, c'est la vôtre !"
-        }
+        { "caption": "Tournez à droite à la station Esso (dans la rue Morphou)" },
+        { "caption": "Avancez d'environ 50 m jusqu'à la grande construction sur la droite" },
+        { "caption": "Continuez, encore un peu..." },
+        { "caption": "À cette construction, tournez à droite dans la rue étroite" },
+        { "caption": "Garez-vous ici ou continuez à pied après la piscine" },
+        { "caption": "Suivez la route vers l'arrière où se trouve la zone de la piscine" },
+        { "caption": "Tournez à gauche au premier passage sous arche en pierre" },
+        { "caption": "Continuez..." },
+        { "caption": "Deux boîtes à clés sous la boîte aux lettres 'D6'. Ouvrez celle de droite. Code : 9006" },
+        { "caption": "Passez par le couloir" },
+        { "caption": "Première porte à gauche (rez-de-chaussée). La porte blanche, c'est la vôtre !" }
       ]
     },
     "checkin": {
@@ -868,183 +561,110 @@
         "Une fois à l'intérieur, insérez la clé métallique dans la fiche d'alimentation près de la porte pour allumer l'électricité (comme à l'hôtel)",
         "Remettez la clé dans la boîte à votre départ et réinitialisez le code"
       ],
-      "notes": "Si vous avez du mal à nous trouver, appelez ou envoyez un message WhatsApp à tout moment, nous serons ravis de vous guider étape par étape."
+      "notes": "Si vous avez du mal à nous trouver, appelez ou envoyez un message WhatsApp à tout moment – nous serons ravis de vous guider étape par étape."
     },
     "houseRules": [
-      "Interdiction de fumer à l'intérieur, balcons et terrasses uniquement",
-      "Pas de fêtes, d'événements ou de musique forte. Heures de silence de 22h à 8h",
-      "Capacité maximale : 4 personnes",
-      "Pas d'animaux sur les meubles ni dans la piscine",
-      "Utilisez les serviettes de piscine (dans le panier des transats), pas les serviettes de salle de bain",
-      "Zone piscine : absolument pas de verre, pas de plongeon depuis le bord",
-      "Gardez les portes et fenêtres fermées lorsque la climatisation est en marche",
-      "Ventilez régulièrement l'appartement lorsque vous êtes à l'intérieur. Ouvrez les fenêtres et portes quand la clim est éteinte",
-      "Départ strictement avant 11h00",
-      "Tout dommage doit être signalé, nous comprenons que les accidents arrivent",
-      "Les poubelles se trouvent dans le parking. En sortant du parking, elles sont sur votre droite après la piscine",
-      "Conservez les clés précieusement. En cas de perte ou d'enfermement, un serrurier sera nécessaire et les frais vous seront facturés"
+      "Merci de limiter la cigarette aux balcons et terrasses uniquement",
+      "Merci de rester discrets. Heures de silence de 23h à 8h. Pas de fêtes ni d'événements",
+      "Nous adorons les animaux, mais nous ne pouvons malheureusement pas en accueillir. Désolés !",
+      "Merci d'utiliser la corbeille à côté des toilettes plutôt que de jeter le papier dans la chasse – la plomberie chypriote ne peut vraiment pas le gérer",
+      "Placez la clé métallique dans la prise à côté de la porte quand vous êtes à l'intérieur, et emportez-la lorsque vous sortez",
+      "Fermez les portes et fenêtres du balcon et des terrasses quand la climatisation fonctionne",
+      "Merci de remettre les clés dans la boîte au départ et de réinitialiser le code. En cas de perte ou de blocage, les frais de serrurier seront à votre charge",
+      "Merci de traiter l'appartement comme le vôtre et de nous prévenir immédiatement en cas de dommage. Nous comprenons que les accidents arrivent"
     ],
     "appliances": [
       {
         "name": "Électricité",
-        "instructions": "Pour avoir de l'électricité, insérez la clé métallique dans la fiche sur le mur près de la porte, comme à l'hôtel. N'oubliez pas de la retirer et de prendre vos clés chaque fois que vous quittez l'appartement. Important : chaque prise à Chypre possède son propre interrupteur. Si un appareil ne fonctionne pas, vérifiez que l'interrupteur est activé. Des adaptateurs UE sont disponibles dans l'appartement."
+        "instructions": "Insérez la clé métallique dans la prise à côté de la porte pour alimenter l'appartement en électricité – et pensez à l'emporter quand vous sortez. Chaque prise possède aussi son propre interrupteur mural : si quelque chose ne s'allume pas, c'est généralement la cause. Des adaptateurs EU sont disponibles si besoin."
       },
       {
         "name": "Cuisine",
-        "instructions": "La cuisine comprend une plaque électrique, un four électrique, une cafetière basique et un moulin à café. Vous pouvez utiliser tout cela librement, merci de nettoyer chaque appareil après utilisation. Des ingrédients de base sont fournis (sel, poivre, huile d'olive) ainsi que des grains de café. Important : le climat chaud de Chypre peut attirer des insectes. Faites la vaisselle rapidement, éliminez immédiatement les restes de nourriture et ne laissez rien sur le comptoir ou par terre."
+        "instructions": "Tout le nécessaire est là : plaque électrique, four, friteuse à air chaud, cafetière et moulin à café. Sel, poivre, huile d'olive et grains de café sont à votre disposition. Astuce : merci de faire la vaisselle rapidement et de garder les plans de travail dégagés – la chaleur peut attirer les insectes."
+      },
+      {
+        "name": "Climatisation",
+        "instructions": "La télécommande est sur la table de chevet. Appuyez sur POWER, sélectionnez COOL, réglez entre 22 et 24 degrés. Gardez les fenêtres fermées pendant le fonctionnement. Pour l'éteindre, maintenez le bouton power enfoncé quelques instants plutôt que de le taper brièvement, et pensez à l'éteindre avant de sortir."
       },
       {
         "name": "Machine à laver",
-        "instructions": "Vous trouverez la machine à laver dans la cuisine. Le programme Lavage Rapide convient à la plupart des chargements. N'hésitez pas à nous contacter si vous avez des questions !"
+        "instructions": "Le programme Lavage Rapide convient à la plupart des chargements. Vous la trouverez dans la cuisine."
       },
       {
         "name": "Lave-vaisselle",
-        "instructions": "Le lave-vaisselle est à votre disposition. Les tablettes sont sous l'évier. Nous recommandons le programme Eco : économique en énergie et parfait pour la vaisselle quotidienne."
+        "instructions": "Les tablettes sont sous l'évier. Le programme Eco est parfait pour la vaisselle quotidienne."
       },
       {
         "name": "Douche & Eau chaude",
-        "instructions": "L'eau met généralement 2 à 3 minutes à chauffer, c'est normal. Si l'eau ne chauffe pas, les panneaux solaires n'ont peut-être pas eu assez de soleil ce jour-là. Dans ce cas, appuyez sur le bouton de chauffage près de la porte de la salle de bain et attendez 20 minutes. Important : éteignez le chauffe-eau avant de vous doucher. (Cela n'est nécessaire qu'environ 10 % du temps. Chypre est généralement très ensoleillée ! ☀️)"
+        "instructions": "L'eau est chauffée par des panneaux solaires sur le toit – chaude et écologique ! Attendez 2–3 minutes qu'elle arrive. Par temps couvert, les panneaux peuvent ne pas suffire : appuyez sur le bouton du chauffe-eau à côté de la porte de la salle de bain et attendez 20–30 minutes par personne avant de doucher. ⚠️ Éteignez toujours le chauffe-eau avant d'entrer sous la douche."
       },
       {
         "name": "Terrasses & Parasol",
-        "instructions": "L'appartement dispose de deux terrasses. Aménagez-les comme vous le souhaitez. Les coussins extérieurs et la décoration sont rangés à l'intérieur et peuvent être installés sur les terrasses. Pour le grand parasol de terrasse : ne pas l'utiliser par temps venteux, le fermer la nuit ou quand il n'est pas utilisé, et s'assurer qu'il est bien fermé et attaché avant le départ."
+        "instructions": "Deux terrasses pour vous ! Les coussins extérieurs sont rangés à l'intérieur quand ils ne sont pas utilisés. Merci de garder le parasol fermé par temps venteux, la nuit et avant votre départ."
       },
       {
         "name": "Accès piscine",
-        "instructions": "La clé de la piscine se trouve sur le trousseau avec les clés de l'appartement. La piscine partagée est généralement calme. Soyez attentifs aux autres clients et respectez les règles affichées dans la zone piscine. Utilisez les serviettes de plage fournies, pas les serviettes de salle de bain."
+        "instructions": "Votre trousseau comprend la clé de la piscine. Merci d'utiliser les serviettes de piscine dans le panier des transats plutôt que celles de la salle de bain. Pas de verre ni de plongeon depuis le bord, et pas d'animaux dans la piscine."
       },
       {
         "name": "Salle de bain",
-        "instructions": "Des serviettes fraîches, un sèche-cheveux et des articles de toilette de base sont fournis. Si vous avez besoin de quoi que ce soit, dites-le nous. Important : la plomberie chypriote ne peut pas gérer le papier toilette. Utilisez la poubelle à côté des toilettes. Merci !"
+        "instructions": "Des serviettes, un sèche-cheveux et des articles de toilette de base sont fournis. Merci d'utiliser la corbeille à côté des toilettes plutôt que de jeter le papier dans la chasse – la plomberie chypriote n'est vraiment pas prévue pour ça !"
+      },
+      {
+        "name": "Poubelles",
+        "instructions": "Les poubelles se trouvent dans le parking, sur votre droite en sortant par la zone de la piscine."
       },
       {
         "name": "Eau potable",
-        "instructions": "L'eau du robinet à Chypre est généralement sûre, mais beaucoup de clients préfèrent l'eau en bouteille. Des grandes bouteilles sont disponibles dans n'importe quel supermarché à proximité."
+        "instructions": "L'eau du robinet est potable, bien que beaucoup de visiteurs préfèrent l'eau en bouteille. Disponible dans les supermarchés à proximité."
       },
       {
         "name": "Plantes",
-        "instructions": "Vous trouverez quelques plantes dans l'appartement, elles contribuent à créer une atmosphère naturelle et chaleureuse. Si vous séjournez plus de quelques jours, nous apprécierions vraiment que vous les arrosiez tous les 3 à 4 jours. Merci ! 🌿"
+        "instructions": "Si vous restez quelques jours, les plantes apprécieraient un peu d'eau tous les 3–4 jours. Elles vous en seront reconnaissantes !"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Plages 🏝️"
-      },
-      {
-        "category": "Sites historiques & promenades 🏰"
-      },
-      {
-        "category": "Attractions & Excursions 📸"
-      },
-      {
-        "category": "Randonnées & sentiers naturels ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Grec / Méditerranéen"
-      },
-      {
-        "type": "Grec / Meze"
-      },
-      {
-        "type": "Café / Brunch"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Chypriote"
-      },
-      {
-        "type": "Restauration rapide"
-      },
-      {
-        "type": "Café / Local"
-      },
-      {
-        "type": "Chypriote / Café"
-      },
-      {
-        "type": "Grec / Chypriote"
-      },
-      {
-        "type": "Taverne chypriote"
-      },
-      {
-        "type": "Divers / Port"
-      },
-      {
-        "type": "Chypriote / Fruits de mer"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Café / Restaurant"
-      },
-      {
-        "type": "Fruits de mer"
-      },
-      {
-        "type": "Bar / Restaurant"
-      },
-      {
-        "type": "Chypriote / Vin"
-      },
-      {
-        "type": "Fruits de mer / Taverne"
-      },
-      {
-        "type": "Épicerie"
-      },
-      {
-        "type": "Supermarché"
-      }
+      { "category": "Plages 🏝️" },
+      { "category": "Sites historiques & promenades 🏰" },
+      { "category": "Attractions & Excursions 📸" },
+      { "category": "Randonnées & sentiers naturels ⛰️" },
+      { "category": "Eat & Drink" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines."
+        "info": "La gare routière centrale (Tombs of the Kings) est à 18 minutes à pied (~1,3 km), avec des connexions directes aux principales attractions, à l'aéroport et aux villes voisines. Les arrêts sont désormais disponibles sur Google Maps, mais il vaut toujours mieux consulter le site officiel pour les horaires à jour."
       },
       {
-        "info": "L'autopartage fonctionne bien à Paphos, y compris vers et depuis l'aéroport. Téléchargez l'application, inscrivez-vous en 5 minutes. Des voitures sont généralement disponibles à 5-10 minutes à pied."
+        "info": "Application d'autopartage qui fonctionne bien dans la région de Paphos. Inscription en quelques minutes. Des véhicules sont généralement disponibles à 5–10 minutes à pied."
       },
       {
-        "info": "Application taxi économique. Recommandée pour se déplacer à Paphos sans l'incertitude des compteurs."
+        "info": "Application de taxi économique. Bonne alternative aux taxis à compteur autour de Paphos."
+      },
+      {
+        "info": "Divers services de taxi sont disponibles en ligne. Une option fiable est Paphos Taxi Airport, où vous pouvez aussi organiser une prise en charge directement par WhatsApp : +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone"
-        },
-        {
-          "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture"
-        },
-        {
-          "note": "Poste de police de Paphos"
-        }
+        { "note": "Police, ambulance, pompiers. Gratuit depuis n'importe quel téléphone" },
+        { "note": "Hôpital principal de Paphos, à environ 10 minutes en voiture" },
+        { "note": "Poste de police de Paphos" }
       ],
       "nearestPharmacy": "Plusieurs pharmacies à distance de marche sur la route principale. Demandez-nous si vous avez besoin d'une recommandation."
     },
     "checkout": {
       "steps": [
-        "Défaire les draps et les laisser empilés sur le lit",
-        "Faire la vaisselle ou lancer le lave-vaisselle une dernière fois",
-        "Vider le réfrigérateur et jeter tous les restes de nourriture",
-        "Apporter tous les sacs poubelle aux bacs dans le parking. En sortant, ils sont sur votre droite après la piscine",
-        "Fermer et attacher solidement le parasol de terrasse",
-        "Rentrer les coussins extérieurs et la décoration",
-        "Fermer toutes les fenêtres, portes et volets",
-        "Éteindre toutes les lumières, la climatisation et la télévision",
-        "Retirer la clé métallique de la fiche électrique près de la porte",
-        "Verrouiller la porte de l'appartement et remettre toutes les clés dans la boîte, réinitialiser le code",
-        "Envoyez-nous un WhatsApp pour nous dire que vous êtes parti, et nous adorerions un avis ! 😊"
-      ],
-      "lateCheckout": "Nous essayons d'être flexibles. Si vous souhaitez un départ tardif, veuillez nous prévenir 1 à 2 jours avant votre départ et nous ferons de notre mieux."
+        "Si vous pouviez faire la vaisselle ou lancer le lave-vaisselle une dernière fois, nous vous en serions très reconnaissants !",
+        "Si vous pouviez vider le réfrigérateur et jeter les restes de nourriture, ce serait parfait !",
+        "Si vous pouviez apporter les sacs poubelle aux bacs dans le parking (sur votre droite en sortant par la piscine), ce serait une grande aide !",
+        "Merci de penser à fermer et attacher solidement le parasol avant de partir.",
+        "S'il pleut ou si la pluie menace, merci de rentrer les coussins du canapé extérieur pour qu'ils restent au sec. Merci !",
+        "Avant de partir, merci de fermer toutes les fenêtres, portes de balcon et volets.",
+        "Merci d'éteindre toutes les lumières, la climatisation et la télévision.",
+        "Quand vous êtes prêts à partir, merci de fermer à clé et de remettre toutes les clés dans la boîte en réinitialisant le code.",
+        "Envoyez-nous un WhatsApp pour nous dire que vous êtes partis – et nous serions vraiment ravis d'avoir un avis si vous avez apprécié votre séjour !"
+      ]
     }
   },
   "es": {
@@ -1075,46 +695,24 @@
       "checkoutChecklist": "Lista de salida",
       "contactHost": "Contactar al anfitrión"
     },
-    "welcomeMessage": "¡Bienvenido al Luxe Poolside Escape! Estamos encantados de recibirle en este retiro bellamente diseñado. Concebido para el confort y la elegancia, este hogar es su santuario privado en el Mediterráneo. Todo ha sido preparado con cuidado. Sumérjase en la piscina, disfrute de un café en la terraza y deje que la isla haga su magia. Siempre estamos a un mensaje de distancia si necesita algo.",
+    "welcomeMessage": "Nuestro retiro mediterráneo privado – piscina, dos terrazas y todo listo. Relájense y disfruten de la isla. Escríbannos cuando quieran.",
     "gettingHere": {
-      "byCar": "El enlace de Google Maps de arriba es preciso y le navegará directamente dentro del complejo, hasta la zona de la piscina y el aparcamiento. Puede aparcar donde quiera dentro del complejo. Una vez que llegue, siga la guía fotográfica paso a paso a continuación para llegar al apartamento.",
-      "parking": "Conduzca hasta la zona de la piscina donde termina la carretera. Las plazas de aparcamiento están disponibles libremente, aparque donde quiera. La entrada al apartamento está a 1 minuto a pie. ¡En días de viento, evite aparcar bajo los árboles por razones obvias! 🌳",
-      "publicTransport": "Desde el aeropuerto de Pafos, tome el autobús 612 hasta la parada Tombs of the Kings. Desde allí, el apartamento está a 18 minutos a pie (~1,3 km). Alternativamente, tome el autobús 615 por 1 parada (~2 min) para acercarse más, luego camine el resto. A pie, diríjase al hotel AVLIDA, pase por delante, gire a la derecha en la gasolinera Esso y encontrará la entrada al complejo King's Park detrás. ⚠️ Los autobuses solo aceptan efectivo. Tarifa: 2,50 € por persona y trayecto.",
-      "taxi": "Hay taxis disponibles directamente a la salida de la sala de llegadas del aeropuerto de Pafos. Una tarifa típica a Pafos es de 40-45 € durante el día y 45-50 € fuera de horas. El tiempo de viaje desde el aeropuerto es de aproximadamente 20-25 minutos.",
+      "byCar": "Sigan el enlace de Google Maps – navega directamente dentro del complejo hasta la zona de la piscina. Aparcad en cualquier lugar y luego usad la guía fotográfica de abajo para llegar al apartamento.",
+      "parking": "Aparcamiento gratuito en la zona de la piscina, plazas disponibles libremente. La entrada al apartamento está a 1 minuto a pie. En días de viento, eviten aparcar bajo los árboles.",
+      "publicTransport": "Desde el aeropuerto de Pafos, tomen el autobús 612 (~35 min según la temporada y las paradas). Desde la parada, dos opciones: a pie (~18 min, 1,3 km) o autobús 615 una parada y luego un corto paseo (~4 min). A pie: dirección al hotel AVLIDA, pasar por delante, girar a la derecha en la gasolinera Esso – la entrada al complejo King's Park está justo detrás. ⚠️ Los autobuses solo aceptan efectivo. 2,50 € por persona y trayecto.",
+      "taxi": "Hay taxis esperando a la salida de llegadas en el aeropuerto de Pafos. Tarifa: 40–45 € (día), 45–50 € (noche). ~20–25 min. Una opción algo más económica es pedir un Bolt.",
       "directionPhotos": [
-        {
-          "caption": "Gire a la derecha en la gasolinera Esso (hacia la calle Morphou)"
-        },
-        {
-          "caption": "Avance unos 50 m hasta la gran construcción a la derecha"
-        },
-        {
-          "caption": "Siga adelante, un poco más..."
-        },
-        {
-          "caption": "En esta construcción, gire a la derecha hacia la calle estrecha"
-        },
-        {
-          "caption": "Aparque aquí o continúe a pie pasando la piscina"
-        },
-        {
-          "caption": "Siga la carretera hacia la parte trasera donde está la zona de la piscina"
-        },
-        {
-          "caption": "Gire a la izquierda en el primer pasaje de arco de piedra"
-        },
-        {
-          "caption": "Pase la piscina, gire a la derecha a lo largo de la valla"
-        },
-        {
-          "caption": "Dos cajas de llaves bajo el buzón 'D6'. Abra la de la derecha. Código: 9006"
-        },
-        {
-          "caption": "Pase por el corredor"
-        },
-        {
-          "caption": "Primera puerta a la izquierda (planta baja). ¡La puerta blanca es la suya!"
-        }
+        { "caption": "Gire a la derecha en la gasolinera Esso (hacia la calle Morphou)" },
+        { "caption": "Avance unos 50 m hasta la gran construcción a la derecha" },
+        { "caption": "Siga adelante, un poco más..." },
+        { "caption": "En esta construcción, gire a la derecha hacia la calle estrecha" },
+        { "caption": "Aparque aquí o continúe a pie pasando la piscina" },
+        { "caption": "Siga la carretera hacia la parte trasera donde está la zona de la piscina" },
+        { "caption": "Gire a la izquierda en el primer pasaje de arco de piedra" },
+        { "caption": "Continúe..." },
+        { "caption": "Dos cajas de llaves bajo el buzón 'D6'. Abra la de la derecha. Código: 9006" },
+        { "caption": "Pase por el corredor" },
+        { "caption": "Primera puerta a la izquierda (planta baja). ¡La puerta blanca es la suya!" }
       ]
     },
     "checkin": {
@@ -1130,183 +728,110 @@
         "Una vez dentro, coloque la llave metálica en el enchufe de llave junto a la puerta para encender la electricidad (igual que en los hoteles)",
         "Devuelva la llave a la caja al hacer el check-out y restablezca el código"
       ],
-      "notes": "Si tiene algún problema para encontrarnos, llame o envíe WhatsApp en cualquier momento; estaremos encantados de guiarle paso a paso."
+      "notes": "Si tienen algún problema para encontrarnos, llamen o envíen un WhatsApp en cualquier momento – estaremos encantados de guiarles paso a paso."
     },
     "houseRules": [
-      "Prohibido fumar en el interior, solo en balcones y terrazas",
-      "No se permiten fiestas, eventos ni música alta. Horas de silencio de 22h a 8h",
-      "Ocupación máxima: 4 huéspedes",
-      "No se permiten mascotas en los muebles ni en la piscina",
-      "Use las toallas de piscina (en la cesta de las tumbonas), no las del baño",
-      "Zona de piscina: absolutamente nada de vidrio, no salte desde el borde",
-      "Mantenga puertas y ventanas cerradas cuando el aire acondicionado esté en marcha",
-      "Ventile el apartamento regularmente mientras esté dentro. Abra ventanas y puertas cuando el AA esté apagado",
-      "Salida estrictamente antes de las 11:00",
-      "Los daños deben comunicarse, entendemos que los accidentes ocurren",
-      "Los cubos de basura están en el aparcamiento. Al salir del parking, están a su derecha después de la piscina",
-      "Guarde las llaves con cuidado. Si las pierde o se queda encerrado, necesitará un cerrajero y el coste se le repercutirá"
+      "Por favor, limiten el tabaco a los balcones y terrazas",
+      "Por favor, mantengan la tranquilidad. Horas de silencio de 23h a 8h. Sin fiestas ni eventos",
+      "Nos encantan los animales, pero lamentablemente no podemos alojar mascotas. ¡Lo sentimos!",
+      "Por favor, usen el cubo junto al inodoro en lugar de tirar papel por el váter – la fontanería chipriota realmente no puede gestionarlo",
+      "Coloquen la llave metálica en el enchufe junto a la puerta cuando estén dentro, y llévensela cuando salgan",
+      "Cierren las puertas y ventanas del balcón y las terrazas cuando esté encendido el aire acondicionado",
+      "Por favor, devuelvan las llaves a la caja al salir y restablezcan el código. Si se pierden o quedan encerrados, los gastos del cerrajero correrán por su cuenta",
+      "Por favor, traten el apartamento como propio y avísennos de inmediato si algo se daña. Entendemos que los accidentes ocurren"
     ],
     "appliances": [
       {
         "name": "Electricidad",
-        "instructions": "Para tener electricidad, coloque la llave metálica en el enchufe de llave en la pared junto a la puerta, igual que en los hoteles. Recuerde quitarla y llevarse las llaves cada vez que salga del apartamento. Importante: cada enchufe en Chipre tiene su propio interruptor en la pared. Si un electrodoméstico no funciona, compruebe que el interruptor esté encendido. También encontrará adaptadores de la UE en el apartamento."
+        "instructions": "Coloquen la llave metálica en el enchufe junto a la puerta para dar corriente al apartamento – y recuerden llevársela al salir. Cada toma tiene también su propio interruptor en la pared: si algo no enciende, ese suele ser el motivo. Hay adaptadores EU disponibles si se necesitan."
       },
       {
         "name": "Cocina",
-        "instructions": "La cocina incluye una vitrocerámica, un horno eléctrico, una cafetera básica y un molinillo. Puede usar todo libremente; por favor, limpie cada electrodoméstico después de usarlo. Se proporcionan ingredientes básicos (sal, pimienta, aceite de oliva) y granos de café. Importante: el clima cálido de Chipre puede atraer insectos. Lave los platos rápidamente, deseche los restos de comida de inmediato y no deje nada en la encimera o en el suelo."
+        "instructions": "Todo está aquí: placa eléctrica, horno, freidora de aire, cafetera y molinillo. Sal, pimienta, aceite de oliva y granos de café son para usar libremente. Un consejo: por favor, frieguen los platos pronto y mantengan las encimeras despejadas – el calor puede atraer insectos."
+      },
+      {
+        "name": "Aire acondicionado",
+        "instructions": "El mando a distancia está en la mesita de noche. Pulsen POWER, seleccionen COOL y ajusten a 22–24 grados. Mantengan las ventanas cerradas durante el funcionamiento. Para apagarlo, mantengan pulsado el botón unos instantes en lugar de simplemente tocarlo, y por favor apáguenlo antes de salir."
       },
       {
         "name": "Lavadora",
-        "instructions": "Encontrará la lavadora en la cocina. El programa Lavado Rápido funciona bien para la mayoría de las cargas. Si tiene alguna pregunta, ¡no dude en contactarnos!"
+        "instructions": "El programa Lavado Rápido funciona bien para la mayoría de cargas. La encontrarán en la cocina."
       },
       {
         "name": "Lavavajillas",
-        "instructions": "El lavavajillas está disponible para su comodidad. Las pastillas están debajo del fregadero. Recomendamos el programa Eco: es eficiente energéticamente y funciona perfectamente para la vajilla diaria."
+        "instructions": "Las pastillas están debajo del fregadero. El programa Eco es perfecto para la vajilla del día a día."
       },
       {
         "name": "Ducha y agua caliente",
-        "instructions": "Normalmente el agua tarda 2-3 minutos en calentarse, esto es normal. Si el agua no se calienta, puede que ese día no haya habido suficiente sol para los paneles solares. En ese caso, pulse el botón de calefacción junto a la puerta del baño y espere 20 minutos. Importante: apague el calentador antes de ducharse. (Esto solo es necesario alrededor del 10% del tiempo. ¡Chipre suele ser muy soleado! ☀️)"
+        "instructions": "El agua se calienta mediante paneles solares en el tejado – ¡caliente y ecológica! Dejen 2–3 minutos para que llegue. En días nublados los paneles pueden no ser suficientes: pulsen el botón del calentador junto a la puerta del baño y esperen 20–30 minutos por persona antes de ducharse. ⚠️ Apaguen siempre el calentador antes de entrar a la ducha."
       },
       {
         "name": "Terrazas y sombrilla",
-        "instructions": "El apartamento tiene dos terrazas. Organícelas como desee. Los cojines de exterior y la decoración están guardados dentro y se pueden colocar en las terrazas. Para la gran sombrilla de patio: no la use en condiciones de viento, ciérrela por la noche o cuando no se use, y asegúrese de que esté bien cerrada y atada antes de la salida."
+        "instructions": "¡Dos terrazas para disfrutar! Los cojines exteriores se guardan dentro cuando no están en uso. Por favor, mantengan la sombrilla cerrada en condiciones de viento, por la noche y antes de la salida."
       },
       {
         "name": "Acceso a la piscina",
-        "instructions": "La llave de la piscina está en el llavero con las llaves del apartamento. La piscina compartida suele estar tranquila. Sea considerado con otros huéspedes y respete las normas del área de la piscina. Use las toallas de playa proporcionadas, no las del baño."
+        "instructions": "El llavero incluye la llave de la piscina. Por favor, usen las toallas de piscina del cesto de las tumbonas en lugar de las del baño. Nada de vidrio ni saltos desde el borde, y por favor nada de mascotas en la piscina."
       },
       {
         "name": "Baño",
-        "instructions": "Se proporcionan toallas frescas, un secador y artículos de aseo básicos. Si necesita algo más, solo tiene que decírnoslo. Importante: la fontanería chipriota no puede manejar papel higiénico. Use el cubo junto al inodoro. ¡Gracias!"
+        "instructions": "Se proporcionan toallas, secador y artículos de aseo básicos. Por favor, usen el cubo junto al inodoro en lugar de tirar papel – ¡la fontanería chipriota realmente no está diseñada para eso!"
+      },
+      {
+        "name": "Basura",
+        "instructions": "Los contenedores de basura están en el aparcamiento, a la derecha al salir pasando la piscina."
       },
       {
         "name": "Agua potable",
-        "instructions": "El agua del grifo en Chipre es generalmente segura, pero muchos huéspedes prefieren agua embotellada. Se pueden comprar botellas grandes en cualquier supermercado cercano."
+        "instructions": "El agua del grifo es potable, aunque muchos huéspedes prefieren embotellada. Disponible en los supermercados cercanos."
       },
       {
         "name": "Plantas",
-        "instructions": "Encontrará algunas plantas en el apartamento, ayudan a mantener el espacio natural y acogedor. Si se queda más de unos días, le agradeceríamos mucho que las regara cada 3-4 días. ¡Gracias! 🌿"
+        "instructions": "Si se quedan varios días, las plantas agradecerían un poco de agua cada 3–4 días. ¡Se lo agradecerán!"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Playas 🏝️"
-      },
-      {
-        "category": "Sitios históricos y paseos escénicos 🏰"
-      },
-      {
-        "category": "Atracciones y excursiones 📸"
-      },
-      {
-        "category": "Senderismo y rutas naturales ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Griego / Mediterráneo"
-      },
-      {
-        "type": "Griego / Meze"
-      },
-      {
-        "type": "Cafetería / Brunch"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Chipriota"
-      },
-      {
-        "type": "Patio de comidas"
-      },
-      {
-        "type": "Cafetería / Local"
-      },
-      {
-        "type": "Chipriota / Cafetería"
-      },
-      {
-        "type": "Griego / Chipriota"
-      },
-      {
-        "type": "Taberna chipriota"
-      },
-      {
-        "type": "Varios / Puerto"
-      },
-      {
-        "type": "Chipriota / Mariscos"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Cafetería / Restaurante"
-      },
-      {
-        "type": "Mariscos"
-      },
-      {
-        "type": "Bar / Restaurante"
-      },
-      {
-        "type": "Chipriota / Vino"
-      },
-      {
-        "type": "Mariscos / Taberna"
-      },
-      {
-        "type": "Tienda de alimentación"
-      },
-      {
-        "type": "Supermercado"
-      }
+      { "category": "Playas 🏝️" },
+      { "category": "Sitios históricos y paseos escénicos 🏰" },
+      { "category": "Atracciones y excursiones 📸" },
+      { "category": "Senderismo y rutas naturales ⛰️" },
+      { "category": "Eat & Drink" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "La estación de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos."
+        "info": "La parada de autobús central (Tombs of the Kings) está a 18 minutos a pie (~1,3 km), con conexiones directas a las principales atracciones, el aeropuerto y pueblos cercanos. Las paradas ya están en Google Maps, aunque siempre conviene consultar la web oficial para los horarios más recientes."
       },
       {
-        "info": "El carsharing funciona bien en Pafos, incluso hacia y desde el aeropuerto. Descargue la app, regístrese en 5 minutos. Coches disponibles normalmente en 5-10 minutos a pie."
+        "info": "Aplicación de coche compartido que funciona bien por toda la zona de Pafos. Regístrese en pocos minutos. Vehículos disponibles normalmente a 5–10 minutos a pie."
       },
       {
-        "info": "Aplicación de taxi económica. Recomendada para moverse por Pafos sin la incertidumbre de los taxímetros."
+        "info": "Aplicación de taxi económica. Buena alternativa a los taxis con taxímetro por Pafos."
+      },
+      {
+        "info": "Hay varios servicios de taxi disponibles online. Una opción fiable es Paphos Taxi Airport, donde también pueden organizar una recogida por WhatsApp: +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono"
-        },
-        {
-          "note": "Hospital principal de Pafos, a unos 10 minutos en coche"
-        },
-        {
-          "note": "Comisaría de Pafos"
-        }
+        { "note": "Policía, ambulancia, bomberos. Gratuito desde cualquier teléfono" },
+        { "note": "Hospital principal de Pafos, a unos 10 minutos en coche" },
+        { "note": "Comisaría de Pafos" }
       ],
-      "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntenos si necesita una recomendación."
+      "nearestPharmacy": "Varias farmacias a poca distancia a pie en la carretera principal. Pregúntennos si necesitan una recomendación."
     },
     "checkout": {
       "steps": [
-        "Retirar la ropa de cama y dejarla apilada sobre la cama",
-        "Lavar los platos o poner el lavavajillas por última vez",
-        "Vaciar la nevera y desechar todos los alimentos sobrantes",
-        "Llevar todas las bolsas de basura a los contenedores del aparcamiento. Al salir, están a su derecha después de la piscina",
-        "Cerrar y atar bien la sombrilla de la terraza",
-        "Meter los cojines de exterior y la decoración dentro",
-        "Cerrar todas las ventanas, puertas y persianas",
-        "Apagar todas las luces, el aire acondicionado y el televisor",
-        "Sacar la llave metálica del enchufe junto a la puerta",
-        "Cerrar la puerta del apartamento y devolver todas las llaves a la caja, restablecer el código",
-        "Envíenos un WhatsApp para avisarnos de que se ha ido, ¡y nos encantaría una reseña! 😊"
-      ],
-      "lateCheckout": "Intentamos ser flexibles. Si desea una salida tardía, comuníquenoslo 1-2 días antes de su partida y haremos todo lo posible."
+        "Si pudieran fregar los platos o poner el lavavajillas por última vez, ¡lo agradeceríamos muchísimo!",
+        "Si pudieran vaciar la nevera y tirar los restos de comida, ¡sería genial!",
+        "Si pudieran llevar las bolsas de basura a los contenedores del aparcamiento (a la derecha al salir por la piscina), ¡sería de gran ayuda!",
+        "Por favor, recuerden cerrar y atar bien la sombrilla antes de irse.",
+        "Si llueve o parece que va a llover, por favor metan los cojines del sofá exterior para que no se mojen. ¡Gracias!",
+        "Antes de salir, por favor cierren todas las ventanas, puertas de balcón y persianas.",
+        "Por favor, apaguen todas las luces, el aire acondicionado y el televisor.",
+        "Cuando estén listos para irse, cierren con llave y devuelvan todas las llaves a la caja restableciendo el código.",
+        "Envíennos un WhatsApp para avisarnos de que se han ido – ¡y nos encantaría una reseña si disfrutaron de su estancia!"
+      ]
     }
   },
   "pl": {
@@ -1337,46 +862,24 @@
       "checkoutChecklist": "Lista wymeldowania",
       "contactHost": "Kontakt z gospodarzem"
     },
-    "welcomeMessage": "Witamy w Luxe Poolside Escape! Jesteśmy zachwyceni, że możemy gościć Państwa w tym pięknie urządzonym miejscu. Zaprojektowane dla komfortu i elegancji, to miejsce jest Państwa prywatnym sanktuarium nad Morzem Śródziemnym. Wszystko zostało przygotowane z troską. Zanurzcie się w basenie, cieszcie się kawą na tarasie i pozwólcie wyspie działać swoją magią. Jesteśmy zawsze o wiadomość oddaleni, jeśli czegokolwiek potrzebujecie.",
+    "welcomeMessage": "Wasza prywatna śródziemnomorska oaza – basen, dwa tarasy i wszystko gotowe. Odpoczywajcie i cieszcie się wyspą. Piszcie do nas w każdej chwili.",
     "gettingHere": {
-      "byCar": "Powyższy link Google Maps jest dokładny i poprowadzi Państwa bezpośrednio do kompleksu, aż do strefy basenowej i parkingu. Możecie parkować gdziekolwiek chcecie w kompleksie. Po przybyciu, postępujcie zgodnie z fotograficznym przewodnikiem krok po kroku poniżej, aby dotrzeć do apartamentu.",
-      "parking": "Jedźcie do strefy basenowej, gdzie kończy się droga. Miejsca parkingowe są swobodnie dostępne, parkujcie gdzie chcecie. Wejście do apartamentu jest w odległości 1 minuty pieszo. W wietrzne dni unikajcie parkowania pod drzewami z oczywistych powodów! 🌳",
-      "publicTransport": "Z lotniska w Pafos weźcie autobus 612 do przystanku Tombs of the Kings. Stamtąd apartament jest oddalony o 18 minut pieszo (~1,3 km). Możecie też wsiąść do autobusu 615 na 1 przystanek (~2 min) i potem przejść resztę drogi pieszo. Pieszo idźcie w kierunku hotelu AVLIDA, mijajcie go, skręćcie w prawo przy stacji Esso i znajdziecie wejście do kompleksu King's Park za nią. ⚠️ Autobusy akceptują tylko gotówkę. Opłata wynosi 2,50 € za osobę za kurs.",
-      "taxi": "Taksówki są dostępne bezpośrednio przy wyjściu z hali przyletów na lotnisku w Pafos. Typowa opłata za przejazd do Pafos wynosi 40-45 € w godzinach dziennych i 45-50 € po godzinach. Czas podróży z lotniska wynosi około 20-25 minut.",
+      "byCar": "Korzystajcie z linku Google Maps – prowadzi bezpośrednio do kompleksu, aż do strefy basenu. Parkujcie gdziekolwiek, a następnie skorzystajcie z poniższego przewodnika fotograficznego, aby dotrzeć do apartamentu.",
+      "parking": "Bezpłatny parking przy strefie basenowej, miejsca swobodnie dostępne. Wejście do apartamentu jest w odległości 1 minuty pieszo. W wietrzne dni unikajcie parkowania pod drzewami.",
+      "publicTransport": "Z lotniska w Pafos jedźcie autobusem 612 (~35 min, w zależności od sezonu i przystanków). Od przystanku dwie opcje: pieszo (~18 min, 1,3 km) lub autobusem 615 jeden przystanek i chwila drogi pieszo (~4 min). Pieszo: kierujcie się w stronę hotelu AVLIDA, mijajcie go, skręćcie w prawo przy stacji Esso – wejście do kompleksu King's Park jest tuż za nią. ⚠️ Autobusy przyjmują tylko gotówkę. 2,50 € od osoby za przejazd.",
+      "taxi": "Taksówki czekają przed wyjściem z hali przylotów na lotnisku w Pafos. Taryfa: 40–45 € (dzień), 45–50 € (noc). ~20–25 min. Nieco taniej można zamówić przejazd Boltem.",
       "directionPhotos": [
-        {
-          "caption": "Skręćcie w prawo przy stacji Esso (na ulicę Morphou)"
-        },
-        {
-          "caption": "Idźcie około 50 m do dużej budowy po prawej stronie"
-        },
-        {
-          "caption": "Idźcie dalej, jeszcze trochę..."
-        },
-        {
-          "caption": "Przy tej budowie skręćcie w prawo w wąską uliczkę"
-        },
-        {
-          "caption": "Zaparkujcie tutaj lub kontynuujcie pieszo obok basenu"
-        },
-        {
-          "caption": "Podążajcie drogą na tył, gdzie znajduje się strefa basenowa"
-        },
-        {
-          "caption": "Skręćcie w lewo przy pierwszym przejściu pod kamiennym łukiem"
-        },
-        {
-          "caption": "Mijając basen, skręćcie w prawo wzdłuż ogrodzenia"
-        },
-        {
-          "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D6'. Otwórzcie tę po prawej. Kod: 9006"
-        },
-        {
-          "caption": "Przejdźcie przez korytarz"
-        },
-        {
-          "caption": "Pierwsze drzwi po lewej (parter). Białe drzwi należą do Was!"
-        }
+        { "caption": "Skręćcie w prawo przy stacji Esso (na ulicę Morphou)" },
+        { "caption": "Idźcie około 50 m do dużej budowy po prawej stronie" },
+        { "caption": "Idźcie dalej, jeszcze trochę..." },
+        { "caption": "Przy tej budowie skręćcie w prawo w wąską uliczkę" },
+        { "caption": "Zaparkujcie tutaj lub kontynuujcie pieszo obok basenu" },
+        { "caption": "Podążajcie drogą na tył, gdzie znajduje się strefa basenowa" },
+        { "caption": "Skręćcie w lewo przy pierwszym przejściu pod kamiennym łukiem" },
+        { "caption": "Kontynuujcie..." },
+        { "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D6'. Otwórzcie tę po prawej. Kod: 9006" },
+        { "caption": "Przejdźcie przez korytarz" },
+        { "caption": "Pierwsze drzwi po lewej (parter). Białe drzwi należą do Was!" }
       ]
     },
     "checkin": {
@@ -1392,183 +895,110 @@
         "Po wejściu, umieśćcie metalowy klucz w gnieździe klucza obok drzwi, aby włączyć prąd (tak jak w hotelach)",
         "Przy wymeldowaniu zwróćcie klucz do skrzynki i przywróćcie kod"
       ],
-      "notes": "Jeśli macie problemy z nas znalezieniem, dzwońcie lub piszcie na WhatsApp o każdej porze, chętnie przeprowadzimy Was krok po kroku."
+      "notes": "Jeśli macie problemy z nas znalezieniem, dzwońcie lub piszcie na WhatsApp o każdej porze – chętnie przeprowadzimy Was krok po kroku."
     },
     "houseRules": [
-      "Zakaz palenia wewnątrz, tylko na balkonach i tarasach",
-      "Zakaz imprez, wydarzeń i głośnej muzyki. Cisza nocna 22:00-8:00",
-      "Maksymalna liczba gości: 4",
-      "Zakaz zwierząt na meblach lub w basenie",
-      "Używajcie ręczników basenowych (w koszyku przy leżakach), nie łazienkowych",
-      "Strefa basenowa: absolutnie bez szkła, bez skoków z krawędzi",
-      "Trzymajcie drzwi i okna zamknięte, gdy działa klimatyzacja",
-      "Regularnie wietrzcie apartament podczas pobytu. Otwierajcie okna i drzwi, gdy klimatyzacja jest wyłączona",
-      "Wymeldowanie ściśle do 11:00",
-      "Wszelkie uszkodzenia muszą być zgłoszone, rozumiemy, że wypadki się zdarzają",
-      "Kosze na śmieci znajdują się na parkingu. Wychodząc z parkingu, są po prawej stronie za basenem",
-      "Przechowujcie klucze bezpiecznie. W przypadku zagubienia lub zablokowania w środku potrzebny będzie ślusarz, a koszt zostanie przeniesiony na Was"
+      "Prosimy ograniczyć palenie do balkonów i tarasów",
+      "Prosimy o spokój. Cisza nocna 23:00–8:00. Żadnych imprez ani wydarzeń",
+      "Kochamy zwierzęta, ale niestety nie możemy ich przyjmować. Przepraszamy!",
+      "Prosimy używać kosza obok toalety zamiast spłukiwać papier – cypryjska kanalizacja naprawdę sobie z tym nie radzi",
+      "Włóżcie metalowy klucz do gniazda elektrycznego przy drzwiach, gdy jesteście w środku, i weźcie go ze sobą wychodząc",
+      "Zamykajcie drzwi balkonowe, tarasowe i okna, gdy działa klimatyzacja",
+      "Prosimy zwrócić klucze do skrzynki przy wymeldowaniu i przywrócić kod. W przypadku zgubienia lub zablokowania się, koszty ślusarza pokrywają goście",
+      "Prosimy traktować apartament jak własny i natychmiast nas powiadamiać o wszelkich uszkodzeniach. Rozumiemy, że wypadki się zdarzają"
     ],
     "appliances": [
       {
         "name": "Elektryczność",
-        "instructions": "Aby mieć prąd, włóżcie metalowy klucz do gniazda klucza na ścianie obok drzwi, tak jak w hotelach. Pamiętajcie, aby go wyjmować i zabierać klucze za każdym razem, gdy wychodzicie z apartamentu. Ważne: każde gniazdko na Cyprze ma własny włącznik na ścianie. Jeśli urządzenie nie działa, sprawdźcie, czy włącznik jest włączony. W apartamencie znajdziecie też adaptery EU."
+        "instructions": "Włóżcie metalowy klucz do gniazda przy drzwiach, aby zasilić apartament – i pamiętajcie, by go zabrać wychodząc. Każde gniazdko ma też własny włącznik na ścianie: jeśli coś się nie włącza, to zazwyczaj jest przyczyna. Adaptery EU dostępne w razie potrzeby."
       },
       {
         "name": "Kuchnia",
-        "instructions": "Kuchnia wyposażona jest w elektryczną płytę, elektryczny piekarnik, podstawowy ekspres do kawy i młynek. Możecie korzystać ze wszystkiego; prosimy czyścić każde urządzenie po użyciu. Dostępne są podstawowe składniki (sól, pieprz, oliwa z oliwek) oraz ziarna kawy. Ważne: ciepły cypryjski klimat może przyciągać owady. Myjcie naczynia szybko, natychmiast wyrzucajcie resztki jedzenia i nie zostawiajcie niczego na blacie ani na podłodze."
+        "instructions": "Jest tu wszystko: płyta elektryczna, piekarnik, frytownica beztłuszczowa, ekspres do kawy i młynek. Sól, pieprz, oliwa z oliwek i ziarna kawy są do Waszej dyspozycji. Porada: prosimy myć naczynia na bieżąco i trzymać blaty w czystości – ciepły klimat może przyciągać owady."
+      },
+      {
+        "name": "Klimatyzacja",
+        "instructions": "Pilot jest na stoliku nocnym. Naciśnijcie POWER, wybierzcie COOL i ustawcie 22–24 stopnie. Trzymajcie okna zamknięte podczas pracy. Aby wyłączyć, przytrzymajcie przycisk przez chwilę zamiast go tylko dotykać, i prosimy wyłączyć przed wyjściem."
       },
       {
         "name": "Pralka",
-        "instructions": "Pralkę znajdziecie w kuchni. Program Szybkie Pranie sprawdza się dobrze dla większości ładunków. W razie pytań, prosimy o kontakt!"
+        "instructions": "Program Szybkie Pranie sprawdza się dobrze dla większości ładunków. Znajdziecie ją w kuchni."
       },
       {
         "name": "Zmywarka",
-        "instructions": "Zmywarka jest do Waszej dyspozycji. Tabletki znajdziecie pod zlewozmywakiem. Zalecamy program Eco: jest energooszczędny i doskonale sprawdza się do codziennych naczyń."
+        "instructions": "Tabletki znajdziecie pod zlewozmywakiem. Program Eco doskonale nadaje się do codziennych naczyń."
       },
       {
         "name": "Prysznic i ciepła woda",
-        "instructions": "Zwykle potrzeba 2-3 minut, aby woda się podgrzała, to normalne. Jeśli woda się nie nagrzewa, prawdopodobnie tego dnia nie było wystarczająco słońca dla paneli solarnych. W takim przypadku naciśnijcie przycisk ogrzewania przy drzwiach łazienki i poczekajcie 20 minut. Ważne: wyłączcie system ogrzewania przed wejściem pod prysznic. (Jest to potrzebne tylko w około 10% przypadków. Cypr jest zazwyczaj bardzo słoneczny! ☀️)"
+        "instructions": "Woda jest podgrzewana przez panele słoneczne na dachu – ciepła i ekologiczna! Dajcie 2–3 minuty na jej dotarcie. W pochmurne dni panele mogą nie wystarczyć: naciśnijcie przycisk bojlera przy drzwiach łazienki i poczekajcie 20–30 minut na osobę przed kąpielą. ⚠️ Zawsze wyłączajcie bojler przed wejściem pod prysznic."
       },
       {
         "name": "Tarasy i parasol",
-        "instructions": "Apartament ma dwa tarasy. Możecie je urządzić według uznania. Poduszki zewnętrzne i dekoracje są przechowywane wewnątrz i można je ustawić na tarasach. W przypadku dużego parasola: nie używajcie go w wietrznych warunkach, zamykajcie na noc lub gdy nie jest używany, i upewnijcie się, że jest bezpiecznie zamknięty i związany przed wymeldowaniem."
+        "instructions": "Dwa tarasy do Waszej dyspozycji! Poduszki zewnętrzne są przechowywane w środku, gdy nie są używane. Prosimy trzymać parasol tarasowy zamknięty w wietrznych warunkach, w nocy i przed wymeldowaniem."
       },
       {
         "name": "Dostęp do basenu",
-        "instructions": "Klucz do basenu jest na breloku z kluczami do apartamentu. Wspólny basen jest zazwyczaj spokojny. Bądźcie uprzejmi wobec innych gości i przestrzegajcie zasad wywieszone w strefie basenowej. Używajcie dostarczonych ręczników plażowych, nie łazienkowych."
+        "instructions": "Na breloku kluczy znajdziecie klucz do basenu. Prosimy używać ręczników basenowych z kosza przy leżakach, a nie ręczników łazienkowych. Zakaz wnoszenia szkła i skakania z krawędzi, a także zakaz wpuszczania zwierząt do basenu."
       },
       {
         "name": "Łazienka",
-        "instructions": "Świeże ręczniki, suszarka do włosów i podstawowe artykuły toaletowe są dostępne. Jeśli czegoś potrzebujecie, dajcie nam znać. Ważne: cypryjska kanalizacja nie radzi sobie z papierem toaletowym. Używajcie pojemnika obok toalety. Dziękujemy!"
+        "instructions": "Dostępne są ręczniki, suszarka do włosów i podstawowe artykuły toaletowe. Prosimy używać kosza obok toalety zamiast spłukiwać papier – cypryjska kanalizacja naprawdę nie jest do tego przystosowana!"
+      },
+      {
+        "name": "Śmieci",
+        "instructions": "Kosze na śmieci znajdują się na parkingu, po prawej stronie wychodząc obok basenu."
       },
       {
         "name": "Woda pitna",
-        "instructions": "Woda z kranu na Cyprze jest generalnie bezpieczna, ale wielu gości woli wodę butelkowaną. Duże butelki są dostępne w każdym pobliskim supermarkecie."
+        "instructions": "Woda z kranu jest bezpieczna do picia, choć wielu gości woli butelkowaną. Dostępna w pobliskich supermarketach."
       },
       {
         "name": "Rośliny",
-        "instructions": "W apartamencie znajdziecie kilka roślin, pomagają utrzymać przestrzeń naturalną i przytulną. Jeśli zostajecie na dłużej niż kilka dni, bylibyśmy bardzo wdzięczni za podlewanie co 3-4 dni. Dziękujemy! 🌿"
+        "instructions": "Jeśli zostajecie kilka dni, rośliny będą wdzięczne za trochę wody co 3–4 dni. Na pewno to docenią!"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Plaże 🏝️"
-      },
-      {
-        "category": "Miejsca historyczne i malownicze spacery 🏰"
-      },
-      {
-        "category": "Atrakcje i wycieczki 📸"
-      },
-      {
-        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Greckie / Śródziemnomorskie"
-      },
-      {
-        "type": "Greckie / Meze"
-      },
-      {
-        "type": "Kawiarnia / Brunch"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Cypryjskie"
-      },
-      {
-        "type": "Food court"
-      },
-      {
-        "type": "Kawiarnia / Lokalne"
-      },
-      {
-        "type": "Cypryjskie / Kawiarnia"
-      },
-      {
-        "type": "Greckie / Cypryjskie"
-      },
-      {
-        "type": "Cypryjska tawerna"
-      },
-      {
-        "type": "Różne / Port"
-      },
-      {
-        "type": "Cypryjskie / Owoce morza"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Kawiarnia / Restauracja"
-      },
-      {
-        "type": "Owoce morza"
-      },
-      {
-        "type": "Bar / Restauracja"
-      },
-      {
-        "type": "Cypryjskie / Wino"
-      },
-      {
-        "type": "Owoce morza / Tawerna"
-      },
-      {
-        "type": "Sklep spożywczy"
-      },
-      {
-        "type": "Supermarket"
-      }
+      { "category": "Plaże 🏝️" },
+      { "category": "Miejsca historyczne i malownicze spacery 🏰" },
+      { "category": "Atrakcje i wycieczki 📸" },
+      { "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️" },
+      { "category": "Eat & Drink" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast."
+        "info": "Centralny dworzec autobusowy (Tombs of the Kings) jest oddalony o 18 minut pieszo (~1,3 km), z bezpośrednimi połączeniami do głównych atrakcji, lotniska i pobliskich miast. Przystanki pojawiły się już na Google Maps, ale warto sprawdzać oficjalną stronę dla aktualnych rozkładów jazdy."
       },
       {
-        "info": "Carsharing działa dobrze w okolicach Pafos, w tym na lotnisku i z lotniska. Pobierz aplikację, zarejestruj się w 5 minut. Samochody zazwyczaj dostępne w promieniu 5-10 minut pieszo."
+        "info": "Aplikacja do car-sharingu, która dobrze działa w okolicach Pafos. Rejestracja w kilka minut. Samochody zazwyczaj dostępne w promieniu 5–10 minut pieszo."
       },
       {
-        "info": "Ekonomiczna aplikacja taksówkarska. Zalecana do poruszania się po Pafos bez niepewności związanej z taksometrami."
+        "info": "Ekonomiczna aplikacja taksówkarska. Dobra alternatywa dla taksówek z licznikiem w okolicach Pafos."
+      },
+      {
+        "info": "Różne usługi taxi dostępne online. Niezawodną opcją jest Paphos Taxi Airport, gdzie można też umówić odbiór bezpośrednio przez WhatsApp: +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu"
-        },
-        {
-          "note": "Główny szpital w Pafos, ok. 10 minut jazdy"
-        },
-        {
-          "note": "Posterunek policji w Pafos"
-        }
+        { "note": "Policja, pogotowie, straż pożarna. Bezpłatnie z każdego telefonu" },
+        { "note": "Główny szpital w Pafos, ok. 10 minut jazdy" },
+        { "note": "Posterunek policji w Pafos" }
       ],
       "nearestPharmacy": "Kilka aptek w odległości krótkiego spaceru przy głównej drodze. Zapytajcie nas, jeśli potrzebujecie rekomendacji."
     },
     "checkout": {
       "steps": [
-        "Zdejmijcie pościel i zostawcie ją w stosie na łóżku",
-        "Umyjcie naczynia lub uruchomcie zmywarkę ostatni raz",
-        "Opróżnijcie lodówkę i wyrzućcie wszelkie resztki jedzenia",
-        "Zanieście wszystkie worki na śmieci do koszy na parkingu. Wychodząc, są po prawej stronie za basenem",
-        "Zamknijcie i bezpiecznie przywiążcie parasol tarasowy",
-        "Wnieście poduszki zewnętrzne i dekoracje do środka",
-        "Zamknijcie wszystkie okna, drzwi i rolety",
-        "Wyłączcie wszystkie światła, klimatyzację i telewizor",
-        "Wyjmijcie metalowy klucz z gniazda elektrycznego przy drzwiach",
-        "Zamknijcie drzwi apartamentu i zwróćcie wszystkie klucze do skrzynki, przywróćcie kod",
-        "Wyślijcie nam WhatsApp, żeby nas poinformować o wyjeździe, i będziemy wdzięczni za opinię! 😊"
-      ],
-      "lateCheckout": "Staramy się być elastyczni. Jeśli chcielibyście późniejszego wymeldowania, dajcie nam znać 1-2 dni przed wyjazdem, a my zrobimy co w naszej mocy."
+        "Jeśli moglibyście umyć naczynia lub uruchomić zmywarkę ostatni raz, bardzo byśmy to docenili!",
+        "Jeśli moglibyście opróżnić lodówkę i wyrzucić resztki jedzenia, byłoby świetnie!",
+        "Jeśli moglibyście zanieść worki ze śmieciami do koszy na parkingu (po prawej stronie wychodząc obok basenu), to byłaby wielka pomoc!",
+        "Prosimy pamiętać o zamknięciu i bezpiecznym przywiązaniu parasola przed wyjściem.",
+        "Jeśli pada lub zanosi się na deszcz, prosimy wnieść poduszki z zewnętrznej sofy do środka, żeby pozostały suche. Dziękujemy!",
+        "Przed wyjściem prosimy zamknąć wszystkie okna, drzwi balkonowe i rolety.",
+        "Prosimy wyłączyć wszystkie światła, klimatyzację i telewizor.",
+        "Gdy będziecie gotowi do wyjazdu, prosimy zamknąć na klucz i zwrócić wszystkie klucze do skrzynki, resetując kod.",
+        "Wyślijcie nam WhatsApp, że wyjechaliście – i będziemy bardzo wdzięczni za opinię, jeśli pobyt się Wam podobał!"
+      ]
     }
   },
   "ru": {
@@ -1597,48 +1027,26 @@
       "checkout": "Выезд",
       "checkoutTime": "Время выезда",
       "checkoutChecklist": "Список при выезде",
-      "contactHost": "Связаться с хозяином"
+      "contactHost": "Связаться с хозяевами"
     },
-    "welcomeMessage": "Добро пожаловать в Luxe Poolside Escape! Мы рады приветствовать вас в этом прекрасно оформленном убежище. Созданный для комфорта и элегантности, этот дом, ваше личное святилище на Средиземноморье. Всё было подготовлено с заботой. Окунитесь в бассейн, насладитесь кофе на террасе и позвольте острову творить свою магию. Мы всегда на связи, если вам что-то понадобится.",
+    "welcomeMessage": "Ваш личный средиземноморский уголок – бассейн, две террасы и всё готово. Отдыхайте и наслаждайтесь островом. Пишите нам в любое время.",
     "gettingHere": {
-      "byCar": "Ссылка Google Maps выше точна и проведёт вас прямо внутрь комплекса, к бассейну и парковке. Вы можете припарковаться где угодно в комплексе. По прибытии следуйте пошаговому фотогиду ниже, чтобы добраться до квартиры.",
-      "parking": "Подъезжайте к зоне бассейна, где заканчивается дорога. Парковочные места свободно доступны, паркуйтесь где хотите. Вход в квартиру находится в 1 минуте ходьбы. В ветреную погоду не паркуйтесь под деревьями по очевидным причинам! 🌳",
-      "publicTransport": "Из аэропорта Пафоса сядьте на автобус 612 до остановки Tombs of the Kings. Оттуда квартира находится в 18 минутах пешком (~1,3 км). Как вариант, можно сесть на автобус 615 на 1 остановку (~2 мин), а затем пройти пешком. Пешком идите в сторону отеля AVLIDA, пройдите мимо него, поверните направо у заправки Esso и найдёте вход в комплекс King's Park за ней. ⚠️ Автобусы принимают только наличные. Стоимость, 2,50 € за человека за поездку.",
-      "taxi": "Такси доступны прямо у выхода из зала прилёта аэропорта Пафоса. Типичная стоимость поездки до Пафоса составляет 40-45 € днём и 45-50 € в нерабочее время. Время в пути из аэропорта около 20-25 минут.",
+      "byCar": "Следуйте по ссылке Google Maps – она ведёт прямо внутрь комплекса, к зоне бассейна. Паркуйтесь где угодно, затем используйте фотогид ниже, чтобы добраться до квартиры.",
+      "parking": "Бесплатная парковка у бассейна, места всегда есть. До входа в квартиру 1 минута пешком. В ветреные дни не паркуйтесь под деревьями.",
+      "publicTransport": "Из аэропорта Пафоса садитесь на автобус 612 (~35 мин в зависимости от сезона и остановок). От остановки два варианта: пешком (~18 мин, 1,3 км) или автобус 615 одну остановку, затем немного пешком (~4 мин). Пешком: идите в сторону отеля AVLIDA, пройдите мимо, поверните направо у заправки Esso – вход в комплекс King's Park сразу за ней. ⚠️ Автобусы принимают только наличные. 2,50 € за человека за поездку.",
+      "taxi": "Такси ждут у выхода из зала прилёта в аэропорту Пафоса. Тариф: 40–45 € (день), 45–50 € (ночь). ~20–25 мин. Немного дешевле заказать Bolt.",
       "directionPhotos": [
-        {
-          "caption": "Поверните направо у заправки Esso (на улицу Morphou)"
-        },
-        {
-          "caption": "Пройдите около 50 м до большой стройки справа"
-        },
-        {
-          "caption": "Продолжайте идти, ещё немного..."
-        },
-        {
-          "caption": "У этой стройки поверните направо в узкую улочку"
-        },
-        {
-          "caption": "Припаркуйтесь здесь или продолжайте пешком мимо бассейна"
-        },
-        {
-          "caption": "Следуйте по дороге к задней части, где находится зона бассейна"
-        },
-        {
-          "caption": "Поверните налево у первого прохода под каменной аркой"
-        },
-        {
-          "caption": "Миновав бассейн, поверните направо вдоль ограждения"
-        },
-        {
-          "caption": "Два ящика для ключей под почтовым ящиком 'D6'. Откройте правый. Код: 9006"
-        },
-        {
-          "caption": "Пройдите через коридор"
-        },
-        {
-          "caption": "Первая дверь слева (первый этаж). Белая дверь, ваша!"
-        }
+        { "caption": "Поверните направо у заправки Esso (на улицу Morphou)" },
+        { "caption": "Пройдите около 50 м до большой стройки справа" },
+        { "caption": "Продолжайте идти, ещё немного..." },
+        { "caption": "У этой стройки поверните направо в узкую улочку" },
+        { "caption": "Припаркуйтесь здесь или продолжайте пешком мимо бассейна" },
+        { "caption": "Следуйте по дороге к задней части, где находится зона бассейна" },
+        { "caption": "Поверните налево у первого прохода под каменной аркой" },
+        { "caption": "Продолжайте..." },
+        { "caption": "Два ящика для ключей под почтовым ящиком 'D6'. Откройте правый. Код: 9006" },
+        { "caption": "Пройдите через коридор" },
+        { "caption": "Первая дверь слева (первый этаж). Белая дверь – ваша!" }
       ]
     },
     "checkin": {
@@ -1649,188 +1057,115 @@
         "Поверните налево у первого прохода под каменной аркой",
         "Найдите два ящика для ключей на левой стене, под почтовым ящиком с надписью 'D6'",
         "Откройте правый ящик с помощью кода 9006",
-        "Пройдите через коридор. Квартира, это первая дверь слева (первый этаж)",
+        "Пройдите через коридор. Квартира – это первая дверь слева (первый этаж)",
         "Входная дверь белая",
-        "Войдя, вставьте металлический ключ в ключевую розетку рядом с дверью, чтобы включить электричество (как в отелях)",
+        "Войдя, вставьте металлический ключ в розетку рядом с дверью, чтобы включить электричество (как в отелях)",
         "При выезде верните ключ в ящик и сбросьте код"
       ],
-      "notes": "Если у вас возникнут проблемы с поиском нас, звоните или пишите в WhatsApp в любое время, мы будем рады провести вас пошагово."
+      "notes": "Если возникнут трудности с поиском, звоните или пишите нам в WhatsApp в любое время – мы с удовольствием проведём вас шаг за шагом."
     },
     "houseRules": [
-      "Курение запрещено внутри, только на балконах и террасах",
-      "Запрещены вечеринки, мероприятия и громкая музыка. Тихие часы с 22:00 до 8:00",
-      "Максимальная вместимость: 4 гостя",
-      "Животным запрещено находиться на мебели или в бассейне",
-      "Используйте пляжные полотенца (в корзине у шезлонгов), а не полотенца из ванной",
-      "Зона бассейна: категорически запрещены стеклянные предметы и прыжки с края",
-      "Держите двери и окна закрытыми при работающем кондиционере",
-      "Регулярно проветривайте квартиру, пока находитесь внутри. Открывайте окна и двери, когда кондиционер выключен",
-      "Выезд строго до 11:00",
-      "О любых поломках необходимо сообщать, мы понимаем, что несчастные случаи бывают",
-      "Мусорные баки находятся на парковке. Выходя с парковки, они справа после бассейна",
-      "Бережно храните ключи. В случае потери или блокировки внутри потребуется слесарь, и расходы будут переданы вам"
+      "Просим курить только на балконах и террасах",
+      "Просим соблюдать тишину. Тихие часы с 23:00 до 8:00. Вечеринки и мероприятия не допускаются",
+      "Мы любим животных, но, к сожалению, не можем принимать домашних питомцев. Извините!",
+      "Просим использовать корзину у туалета вместо того чтобы смывать бумагу – кипрская канализация с этим действительно не справляется",
+      "Вставляйте металлический ключ в розетку у двери, когда находитесь внутри, и берите его с собой на выход",
+      "Закрывайте балконные и террасные двери, а также окна, когда работает кондиционер",
+      "Просим вернуть ключи в ящик при выезде и сбросить код. В случае потери или блокировки расходы на слесаря несут гости",
+      "Просим относиться к квартире как к своей и сразу сообщать нам о любых повреждениях. Мы понимаем, что несчастные случаи бывают"
     ],
     "appliances": [
       {
         "name": "Электричество",
-        "instructions": "Для включения электричества вставьте металлический ключ в ключевую розетку на стене рядом с дверью, как в отелях. Не забывайте вынимать его и брать ключи с собой каждый раз, когда уходите. Важно: у каждой розетки на Кипре есть собственный выключатель на стене. Если прибор не работает, проверьте, включён ли выключатель. В квартире также имеются адаптеры EU."
+        "instructions": "Вставьте металлический ключ в розетку у двери, чтобы включить электричество в квартире – и не забудьте забрать его, выходя. У каждой розетки есть собственный настенный выключатель: если что-то не включается, обычно это причина. Адаптеры EU в наличии при необходимости."
       },
       {
         "name": "Кухня",
-        "instructions": "На кухне есть электрическая плита, духовка, простая кофемашина и кофемолка. Вы можете пользоваться всем этим, пожалуйста, убирайте каждый прибор после использования. Предоставлены основные продукты (соль, перец, оливковое масло) и кофейные зёрна. Важно: тёплый климат Кипра может привлекать насекомых. Мойте посуду сразу, немедленно выбрасывайте остатки еды и не оставляйте ничего на столешнице или полу."
+        "instructions": "Здесь есть всё: электрическая плита, духовка, аэрофритюрница, кофемашина и кофемолка. Соль, перец, оливковое масло и кофейные зёрна – в вашем распоряжении. Совет: мойте посуду сразу и держите столешницы чистыми – тёплый климат может привлекать насекомых."
+      },
+      {
+        "name": "Кондиционер",
+        "instructions": "Пульт лежит на прикроватном столике. Нажмите POWER, выберите COOL, установите 22–24 градуса. Держите окна закрытыми во время работы. Чтобы выключить, удерживайте кнопку несколько секунд, а не просто нажимайте, и пожалуйста, выключайте перед выходом."
       },
       {
         "name": "Стиральная машина",
-        "instructions": "Стиральную машину найдёте на кухне. Режим быстрой стирки хорошо подходит для большинства загрузок. Если есть вопросы, не стесняйтесь обращаться к нам!"
+        "instructions": "Режим быстрой стирки подходит для большинства вещей. Стиральную машину найдёте на кухне."
       },
       {
         "name": "Посудомоечная машина",
-        "instructions": "Посудомоечная машина в вашем распоряжении. Таблетки находятся под раковиной. Рекомендуем программу Eco: она энергоэффективна и отлично справляется с повседневной посудой."
+        "instructions": "Таблетки находятся под раковиной. Программа Eco отлично подходит для повседневной посуды."
       },
       {
         "name": "Душ и горячая вода",
-        "instructions": "Обычно вода нагревается за 2-3 минуты, это нормально. Если вода не нагревается, возможно, солнечных панелей не хватило в этот день. В таком случае нажмите кнопку нагрева рядом с дверью ванной и подождите 20 минут. Важно: выключите систему нагрева перед принятием душа. (Это необходимо только примерно в 10% случаев. На Кипре обычно очень солнечно! ☀️)"
+        "instructions": "Вода нагревается солнечными панелями на крыше – тёплая и экологичная! Подождите 2–3 минуты, пока дойдёт. В пасмурные дни панелей может не хватить: нажмите кнопку бойлера у двери ванной и подождите 20–30 минут на человека перед душем. ⚠️ Всегда выключайте бойлер перед тем, как заходить в душ."
       },
       {
         "name": "Террасы и зонт",
-        "instructions": "В квартире есть два террасы. Обустройте их по своему усмотрению. Уличные подушки и декор хранятся внутри и могут быть расставлены на террасах. Для большого зонта: не используйте в ветреную погоду, закрывайте на ночь или когда не используется, и убедитесь, что он надёжно закрыт и закреплён перед отъездом."
+        "instructions": "В вашем распоряжении две террасы! Уличные подушки хранятся внутри, когда не используются. Просим держать террасный зонт закрытым в ветреную погоду, ночью и перед выездом."
       },
       {
         "name": "Доступ к бассейну",
-        "instructions": "Ключ от бассейна находится на связке с ключами от квартиры. Общий бассейн обычно тихий. Будьте внимательны к другим гостям и соблюдайте правила, вывешенные в зоне бассейна. Используйте пляжные полотенца из квартиры, а не банные."
+        "instructions": "На брелоке с ключами есть ключ от бассейна. Просим использовать пляжные полотенца из корзины у шезлонга, а не банные. Стеклянные предметы и прыжки с края запрещены, домашних животных в бассейне нет."
       },
       {
         "name": "Ванная комната",
-        "instructions": "Предоставлены свежие полотенца, фен и базовые туалетные принадлежности. Если нужно что-то ещё, сообщите нам. Важно: кипрская канализация не справляется с туалетной бумагой. Используйте корзину рядом с унитазом. Спасибо!"
+        "instructions": "Предоставлены полотенца, фен и базовые туалетные принадлежности. Просим использовать корзину у туалета, а не смывать бумагу – кипрская канализация для этого не предназначена!"
+      },
+      {
+        "name": "Мусор",
+        "instructions": "Мусорные контейнеры находятся на парковке, справа, когда выходите мимо бассейна."
       },
       {
         "name": "Питьевая вода",
-        "instructions": "Водопроводная вода на Кипре в целом безопасна, но многие гости предпочитают бутилированную. Большие бутылки доступны в любом ближайшем супермаркете."
+        "instructions": "Вода из крана безопасна для питья, хотя многие гости предпочитают бутилированную. Продаётся в ближайших супермаркетах."
       },
       {
         "name": "Растения",
-        "instructions": "В квартире есть несколько растений, они помогают создать естественную и уютную атмосферу. Если вы остаётесь более чем на несколько дней, мы были бы очень признательны, если бы вы поливали их каждые 3-4 дня. Спасибо! 🌿"
+        "instructions": "Если остаётесь на несколько дней, растения будут рады немного воды каждые 3–4 дня. Они оценят вашу заботу!"
       }
     ],
     "thingsToDo": [
-      {
-        "category": "Пляжи 🏝️"
-      },
-      {
-        "category": "Исторические места и живописные прогулки 🏰"
-      },
-      {
-        "category": "Достопримечательности и экскурсии 📸"
-      },
-      {
-        "category": "Пешие прогулки и природные тропы ⛰️"
-      }
-    ],
-    "eatAndDrink": [
-      {
-        "type": "Греческая / Средиземноморская"
-      },
-      {
-        "type": "Греческая / Мезе"
-      },
-      {
-        "type": "Кафе / Бранч"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Кипрская"
-      },
-      {
-        "type": "Фуд-корт"
-      },
-      {
-        "type": "Кафе / Местная"
-      },
-      {
-        "type": "Кипрская / Кафе"
-      },
-      {
-        "type": "Греческая / Кипрская"
-      },
-      {
-        "type": "Кипрская таверна"
-      },
-      {
-        "type": "Разное / Гавань"
-      },
-      {
-        "type": "Кипрская / Морепродукты"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Кафе / Ресторан"
-      },
-      {
-        "type": "Морепродукты"
-      },
-      {
-        "type": "Бар / Ресторан"
-      },
-      {
-        "type": "Кипрская / Вино"
-      },
-      {
-        "type": "Морепродукты / Таверна"
-      },
-      {
-        "type": "Продуктовый магазин"
-      },
-      {
-        "type": "Супермаркет"
-      }
+      { "category": "Пляжи 🏝️" },
+      { "category": "Исторические места и живописные прогулки 🏰" },
+      { "category": "Достопримечательности и экскурсии 📸" },
+      { "category": "Пешие маршруты и природные тропы ⛰️" },
+      { "category": "Eat & Drink" },
+      { "category": "Shopping" }
     ],
     "gettingAround": [
       {
-        "info": "Центральная автобусная станция (Tombs of the Kings) находится в 18 минутах ходьбы (~1,3 км), с прямыми рейсами до основных достопримечательностей, аэропорта и соседних городов."
+        "info": "Центральная автобусная остановка (Tombs of the Kings) находится в 18 минутах ходьбы (~1,3 км), с прямыми маршрутами до основных достопримечательностей, аэропорта и соседних городов. Остановки уже добавлены в Google Maps, но рекомендуем проверять актуальное расписание на официальном сайте."
       },
       {
-        "info": "Каршеринг хорошо работает в Пафосе, в том числе до и из аэропорта. Скачайте приложение, зарегистрируйтесь за 5 минут. Автомобили обычно доступны в 5-10 минутах ходьбы."
+        "info": "Приложение для каршеринга, которое хорошо работает в районе Пафоса. Регистрация за несколько минут. Автомобили обычно доступны в 5–10 минутах ходьбы."
       },
       {
-        "info": "Экономичное приложение для такси. Рекомендуется для передвижения по Пафосу без неопределённости счётчиков."
+        "info": "Экономичное приложение для такси. Хорошая альтернатива таксометровым такси в Пафосе."
+      },
+      {
+        "info": "Различные службы такси доступны онлайн. Надёжный вариант – Paphos Taxi Airport, где можно договориться о подаче прямо через WhatsApp: +357 99 460 829."
       }
     ],
     "emergency": {
       "contacts": [
-        {
-          "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона"
-        },
-        {
-          "note": "Главная больница Пафоса, примерно 10 минут езды"
-        },
-        {
-          "note": "Полицейский участок Пафоса"
-        }
+        { "note": "Полиция, скорая помощь, пожарная. Бесплатно с любого телефона" },
+        { "note": "Главная больница Пафоса, примерно 10 минут езды" },
+        { "note": "Полицейский участок Пафоса" }
       ],
       "nearestPharmacy": "Несколько аптек в нескольких минутах ходьбы на главной дороге. Спросите нас, если нужна рекомендация."
     },
     "checkout": {
       "steps": [
-        "Снять постельное бельё и оставить его на кровати",
-        "Вымыть посуду или запустить посудомоечную машину последний раз",
-        "Освободить холодильник и выбросить все остатки еды",
-        "Отнести все мешки с мусором к контейнерам на парковке. Выходя, они справа после бассейна",
-        "Закрыть и надёжно завязать зонт на террасе",
-        "Занести уличные подушки и декор внутрь",
-        "Закрыть все окна, двери и ставни",
-        "Выключить все светильники, кондиционер и телевизор",
-        "Вынуть металлический ключ из розетки у двери",
-        "Запереть дверь квартиры и вернуть все ключи в ящик, сбросить код",
-        "Напишите нам в WhatsApp, что вы уехали, и мы будем рады отзыву! 😊"
-      ],
-      "lateCheckout": "Мы стараемся быть гибкими. Если вы хотите поздний выезд, сообщите нам за 1-2 дня до отъезда и мы постараемся это организовать."
+        "Если вы не против помыть посуду или запустить посудомойку последний раз – мы будем очень признательны!",
+        "Если вы освободите холодильник и выбросите остатки еды – это будет замечательно!",
+        "Если вы отнесёте мешки с мусором к контейнерам на парковке (справа, когда выходите мимо бассейна) – это очень поможет!",
+        "Пожалуйста, не забудьте закрыть и надёжно зафиксировать зонт на террасе перед отъездом.",
+        "Если идёт дождь или собирается дождь, пожалуйста, занесите подушки с уличного дивана внутрь, чтобы они не намокли. Спасибо!",
+        "Перед отъездом закройте все окна, балконные двери и ставни.",
+        "Пожалуйста, выключите все светильники, кондиционер и телевизор.",
+        "Когда будете готовы уезжать, заприте дверь и верните все ключи в ящик, сбросив код.",
+        "Напишите нам в WhatsApp, что вы уехали – и мы будем очень рады отзыву, если вам понравилось!"
+      ]
     }
   }
 }

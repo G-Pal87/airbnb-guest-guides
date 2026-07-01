@@ -159,22 +159,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Strände 🏝️"
+        "category": "Strände 🏝️",
+        "items": [
+          {
+            "tip": "Nächstgelegener nützlicher Strand. 15–20 Min. zu Fuß. Schnelles Bad, Sonnenuntergang, praktisch."
+          },
+          {
+            "tip": "25–35 Min. zu Fuß oder eine kurze Fahrt. Sonnenuntergang, entspanntes Schwimmen."
+          },
+          {
+            "tip": "Weniger touristisch, lokales Flair. Gut für den Sonnenuntergang. Besser bei ruhigem Meer."
+          },
+          {
+            "tip": "Städtischer Badeplatz, kein Sandstrand. Praktisch für ein schnelles Bad in der Nähe der Promenade."
+          },
+          {
+            "tip": "Organisierter Strand mit Einrichtungen, gut für Familien. Leichter mit dem Auto oder Bus als zu Fuß zu erreichen."
+          },
+          {
+            "tip": "Die sicherste und beste Strandwahl in der Nähe von Paphos. Sandig, organisiert, einfach. Schwer, einen Fehler zu machen."
+          },
+          {
+            "tip": "Meine bevorzugte Alternative zu Coral Bay. Ähnlicher Komfort, normalerweise ruhiger."
+          },
+          {
+            "tip": "Dramatische Küstenlinie. Besser für Landschafts- und Sonnenuntergangsfotos als für einen klassischen Strandtag."
+          },
+          {
+            "tip": "Kleiner Strand, gut zum Schnorcheln. Kombinieren Sie den Besuch mit Sea Caves und Oniro by the Sea."
+          },
+          {
+            "tip": "Rau und wunderschön, wilde Küste. Besser zum Erkunden als zum Sonnenbaden."
+          },
+          {
+            "tip": "Einer der schönsten Strände im Raum Paphos. Nistplatz für Meeresschildkröten. Schlechte Zufahrt, keine Einrichtungen."
+          },
+          {
+            "tip": "Legendärer Geburtsort der Aphrodite. Wunderschöne Landschaft und Fotos, aber felsig und nicht immer ideal zum Schwimmen."
+          },
+          {
+            "tip": "Bester Ausgangspunkt für die Blue Lagoon ohne Geländefahrten. Bootsfahrten starten von hier."
+          },
+          {
+            "tip": "Das beeindruckendste Wasser im Raum Paphos. Kein Strand, den man direkt anfahren kann. Nehmen Sie ein Boot von Latchi."
+          }
+        ]
       },
       {
-        "category": "Historische Stätten & Spazierwege 🏰"
+        "category": "Historische Stätten & Spazierwege 🏰",
+        "items": [
+          {
+            "tip": "Nächstgelegene und wichtigste historische Stätte. Felsengräber aus hellenistischer und römischer Zeit, Teil des UNESCO-gelisteten archäologischen Gebiets von Paphos."
+          },
+          {
+            "tip": "Spazieren Sie entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
+          },
+          {
+            "tip": "Entspannter Haltepunkt auf halbem Weg zwischen Avlida und dem Hafen. Gut für einen landschaftlich reizvollen Spaziergang mit einem Stopp am Strand."
+          },
+          {
+            "tip": "Gut für Cafés, lokale Straßen, kleine Geschäfte und ein authentischeres Paphiotisches Flair. Am besten am späten Nachmittag besucht."
+          },
+          {
+            "tip": "Bedeutendstes Kulturziel auf Zypern. Römische Mosaike, die als einige der schönsten im östlichen Mittelmeer gelten, UNESCO-gelistet."
+          },
+          {
+            "tip": "Einfacher Abendplan. Byzantinische Festung, die im 16. Jahrhundert von den Lusignans, dann von den Venezianern und schließlich von den Osmanen umgebaut wurde."
+          },
+          {
+            "tip": "Wunderschöner Halbtagsausflug. Im 12. Jahrhundert vom Heiligen Neophytos in einem abgelegenen Tal nördlich von Paphos gegründet."
+          },
+          {
+            "tip": "Malerische Küste, großartig für Fotos und Sonnenuntergang. Kombinieren Sie den Besuch mit Oniro by the Sea und Agios Georgios."
+          },
+          {
+            "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenpfade. Gut geeignet, wenn man ohnehin in Richtung Sea Caves oder Lara unterwegs ist."
+          },
+          {
+            "tip": "Ikonischste landschaftliche Sehenswürdigkeit Zyperns. Besser für Ausblicke und Mythologie als zum Schwimmen geeignet."
+          },
+          {
+            "tip": "Wilde Natur, Aussichtspunkte, Wanderwege. Straßenverhältnisse variieren. Am besten für abenteuerlustige Gäste."
+          }
+        ]
       },
       {
-        "category": "Sehenswürdigkeiten & Ausflüge 📸"
+        "category": "Sehenswürdigkeiten & Ausflüge 📸",
+        "items": [
+          {
+            "tip": "Shopping, Food Court, Kino. Praktisch für eine Indoor-Pause an sehr heißen oder windigen Tagen."
+          },
+          {
+            "tip": "Einer der einfachsten Abendpläne von Avlida aus. Abendessen, Drinks und ein entspannter Spaziergang am Meer."
+          },
+          {
+            "tip": "Beste Familienattraktion in der Nähe. Einfache Halbtags- oder Ganztagesoption an heißen Tagen."
+          },
+          {
+            "tip": "Eines der besten Erlebnisse in Paphos. Online buchen und früh am Tag ankommen."
+          },
+          {
+            "tip": "Bedeutendste Kulturstätte Zyperns. Römische Mosaiken, die zu den schönsten im östlichen Mittelmeer zählen, UNESCO-gelistet."
+          },
+          {
+            "tip": "Einfacher Abendplan. Byzantinische Festung, umgebaut durch die Lusignans, dann die Venezianer und die Osmanen im 16. Jahrhundert."
+          },
+          {
+            "tip": "Schöner Halbtags-Stop. Im 12. Jahrhundert vom Heiligen Neophytos in einem abgeschiedenen Tal nördlich von Paphos gegründet."
+          },
+          {
+            "tip": "Malerische Küste, ideal für Fotos und Sonnenuntergang. Kombination mit Oniro by the Sea und Agios Georgios empfohlen."
+          },
+          {
+            "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenrouten. Gut, wenn man ohnehin in Richtung Sea Caves oder Lara fährt."
+          },
+          {
+            "tip": "Die ikonischste Sehenswürdigkeit Zyperns. Besser für Ausblicke und Mythologie als zum Schwimmen."
+          },
+          {
+            "tip": "Wilde Natur, Aussichtspunkte, Wanderwege. Straßenzustand variiert. Am besten für abenteuerlustige Gäste."
+          },
+          {
+            "tip": "Kleiner Strand, gut zum Schnorcheln. Kombinieren mit Sea Caves. Das Restaurant Oniro by the Sea ist direkt nebenan."
+          },
+          {
+            "tip": "Delfinsichtungen, Schnorcheln, Küstenlinie. 2–3-stündige Boote vom Hafen Paphos oder Latchi. Eines der besten Meereserlebnisse."
+          },
+          {
+            "tip": "Atemberaubende Schluchtenwanderung zwischen Timi und Kouklia. Recht einfach, wunderschöne Landschaft, dramatische Schlucht."
+          },
+          {
+            "tip": "Höchster Punkt Zyperns auf 1952 m. Völlig andere Landschaft — kühler, bewaldet, dramatisch. Einen ganzen Tag wert."
+          },
+          {
+            "tip": "Ein wunderschönes byzantinisches Kloster in den Troodos-Vorbergen. Lohnt sich in Kombination mit einem Troodos-Ausflug."
+          },
+          {
+            "tip": "Bester Ausflug rund um Paphos mit der Wine Route und einem mittelalterlichen Kloster. Fahrt durch atemberaubende Weinberge."
+          },
+          {
+            "tip": "Bester Familienaquapark Zyperns. Den Fahrtweg wert, besonders für Familien mit Kindern."
+          }
+        ]
       },
       {
-        "category": "Wandern & Naturpfade ⛰️"
+        "category": "Wandern & Naturpfade ⛰️",
+        "items": [
+          {
+            "tip": "Beste Option ohne Auto. Zu Fuß von den Königsgräbern in Richtung Lighthouse Beach, dem Hafen und der Burg von Paphos."
+          },
+          {
+            "tip": "Praktisch von Avlida aus. Gut für Gäste, die Natur genießen möchten, ohne richtig zu wandern."
+          },
+          {
+            "tip": "Kombiniert antike Gräber, offene Landschaft und Küste. Kein formeller Wanderweg, aber eine sehr schöne Runde."
+          },
+          {
+            "tip": "Echter Naturwanderpfad nahe Lara Beach. Schlechte Straßenverhältnisse erforderlich, aber einer der besten Küstennaturwege Zyperns."
+          },
+          {
+            "tip": "Beliebter markierter Wanderweg durch die Hügel des Akamas. Mittelschwer. Am besten in kühleren Monaten."
+          },
+          {
+            "tip": "Anspruchsvollerer Wanderweg tiefer in den Akamas. Sehr lohnende Ausblicke. Wasser mitnehmen und früh starten."
+          },
+          {
+            "tip": "Einfache landschaftliche Runde durch Weinberge und traditionelles Dorfleben. Am besten im Frühling oder Herbst."
+          },
+          {
+            "tip": "Einfach | Nächstgelegener Strandspaziergang, kurzer lokaler Bummel. Beste unkomplizierte Option vom Anwesen aus."
+          },
+          {
+            "tip": "Beeindruckendster Schluchtenpfad im Raum Paphos. Durch Wasser über Jahrhunderte geformt. Mittelschwer, gut markiert."
+          },
+          {
+            "tip": "Kurzer, gut ausgeschilderter Naturwanderpfad durch endemischen Wald. Einfach und lohnend auch für Nicht-Wanderer."
+          },
+          {
+            "tip": "Malerischer Naturpfad durch Zedernwald und am Zederntal vorbei. Mittelschwer. Besser mit Auto."
+          },
+          {
+            "tip": "Die höchste Gipfelwanderung Zyperns. Anspruchsvoll, aber unglaubliche Aussichten. Am besten in kühleren Monaten, warme Kleidung mitnehmen."
+          }
+        ]
       },
       {
-        "category": "Essen & Trinken"
+        "category": "Essen & Trinken",
+        "items": [
+          {
+            "tip": "Einfachste Abendessen-Option ohne Auto in der Nähe von Avlida. Zählt zu den besten Restaurants in der Nähe der Königsgräber."
+          },
+          {
+            "tip": "Zuverlässige Option an der Tombs of the Kings Avenue. Griechische und mediterrane Küche mit starken Gästebewertungen."
+          },
+          {
+            "tip": "Gut für ein einfaches Frühstück oder Mittagessen in der Nähe. Freundlicher Service und gutes Preis-Leistungs-Verhältnis."
+          },
+          {
+            "tip": "Beliebter lokaler Meze- und Meeresfrüchte-Spot. Sehr gut für ein traditionelles zypriotisches Abendessen."
+          },
+          {
+            "tip": "Gutes Hafenrestaurant für Mittag- oder Abendessen. Gegrillter Fisch, frische Meeresfrüchte, klassisches Ambiente."
+          },
+          {
+            "tip": "Eines der besten Meeresfrüchte-Restaurants im Hafen. Toller gegrillter Fisch und ein schöner Meerblick."
+          },
+          {
+            "tip": "Ein lokaler Liebling für frischen Fisch. Oft voll — das Warten lohnt sich."
+          },
+          {
+            "tip": "Ein hochbewertetes Restaurant an der Hafenfront. Ideal für ein besonderes Abendessen."
+          },
+          {
+            "tip": "Entspanntes Hafenrestaurant. Gut für ein unkompliziertes Essen mit schöner Aussicht."
+          },
+          {
+            "tip": "Eine gute Strandoption im Hafenbereich. Entspannte Atmosphäre, gut zum Mittagessen."
+          },
+          {
+            "tip": "Ein schöner Weinbar und Restaurant im Hafenviertel. Gut für Tapas und lokalen Wein."
+          },
+          {
+            "tip": "Das legendäre Pub im Hafen von Paphos. Gut für ein Getränk und eine ungezwungene Mahlzeit."
+          },
+          {
+            "tip": "Rustikale zypriotische Taverne für sehr traditionelle Meze. Die Fahrt lohnt sich für Liebhaber authentischer lokaler Küche."
+          },
+          {
+            "tip": "Fantastisches Restaurant mit Meerblick bei den Sea Caves. Lohnt sich in Kombination mit einem Besuch der Höhlen."
+          },
+          {
+            "tip": "Eine klassische zypriotische Dorftaverne in der Nähe von Coral Bay. Gut für Grillgerichte und Meze."
+          },
+          {
+            "tip": "Ein guter Platz für ein Mittagessen oder Abendessen am Coral Bay Strand. Entspannte Atmosphäre, ordentliches Essen."
+          },
+          {
+            "tip": "Sehr gute lokale Taverne für authentische zypriotische Küche im Dorf Pegeia."
+          },
+          {
+            "tip": "Ausgezeichnetes Frühstücks-, Brunch- und Mittagscafé. Sehr beliebt bei Einheimischen und Gästen."
+          },
+          {
+            "tip": "Gute lokale Option für eine schnelle Pizza oder ein ungezwungenes Abendessen."
+          },
+          {
+            "tip": "Großer Hauptsupermarkt in der Nähe des Anwesens für den Wocheneinkauf und Grundbedarf."
+          },
+          {
+            "tip": "Günstiger Supermarkt für Grundbedarf, Lebensmittel und Haushaltswaren."
+          }
+        ]
       },
       {
-        "category": "Shopping"
+        "category": "Shopping",
+        "items": [
+          {
+            "tip": "Das wichtigste Einkaufszentrum in Paphos. Breites Angebot an Geschäften, Restaurants und einem Kino."
+          },
+          {
+            "tip": "Überdachter Marktplatz mit Ständen für Kleidung, Taschen, Schmuck, Strandausrüstung und lokale Souvenirs."
+          },
+          {
+            "tip": "Schlendern Sie durch die schöne Altstadt und entdecken Sie viele kleine Boutiquen und Handwerksläden."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -377,22 +626,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Strandok 🏝️"
+        "category": "Strandok 🏝️",
+        "items": [
+          {
+            "tip": "Legközelebbi hasznos strand. 15–20 perc gyalog. Gyors fürdés, naplemente, kényelmes."
+          },
+          {
+            "tip": "25–35 perc gyalog vagy egy rövid autóút. Naplemente, laza fürdés."
+          },
+          {
+            "tip": "Kevésbé turisztikus, helyi hangulat. Jó a napnyugtához. Jobban élvezhető, ha a tenger nyugodt."
+          },
+          {
+            "tip": "Városi fürdőhely, nem homokos strand. Praktikus egy gyors fürdéshez a sétány közelében."
+          },
+          {
+            "tip": "Szervezett strand, jól felszerelt, jó a családoknak. Könnyebb kocsival vagy busszal, mint gyalog."
+          },
+          {
+            "tip": "A legjobb és legbiztonságosabb strandválasztás Paphos közelében. Homokos, szervezett, könnyű. Nem lehet mellé nyúlni."
+          },
+          {
+            "tip": "Az én kedvelt alternatívám a Coral Bay helyett. Hasonló kényelem, általában csendesebb."
+          },
+          {
+            "tip": "Drámai tengerpart. Inkább tájfotózásra és naplementeképekre alkalmas, mint egy klasszikus strandnapra."
+          },
+          {
+            "tip": "Kis strand, jó snorkelezéshez. Kombinálja a Sea Caves-szel és az Oniro by the Sea-vel."
+          },
+          {
+            "tip": "Nyers és gyönyörű, vad tengerpart. Inkább felfedezésre alkalmas, mint napozásra."
+          },
+          {
+            "tip": "A Paphos közelének egyik legkülönlegesebb strandja. Teknősbéka fészkelőhely. Nehéz megközelítés, nincs infrastruktúra."
+          },
+          {
+            "tip": "Aphrodité legendás szülőhelye. Gyönyörű táj és fényképek, de sziklás és nem mindig ideális úszáshoz."
+          },
+          {
+            "tip": "Legjobb kiindulópont a Blue Lagoonhoz terepjáró-vezetés nélkül. Innen indulnak a hajókirándulások."
+          },
+          {
+            "tip": "A Paphos közelének legimpozánsabb vize. Nem közelíthető meg kocsival. Vegyen hajót Latchiból."
+          }
+        ]
       },
       {
-        "category": "Történelmi helyek & Séták 🏰"
+        "category": "Történelmi helyek & Séták 🏰",
+        "items": [
+          {
+            "tip": "A legközelebbi és legfontosabb történelmi helyszín. A hellenisztikus és római korból származó sziklasírok, amelyek a paphoszi UNESCO-listás régészeti terület részét képezik."
+          },
+          {
+            "tip": "Sétáljon a tengerpart mentén a Lighthouse Beach, a kikötő és a Paphoszi Kastély felé. Könnyű és festői séta, különösen napnyugtakor."
+          },
+          {
+            "tip": "Kellemes félúti megálló Avlida és a kikötő között. Jó lehetőség egy festői sétára egy tengerparti megállóval."
+          },
+          {
+            "tip": "Kávézókhoz, helyi utcákhoz, kis boltokhoz és az autentikusabb paphoszi hangulathoz kiváló. Legjobb kora este látogatni."
+          },
+          {
+            "tip": "Ciprus legjelentősebb kulturális látványossága. A keleti Mediterráneum legszebb római mozaikjai közé sorolt alkotások, UNESCO-listán szerepelnek."
+          },
+          {
+            "tip": "Egyszerű esti program. Bizánci erőd, amelyet a 16. században a Lusignanok, majd a velenceiek, aztán az oszmánok újjáépítettek."
+          },
+          {
+            "tip": "Gyönyörű félnapos megálló. A 12. században alapította Szent Neophytosz egy elzárt völgyben Paphostól északra."
+          },
+          {
+            "tip": "Festői part, nagyszerű fényképezéshez és napnyugtához. Kombinálja az Oniro by the Sea és az Agios Georgios meglátogatásával."
+          },
+          {
+            "tip": "Csendes romok tengeri kilátással, a turistautak mellett. Érdemes felkeresni, ha amúgy is a Sea Caves vagy Lara felé tart."
+          },
+          {
+            "tip": "Ciprus legikonikusabb festői látványossága. Inkább a kilátás és a mitológia, mint az úszás miatt érdemes felkeresni."
+          },
+          {
+            "tip": "Vad természet, kilátópontok, gyalogtúra-útvonalak. Az útviszonyok változóak. Legjobb a kalandvágyó vendégeknek."
+          }
+        ]
       },
       {
-        "category": "Látnivalók & Kirándulások 📸"
+        "category": "Látnivalók & Kirándulások 📸",
+        "items": [
+          {
+            "tip": "Bevásárlás, ételudvar, mozi. Praktikus beltéri pihenőre nagyon meleg vagy szeles napokon."
+          },
+          {
+            "tip": "Az egyik legegyszerűbb esti program Avlidából. Vacsora, italok és egy kellemes séta a tenger mellett."
+          },
+          {
+            "tip": "A legjobb közeli családi attrakció. Könnyű fél- vagy egésznapos lehetőség meleg napokon."
+          },
+          {
+            "tip": "A Paphos egyik legjobb élménye. Foglaljon online és érkezzen korán."
+          },
+          {
+            "tip": "Ciprus legjelentősebb kulturális helyszíne. A keleti Mediterráneum legszebb római mozaikjai közé sorolt alkotások, UNESCO-listán."
+          },
+          {
+            "tip": "Egyszerű esti program. Bizánci erőd, amelyet a Lusignanok, majd a velenceiek, majd az oszmánok építettek újjá a 16. században."
+          },
+          {
+            "tip": "Gyönyörű félnapos megálló. A 12. században Neophytosz Szent alapította egy elzárt völgyben Paphos-tól északra."
+          },
+          {
+            "tip": "Festői part, kiváló fényképezéshez és napszentületre. Kombinálja az Oniro by the Sea-vel és az Agios Georgiosszal."
+          },
+          {
+            "tip": "Csendes romok tengeri kilátással, a turisták által nem látogatott helyen. Jó, ha már Sea Caves vagy Lara felé tart."
+          },
+          {
+            "tip": "Ciprus legikonikusabb festői megállója. Inkább a kilátás és a mitológia, mint az úszás szempontjából érdemes."
+          },
+          {
+            "tip": "Vad természet, kilátóhelyek, túraútvonalak. Az útviszonyok változóak. Legjobb kalandvágyó vendégeknek."
+          },
+          {
+            "tip": "Kis strand, jó snorkelezéshez. Kombinálja a Sea Caves-szel. Az Oniro by the Sea étterem pontosan ott van."
+          },
+          {
+            "tip": "Delfinlesés, snorkelezés, tengerpart. 2–3 órás hajóutak a Paphos kikötőből vagy Latchiból. Az egyik legjobb tengeri élmény."
+          },
+          {
+            "tip": "Lenyűgöző szurdokvölgyi séta Timi és Kouklia között. Elég könnyű, gyönyörű táj, drámai szakadék."
+          },
+          {
+            "tip": "Ciprus legmagasabb pontja 1952 m-en. Teljesen más táj — hűvösebb, erdős, drámai. Megér egy egész napot."
+          },
+          {
+            "tip": "Gyönyörű bizánci kolostor a Troodos-hegység lábánál. Érdemes kombinálni egy Troodos-kirándulással."
+          },
+          {
+            "tip": "A legjobb átfogó napi kirándulás Paphos közelében, a Borútvonalat és egy középkori kolostort ötvözve. Lenyűgöző szőlőskertek között vezető út."
+          },
+          {
+            "tip": "Ciprus legjobb családi élménymedence-parkja. Megéri az utat, különösen gyerekes családoknak."
+          }
+        ]
       },
       {
-        "category": "Túrázás & Természet ⛰️"
+        "category": "Túrázás & Természet ⛰️",
+        "items": [
+          {
+            "tip": "Legjobb autó nélküli lehetőség. Sétáljon a Királyok Sírjaitól a Lighthouse Beach, a kikötő és a Paphoszi Kastély felé."
+          },
+          {
+            "tip": "Praktikus Avlidából. Jó azoknak a vendégeknek, akik természetet szeretnének egy igazi túra nélkül."
+          },
+          {
+            "tip": "Kombinálja az ókori sírokat, a nyílt tájat és a tengerpartot. Nem formális ösvény, de nagyon szép kör."
+          },
+          {
+            "tip": "Igazi természeti ösvény a Lara Beach közelében. Nehéz út szükséges, de Ciprus egyik legjobb partmenti természeti sétánya."
+          },
+          {
+            "tip": "Népszerű jelzett ösvény az Akamas dombjain át. Közepes nehézségű. Legjobb hűvösebb hónapokban."
+          },
+          {
+            "tip": "Igényesebb ösvény az Akamas mélyébe. Nagyon látványos kilátás. Vegyen vizet és induljon korán."
+          },
+          {
+            "tip": "Könnyű, festői kör szőlőültetvényeken és hagyományos falusi élettel. Legjobb tavasszal vagy ősszel."
+          },
+          {
+            "tip": "Könnyű | Legközelebbi tengerparti séta, gyors helyi kirándulás. A legjobb egyszerű lehetőség az ingatlanból."
+          },
+          {
+            "tip": "A Paphos területének leglenyűgözőbb szurdokvölgyi sétája. Évszázadokon át víz által kialakítva. Közepes, jól jelzett."
+          },
+          {
+            "tip": "Rövid, jól jelzett természeti ösvény az endemikus erdőn át. Könnyű és jutalmazó még a nem túrázók számára is."
+          },
+          {
+            "tip": "Festői természeti ösvény a cédruserdőn át és a Cédrus-völgy mellett. Közepes nehézségű. Autóval jobb."
+          },
+          {
+            "tip": "Ciprus legmagasabb csúcsára való kirándulás. Nehéz, de hihetetlen kilátás. Legjobb hűvösebb hónapokban, vegyen fel meleg rétegeket."
+          }
+        ]
       },
       {
-        "category": "Étkezés & Italok"
+        "category": "Étkezés & Italok",
+        "items": [
+          {
+            "tip": "A legegyszerűbb autó nélküli vacsoralehetőség Avlida közelében. A Királyok Sírjai közelének egyik legjobb étterme."
+          },
+          {
+            "tip": "Megbízható közeli lehetőség a Királyok Sírjai sugárúton. Görög és mediterrán konyha kiváló vendégértékelésekkel."
+          },
+          {
+            "tip": "Jó egy egyszerű reggelire vagy ebédre a közelből. Barátságos kiszolgálás és kiváló ár-érték arány."
+          },
+          {
+            "tip": "Népszerű helyi meze és tenger gyümölcsei étterem. Nagyon jó a hagyományos ciprusi vacsorához."
+          },
+          {
+            "tip": "Jó kikötői étterem ebédre vagy vacsorára. Grillezett hal, friss tenger gyümölcsei, klasszikus hangulat."
+          },
+          {
+            "tip": "A kikötő egyik legjobb tengeri étterme. Remek grillezett hal és szép kilátás a tengerre."
+          },
+          {
+            "tip": "Helyi kedvenc friss halakhoz. Általában zsúfolt — megéri a várakozást."
+          },
+          {
+            "tip": "Magasan értékelt étterem a kikötői fronton. Remek egy különleges vacsorához."
+          },
+          {
+            "tip": "Kellemes kikötői étkezés. Jó egy egyszerű étkezéshez szép kilátással."
+          },
+          {
+            "tip": "Jó strandközeli lehetőség a kikötő területén. Laza hangulat, jó ebédre."
+          },
+          {
+            "tip": "Kellemes borbar és étterem a kikötő területén. Jó tapasokhoz és helyi borhoz."
+          },
+          {
+            "tip": "A Paphoszi kikötő ikonikus pubja. Jó egy italhoz és egy könnyed étkezéshez."
+          },
+          {
+            "tip": "Rusztikus ciprusi taverna hagyományos meze-éről ismert. Megéri az utat, ha szereted az autentikus helyi ételeket."
+          },
+          {
+            "tip": "Fantasztikus tengeri kilátású étterem a Sea Caves-nél. Érdemes egy barlangos kirándulással kombinálni."
+          },
+          {
+            "tip": "Klasszikus ciprusi falusi taverna a Coral Bay közelében. Jó grillezett húsokhoz és mezehez."
+          },
+          {
+            "tip": "Jó hely egy Coral Bay-i tengerparti ebédre vagy vacsorára. Laza hangulat, kellemes étel."
+          },
+          {
+            "tip": "Nagyon jó helyi taverna a hiteles ciprusi ételekhez Pegeia faluban."
+          },
+          {
+            "tip": "Kiváló reggeli, brunch és ebéd kávézó. Nagyon népszerű a helyiek és a vendégek körében."
+          },
+          {
+            "tip": "Jó helyi lehetőség egy gyors pizzára vagy könnyed vacsorára."
+          },
+          {
+            "tip": "Fő nagy szupermarket az ingatlan közelében heti bevásárláshoz és alapszükségletekhez."
+          },
+          {
+            "tip": "Büdzsé-barát szupermarket alapszükségletekhez, élelmiszerekhez és háztartási cikkekhez."
+          }
+        ]
       },
       {
-        "category": "Vásárlás"
+        "category": "Vásárlás",
+        "items": [
+          {
+            "tip": "A fő bevásárlóközpont Paphosban. Sokféle üzlet, éttermek és mozi."
+          },
+          {
+            "tip": "Fedett piactér ruha, táska, ékszer, strandfelszerelés és helyi ajándéktárgy árusokkal."
+          },
+          {
+            "tip": "Kóboroljon a gyönyörű Óvárosban, és fedezzen fel számos kis butikboltot és kézműves üzletet."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -595,22 +1093,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Παραλίες 🏝️"
+        "category": "Παραλίες 🏝️",
+        "items": [
+          {
+            "tip": "Η πλησιέστερη χρήσιμη παραλία. 15–20 λεπτά με τα πόδια. Γρήγορη βουτιά, ηλιοβασίλεμα, βολική."
+          },
+          {
+            "tip": "25–35 λεπτά με τα πόδια ή σύντομη διαδρομή. Ηλιοβασίλεμα, χαλαρή βουτιά."
+          },
+          {
+            "tip": "Λιγότερο τουριστική, τοπική ατμόσφαιρα. Ωραία για ηλιοβασίλεμα. Καλύτερη όταν η θάλασσα είναι ήρεμη."
+          },
+          {
+            "tip": "Αστικό σημείο κολύμβησης, όχι αμμουδερή παραλία. Βολικό για γρήγορη βουτιά κοντά στην παραλιακή."
+          },
+          {
+            "tip": "Οργανωμένη παραλία με εγκαταστάσεις, κατάλληλη για οικογένειες. Πιο εύκολη με αυτοκίνητο ή λεωφορείο παρά με τα πόδια."
+          },
+          {
+            "tip": "Η ασφαλέστερη και καλύτερη επιλογή παραλίας κοντά στην Πάφο. Αμμουδερή, οργανωμένη, εύκολη. Δύσκολο να κάνεις λάθος."
+          },
+          {
+            "tip": "Η προτιμώμενη εναλλακτική μου αντί για Coral Bay. Παρόμοια άνεση, συνήθως πιο ήσυχη."
+          },
+          {
+            "tip": "Εντυπωσιακή ακτογραμμή. Καλύτερη για τοπία και φωτογραφίες ηλιοβασιλέματος παρά για κλασική μέρα παραλίας."
+          },
+          {
+            "tip": "Μικρή παραλία, ιδανική για αναπνευστήρα. Συνδυάστε με Sea Caves και Oniro by the Sea."
+          },
+          {
+            "tip": "Ακατέργαστη και όμορφη, άγρια ακτή. Καλύτερη για εξερεύνηση παρά για ξαπλώστρες."
+          },
+          {
+            "tip": "Μία από τις πιο ιδιαίτερες παραλίες στην περιοχή της Πάφου. Τόπος φωλεοποίησης χελωνών. Δύσκολη πρόσβαση, χωρίς ανέσεις."
+          },
+          {
+            "tip": "Ο θρυλικός τόπος γέννησης της Αφροδίτης. Όμορφο τοπίο και φωτογραφίες, αλλά βραχώδης και δεν είναι πάντα ιδανική για κολύμπι."
+          },
+          {
+            "tip": "Καλύτερο σημείο εκκίνησης για τη Blue Lagoon χωρίς οδήγηση εκτός δρόμου. Εδώ αναχωρούν τα πλοιάρια."
+          },
+          {
+            "tip": "Τα πιο εντυπωσιακά νερά στην περιοχή της Πάφου. Δεν είναι παραλία που φτάνετε με αυτοκίνητο. Πάρτε βάρκα από το Latchi."
+          }
+        ]
       },
       {
-        "category": "Ιστορικά Μνημεία & Τοπίο 🏰"
+        "category": "Ιστορικά Μνημεία & Τοπίο 🏰",
+        "items": [
+          {
+            "tip": "Η πλησιέστερη και σημαντικότερη ιστορική τοποθεσία. Λαξευτοί τάφοι από την ελληνιστική και ρωμαϊκή περίοδο, τμήμα της αρχαιολογικής περιοχής της Πάφου που είναι καταχωρημένη στην UNESCO."
+          },
+          {
+            "tip": "Περπατήστε κατά μήκος της ακτογραμμής προς την παραλία του Φάρου, το λιμάνι και το Κάστρο της Πάφου. Εύκολη και γραφική διαδρομή, ιδιαίτερα στο ηλιοβασίλεμα."
+          },
+          {
+            "tip": "Χαλαρός ενδιάμεσος σταθμός μεταξύ Αυλίδας και του λιμανιού. Ιδανικό για μια γραφική βόλτα με μια στάση στην παραλία."
+          },
+          {
+            "tip": "Ιδανικό για καφέ, τοπικά στενά, μικρά μαγαζιά και μια πιο αυθεντική αίσθηση της Πάφου. Καλύτερα το αργό απόγευμα."
+          },
+          {
+            "tip": "Κορυφαίο πολιτιστικό αξιοθέατο της Κύπρου. Ρωμαϊκά ψηφιδωτά που θεωρούνται από τα καλύτερα της ανατολικής Μεσογείου, καταχωρημένα στην UNESCO."
+          },
+          {
+            "tip": "Εύκολο βραδινό σχέδιο. Βυζαντινό φρούριο που ανοικοδομήθηκε από τους Λουζινιανούς, στη συνέχεια από τους Βενετούς και τους Οθωμανούς τον 16ο αιώνα."
+          },
+          {
+            "tip": "Όμορφη στάση μισής ημέρας. Ιδρύθηκε τον 12ο αιώνα από τον Άγιο Νεόφυτο σε μια απομονωμένη κοιλάδα βόρεια της Πάφου."
+          },
+          {
+            "tip": "Γραφική ακτή, ιδανική για φωτογραφίες και ηλιοβασίλεμα. Συνδυάστε με Oniro by the Sea και Άγιο Γεώργιο."
+          },
+          {
+            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεστε ήδη προς τα Sea Caves ή τη Λάρα."
+          },
+          {
+            "tip": "Η πιο εμβληματική γραφική στάση στην Κύπρο. Καλύτερη για τη θέα και τη μυθολογία παρά για κολύμπι."
+          },
+          {
+            "tip": "Άγρια φύση, σημεία θέας, πεζοπορικά μονοπάτια. Οι συνθήκες του δρόμου ποικίλλουν. Κατάλληλο για τολμηρούς επισκέπτες."
+          }
+        ]
       },
       {
-        "category": "Αξιοθέατα & Εκδρομές 📸"
+        "category": "Αξιοθέατα & Εκδρομές 📸",
+        "items": [
+          {
+            "tip": "Ψώνια, food court, κινηματογράφος. Πρακτικό για εσωτερική ανάπαυλα σε πολύ ζεστές ή αέρηδες μέρες."
+          },
+          {
+            "tip": "Ένα από τα πιο εύκολα βραδινά σχέδια από τη Αυλίδα. Δείπνο, ποτά και χαλαρή βόλτα δίπλα στη θάλασσα."
+          },
+          {
+            "tip": "Η καλύτερη οικογενειακή αξιοθέατο στην περιοχή. Εύκολη επιλογή μισής ή ολόκληρης ημέρας σε ζεστές μέρες."
+          },
+          {
+            "tip": "Μία από τις κορυφαίες εμπειρίες της Πάφου. Κλείστε διαδικτυακά και φτάστε νωρίς."
+          },
+          {
+            "tip": "Πιο σημαντικός πολιτιστικός χώρος της Κύπρου. Ρωμαϊκά ψηφιδωτά μεταξύ των καλύτερων στην ανατολική Μεσόγειο, στη λίστα της UNESCO."
+          },
+          {
+            "tip": "Εύκολο βραδινό σχέδιο. Βυζαντινό φρούριο ανακατασκευασμένο από τους Λουζινιάν, τους Βενετούς και τους Οθωμανούς τον 16ο αιώνα."
+          },
+          {
+            "tip": "Όμορφη στάση μισής ημέρας. Ιδρύθηκε τον 12ο αιώνα από τον Άγιο Νεόφυτο σε μια απομονωμένη κοιλάδα βόρεια της Πάφου."
+          },
+          {
+            "tip": "Γραφική ακτή, υπέροχη για φωτογραφίες και ηλιοβασίλεμα. Συνδυάστε με Oniro by the Sea και Άγιο Γεώργιο."
+          },
+          {
+            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεστε ήδη προς Sea Caves ή Λάρα."
+          },
+          {
+            "tip": "Η πιο εμβληματική γραφική στάση στην Κύπρο. Καλύτερη για θέα και μυθολογία παρά για κολύμπι."
+          },
+          {
+            "tip": "Άγρια φύση, σημεία θέας, μονοπάτια πεζοπορίας. Οι συνθήκες του δρόμου ποικίλλουν. Καλύτερο για τολμηρούς επισκέπτες."
+          },
+          {
+            "tip": "Μικρή παραλία, ιδανική για αναπνευστήρα. Συνδυάστε με Sea Caves. Το εστιατόριο Oniro by the Sea είναι εκεί."
+          },
+          {
+            "tip": "Παρατήρηση δελφινιών, αναπνευστήρας, ακτογραμμή. Πλοιάρια 2–3 ωρών από το λιμάνι της Πάφου ή το Latchi. Μία από τις καλύτερες θαλάσσιες εμπειρίες."
+          },
+          {
+            "tip": "Εντυπωσιακή βόλτα στο φαράγγι μεταξύ Τιμιού και Κουκλιών. Αρκετά εύκολη, όμορφα τοπία, δραματική χαράδρα."
+          },
+          {
+            "tip": "Το υψηλότερο σημείο της Κύπρου στα 1952μ. Εντελώς διαφορετικό τοπίο — πιο δροσερό, δασώδες, δραματικό. Αξίζει ολόκληρη μέρα."
+          },
+          {
+            "tip": "Ένα όμορφο βυζαντινό μοναστήρι στις υπώρειες του Τροόδους. Αξίζει να συνδυαστεί με επίσκεψη στο Τρόοδος."
+          },
+          {
+            "tip": "Η καλύτερη συνολική εκδρομή ημέρας κοντά στην Πάφο συνδυάζοντας τη Διαδρομή Κρασιού και ένα μεσαιωνικό μοναστήρι. Οδηγήστε μέσα από εντυπωσιακούς αμπελώνες."
+          },
+          {
+            "tip": "Το καλύτερο οικογενειακό υδάτινο πάρκο της Κύπρου. Αξίζει την οδήγηση, ειδικά για όσους έχουν παιδιά."
+          }
+        ]
       },
       {
-        "category": "Πεζοπορία & Φύση ⛰️"
+        "category": "Πεζοπορία & Φύση ⛰️",
+        "items": [
+          {
+            "tip": "Καλύτερη επιλογή χωρίς αυτοκίνητο. Περπατήστε από την περιοχή των Τάφων των Βασιλέων προς Lighthouse Beach, το λιμάνι και το Κάστρο της Πάφου."
+          },
+          {
+            "tip": "Πρακτικό από την Αυλίδα. Κατάλληλο για επισκέπτες που θέλουν φύση χωρίς κανονική πεζοπορία."
+          },
+          {
+            "tip": "Συνδυάζει αρχαίους τάφους, ανοιχτό τοπίο και ακτογραμμή. Όχι επίσημο μονοπάτι, αλλά πολύ όμορφη διαδρομή."
+          },
+          {
+            "tip": "Κανονικό φυσικό μονοπάτι κοντά στην παραλία Λάρα. Απαιτείται πρόσβαση σε ανώμαλο δρόμο, αλλά ένας από τους καλύτερους παράκτιους φυσικούς περιπάτους στην Κύπρο."
+          },
+          {
+            "tip": "Δημοφιλές σηματοδοτημένο μονοπάτι μέσα από τους λόφους της Ακάμας. Μέτριο. Καλύτερο τους πιο δροσερούς μήνες."
+          },
+          {
+            "tip": "Πιο απαιτητικό μονοπάτι βαθύτερα στην Ακάμα. Πολύ ανταμείβοντες απόψεις. Πάρτε νερό και ξεκινήστε νωρίς."
+          },
+          {
+            "tip": "Εύκολη γραφική διαδρομή μέσα από αμπελώνες και παραδοσιακή χωριάτικη ζωή. Καλύτερη την άνοιξη ή το φθινόπωρο."
+          },
+          {
+            "tip": "Εύκολο | Πλησιέστερος παράκτιος περίπατος, γρήγορη τοπική βόλτα. Η καλύτερη ανέμελη επιλογή από την ιδιοκτησία."
+          },
+          {
+            "tip": "Ο πιο εντυπωσιακός περίπατος σε φαράγγι στην περιοχή Πάφου. Σκαλισμένο από το νερό για αιώνες. Μέτριο, καλά σηματοδοτημένο."
+          },
+          {
+            "tip": "Σύντομο, καλά σηματοδοτημένο μονοπάτι φύσης μέσα από ενδημικό δάσος. Εύκολο και ανταμείβοντα ακόμη και για μη πεζοπόρους."
+          },
+          {
+            "tip": "Γραφικό μονοπάτι φύσης μέσα από δάσος κέδρου και δίπλα από την Κοιλάδα των Κέδρων. Μέτριο. Καλύτερο με αυτοκίνητο."
+          },
+          {
+            "tip": "Η ανάβαση στην υψηλότερη κορυφή της Κύπρου. Δύσκολη αλλά απίστευτες θέες. Καλύτερη τους πιο δροσερούς μήνες, πάρτε ζεστά ρούχα."
+          }
+        ]
       },
       {
-        "category": "Φαγητό & Ποτό"
+        "category": "Φαγητό & Ποτό",
+        "items": [
+          {
+            "tip": "Η πιο εύκολη επιλογή δείπνου χωρίς αυτοκίνητο κοντά στην Αυλίδα. Κατατάσσεται μεταξύ των κορυφαίων εστιατορίων κοντά στους Τάφους των Βασιλέων."
+          },
+          {
+            "tip": "Αξιόπιστη κοντινή επιλογή στη Λεωφόρο των Τάφων των Βασιλέων. Ελληνική και μεσογειακή κουζίνα με υψηλές αξιολογήσεις."
+          },
+          {
+            "tip": "Ιδανικό για ένα εύκολο πρωινό ή γεύμα κοντά σπίτι. Φιλική εξυπηρέτηση και εξαιρετική αξία."
+          },
+          {
+            "tip": "Δημοφιλής τοπικός χώρος για μεζέ και θαλασσινά. Πολύ καλό για ένα παραδοσιακό κυπριακό δείπνο."
+          },
+          {
+            "tip": "Καλό εστιατόριο στο λιμάνι για γεύμα ή δείπνο. Ψητά ψάρια, φρέσκα θαλασσινά, κλασικό περιβάλλον."
+          },
+          {
+            "tip": "Ένα από τα καλύτερα θαλασσινά εστιατόρια στο λιμάνι. Εξαιρετικά ψητά ψάρια και όμορφη θέα στη θάλασσα."
+          },
+          {
+            "tip": "Αγαπημένο τοπικό εστιατόριο για φρέσκα ψάρια. Συνήθως γεμάτο — αξίζει την αναμονή."
+          },
+          {
+            "tip": "Ένα εστιατόριο με υψηλή βαθμολογία στη λιμενική προκυμαία. Ιδανικό για ένα ιδιαίτερο δείπνο."
+          },
+          {
+            "tip": "Χαλαρό γεύμα στο λιμάνι. Κατάλληλο για ένα απλό γεύμα με όμορφη θέα."
+          },
+          {
+            "tip": "Μια καλή επιλογή δίπλα στην παραλία στην περιοχή του λιμανιού. Χαλαρό περιβάλλον, κατάλληλο για γεύμα."
+          },
+          {
+            "tip": "Ένα υπέροχο wine bar και εστιατόριο στην περιοχή του λιμανιού. Κατάλληλο για tapas και τοπικό κρασί."
+          },
+          {
+            "tip": "Το εμβληματικό μπαρ-εστιατόριο στο λιμάνι της Πάφου. Κατάλληλο για ένα ποτό και ένα ανεπίσημο γεύμα."
+          },
+          {
+            "tip": "Ρουστίκ κυπριακή ταβέρνα γνωστή για παραδοσιακό μεζέ. Αξίζει την οδήγηση αν αγαπάτε την αυθεντική τοπική κουζίνα."
+          },
+          {
+            "tip": "Φανταστικό εστιατόριο με θέα θάλασσα στα Sea Caves. Αξίζει να συνδυαστεί με επίσκεψη στις σπηλιές."
+          },
+          {
+            "tip": "Μια κλασική κυπριακή χωριάτικη ταβέρνα κοντά στο Coral Bay. Κατάλληλη για ψητά κρέατα και μεζέ."
+          },
+          {
+            "tip": "Καλό μέρος για μεσημεριανό ή βραδινό στην παραλία Coral Bay. Χαλαρό, αξιοπρεπές φαγητό."
+          },
+          {
+            "tip": "Πολύ καλή τοπική ταβέρνα για αυθεντική κυπριακή κουζίνα στο χωριό Πήγεια."
+          },
+          {
+            "tip": "Εξαιρετικό καφέ για πρωινό, brunch και μεσημεριανό. Πολύ δημοφιλές με ντόπιους και επισκέπτες."
+          },
+          {
+            "tip": "Καλή τοπική επιλογή για γρήγορη πίτσα ή ανεπίσημο δείπνο."
+          },
+          {
+            "tip": "Κύριο μεγάλο σούπερ μάρκετ κοντά στο ακίνητο για εβδομαδιαίες αγορές και βασικά."
+          },
+          {
+            "tip": "Οικονομικό σούπερ μάρκετ για βασικά, τρόφιμα και οικιακά είδη."
+          }
+        ]
       },
       {
-        "category": "Ψώνια"
+        "category": "Ψώνια",
+        "items": [
+          {
+            "tip": "Το κύριο εμπορικό κέντρο στην Πάφο. Ευρεία γκάμα καταστημάτων, εστιατορίων και κινηματογράφος."
+          },
+          {
+            "tip": "Στεγασμένη αγορά με πάγκους για ρούχα, τσάντες, κοσμήματα, είδη παραλίας και τοπικά αναμνηστικά."
+          },
+          {
+            "tip": "Περιηγηθείτε στην όμορφη Παλιά Πόλη και ανακαλύψτε πολλά μικρά μπουτίκ και βιοτεχνικά καταστήματα."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -813,22 +1560,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Plages 🏝️"
+        "category": "Plages 🏝️",
+        "items": [
+          {
+            "tip": "La plage la plus proche et pratique. 15–20 min à pied. Baignade rapide, coucher de soleil, commodité."
+          },
+          {
+            "tip": "25–35 min à pied ou un court trajet en voiture. Coucher de soleil, baignade décontractée."
+          },
+          {
+            "tip": "Moins touristique, ambiance locale. Agréable pour le coucher de soleil. Mieux quand la mer est calme."
+          },
+          {
+            "tip": "Spot de baignade urbain, pas une plage de sable. Pratique pour une baignade rapide près de la promenade."
+          },
+          {
+            "tip": "Plage organisée avec équipements, bien pour les familles. Plus facile en voiture ou en bus qu'à pied."
+          },
+          {
+            "tip": "Le meilleur choix de plage le plus sûr près de Paphos. Sablonneuse, organisée, facile. Difficile de se tromper."
+          },
+          {
+            "tip": "Mon alternative préférée à Coral Bay. Même commodité, généralement plus calme."
+          },
+          {
+            "tip": "Littoral spectaculaire. Mieux pour le paysage et les photos de coucher de soleil que pour une journée de plage classique."
+          },
+          {
+            "tip": "Petite plage, idéale pour la plongée avec tuba. À combiner avec Sea Caves et Oniro by the Sea."
+          },
+          {
+            "tip": "Sauvage et magnifique. Mieux pour explorer que pour s'installer sur un transat."
+          },
+          {
+            "tip": "L'une des plages les plus exceptionnelles de la région de Paphos. Site de nidification des tortues. Accès difficile, aucun équipement."
+          },
+          {
+            "tip": "Le lieu de naissance légendaire d'Aphrodite. Très beau paysage et photos, mais rocheux et pas toujours idéal pour nager."
+          },
+          {
+            "tip": "Meilleur point de départ pour la Blue Lagoon sans conduite tout-terrain. Les excursions en bateau partent d'ici."
+          },
+          {
+            "tip": "L'eau la plus impressionnante de la région de Paphos. Pas une plage accessible en voiture. Prenez un bateau depuis Latchi."
+          }
+        ]
       },
       {
-        "category": "Sites historiques & promenades 🏰"
+        "category": "Sites historiques & promenades 🏰",
+        "items": [
+          {
+            "tip": "Le site historique le plus proche et le plus important. Tombes rupestres des périodes hellénistique et romaine, faisant partie du site archéologique de Paphos classé par l'UNESCO."
+          },
+          {
+            "tip": "Promenez-vous le long du littoral vers Lighthouse Beach, le port et le château de Paphos. Facile et pittoresque, surtout au coucher du soleil."
+          },
+          {
+            "tip": "Point de mi-chemin détendu entre Avlida et le port. Idéal pour une promenade pittoresque avec une halte à la plage."
+          },
+          {
+            "tip": "Idéal pour les cafés, les rues locales, les petites boutiques et une atmosphère plus authentique de Paphos. À visiter de préférence en fin d'après-midi."
+          },
+          {
+            "tip": "Principal site culturel de Chypre. Mosaïques romaines considérées parmi les plus belles de la Méditerranée orientale, classées par l'UNESCO."
+          },
+          {
+            "tip": "Programme de soirée facile. Fort byzantin reconstruit par les Lusignans, puis par les Vénitiens, puis par les Ottomans au XVIe siècle."
+          },
+          {
+            "tip": "Magnifique étape d'une demi-journée. Fondé au XIIe siècle par saint Néophyte dans une vallée isolée au nord de Paphos."
+          },
+          {
+            "tip": "Côte pittoresque, idéale pour les photos et le coucher de soleil. À combiner avec Oniro by the Sea et Agios Georgios."
+          },
+          {
+            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des sentiers touristiques. Idéal si vous vous dirigez déjà vers Sea Caves ou Lara."
+          },
+          {
+            "tip": "L'arrêt panoramique le plus emblématique de Chypre. Mieux pour les vues et la mythologie que pour la baignade."
+          },
+          {
+            "tip": "Nature sauvage, points de vue, sentiers de randonnée. L'état des routes varie. Idéal pour les voyageurs aventureux."
+          }
+        ]
       },
       {
-        "category": "Attractions & excursions 📸"
+        "category": "Attractions & excursions 📸",
+        "items": [
+          {
+            "tip": "Shopping, restauration rapide, cinéma. Pratique pour une pause en intérieur les jours très chauds ou très venteux."
+          },
+          {
+            "tip": "L'un des programmes de soirée les plus faciles depuis Avlida. Dîner, apéritifs et promenade détendue au bord de la mer."
+          },
+          {
+            "tip": "Meilleure attraction familiale à proximité. Option facile pour une demi-journée ou une journée complète par temps chaud."
+          },
+          {
+            "tip": "L'une des meilleures expériences à Paphos. Réservez en ligne et arrivez tôt le matin."
+          },
+          {
+            "tip": "Site culturel le plus important de Chypre. Mosaïques romaines parmi les plus belles de la Méditerranée orientale, classées par l'UNESCO."
+          },
+          {
+            "tip": "Plan de soirée facile. Fort byzantin reconstruit par les Lusignan, puis les Vénitiens, puis les Ottomans au XVIe siècle."
+          },
+          {
+            "tip": "Belle halte d'une demi-journée. Fondé au XIIe siècle par Saint Néophyte dans une vallée isolée au nord de Paphos."
+          },
+          {
+            "tip": "Côte pittoresque, idéale pour les photos et le coucher de soleil. À combiner avec Oniro by the Sea et Agios Georgios."
+          },
+          {
+            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des circuits touristiques. Bon si vous vous dirigez déjà vers Sea Caves ou Lara."
+          },
+          {
+            "tip": "L'arrêt panoramique le plus emblématique de Chypre. Mieux pour les vues et la mythologie que pour la baignade."
+          },
+          {
+            "tip": "Nature sauvage, points de vue, sentiers de randonnée. L'état des routes varie. Idéal pour les voyageurs aventureux."
+          },
+          {
+            "tip": "Petite plage, idéale pour la plongée avec tuba. À combiner avec Sea Caves. Le restaurant Oniro by the Sea est juste là."
+          },
+          {
+            "tip": "Observation de dauphins, plongée avec tuba, côte. Bateaux de 2–3 heures depuis le port de Paphos ou Latchi. L'une des meilleures expériences maritimes."
+          },
+          {
+            "tip": "Magnifique promenade dans les gorges entre Timi et Kouklia. Assez facile, beaux paysages, ravin spectaculaire."
+          },
+          {
+            "tip": "Le point culminant de Chypre à 1952 m. Un paysage totalement différent — plus frais, boisé, spectaculaire. Mérite une journée entière."
+          },
+          {
+            "tip": "Un magnifique monastère byzantin dans les contreforts du Troodos. Mérite d'être combiné avec une excursion au Troodos."
+          },
+          {
+            "tip": "La meilleure excursion d'une journée autour de Paphos combinant la Route des Vins et un monastère médiéval. Conduisez à travers de superbes vignobles."
+          },
+          {
+            "tip": "Le meilleur parc aquatique familial de Chypre. Ça vaut le déplacement, surtout pour les familles avec enfants."
+          }
+        ]
       },
       {
-        "category": "Randonnées & sentiers nature ⛰️"
+        "category": "Randonnées & sentiers nature ⛰️",
+        "items": [
+          {
+            "tip": "Meilleure option sans voiture. Marchez depuis les Tombes des Rois vers Lighthouse Beach, le port et le château de Paphos."
+          },
+          {
+            "tip": "Pratique depuis Avlida. Idéal pour les clients qui veulent de la nature sans randonnée proprement dite."
+          },
+          {
+            "tip": "Combine des tombes antiques, un paysage ouvert et le littoral. Pas un sentier officiel, mais un très beau circuit."
+          },
+          {
+            "tip": "Vrai sentier naturel partant près de Lara Beach. Accès par route difficile, mais l'une des meilleures promenades côtières naturelles de Chypre."
+          },
+          {
+            "tip": "Sentier balisé populaire à travers les collines d'Akamas. Moyen. Idéal pendant les mois plus frais."
+          },
+          {
+            "tip": "Sentier plus exigeant vers l'intérieur d'Akamas. Vues très gratifiantes. Emportez de l'eau et partez tôt."
+          },
+          {
+            "tip": "Boucle facile et pittoresque à travers les vignobles et la vie villageoise traditionnelle. Idéale au printemps ou en automne."
+          },
+          {
+            "tip": "Facile | Promenade en bord de mer la plus proche, courte balade locale. La meilleure option sans tracas depuis la propriété."
+          },
+          {
+            "tip": "La plus impressionnante promenade dans les gorges de la région de Paphos. Creusé par l'eau au fil des siècles. Moyen, bien balisé."
+          },
+          {
+            "tip": "Court sentier nature bien balisé à travers une forêt endémique. Facile et gratifiant même pour les non-randonneurs."
+          },
+          {
+            "tip": "Sentier nature pittoresque à travers la forêt de cèdres et la vallée des cèdres. Moyen. Mieux avec une voiture."
+          },
+          {
+            "tip": "La randonnée jusqu'au plus haut sommet de Chypre. Difficile mais vues incroyables. Idéale les mois plus frais, prenez des couches chaudes."
+          }
+        ]
       },
       {
-        "category": "Manger & Boire"
+        "category": "Manger & Boire",
+        "items": [
+          {
+            "tip": "L'option de dîner sans voiture la plus facile près d'Avlida. Classé parmi les meilleurs restaurants à proximité des Tombes des Rois."
+          },
+          {
+            "tip": "Option fiable à proximité sur l'avenue des Tombes des Rois. Grec et méditerranéen avec de très bonnes notes des clients."
+          },
+          {
+            "tip": "Idéal pour un petit-déjeuner ou un déjeuner facile près de chez soi. Service agréable et excellent rapport qualité-prix."
+          },
+          {
+            "tip": "Endroit local populaire pour le meze et les fruits de mer. Très bien pour un dîner chypriote traditionnel."
+          },
+          {
+            "tip": "Bon restaurant du port pour le déjeuner ou le dîner. Poissons grillés, fruits de mer frais, cadre classique."
+          },
+          {
+            "tip": "L'un des meilleurs restaurants de fruits de mer du port. Excellent poisson grillé et belle vue sur la mer."
+          },
+          {
+            "tip": "Un favori local pour le poisson frais. Souvent plein — ça vaut l'attente."
+          },
+          {
+            "tip": "Un restaurant très bien noté en bord de port. Parfait pour un dîner spécial."
+          },
+          {
+            "tip": "Restauration décontractée au port. Idéal pour un repas simple avec une belle vue."
+          },
+          {
+            "tip": "Une bonne option en bord de plage dans la zone du port. Cadre détendu, idéal pour le déjeuner."
+          },
+          {
+            "tip": "Un charmant bar à vins et restaurant dans la zone du port. Idéal pour les tapas et le vin local."
+          },
+          {
+            "tip": "Le pub emblématique du port de Paphos. Idéal pour une boisson et un repas décontracté."
+          },
+          {
+            "tip": "Taverne chypriote rustique connue pour ses mezze très traditionnels. Vaut le déplacement si vous aimez la cuisine locale authentique."
+          },
+          {
+            "tip": "Fantastique restaurant avec vue sur la mer aux Sea Caves. Mérite d'être combiné avec une visite des grottes."
+          },
+          {
+            "tip": "Une taverne de village chypriote classique près de Coral Bay. Bonne pour les viandes grillées et le meze."
+          },
+          {
+            "tip": "Un bon endroit pour un déjeuner ou dîner sur la plage de Coral Bay. Décontracté, nourriture correcte."
+          },
+          {
+            "tip": "Très bonne taverne locale pour la cuisine chypriote authentique dans le village de Pegeia."
+          },
+          {
+            "tip": "Excellent café pour le petit-déjeuner, le brunch et le déjeuner. Très populaire auprès des locaux et des clients."
+          },
+          {
+            "tip": "Bonne option locale pour une pizza rapide ou un dîner décontracté."
+          },
+          {
+            "tip": "Principal grand supermarché à proximité de la propriété pour les courses hebdomadaires et les essentiels."
+          },
+          {
+            "tip": "Supermarché économique pour les produits de base, l'épicerie et les articles ménagers."
+          }
+        ]
       },
       {
-        "category": "Shopping"
+        "category": "Shopping",
+        "items": [
+          {
+            "tip": "Le principal centre commercial de Paphos. Large gamme de boutiques, restaurants et un cinéma."
+          },
+          {
+            "tip": "Marché couvert avec des étals pour les vêtements, les sacs, les bijoux, les articles de plage et les souvenirs locaux."
+          },
+          {
+            "tip": "Déambulez dans la belle vieille ville et découvrez de nombreuses petites boutiques et magasins d'artisans."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -1031,22 +2027,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Playas 🏝️"
+        "category": "Playas 🏝️",
+        "items": [
+          {
+            "tip": "La playa más cercana y útil. 15–20 min a pie. Baño rápido, atardecer, comodidad."
+          },
+          {
+            "tip": "25–35 min a pie o un trayecto corto en coche. Atardecer, baño relajado."
+          },
+          {
+            "tip": "Menos turístico, ambiente local. Buena para el atardecer. Mejor cuando el mar está en calma."
+          },
+          {
+            "tip": "Zona de baño urbana, no playa de arena. Práctico para un chapuzón rápido cerca del paseo marítimo."
+          },
+          {
+            "tip": "Playa organizada con instalaciones, ideal para familias. Más fácil en coche o autobús que a pie."
+          },
+          {
+            "tip": "La mejor opción de playa cerca de Pafos. Arenosa, organizada, fácil. Difícil equivocarse."
+          },
+          {
+            "tip": "Mi alternativa preferida a Coral Bay. Comodidad similar, normalmente más tranquila."
+          },
+          {
+            "tip": "Costa dramática. Mejor para el paisaje y fotos de atardecer que para un día de playa clásico."
+          },
+          {
+            "tip": "Playa pequeña, buena para el snorkel. Combinar con Sea Caves y Oniro by the Sea."
+          },
+          {
+            "tip": "Natural y hermosa, costa salvaje. Mejor para explorar que para tumbonas."
+          },
+          {
+            "tip": "Una de las playas más especiales de la zona de Pafos. Zona de anidamiento de tortugas. Acceso difícil, sin instalaciones."
+          },
+          {
+            "tip": "Lugar de nacimiento legendario de Afrodita. Paisaje y fotos hermosas, pero rocoso y no siempre ideal para nadar."
+          },
+          {
+            "tip": "Mejor punto de partida para la Blue Lagoon sin conducción por caminos no asfaltados. Los viajes en barco salen desde aquí."
+          },
+          {
+            "tip": "El agua más impresionante de la zona de Pafos. No es una playa accesible en coche. Tome un barco desde Latchi."
+          }
+        ]
       },
       {
-        "category": "Sitios históricos & paseos escénicos 🏰"
+        "category": "Sitios históricos & paseos escénicos 🏰",
+        "items": [
+          {
+            "tip": "El sitio histórico más cercano e importante. Tumbas excavadas en la roca de los períodos helenístico y romano, parte del área arqueológica de Pafos catalogada por la UNESCO."
+          },
+          {
+            "tip": "Camine a lo largo de la costa hacia Lighthouse Beach, el puerto y el Castillo de Pafos. Fácil y pintoresco, especialmente al atardecer."
+          },
+          {
+            "tip": "Punto intermedio relajado entre Avlida y el puerto. Ideal para un paseo pintoresco con parada en la playa."
+          },
+          {
+            "tip": "Ideal para cafés, calles locales, pequeñas tiendas y una experiencia más auténtica de Pafos. Se recomienda visitar a última hora de la tarde."
+          },
+          {
+            "tip": "Principal sitio cultural de Chipre. Mosaicos romanos considerados entre los más bellos del Mediterráneo oriental, catalogados por la UNESCO."
+          },
+          {
+            "tip": "Plan de tarde sencillo. Fortaleza bizantina reconstruida por los Lusignan, luego por los venecianos y después por los otomanos en el siglo XVI."
+          },
+          {
+            "tip": "Hermosa parada de medio día. Fundado en el siglo XII por San Neófito en un valle apartado al norte de Pafos."
+          },
+          {
+            "tip": "Costa pintoresca, ideal para fotos y para ver el atardecer. Combinar con Oniro by the Sea y Agios Georgios."
+          },
+          {
+            "tip": "Ruinas tranquilas con vistas al mar, alejadas de la ruta turística. Recomendable si ya se va hacia Sea Caves o Lara."
+          },
+          {
+            "tip": "La parada paisajística más icónica de Chipre. Mejor para las vistas y la mitología que para bañarse."
+          },
+          {
+            "tip": "Naturaleza salvaje, miradores, rutas senderistas. Las condiciones de la carretera varían. Ideal para los huéspedes más aventureros."
+          }
+        ]
       },
       {
-        "category": "Atracciones & excursiones 📸"
+        "category": "Atracciones & excursiones 📸",
+        "items": [
+          {
+            "tip": "Compras, food court, cine. Práctico para un descanso en interiores en días muy calurosos o muy ventosos."
+          },
+          {
+            "tip": "Uno de los planes de noche más sencillos desde Avlida. Cena, copas y un paseo relajado junto al mar."
+          },
+          {
+            "tip": "Mejor atracción familiar cercana. Opción fácil para medio día o día completo en días calurosos."
+          },
+          {
+            "tip": "Una de las mejores experiencias en Pafos. Reserve en línea y llegue temprano."
+          },
+          {
+            "tip": "Lugar cultural más importante de Chipre. Mosaicos romanos entre los más bellos del Mediterráneo oriental, catalogados por la UNESCO."
+          },
+          {
+            "tip": "Plan de noche sencillo. Fortaleza bizantina reconstruida por los Lusignan, los venecianos y los otomanos en el siglo XVI."
+          },
+          {
+            "tip": "Bonita parada de medio día. Fundado en el siglo XII por San Neófito en un valle apartado al norte de Pafos."
+          },
+          {
+            "tip": "Costa pintoresca, ideal para fotos y atardecer. Combinar con Oniro by the Sea y Agios Georgios."
+          },
+          {
+            "tip": "Ruinas tranquilas con vistas al mar, fuera de la ruta turística. Bueno si ya se va hacia Sea Caves o Lara."
+          },
+          {
+            "tip": "La parada paisajística más icónica de Chipre. Mejor para las vistas y la mitología que para bañarse."
+          },
+          {
+            "tip": "Naturaleza salvaje, miradores, rutas de senderismo. Las condiciones de la carretera varían. Ideal para huéspedes aventureros."
+          },
+          {
+            "tip": "Playa pequeña, buena para el snorkel. Combinar con Sea Caves. El restaurante Oniro by the Sea está ahí mismo."
+          },
+          {
+            "tip": "Avistamiento de delfines, snorkel, litoral. Barcos de 2–3 horas desde el puerto de Pafos o Latchi. Una de las mejores experiencias marítimas."
+          },
+          {
+            "tip": "Impresionante paseo por el desfiladero entre Timi y Kouklia. Bastante fácil, paisaje bonito, barranco dramático."
+          },
+          {
+            "tip": "Punto más alto de Chipre a 1952m. Paisaje completamente diferente — más fresco, arbolado, dramático. Vale la pena dedicarle un día entero."
+          },
+          {
+            "tip": "Un hermoso monasterio bizantino en las estribaciones del Troodos. Vale la pena combinarlo con una excursión al Troodos."
+          },
+          {
+            "tip": "La mejor excursión de un día cerca de Pafos combinando la Ruta del Vino y un monasterio medieval. Conducción entre impresionantes viñedos."
+          },
+          {
+            "tip": "El mejor parque acuático familiar de Chipre. Merece la pena el viaje, especialmente para los que tienen hijos."
+          }
+        ]
       },
       {
-        "category": "Senderismo & senderos naturales ⛰️"
+        "category": "Senderismo & senderos naturales ⛰️",
+        "items": [
+          {
+            "tip": "Mejor opción sin coche. Caminar desde la zona de las Tumbas de los Reyes hacia Lighthouse Beach, el puerto y el Castillo de Pafos."
+          },
+          {
+            "tip": "Práctico desde Avlida. Bueno para los huéspedes que quieren naturaleza sin una caminata en toda regla."
+          },
+          {
+            "tip": "Combina tumbas antiguas, paisaje abierto y costa. No es una ruta oficial, pero es un circuito muy bonito."
+          },
+          {
+            "tip": "Verdadera ruta natural que comienza cerca de Lara Beach. Se necesita acceso por camino difícil, pero uno de los mejores paseos costeros naturales de Chipre."
+          },
+          {
+            "tip": "Ruta señalizada popular por las colinas de Akamas. Moderada. Mejor en los meses más frescos."
+          },
+          {
+            "tip": "Ruta más exigente adentrándose en Akamas. Vistas muy gratificantes. Lleve agua y salga temprano."
+          },
+          {
+            "tip": "Fácil circuito pintoresco por viñedos y vida rural tradicional. Mejor en primavera u otoño."
+          },
+          {
+            "tip": "Fácil | Paseo marítimo más cercano, paseo local rápido. La mejor opción sin complicaciones desde la propiedad."
+          },
+          {
+            "tip": "El paseo por el desfiladero más impresionante de la zona de Pafos. Esculpido por el agua a lo largo de los siglos. Moderado, bien señalizado."
+          },
+          {
+            "tip": "Corta y bien señalizada ruta natural por bosque endémico. Fácil y gratificante incluso para los que no son senderistas."
+          },
+          {
+            "tip": "Pintoresco sendero natural por el bosque de cedros y junto al Valle de los Cedros. Moderado. Mejor con coche."
+          },
+          {
+            "tip": "La excursión al pico más alto de Chipre. Difícil pero vistas increíbles. Mejor en los meses más frescos, llevar capas de ropa caliente."
+          }
+        ]
       },
       {
-        "category": "Comer & Beber"
+        "category": "Comer & Beber",
+        "items": [
+          {
+            "tip": "La opción de cena más sencilla sin coche cerca de Avlida. Clasificado entre los mejores restaurantes cerca de las Tumbas de los Reyes."
+          },
+          {
+            "tip": "Opción fiable cercana en la Avenida de las Tumbas de los Reyes. Griega y mediterránea con excelentes valoraciones."
+          },
+          {
+            "tip": "Bueno para un desayuno o almuerzo sencillo cerca de casa. Servicio amable y muy buena relación calidad-precio."
+          },
+          {
+            "tip": "Local popular de meze y mariscos. Muy bueno para una cena tradicional chipriota."
+          },
+          {
+            "tip": "Buen restaurante del puerto para el almuerzo o la cena. Pescado a la plancha, marisco fresco, ambiente clásico."
+          },
+          {
+            "tip": "Uno de los mejores restaurantes de mariscos del puerto. Excelente pescado a la plancha y bonitas vistas al mar."
+          },
+          {
+            "tip": "Un favorito local para el pescado fresco. Suele estar lleno — merece la pena esperar."
+          },
+          {
+            "tip": "Un restaurante muy bien valorado frente al puerto. Ideal para una cena especial."
+          },
+          {
+            "tip": "Comedor relajado en el puerto. Bueno para una comida sencilla con bonitas vistas."
+          },
+          {
+            "tip": "Una buena opción junto a la playa en la zona del puerto. Ambiente relajado, bueno para el almuerzo."
+          },
+          {
+            "tip": "Un bonito bar de vinos y restaurante en la zona del puerto. Bueno para tapas y vino local."
+          },
+          {
+            "tip": "El pub emblemático del puerto de Pafos. Bueno para una copa y una comida informal."
+          },
+          {
+            "tip": "Taberna chipriota rústica conocida por su meze muy tradicional. Vale la pena el viaje si le gusta la comida local auténtica."
+          },
+          {
+            "tip": "Fantástico restaurante con vistas al mar en Sea Caves. Vale la pena combinarlo con una visita a las cuevas."
+          },
+          {
+            "tip": "Una taberna clásica de pueblo chipriota cerca de Coral Bay. Buena para carnes a la parrilla y meze."
+          },
+          {
+            "tip": "Un buen lugar para comer o cenar en la playa Coral Bay. Ambiente relajado, comida decente."
+          },
+          {
+            "tip": "Muy buena taberna local para comida chipriota auténtica en el pueblo de Pegeia."
+          },
+          {
+            "tip": "Excelente cafetería de desayuno, brunch y almuerzo. Muy popular entre los locales y los huéspedes."
+          },
+          {
+            "tip": "Buena opción local para una pizza rápida o una cena informal."
+          },
+          {
+            "tip": "Principal supermercado grande cerca de la propiedad para la compra semanal y los artículos esenciales."
+          },
+          {
+            "tip": "Supermercado económico para artículos básicos, comestibles y artículos del hogar."
+          }
+        ]
       },
       {
-        "category": "Shopping"
+        "category": "Shopping",
+        "items": [
+          {
+            "tip": "El principal centro comercial de Pafos. Amplia variedad de tiendas, restaurantes y un cine."
+          },
+          {
+            "tip": "Mercado cubierto con puestos de ropa, bolsos, joyería, artículos de playa y souvenirs locales."
+          },
+          {
+            "tip": "Pasee por el hermoso casco antiguo y descubra muchas pequeñas boutiques y tiendas de artesanos."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -1249,22 +2494,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Plaże 🏝️"
+        "category": "Plaże 🏝️",
+        "items": [
+          {
+            "tip": "Najbliższa wygodna plaża. 15–20 min pieszo. Szybka kąpiel, zachód słońca, wygoda."
+          },
+          {
+            "tip": "25–35 min pieszo lub krótka jazda samochodem. Zachód słońca, swobodna kąpiel."
+          },
+          {
+            "tip": "Mniej turystyczna, lokalny klimat. Dobra na zachód słońca. Lepsza gdy morze jest spokojne."
+          },
+          {
+            "tip": "Miejskie kąpielisko, nie piaszczysta plaża. Przydatne na szybką kąpiel blisko promenady."
+          },
+          {
+            "tip": "Zorganizowana plaża z udogodnieniami, dobra dla rodzin. Łatwiej samochodem lub autobusem niż pieszo."
+          },
+          {
+            "tip": "Najlepszy i najbezpieczniejszy wybór plaży w pobliżu Pafos. Piaszczysta, zorganizowana, łatwa. Trudno się pomylić."
+          },
+          {
+            "tip": "Moja preferowana alternatywa dla Coral Bay. Podobna wygoda, zazwyczaj spokojniejsza."
+          },
+          {
+            "tip": "Dramatyczne wybrzeże. Lepsze na widoki i zdjęcia zachodu słońca niż na klasyczny dzień na plaży."
+          },
+          {
+            "tip": "Mała plaża, dobra do snorkelingu. Połącz z Sea Caves i Oniro by the Sea."
+          },
+          {
+            "tip": "Surowa i piękna, dzika plaża. Lepsza do eksploracji niż do leżaków."
+          },
+          {
+            "tip": "Jedna z najwyjątkowych plaż w okolicach Pafos. Miejsce gniazdowania żółwi. Trudny dojazd, brak udogodnień."
+          },
+          {
+            "tip": "Legendarny rodowód Afrodyty. Piękne widoki i zdjęcia, ale skaliste i nie zawsze idealne do pływania."
+          },
+          {
+            "tip": "Najlepszy punkt startowy do Blue Lagoon bez jazdy w terenie. Wycieczki łodzią odpływają stąd."
+          },
+          {
+            "tip": "Najpiękniejsza woda w okolicach Pafos. Nie jest plażą dostępną samochodem. Weź łódź z Latchi."
+          }
+        ]
       },
       {
-        "category": "Zabytki i malownicze trasy 🏰"
+        "category": "Zabytki i malownicze trasy 🏰",
+        "items": [
+          {
+            "tip": "Najbliższe i najważniejsze miejsce historyczne. Grobowce wykute w skale z okresu hellenistycznego i rzymskiego, część wpisanego na listę UNESCO obszaru archeologicznego Pafos."
+          },
+          {
+            "tip": "Spaceruj wzdłuż wybrzeża w kierunku Lighthouse Beach, portu i zamku w Pafos. Łatwy i malowniczy szlak, szczególnie piękny o zachodzie słońca."
+          },
+          {
+            "tip": "Relaksujący punkt w połowie drogi między Avlidą a portem. Dobry na malowniczy spacer z postojem na plaży."
+          },
+          {
+            "tip": "Dobre miejsce na kawiarnie, lokalne uliczki, małe sklepy i bardziej autentyczny klimat Pafos. Najlepiej odwiedzić późnym popołudniem."
+          },
+          {
+            "tip": "Najważniejsze miejsce kulturalne na Cyprze. Mozaiki rzymskie uznawane za jedne z najpiękniejszych we wschodniej części Morza Śródziemnego, wpisane na listę UNESCO."
+          },
+          {
+            "tip": "Łatwy plan na wieczór. Bizantyjski fort przebudowany przez Lusignanów, następnie Wenecjan, a potem Osmanów w XVI wieku."
+          },
+          {
+            "tip": "Piękny półdniowy przystanek. Założony w XII wieku przez Świętego Neofita w odizolowanej dolinie na północ od Pafos."
+          },
+          {
+            "tip": "Malownicze wybrzeże, świetne do zdjęć i oglądania zachodu słońca. Połącz z wizytą w Oniro by the Sea i Agios Georgios."
+          },
+          {
+            "tip": "Spokojne ruiny z widokiem na morze, z dala od turystycznych szlaków. Dobre miejsce, jeśli i tak kierujesz się w stronę Sea Caves lub Lary."
+          },
+          {
+            "tip": "Najbardziej ikoniczna atrakcja widokowa na Cyprze. Lepsza ze względu na widoki i mitologię niż kąpiel."
+          },
+          {
+            "tip": "Dzika przyroda, punkty widokowe, szlaki piesze. Stan dróg bywa różny. Najlepsze dla gości lubiących przygody."
+          }
+        ]
       },
       {
-        "category": "Atrakcje i wycieczki 📸"
+        "category": "Atrakcje i wycieczki 📸",
+        "items": [
+          {
+            "tip": "Zakupy, food court, kino. Praktyczne na przerwę w zamkniętym pomieszczeniu w bardzo gorące lub wietrzne dni."
+          },
+          {
+            "tip": "Jeden z najłatwiejszych wieczornych planów z Avlidy. Kolacja, drinki i spokojny spacer nad morzem."
+          },
+          {
+            "tip": "Najlepsza pobliża atrakcja dla rodzin. Łatwa opcja na pół dnia lub cały dzień w gorące dni."
+          },
+          {
+            "tip": "Jedno z najlepszych doświadczeń w Pafos. Zarezerwuj online i przyjedź wcześnie."
+          },
+          {
+            "tip": "Najważniejsze kulturowe miejsce na Cyprze. Mozaiki rzymskie uważane za jedne z najpiękniejszych we wschodniej części Morza Śródziemnego, na liście UNESCO."
+          },
+          {
+            "tip": "Łatwy plan na wieczór. Bizantyjski fort przebudowany przez Lusignanów, Wenecjan i Osmanów w XVI wieku."
+          },
+          {
+            "tip": "Piękny półdniowy postój. Założony w XII wieku przez Świętego Neofita w odizolowanej dolinie na północ od Pafos."
+          },
+          {
+            "tip": "Malownicze wybrzeże, świetne na zdjęcia i zachód słońca. Połącz z Oniro by the Sea i Agios Georgios."
+          },
+          {
+            "tip": "Spokojne ruiny z widokiem na morze, z dala od turystycznych szlaków. Dobre, jeśli i tak jedziesz w stronę Sea Caves lub Lary."
+          },
+          {
+            "tip": "Najbardziej ikoniczna atrakcja widokowa na Cyprze. Lepsza dla widoków i mitologii niż do pływania."
+          },
+          {
+            "tip": "Dzika przyroda, punkty widokowe, szlaki piesze. Stan dróg bywa różny. Najlepsze dla gości lubiących przygody."
+          },
+          {
+            "tip": "Mała plaża, dobra do snorkelingu. Połącz z Sea Caves. Restauracja Oniro by the Sea jest tuż obok."
+          },
+          {
+            "tip": "Obserwacja delfinów, snorkeling, wybrzeże. 2–3-godzinne rejsy z portu Pafos lub Latchi. Jedno z najlepszych doświadczeń morskich."
+          },
+          {
+            "tip": "Zapierający dech spacer przez wąwóz między Timi i Kouklią. Wystarczająco łatwy, piękne widoki, dramatyczny wąwóz."
+          },
+          {
+            "tip": "Najwyższy punkt Cypru na 1952 m. Zupełnie inny krajobraz — chłodniejszy, leśny, dramatyczny. Warto poświęcić cały dzień."
+          },
+          {
+            "tip": "Piękny klasztor bizantyjski u podnóża Troodos. Warto połączyć z wycieczką na Troodos."
+          },
+          {
+            "tip": "Najlepsza jednodniowa wycieczka w okolice Pafos łącząca Szlak Wina i średniowieczny klasztor. Jazda przez imponujące winnice."
+          },
+          {
+            "tip": "Najlepszy rodzinny park wodny na Cyprze. Wart podróży, szczególnie dla rodzin z dziećmi."
+          }
+        ]
       },
       {
-        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
+        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️",
+        "items": [
+          {
+            "tip": "Najlepsza opcja bez samochodu. Spacer od Grobowców Królów w kierunku Lighthouse Beach, portu i zamku Pafos."
+          },
+          {
+            "tip": "Praktyczne z Avlidy. Dobre dla gości, którzy chcą obcować z naturą bez właściwej wędrówki."
+          },
+          {
+            "tip": "Łączy starożytne groby, otwarty krajobraz i wybrzeże. Nie jest oficjalnym szlakiem, ale bardzo ładną pętlą."
+          },
+          {
+            "tip": "Prawdziwy szlak przyrodniczy blisko Lara Beach. Wymagany dostęp przez trudną drogę, ale jeden z najlepszych nadmorskich spacerów przyrodniczych na Cyprze."
+          },
+          {
+            "tip": "Popularny znakowany szlak przez wzgórza Akamas. Umiarkowany. Najlepszy w chłodniejszych miesiącach."
+          },
+          {
+            "tip": "Bardziej wymagający szlak głębiej w Akamas. Bardzo satysfakcjonujące widoki. Weź wodę i wyrusz wcześnie."
+          },
+          {
+            "tip": "Łatwa malownicza pętla przez winnice i tradycyjne życie wiejskie. Najlepsza wiosną lub jesienią."
+          },
+          {
+            "tip": "Łatwy | Najbliższy spacer nad morzem, szybka lokalna przechadzka. Najlepsza bezproblemowa opcja z obiektu."
+          },
+          {
+            "tip": "Najbardziej imponujący spacer wąwozem w okolicach Pafos. Wyrzeźbiony przez wodę przez wieki. Umiarkowany, dobrze oznakowany."
+          },
+          {
+            "tip": "Krótki, dobrze oznakowany szlak przyrodniczy przez endemiczny las. Łatwy i satysfakcjonujący nawet dla osób nienawykłych do turystyki pieszej."
+          },
+          {
+            "tip": "Malowniczy szlak przyrodniczy przez las cedrowy i obok Doliny Cedrowej. Umiarkowany. Lepszy z samochodem."
+          },
+          {
+            "tip": "Wędrówka na najwyższy szczyt Cypru. Trudna, ale niesamowite widoki. Najlepsza w chłodniejszych miesiącach, weź ciepłe warstwy."
+          }
+        ]
       },
       {
-        "category": "Jedzenie i napoje"
+        "category": "Jedzenie i napoje",
+        "items": [
+          {
+            "tip": "Najprostsza opcja kolacji bez samochodu w pobliżu Avlidy. Klasyfikowany wśród najlepszych restauracji w pobliżu Grobowców Królów."
+          },
+          {
+            "tip": "Niezawodna pobliża opcja przy Alei Grobowców Królów. Kuchnia grecka i śródziemnomorska z wysokimi ocenami gości."
+          },
+          {
+            "tip": "Dobre na łatwe śniadanie lub lunch blisko domu. Przyjazna obsługa i świetna wartość."
+          },
+          {
+            "tip": "Popularny lokalny punkt z meze i owocami morza. Bardzo dobry na tradycyjny cypryjski obiad."
+          },
+          {
+            "tip": "Dobra restauracja portowa na lunch lub kolację. Grillowane ryby, świeże owoce morza, klasyczne wnętrze."
+          },
+          {
+            "tip": "Jedna z najlepszych restauracji rybnych w porcie. Świetne grillowane ryby i piękny widok na morze."
+          },
+          {
+            "tip": "Ulubione miejsce miejscowych na świeże ryby. Zazwyczaj zatłoczone — warte oczekiwania."
+          },
+          {
+            "tip": "Wysoko oceniana restauracja przy nadmorskim promenadzie. Idealna na specjalną kolację."
+          },
+          {
+            "tip": "Spokojne jedzenie w porcie. Dobre na nieskomplikowany posiłek z ładnym widokiem."
+          },
+          {
+            "tip": "Dobra opcja przy plaży w okolicach portu. Spokojne wnętrze, dobre na lunch."
+          },
+          {
+            "tip": "Uroczy bar winiarski i restauracja w okolicach portu. Dobre na tapas i lokalne wino."
+          },
+          {
+            "tip": "Kultowy pub w porcie w Pafos. Dobry na drinka i nieformalny posiłek."
+          },
+          {
+            "tip": "Rustykalny cypryjski zajazd znany z bardzo tradycyjnego meze. Warto jechać, jeśli lubisz autentyczne lokalne jedzenie."
+          },
+          {
+            "tip": "Fantastyczna restauracja z widokiem na morze przy Sea Caves. Warto połączyć z wizytą w jaskiniach."
+          },
+          {
+            "tip": "Klasyczna cypryjska tawerna wioskowa w pobliżu Coral Bay. Dobra na grillowane mięsa i meze."
+          },
+          {
+            "tip": "Dobre miejsce na lunch lub kolację na plaży Coral Bay. Luźna atmosfera, przyzwoite jedzenie."
+          },
+          {
+            "tip": "Bardzo dobra lokalna tawerna na autentyczne cypryjskie jedzenie w wiosce Pegeia."
+          },
+          {
+            "tip": "Doskonała kawiarnia śniadaniowa, brunchowa i lunchowa. Bardzo popularna wśród miejscowych i gości."
+          },
+          {
+            "tip": "Dobra lokalna opcja na szybką pizzę lub nieformalną kolację."
+          },
+          {
+            "tip": "Główny duży supermarket w pobliżu nieruchomości na tygodniowe zakupy i podstawowe produkty."
+          },
+          {
+            "tip": "Supermarket przyjazny budżetowi na podstawowe artykuły, spożywcze i artykuły gospodarstwa domowego."
+          }
+        ]
       },
       {
-        "category": "Zakupy"
+        "category": "Zakupy",
+        "items": [
+          {
+            "tip": "Główne centrum handlowe w Pafos. Szeroka oferta sklepów, restauracji i kino."
+          },
+          {
+            "tip": "Kryty targ ze straganami z odzieżą, torbami, biżuterią, sprzętem plażowym i lokalnymi pamiątkami."
+          },
+          {
+            "tip": "Wędruj po pięknym Starym Mieście i odkryj wiele małych butikowych sklepów i rzemieślniczych warsztatów."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -1467,22 +2961,271 @@
     ],
     "thingsToDo": [
       {
-        "category": "Пляжи 🏝️"
+        "category": "Пляжи 🏝️",
+        "items": [
+          {
+            "tip": "Ближайший удобный пляж. 15–20 мин пешком. Быстрое купание, закат, удобство."
+          },
+          {
+            "tip": "25–35 мин пешком или короткая поездка. Закат, спокойное купание."
+          },
+          {
+            "tip": "Менее туристическая, местная атмосфера. Хорошо для заката. Лучше, когда море спокойное."
+          },
+          {
+            "tip": "Городское место для купания, не песчаный пляж. Удобно для быстрого купания вблизи набережной."
+          },
+          {
+            "tip": "Оборудованный пляж с инфраструктурой, подходит для семей. Удобнее на машине или автобусе, чем пешком."
+          },
+          {
+            "tip": "Лучший и самый надёжный выбор пляжа вблизи Пафоса. Песчаный, обустроенный, удобный. Не ошибётесь."
+          },
+          {
+            "tip": "Мой предпочтительный вариант вместо Coral Bay. Схожее удобство, обычно спокойнее."
+          },
+          {
+            "tip": "Эффектное побережье. Лучше для пейзажных фото и закатов, чем для классического пляжного отдыха."
+          },
+          {
+            "tip": "Маленький пляж, хорош для снорклинга. Совместите с Sea Caves и Oniro by the Sea."
+          },
+          {
+            "tip": "Дикое и красивое побережье. Лучше для прогулок и изучения, чем для шезлонгов."
+          },
+          {
+            "tip": "Один из самых особенных пляжей района Пафоса. Место гнездования морских черепах. Сложный подъезд, никакой инфраструктуры."
+          },
+          {
+            "tip": "Легендарное место рождения Афродиты. Красивые пейзажи и фотографии, но скалистое и не всегда идеально для купания."
+          },
+          {
+            "tip": "Лучшая отправная точка для Blue Lagoon без езды по бездорожью. Отсюда отходят лодочные прогулки."
+          },
+          {
+            "tip": "Самая впечатляющая вода в районе Пафоса. Не доступна для подъезда на машине. Берите лодку из Латчи."
+          }
+        ]
       },
       {
-        "category": "Исторические места и живописные прогулки 🏰"
+        "category": "Исторические места и живописные прогулки 🏰",
+        "items": [
+          {
+            "tip": "Ближайший и наиболее важный исторический объект. Гробницы, высеченные в скале в эллинистический и римский периоды, входящие в состав археологической зоны Пафоса, включённой в список ЮНЕСКО."
+          },
+          {
+            "tip": "Прогуляйтесь вдоль побережья к Lighthouse Beach, гавани и замку Пафос. Лёгкий и живописный маршрут, особенно красивый на закате."
+          },
+          {
+            "tip": "Уютная промежуточная точка между Авлидой и гаванью. Отлично подходит для живописной прогулки с остановкой на пляже."
+          },
+          {
+            "tip": "Отлично подходит для кафе, местных улочек, небольших магазинов и более аутентичной атмосферы Пафоса. Лучше всего посещать поздним вечером."
+          },
+          {
+            "tip": "Главная культурная достопримечательность Кипра. Римские мозаики, считающиеся одними из лучших в восточном Средиземноморье, внесены в список ЮНЕСКО."
+          },
+          {
+            "tip": "Простой вечерний план. Византийская крепость, перестроенная Лузиньянами, затем венецианцами, а затем османами в XVI веке."
+          },
+          {
+            "tip": "Прекрасная остановка на полдня. Основан в XII веке святым Неофитом в уединённой долине к северу от Пафоса."
+          },
+          {
+            "tip": "Живописное побережье, отлично подходит для фотографий и закатов. Совместите с посещением Oniro by the Sea и Агиос Георгиос."
+          },
+          {
+            "tip": "Тихие руины с видом на море, в стороне от туристических маршрутов. Хорошо подходит, если вы и так направляетесь к Sea Caves или Лара."
+          },
+          {
+            "tip": "Самая знаковая живописная точка Кипра. Лучше подходит для обзора и знакомства с мифологией, чем для купания."
+          },
+          {
+            "tip": "Дикая природа, смотровые площадки, пешеходные тропы. Состояние дорог варьируется. Лучше всего подходит для любителей приключений."
+          }
+        ]
       },
       {
-        "category": "Достопримечательности и экскурсии 📸"
+        "category": "Достопримечательности и экскурсии 📸",
+        "items": [
+          {
+            "tip": "Шопинг, фуд-корт, кино. Удобно для отдыха в помещении в очень жаркие или ветреные дни."
+          },
+          {
+            "tip": "Один из самых простых вечерних планов из Авлиды. Ужин, напитки и расслабленная прогулка у моря."
+          },
+          {
+            "tip": "Лучшая семейная достопримечательность поблизости. Удобный вариант на полдня или целый день в жаркую погоду."
+          },
+          {
+            "tip": "Одно из лучших впечатлений от Пафоса. Бронируйте онлайн и приезжайте пораньше."
+          },
+          {
+            "tip": "Главный культурный объект Кипра. Римские мозаики, считающиеся одними из лучших в восточном Средиземноморье, внесены в список ЮНЕСКО."
+          },
+          {
+            "tip": "Простой вечерний план. Византийская крепость, перестроенная Лузиньянами, венецианцами и османами в XVI веке."
+          },
+          {
+            "tip": "Прекрасная остановка на полдня. Основан в XII веке святым Неофитом в уединённой долине к северу от Пафоса."
+          },
+          {
+            "tip": "Живописное побережье, отлично для фотографий и закатов. Совместите с Oniro by the Sea и Агиос Георгиос."
+          },
+          {
+            "tip": "Тихие руины с видом на море, в стороне от туристических маршрутов. Хорошо, если всё равно направляетесь к Sea Caves или Лара."
+          },
+          {
+            "tip": "Самая знаковая живописная точка Кипра. Лучше для видов и мифологии, чем для купания."
+          },
+          {
+            "tip": "Дикая природа, смотровые площадки, пешеходные тропы. Состояние дорог варьируется. Лучше всего для любителей приключений."
+          },
+          {
+            "tip": "Маленький пляж, хорош для снорклинга. Совместите с Sea Caves. Ресторан Oniro by the Sea — прямо там."
+          },
+          {
+            "tip": "Наблюдение за дельфинами, снорклинг, побережье. Прогулки 2–3 часа из гавани Пафоса или Латчи. Одно из лучших морских впечатлений."
+          },
+          {
+            "tip": "Потрясающая прогулка по ущелью между Тими и Куклией. Достаточно лёгкая, красивые пейзажи, драматическое ущелье."
+          },
+          {
+            "tip": "Высшая точка Кипра на высоте 1952 м. Совершенно другой пейзаж — прохладнее, лесистее, впечатляющий. Стоит целого дня."
+          },
+          {
+            "tip": "Красивый византийский монастырь у подножия Троодоса. Стоит сочетать с поездкой на Троодос."
+          },
+          {
+            "tip": "Лучшая однодневная поездка вокруг Пафоса, сочетающая Винный маршрут и средневековый монастырь. Езда через потрясающие виноградники."
+          },
+          {
+            "tip": "Лучший семейный аквапарк Кипра. Стоит поездки, особенно для тех, у кого есть дети."
+          }
+        ]
       },
       {
-        "category": "Походы и природные маршруты ⛰️"
+        "category": "Походы и природные маршруты ⛰️",
+        "items": [
+          {
+            "tip": "Лучший вариант без машины. Прогулка от Гробниц Королей к Lighthouse Beach, гавани и замку Пафос."
+          },
+          {
+            "tip": "Удобно из Авлиды. Подходит для гостей, которые хотят природу без настоящего похода."
+          },
+          {
+            "tip": "Сочетает древние гробницы, открытый ландшафт и побережье. Не формальная тропа, но очень приятный круговой маршрут."
+          },
+          {
+            "tip": "Настоящая природная тропа возле Lara Beach. Требуется езда по бездорожью, но один из лучших прибрежных маршрутов на Кипре."
+          },
+          {
+            "tip": "Популярная размеченная тропа через холмы Акамас. Умеренная сложность. Лучше в прохладные месяцы."
+          },
+          {
+            "tip": "Более сложная тропа вглубь Акамаса. Очень впечатляющие виды. Возьмите воду и выходите рано."
+          },
+          {
+            "tip": "Лёгкий живописный круговой маршрут через виноградники и традиционную деревенскую жизнь. Лучше всего весной или осенью."
+          },
+          {
+            "tip": "Лёгкий | Ближайшая прогулка вдоль моря, быстрая местная прогулка. Лучший непринуждённый вариант от объекта."
+          },
+          {
+            "tip": "Самый впечатляющий маршрут по ущелью в районе Пафоса. Выточено водой за века. Умеренная сложность, хорошо размечен."
+          },
+          {
+            "tip": "Короткая, хорошо размеченная природная тропа через эндемичный лес. Лёгкая и приятная даже для тех, кто не увлекается пешим туризмом."
+          },
+          {
+            "tip": "Живописная природная тропа через кедровый лес и Кедровую долину. Умеренная сложность. Лучше с машиной."
+          },
+          {
+            "tip": "Поход на высшую вершину Кипра. Сложный, но невероятные виды. Лучше в прохладные месяцы, возьмите тёплые слои одежды."
+          }
+        ]
       },
       {
-        "category": "Еда и напитки"
+        "category": "Еда и напитки",
+        "items": [
+          {
+            "tip": "Самый простой вариант ужина без машины вблизи Авлиды. Входит в число лучших ресторанов рядом с Гробницами Королей."
+          },
+          {
+            "tip": "Надёжный ресторан поблизости на Авеню Гробниц Королей. Греческая и средиземноморская кухня с высокими оценками."
+          },
+          {
+            "tip": "Хорошо для лёгкого завтрака или обеда рядом с домом. Дружелюбный сервис и отличное соотношение цена/качество."
+          },
+          {
+            "tip": "Популярное местное заведение с мезе и морепродуктами. Очень хорошо для традиционного кипрского ужина."
+          },
+          {
+            "tip": "Хороший ресторан у гавани для обеда или ужина. Рыба на гриле, свежие морепродукты, классический антураж."
+          },
+          {
+            "tip": "Один из лучших ресторанов морепродуктов в гавани. Отличная рыба на гриле и прекрасный вид на море."
+          },
+          {
+            "tip": "Любимое место местных для свежей рыбы. Обычно занято — очередь стоит того."
+          },
+          {
+            "tip": "Высоко оценённый ресторан на набережной гавани. Отлично для особого ужина."
+          },
+          {
+            "tip": "Спокойный ресторан у гавани. Хорошо для простой еды с красивым видом."
+          },
+          {
+            "tip": "Хорошее место у пляжа в районе гавани. Расслабленная обстановка, хорошо для обеда."
+          },
+          {
+            "tip": "Прекрасный винный бар и ресторан в районе гавани. Хорошо для тапас и местного вина."
+          },
+          {
+            "tip": "Легендарный паб в гавани Пафоса. Хорошо для напитка и неформальной еды."
+          },
+          {
+            "tip": "Деревенская кипрская таверна с очень традиционным мезе. Стоит поездки, если вы любите аутентичную местную кухню."
+          },
+          {
+            "tip": "Фантастический ресторан с видом на море у Sea Caves. Стоит совместить с посещением пещер."
+          },
+          {
+            "tip": "Классическая кипрская деревенская таверна рядом с Coral Bay. Хорошо для мяса на гриле и мезе."
+          },
+          {
+            "tip": "Хорошее место для обеда или ужина на пляже Coral Bay. Расслабленная атмосфера, приличная еда."
+          },
+          {
+            "tip": "Очень хорошая местная таверна для аутентичной кипрской еды в деревне Пегея."
+          },
+          {
+            "tip": "Отличное кафе для завтрака, бранча и обеда. Очень популярно у местных жителей и гостей."
+          },
+          {
+            "tip": "Хороший местный вариант для быстрой пиццы или неформального ужина."
+          },
+          {
+            "tip": "Главный большой супермаркет рядом с объектом для еженедельного шопинга и основных покупок."
+          },
+          {
+            "tip": "Бюджетный супермаркет для основных товаров, продуктов и товаров для дома."
+          }
+        ]
       },
       {
-        "category": "Шоппинг"
+        "category": "Шоппинг",
+        "items": [
+          {
+            "tip": "Главный торговый центр в Пафосе. Широкий выбор магазинов, ресторанов и кинотеатр."
+          },
+          {
+            "tip": "Крытый рынок с прилавками одежды, сумок, ювелирных украшений, пляжного снаряжения и местных сувениров."
+          },
+          {
+            "tip": "Прогуляйтесь по красивому Старому городу и откройте для себя множество небольших бутиков и магазинов ремесленников."
+          }
+        ]
       }
     ],
     "gettingAround": [

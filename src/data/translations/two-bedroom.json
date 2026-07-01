@@ -161,22 +161,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Strände 🏝️"
+        "category": "Strände 🏝️",
+        "items": [
+          {
+            "tip": "Nächstgelegenes Schwimmen, schnelles Bad, lokales Flair. Die nächstgelegene Option: ein kleiner städtischer Kiesstrand mit ruhigem Wasser und einfachem Zugang. Eher praktisch als hübsch, aber super für ein schnelles Bad."
+          },
+          {
+            "tip": "Bester entspannter Strandtag, Familien, Schwimmen. Goldener Sand, volle Ausstattung, Restaurants und ruhiges Wasser, geschützt durch einen Wellenbrecher. Die sicherste Top-Empfehlung von diesem Standort aus."
+          },
+          {
+            "tip": "Schwarzer Sand, ruhigerer Strand, Geheimtipp. Ein wilderer Strand mit schwarzem Sand in der Nähe von Las Teresitas. Gut, wenn du etwas weniger Poliertes und weniger Überfülltes möchtest, aber das Meer kann rauer sein."
+          },
+          {
+            "tip": "Ruhiges Dorf, malerische Küste, Geheimtipp. Ein wunderschöner lokaler Rückzugsort hinter San Andrés. Eher für einen landschaftlich reizvollen Küstenbesuch als für einen klassischen Sandstrandtag geeignet."
+          },
+          {
+            "tip": "Abgelegener Strand, Abenteuer, wilde Natur. Einer der echten Geheimtipps von Anaga. Nicht praktisch für einen spontanen Besuch, aber absolut fantastisch für abenteuerlustige Gäste."
+          },
+          {
+            "tip": "Malerische Fahrt, Surfen, Restaurants in der Nähe. Ein toller Stopp für einen Tagesausflug nach Anaga: wunderschöner schwarzer Sand und dramatische Bergkulisse, mit Restaurants in der Nähe. Eher für Landschaft und Essen als für ruhiges Schwimmen geeignet."
+          },
+          {
+            "tip": "Wilder schwarzer Sand, Surfer, Natur. Wunderschön und dramatisch, aber nicht der einfachste Strand zum Schwimmen. Am besten für Gäste, die wilde Küsten lieben und keine Sonnenliegen erwarten."
+          },
+          {
+            "tip": "Sonnenuntergang, Fotografie, wilde Anaga-Landschaft. Einer der schönsten Strände Teneriffas für Fotos und Sonnenuntergänge: wild, schwarzer Sand, mit starken Meeresbedingungen. Prüfe die Meeresbedingungen vor dem Besuch."
+          },
+          {
+            "tip": "Sichere Meerwasserbecken, Familien, Wellenbeobachtung. Kein Strand, aber sehr lohnenswert. Toll, wenn die Nordküste dramatisch ist und du ein sichereres Erlebnis im Meer möchtest."
+          },
+          {
+            "tip": "Natürliche Becken, Küstenspaziergang, Sonnenuntergang. Ein hervorragender Küsten-Tagesausflug: mehr Schwimmbecken, Lavaküste und atemberaubende Aussichten als Sand."
+          },
+          {
+            "tip": "Schwarzer Sand, lokaler Strand, Nordküsten-Flair. Eine schöne Alternative an der Nordküste, gut für Gäste, die Tacoronte oder die Weinregion erkunden."
+          },
+          {
+            "tip": "Wunderschöner schwarzer Sand, Klassiker der Nordküste. Einer der hübschesten Strände mit schwarzem Sand im Norden Teneriffas. Lohnt sich, wenn du ohnehin La Orotava oder Puerto de la Cruz besuchst."
+          },
+          {
+            "tip": "Tagesausflug nach Puerto de la Cruz. Normalerweise berühmt und malerisch, aber Schließungen wegen der Wasserqualität haben die Playa Jardín seit 2024 beeinträchtigt. Prüfe vor dem Besuch den aktuellen Badestatus."
+          }
+        ]
       },
       {
-        "category": "Historische Stätten & Malerische Spaziergänge 🏰"
+        "category": "Historische Stätten & Malerische Spaziergänge 🏰",
+        "items": [
+          {
+            "tip": "Nächstgelegener Spaziergang am Meer, lokales Flair, kurzer Bummel. Der einfachste Küstenspaziergang vom Haus aus. Eher praktisch als poliert, aber sehr lokal und gut für einen schnellen Blick aufs Meer."
+          },
+          {
+            "tip": "Stadtspaziergang, Bäume, Cafés, lokales Leben. Ein angenehmer städtischer Spaziergang über einen der wichtigsten grünen Boulevards von Santa Cruz. Wunderbar für einen entspannten Morgen oder späten Nachmittag."
+          },
+          {
+            "tip": "Schattiger Spaziergang, Pflanzen, Brunnen, Skulpturen. Einer der besten einfachen, malerischen Spaziergänge in der Stadt, perfekt, wenn du Grün möchtest, ohne Santa Cruz zu verlassen."
+          },
+          {
+            "tip": "Stadtgeschichte, zentraler Platz, einfaches Sightseeing. Ein toller Ausgangspunkt, um das Zentrum von Santa Cruz zu erkunden. Das unterirdische Interpretationszentrum bewahrt Überreste der alten Burg, Hauptstadt Teneriffas seit 1833."
+          },
+          {
+            "tip": "Alte Gassen, Kirche, Bars, abendlicher Stadtspaziergang. Wunderbar für einen historischen Stadtbummel. Die Kirche und die nahe gelegenen Gassen von La Noria gehören zu den stimmungsvollsten Teilen der Altstadt von Santa Cruz."
+          },
+          {
+            "tip": "Lokaler Markt, Essen, Architektur, morgendlicher Spaziergang. Kein klassisches Denkmal, aber ein toller kultureller Stopp. Am besten morgens für lokale Produkte, Snacks und Atmosphäre."
+          },
+          {
+            "tip": "Moderne Architektur, Fotos, Spaziergang am Meer. Eines der ikonischsten modernen Wahrzeichen von Santa Cruz, entworfen von Santiago Calatrava. Atemberaubend für Fotos an der Strandpromenade."
+          },
+          {
+            "tip": "Botanischer Spaziergang, Meerblick, ungewöhnlicher Garten. Ein sehr schöner malerischer Spaziergang innerhalb der Stadt. Ein 12 Hektar großer botanischer Garten, spezialisiert auf Palmen."
+          },
+          {
+            "tip": "Dorfflair, Meeresfrüchte, Kombination mit Las Teresitas. Klein, einfach und lokal. Toll zu kombinieren mit dem Strand Las Teresitas oder einer Fahrt nach Anaga."
+          },
+          {
+            "tip": "Bester Aussichtspunkt auf den Strand, Fotos, malerischer Stopp. Einer der einfachsten Wow-Aussichtsstopps vom Haus aus. Am besten kombiniert mit Las Teresitas oder San Andrés."
+          },
+          {
+            "tip": "UNESCO-Stadt, koloniale Gassen, Architektur. Einer der besten kulturellen Ausflüge von Santa Cruz aus. Das historische Zentrum von La Laguna ist seit 1999 UNESCO-Weltkulturerbe."
+          },
+          {
+            "tip": "Berge, Lorbeerwald, Aussichtspunkte, Dörfer. Der beste Natur- und Landschaftsausflug von diesem Standort aus. Anaga ist ein geschützter Naturpark und seit 2015 ein UNESCO-Biosphärenreservat."
+          },
+          {
+            "tip": "Waldspaziergänge, Informationen über Anaga, Aussichtspunkte. Der beste Ausgangspunkt für Waldspaziergänge in Anaga, mit Informationen und Ratschlägen zu Routen im Naturpark."
+          },
+          {
+            "tip": "Historisches Dorf, Anaga-Landschaft, Bergstraße. Ein wunderschönes altes Dorf in Anaga mit dramatischen Landschaften. Toll für eine malerische Fahrt mit einem traditionelleren Flair."
+          },
+          {
+            "tip": "Meerblick, schwarzer Sand, Mittagessen mit Meeresfrüchten. Eher malerisch als historisch, aber hervorragend für einen Tagesausflug nach Anaga. Kombiniere es mit Taganana, Almáciga und Benijo."
+          },
+          {
+            "tip": "Sonnenuntergang, wilde Küste, Fotografie. Einer der dramatischsten malerischen Orte Teneriffas. Eher für Aussichten und Fotos als für einfaches Schwimmen geeignet."
+          }
+        ]
       },
       {
-        "category": "Attraktionen & Ausflüge 📸"
+        "category": "Attraktionen & Ausflüge 📸",
+        "items": [
+          {
+            "tip": "Nächstgelegener Ort am Meer, schnelles Bad, lokales Flair. Sehr nah und praktisch. Eher lokal als postkartenschön, aber nützlich für einen schnellen Stopp am Meer."
+          },
+          {
+            "tip": "Städtischer Spaziergang, Cafés, lokales Leben. Ein angenehmer Stadtspaziergang, gut, wenn du etwas Einfaches möchtest, ohne Santa Cruz zu verlassen."
+          },
+          {
+            "tip": "Grüner Spaziergang, Schatten, Brunnen, Skulpturen. Einer der schönsten einfachen Spaziergänge in Santa Cruz, besonders wenn das Wetter warm ist."
+          },
+          {
+            "tip": "Stadtbesichtigung, Shopping, Cafés. Ein guter Ausgangspunkt für einen Stadtspaziergang durch Santa Cruz. Leicht zu kombinieren mit den alten Gassen, dem Hafengebiet und dem Mercado."
+          },
+          {
+            "tip": "Kurzer Geschichtsstopp, Stadtzentrum. Klein, aber interessant, wenn du ohnehin die Plaza de España besuchst. Am besten als schneller Zusatz statt als eigenständiger Ausflug."
+          },
+          {
+            "tip": "Lokales Essen, Markt, morgendlicher Besuch. Ein toller kultureller Essensstopp. Am besten morgens für Obst, Kaffee, lokale Produkte und Atmosphäre."
+          },
+          {
+            "tip": "Architektur, Fotos, Spaziergang am Meer. Eines der ikonischsten modernen Wahrzeichen von Santa Cruz, entworfen von Santiago Calatrava. Gut zu kombinieren mit dem Palmetum und der Uferpromenade."
+          },
+          {
+            "tip": "Botanischer Garten, Meerblick, entspannter Spaziergang. Ein 12 Hektar großer botanischer Garten, spezialisiert auf Palmen, eine der besten ruhigen Attraktionen in Santa Cruz."
+          },
+          {
+            "tip": "Meeresfrüchte, Dorfflair, Kombination mit Las Teresitas. Ein kleines lokales Dorf, am besten kombiniert mit dem Strand Las Teresitas und dem Mirador."
+          },
+          {
+            "tip": "Entspannter Strandtag, Familien, Schwimmen. Der einfachste Strandausflug von diesem Standort aus. Goldener Sand, ruhiges Wasser, Einrichtungen und Restaurants in der Nähe."
+          },
+          {
+            "tip": "Aussichtspunkt, Fotos, Strandpanorama. Eine der einfachsten Wow-Aussichten vom Haus aus. Am besten vor oder nach Las Teresitas."
+          },
+          {
+            "tip": "UNESCO-Stadt, Cafés, Architektur. Einer der besten kulturellen Ausflüge von Santa Cruz aus. Toll für einen halben Tagesausflug mit Mittagessen oder Kaffee."
+          },
+          {
+            "tip": "Meerwasserbecken, Familien, Wellenbeobachtung. Eine tolle Alternative zum Strandschwimmen, besonders wenn du Meerwasser an einem geschützteren Ort möchtest."
+          },
+          {
+            "tip": "Berge, Aussichtspunkte, Dörfer, Lorbeerwald. Der beste Naturausflug von diesem Standort aus. Anaga ist ein geschützter Naturpark und ein UNESCO-Biosphärenreservat."
+          },
+          {
+            "tip": "Dramatische Küste, Dörfer, Mittagessen, Fotos. Einer der besten Tagesausflüge von Santa Cruz aus: Bergstraßen, Strände mit schwarzem Sand, Meerblick und traditionelles Essen."
+          },
+          {
+            "tip": "Waldspaziergänge, Aussichtspunkte, Infos über Anaga. Der beste Ausgangspunkt für einfache Waldspaziergänge in Anaga und Routentipps."
+          },
+          {
+            "tip": "Küstenspaziergang, natürliche Becken, Sonnenuntergang. Sehr gut für einen entspannten Ausflug an die Nordküste. Kombiniere es mit Bajamar oder La Laguna."
+          },
+          {
+            "tip": "Familien, ganztägige Attraktion. Eine der größten Touristenattraktionen Teneriffas. Am besten für Familien oder Gäste, die Tierparks mögen."
+          },
+          {
+            "tip": "Städtischer Tagesausflug, Meerwasserbecken, Restaurants. Ein klassischer Tagesausflug in den Norden Teneriffas. Lago Martiánez ist eine von César Manrique entworfene Meerwasserbecken-Anlage."
+          },
+          {
+            "tip": "Traditionelle Architektur, Altstadt, Ausblicke. Eine wunderschöne historische Stadt, gut zu kombinieren mit Puerto de la Cruz oder dem Strand El Bollullo."
+          },
+          {
+            "tip": "Vulkanlandschaften, Aussichtspunkte, ganztägiger Ausflug. Der größte Pflichtausflug auf Teneriffa. Umfasst den Teide, mit 3.718 m Spaniens höchsten Gipfel, und ein UNESCO-Weltkulturerbe."
+          },
+          {
+            "tip": "Bergdorf, dramatische Straße, Fotos. Wunderschön, aber eine lange Fahrt von Santa Cruz. Am besten für einen ganztägigen Inselausflug, idealerweise mit dem Teide oder der Gegend um Buenavista."
+          },
+          {
+            "tip": "Wasserpark, Familien, Nervenkitzel-Fahrgeschäfte. Weit von diesem Standort entfernt, aber eine der berühmtesten Attraktionen Teneriffas. Am besten als Ganztagsplan, mit einem typischen Besuch von etwa 4-6 Stunden."
+          }
+        ]
       },
       {
-        "category": "Wandern & Naturpfade ⛰️"
+        "category": "Wandern & Naturpfade ⛰️",
+        "items": [
+          {
+            "tip": "Leicht | Nächstgelegener Spaziergang am Meer, kurzer lokaler Bummel. Die beste unkomplizierte Option vom Haus aus. Eher städtisch und lokal als wilde Natur, aber nützlich für einen schnellen Blick aufs Meer."
+          },
+          {
+            "tip": "Leicht | Stadtspaziergang, Schatten, Cafés. Ein entspannter städtischer Spaziergang, gut, wenn du keine richtige Wanderung möchtest."
+          },
+          {
+            "tip": "Leicht | Grüner Spaziergang, Schatten, Skulpturen. Der beste einfache grüne Spaziergang in Santa Cruz. Wunderbar am Morgen oder späten Nachmittag."
+          },
+          {
+            "tip": "Leicht | Botanischer Spaziergang, Meerblick, Pflanzen. Ein sehr schöner malerischer Spaziergang, ohne die Stadt zu verlassen. Ein 12 Hektar großer botanischer Garten mit Schwerpunkt auf Palmen."
+          },
+          {
+            "tip": "Leicht | Fotos, Strandpanorama, kurzer Spaziergang. Keine richtige Wanderung, aber einer der einfachsten malerischen Aussichtspunkte vom Haus aus. Kombiniere es mit Las Teresitas oder San Andrés."
+          },
+          {
+            "tip": "Leicht bis mittel | Wald, kühlere Luft, lokaler Rückzugsort. Eine gute Option, wenn du Grün möchtest, ohne tief nach Anaga zu fahren. Am besten an heißen Tagen oder wenn die Küste zu exponiert wirkt."
+          },
+          {
+            "tip": "Leicht bis mittel | Natürliche Becken, Meerblick, Sonnenuntergang. Ein toller Spaziergang an der Nordküste mit Schwimmbecken-Stopps. Eher für Küstenlandschaft als für Waldwanderungen geeignet."
+          },
+          {
+            "tip": "Leicht | Lorbeerwald, Familien, kurzer Naturspaziergang. Eine der besten anfängerfreundlichen Wanderungen in Anaga: ein 1 km langer, größtenteils flacher Rundweg, geeignet für Kinder und Erwachsene gleichermaßen."
+          },
+          {
+            "tip": "Leicht bis mittel | Anaga-Wald, Routentipps, Aussichtspunkte. Der beste Ausgangspunkt für Waldspaziergänge in Anaga. Toll für Gäste, die sich beraten lassen möchten, bevor sie einen Pfad wählen."
+          },
+          {
+            "tip": "Leicht bis mittel | Dramatische Küste, Dorfspaziergang, Mittagessen. Eher ein malerischer Spaziergang als eine klassische Wanderung. Toll mit Mittagessen in der Nähe von Roque de las Bodegas und Fotostopps Richtung Almáciga oder Benijo."
+          },
+          {
+            "tip": "Leicht bis mittel | Anaga-Aussichten, Fotos, nebliger Wald. Ein toller malerischer Stopp in Anaga. Am besten kombiniert mit Cruz del Carmen und den Lorbeerwald-Spaziergängen."
+          },
+          {
+            "tip": "Mittel | Magischer Lorbeerwald, moosige Anaga-Landschaft. Eine der besondersten Waldwanderungen in Anaga: Beachte, dass eine Genehmigung erforderlich ist. Buche im Voraus über das offizielle Genehmigungssystem von Teneriffa."
+          },
+          {
+            "tip": "Mittel | Sonnenuntergang, wilde Küste, Fotos. Hervorragend für dramatische Küstenlandschaften. Stufen und unebene Wege, daher besser mit festem Schuhwerk. Vermeide riskantes Schwimmen, wenn das Meer rau ist."
+          },
+          {
+            "tip": "Mittel | Schluchtwanderung, wilder Strand, Abenteuer. Eine wunderschöne Anaga-Wanderung durch eine Schlucht zu einem abgelegenen Strand. Das Schwimmen in Tamadite kann gefährlich sein, behandle es daher eher als Wanderziel als als Strandtag."
+          },
+          {
+            "tip": "Schwer | Ernsthafte Wanderer, Aussichten, Anaga-Dörfer. Ein anspruchsvoller Pfad mit steilen Abschnitten, der nach Tamadite hinabführt, bevor es steil hinauf Richtung Taganana geht. Nichts für schwache Nerven, aber spektakulär."
+          },
+          {
+            "tip": "Mittel | Vulkanische Felsformationen, Teide-Aussichten. Eine der besten gut zugänglichen Teide-Wanderungen. Machbarer als eine Wanderung zum Gipfel und sehr malerisch."
+          },
+          {
+            "tip": "Leicht bis schwer | Vulkanlandschaften, Aussichtspunkte, ganztägiger Ausflug. Der beste ganztägige Wanderausflug der Insel. Der Teide ist mit 3.718 m Spaniens höchster Gipfel und ein UNESCO-Weltkulturerbe."
+          }
+        ]
       },
       {
-        "category": "Essen & Trinken"
+        "category": "Essen & Trinken",
+        "items": [
+          {
+            "tip": "Schneller Kaffee, einfaches lokales Essen, nächstgelegene Option. Am besten für Bequemlichkeit statt als Ziel zum Essen. Praktisch, wenn du etwas ganz in der Nähe möchtest."
+          },
+          {
+            "tip": "Brunch, Kaffee, lockeres Tagesessen. Eine nützliche Option für etwas Einfaches vor dem Sightseeing. Die Stadtszene bietet jede Menge Brunch- und Kaffeelokale neben Tapas und Meeresfrüchten."
+          },
+          {
+            "tip": "Abendliche Drinks, Tapas, lebhafte Atmosphäre. Eine tolle Gegend für Abendessen und Drinks im Zentrum von Santa Cruz. Am besten, wenn du einen Stadtabend statt eines Strandessens möchtest."
+          },
+          {
+            "tip": "Tapas, lockeres Abendessen, La-Noria-Gegend. Gelistet unter den besten Restaurants rund um La Noria, mit starken Bewertungen."
+          },
+          {
+            "tip": "Wein, Teller zum Teilen, Altstadtatmosphäre. Wunderbar für einen entspannten Abend in der Nähe der Kirche und der alten Gassen, mit Außensitzplätzen, Wein und Tellern zum Teilen."
+          },
+          {
+            "tip": "Marktfrühstück, Snacks, lokale Produkte, lockeres Essen. Einer der besten kulinarischen Kulturstopps in Santa Cruz, mit Ständen für frische Produkte und unprätentiösen Bar-Restaurants."
+          },
+          {
+            "tip": "Modernisierte kanarische Küche, gehobeneres Abendessen. Eine stärkere Restaurantwahl in der Nähe des Marktes, vom Michelin als unverzichtbare Adresse mit modernisierter traditioneller Küche beschrieben."
+          },
+          {
+            "tip": "Japanisch und peruanisch, besonderes Abendessen. Eine etwas elegantere Option in der Nähe des Marktes, unter den hoch bewerteten Restaurants nahe dem Mercado."
+          },
+          {
+            "tip": "Tacos, Cocktails, lockeres Abendessen. Gut, wenn du etwas anderes als kanarisches Essen möchtest, unter den Top-Adressen nahe dem Mercado und La Noria."
+          },
+          {
+            "tip": "Frischer Fisch, lockeres lokales Mittagessen, Kombination mit Las Teresitas. Eine der besten Essensgegenden in der Nähe. Toll nach dem Strand Las Teresitas oder vor einer Fahrt nach Anaga."
+          },
+          {
+            "tip": "Fisch des Tages, Meeresfrüchte, lokales Mittagessen. Eine starke Wahl für Meeresfrüchte in der Nähe von Las Teresitas, oft gelobt für den Fisch des Tages und den Tintenfisch."
+          },
+          {
+            "tip": "Meeresfrüchte, mediterranes Essen, Mittagessen am Strandtag. Eine verlässliche Wahl in der Nähe von Las Teresitas, unter den beliebtesten Restaurants in San Andrés."
+          },
+          {
+            "tip": "Lockeres spanisches Essen, Meeresfrüchte, gutes Preis-Leistungs-Verhältnis. Eine gute kleinere lokale Option, hoch bewertet unter den günstigeren Lokalen in der Nähe von Las Teresitas."
+          },
+          {
+            "tip": "Lockere Meeresfrüchte, einfaches lokales Essen. Eine praktische, lockere Option in der Nähe von Las Teresitas, bewertet mit 8,5/10 für Essen, Service und Atmosphäre."
+          },
+          {
+            "tip": "Mittagessen in der historischen Stadt, Cafés, Abendessen. Der beste kulturelle Essensausflug von Santa Cruz aus. Toll zu kombinieren mit dem historischen UNESCO-Zentrum und einem entspannten Spaziergang."
+          },
+          {
+            "tip": "Lokales kanarisches Essen, Wein, rustikales Erlebnis. Toll für abenteuerlustige Essensgäste. Guachinches sind schnörkellose, preisgünstige Lokale, die einfache hausgemachte Gerichte servieren, meist im Norden und oft saisonal."
+          },
+          {
+            "tip": "Meerblick, lockeres Mittagessen, Tag an den natürlichen Becken. Eine gute Essensgegend, wenn du die natürlichen Becken besuchst. Funktioniert gut als entspannter Tagesausflug an die Nordküste."
+          },
+          {
+            "tip": "Malerisches Mittagessen, Fisch, Tagesausflug nach Anaga. Der beste Essensstopp während eines Ausflugs nach Anaga. Empfohlen zum Mittagessen nach Taganana, Almáciga oder Benijo."
+          }
+        ]
       },
       {
-        "category": "Shopping"
+        "category": "Shopping",
+        "items": [
+          {
+            "tip": "Grundbedarf, Getränke, Snacks, schnelle Notwendigkeiten. Am besten für Bequemlichkeit. Nutze das für Wasser, kleine Einkäufe und Dinge in letzter Minute statt für richtiges Shopping."
+          },
+          {
+            "tip": "Mode, Schuhe, Kosmetik, Stadtshopping. Die wichtigste Einkaufsstraße in Santa Cruz, die durch das Zentrum verläuft, mit internationalen Ketten, Modegeschäften, Boutiquen, Cafés und Seitenstraßen, die einen Abstecher wert sind."
+          },
+          {
+            "tip": "Shopping im Stadtzentrum, Cafés, Kombination mit Sightseeing. Ein guter Ausgangspunkt für einen entspannten Einkaufsspaziergang, der zur Calle del Castillo, Imeldo Serís und Valentín Sanz führt."
+          },
+          {
+            "tip": "Boutiquen, lokale Geschäfte, Cafés. Besser, wenn du über die Haupteinkaufsstraße hinaus bummeln möchtest. Die Straßen rund um die Calle Castillo und die Plaza del Príncipe verbinden Shopping und Essensstopps schön miteinander."
+          },
+          {
+            "tip": "Frische Produkte, lokales Essen, Blumen, kleine Geschenke. Der beste lokale Markt in Santa Cruz, bekannt für frisches Obst, Gemüse, Fisch, Fleisch und Blumen. Das Gebäude von 1944 hat schöne maurische Bögen und Innenhöfe."
+          },
+          {
+            "tip": "Bequemes Einkaufen, Cafés, einfaches Parken. Ein gepflegtes Einkaufszentrum im Zentrum von Santa Cruz, ein praktischer Bezugspunkt mit Parkplätzen und regelmäßigen Veranstaltungen."
+          },
+          {
+            "tip": "Großes Einkaufszentrum, Primark, Kino, Food Court. Das beste Einkaufszentrum in Santa Cruz, mit fast 80 Geschäften, 15 Kinosälen, einem Food Court auf dem Dach und dem einzigen Primark der Insel."
+          },
+          {
+            "tip": "Grundbedarf für den Strandtag, Snacks, einfache Besorgungen. Nützlich vor oder nach Las Teresitas. Kein Shopping-Ziel, aber praktisch für Getränke, Strandsnacks oder kleine Notwendigkeiten."
+          },
+          {
+            "tip": "Verbrauchermarkt, großes Einkaufen, praktische Besorgungen. Am besten für große Lebensmitteleinkäufe oder praktische Besorgungen mit dem Auto, mit über 100 Geschäften, einem großen Carrefour und mehr als 2.000 kostenlosen Parkplätzen."
+          },
+          {
+            "tip": "Boutiquen, Geschenke, Cafés, historische Gassen. Der beste kulturelle Shopping-Ausflug. La Laguna ist eine UNESCO-Welterbestadt, toll, um Shopping, Kaffee und einen historischen Spaziergang zu verbinden."
+          },
+          {
+            "tip": "Frische Produkte, Blumen, lokales Essen. Ein guter lokaler Markt im historischen Zentrum, bekannt für frische Produkte, Blumen und lokale Gastronomie."
+          },
+          {
+            "tip": "Lokaler Wein, Käse, kanarische Produkte. Gut, wenn du lokale Lebensmittelprodukte statt normalem Einzelhandel möchtest. Kombiniere es mit einem Mittagessen in einer Guachinche oder einer Fahrt an die Nordküste."
+          },
+          {
+            "tip": "Shopping beim Tagesausflug, Souvenirs, Cafés. Schön, wenn du ohnehin Puerto de la Cruz, Lago Martiánez oder La Orotava besuchst. Lohnt sich als Teil eines ganzen Nordküstentages statt nur zum Shoppen."
+          },
+          {
+            "tip": "Traditionelle Stadt, Kunsthandwerk, Geschenke. Eher für Atmosphäre und lokale Geschenke als für normalen Einzelhandel. Funktioniert gut mit Puerto de la Cruz oder dem Strand El Bollullo."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -369,22 +684,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Strandok 🏝️"
+        "category": "Strandok 🏝️",
+        "items": [
+          {
+            "tip": "Legközelebbi fürdőzés, gyors merülés, helyi hangulat. A legközelebbi lehetőség: egy kicsi városi kavicsos strand nyugodt vízzel és könnyű megközelítéssel. Inkább praktikus, mint szép, de remek egy gyors megmártózáshoz."
+          },
+          {
+            "tip": "A legjobb könnyű strandnap, családok, fürdőzés. Aranyhomok, teljes infrastruktúra, éttermek és hullámtörővel védett nyugodt víz. A legbiztonságosabb csúcsajánlat erről a helyről."
+          },
+          {
+            "tip": "Fekete homok, csendesebb strand, rejtett gyöngyszem. Egy vadabb fekete homokos strand Las Teresitas közelében. Jó, ha valami kevésbé kifinomultat és kevésbé zsúfoltat szeretne, de a tenger lehet hullámosabb."
+          },
+          {
+            "tip": "Csendes falu, festői part, rejtett gyöngyszem. Egy gyönyörű helyi menedék San Andrésen túl. Inkább egy festői parti látogatáshoz jó, mint egy klasszikus homokos strandnaphoz."
+          },
+          {
+            "tip": "Eldugott strand, kaland, vad természet. Anaga egyik igazi rejtett gyöngyszeme. Egy hétköznapi látogatáshoz nem praktikus, de a kalandvágyó vendégeknek abszolút lenyűgöző."
+          },
+          {
+            "tip": "Festői autóút, szörfözés, közeli éttermek. Egy remek anagai kirándulási megálló: gyönyörű fekete homok és drámai hegyi táj, közeli éttermekkel. Inkább a látvány és az étel, mint a nyugodt fürdőzés."
+          },
+          {
+            "tip": "Vad fekete homok, szörfösök, természet. Gyönyörű és drámai, de nem a legkönnyebb fürdőstrand. A legjobb azoknak a vendégeknek, akik szeretik a vad partvidéket, és nem várnak napozóágyat."
+          },
+          {
+            "tip": "Naplemente, fotózás, vad anagai táj. Tenerife egyik legszebb strandja fotózáshoz és naplementéhez: vad, fekete homok, erős óceáni viszonyokkal. Indulás előtt ellenőrizze a tengeri viszonyokat."
+          },
+          {
+            "tip": "Biztonságos tengeri medencék, családok, hullámlesés. Nem strand, de nagyon megéri. Remek, amikor az északi part drámai, és biztonságosabb óceáni élményre vágyik."
+          },
+          {
+            "tip": "Természetes medencék, parti séta, naplemente. Kiváló parti kirándulás: inkább a fürdőmedencékről, a lávapartról és a lenyűgöző kilátásról szól, mint a homokról."
+          },
+          {
+            "tip": "Fekete homok, helyi strand, északi parti hangulat. Egy kellemes alternatíva az északi parton, jó a Tacorontét vagy a borvidéket felfedező vendégeknek."
+          },
+          {
+            "tip": "Gyönyörű fekete homok, északi parti klasszikus. Tenerife északi részének egyik legszebb fekete homokos strandja. Megéri, ha amúgy is La Orotavát vagy Puerto de la Cruzt látogatja."
+          },
+          {
+            "tip": "Puerto de la Cruz kirándulás. Általában híres és festői, de a vízminőség miatti lezárások 2024 óta érintik a Playa Jardínt. Indulás előtt ellenőrizze az aktuális fürdési állapotot."
+          }
+        ]
       },
       {
-        "category": "Történelmi helyek & Festői Séták 🏰"
+        "category": "Történelmi helyek & Festői Séták 🏰",
+        "items": [
+          {
+            "tip": "Legközelebbi tengeri séta, helyi hangulat, gyors kószálás. A legkönnyebb parti séta a háztól. Inkább praktikus, mint kifinomult, de nagyon helyi jellegű és jó egy gyors tengeri kilátáshoz."
+          },
+          {
+            "tip": "Városi séta, fák, kávézók, helyi élet. Egy kellemes városi séta Santa Cruz egyik fő zöld sugárútján. Kedves egy nyugodt reggelhez vagy késő délutánhoz."
+          },
+          {
+            "tip": "Árnyas séta, növények, szökőkutak, szobrok. A város egyik legjobb könnyű festői sétája, tökéletes, ha zöldre vágyik anélkül, hogy elhagyná Santa Cruzt."
+          },
+          {
+            "tip": "Várostörténet, központi tér, könnyű városnézés. Remek kiindulópont Santa Cruz központjának felfedezéséhez. A földalatti bemutatóközpont megőrzi a régi vár maradványait, amely 1833 óta Tenerife fővárosa."
+          },
+          {
+            "tip": "Régi utcák, templom, bárok, helyi esti séta. Kedves egy történelmi városi kószáláshoz. A templom és a közeli La Noria utcái az óvárosi Santa Cruz leghangulatosabb részei közé tartoznak."
+          },
+          {
+            "tip": "Helyi piac, étel, építészet, reggeli séta. Nem klasszikus műemlék, de remek kulturális megálló. A legjobb reggel a helyi termékekért, harapnivalókért és a hangulatért."
+          },
+          {
+            "tip": "Modern építészet, fotók, tengerparti séta. Santa Cruz egyik legikonikusabb modern látványossága, amelyet Santiago Calatrava tervezett. Lenyűgöző fotókhoz a tengerparton."
+          },
+          {
+            "tip": "Botanikus séta, tengeri kilátás, szokatlan kert. Egy nagyon jó festői séta a városon belül. Egy 12 hektáros botanikus kert, amely a pálmafákra specializálódott."
+          },
+          {
+            "tip": "Falusi hangulat, tenger gyümölcsei, Las Teresitas kombináció. Kicsi, egyszerű és helyi. Remek a Las Teresitas stranddal vagy egy anagai autózással kombinálva."
+          },
+          {
+            "tip": "A legjobb strandkilátó, fotók, festői megálló. A ház egyik legkönnyebb \"lélegzetelállító kilátás\" megállója. A legjobb Las Teresitasszal vagy San Andrésszel kombinálva."
+          },
+          {
+            "tip": "UNESCO város, gyarmati utcák, építészet. Santa Cruz egyik legjobb kulturális kirándulása. La Laguna történelmi központja 1999 óta az UNESCO Világörökség része."
+          },
+          {
+            "tip": "Hegyek, babérerdő, kilátók, falvak. A legjobb természeti és festői kirándulás erről a helyről. Az Anaga védett vidéki park, és 2015 óta UNESCO bioszféra-rezervátum."
+          },
+          {
+            "tip": "Erdei séták, anagai információk, kilátók. A legjobb kiindulópont az anagai erdei sétákhoz, információkkal és tanácsokkal a vidéki park útvonalaihoz."
+          },
+          {
+            "tip": "Történelmi falu, anagai táj, hegyi út. Egy gyönyörű régi falu az Anagában, drámai tájakkal. Remek egy festői autózáshoz és egy hagyományosabb hangulathoz."
+          },
+          {
+            "tip": "Óceáni kilátás, fekete homok, tengeri ebéd. Inkább festői, mint történelmi, de kiváló egy anagai kiránduláshoz. Kombinálja Taganana, Almáciga és Benijo helyszínekkel."
+          },
+          {
+            "tip": "Naplemente, vad part, fotózás. Tenerife egyik legdrámaibb festői helyszíne. Inkább a kilátáshoz és fotókhoz jó, mint a könnyű fürdőzéshez."
+          }
+        ]
       },
       {
-        "category": "Látnivalók & Kirándulások 📸"
+        "category": "Látnivalók & Kirándulások 📸",
+        "items": [
+          {
+            "tip": "Legközelebbi tengeri pont, gyors merülés, helyi hangulat. Nagyon közeli és praktikus. Inkább helyi, mint képeslapszerűen szép, de hasznos egy gyors óceáni megállóhoz."
+          },
+          {
+            "tip": "Városi séta, kávézók, helyi élet. Egy kellemes városi séta, jó, ha valami könnyűre vágyik anélkül, hogy elhagyná Santa Cruzt."
+          },
+          {
+            "tip": "Zöld séta, árnyék, szökőkutak, szobrok. Santa Cruz egyik legkellemesebb könnyű sétája, különösen meleg időben."
+          },
+          {
+            "tip": "Városnézés, vásárlás, kávézók. Jó kiindulópont egy Santa Cruz-i városi sétához. Könnyű kombinálni a régi utcákkal, a kikötői területtel és a Mercadóval."
+          },
+          {
+            "tip": "Rövid történelmi megálló, városközpont. Kicsi, de érdekes, ha amúgy is a Plaza de Españát látogatja. A legjobb egy gyors kiegészítőként, nem önálló kirándulásként."
+          },
+          {
+            "tip": "Helyi étel, piac, reggeli látogatás. Remek kulturális gasztronómiai megálló. A legjobb reggel a gyümölcsökért, kávéért, helyi termékekért és a hangulatért."
+          },
+          {
+            "tip": "Építészet, fotók, tengerparti séta. Santa Cruz egyik legikonikusabb modern látványossága, amelyet Santiago Calatrava tervezett. Jó a Palmetummal és a vízparttal kombinálni."
+          },
+          {
+            "tip": "Botanikus kert, tengeri kilátás, nyugodt séta. Egy 12 hektáros, pálmafákra specializálódott botanikus kert, Santa Cruz egyik legjobb csendes látványossága."
+          },
+          {
+            "tip": "Tenger gyümölcsei, falusi hangulat, Las Teresitas kombináció. Egy kicsi helyi falu, a legjobb a Las Teresitas stranddal és a kilátóval kombinálva."
+          },
+          {
+            "tip": "Könnyű strandnap, családok, fürdőzés. A legkönnyebb strandkirándulás erről a helyről. Aranyhomok, nyugodt víz, infrastruktúra és közeli éttermek."
+          },
+          {
+            "tip": "Kilátó, fotók, strand panoráma. A ház egyik legkönnyebb lélegzetelállító kilátása. A legjobb Las Teresitas előtt vagy után."
+          },
+          {
+            "tip": "UNESCO város, kávézók, építészet. Santa Cruz egyik legjobb kulturális kirándulása. Remek egy fél napos kiránduláshoz ebéddel vagy kávéval."
+          },
+          {
+            "tip": "Óceáni medencék, családok, hullámlesés. Remek alternatíva a strandi fürdőzéshez, különösen, ha védettebb helyen szeretne óceáni vízben fürdeni."
+          },
+          {
+            "tip": "Hegyek, kilátók, falvak, babérerdő. A legjobb természeti kirándulás erről a helyről. Az Anaga védett vidéki park és UNESCO bioszféra-rezervátum."
+          },
+          {
+            "tip": "Drámai part, falvak, ebéd, fotók. Santa Cruz egyik legjobb kirándulása: hegyi utak, fekete homokos strandok, óceáni kilátás és hagyományos étel."
+          },
+          {
+            "tip": "Erdei séták, kilátók, anagai infó. A legjobb kiindulópont a könnyű anagai erdei sétákhoz és útvonal-tanácsokhoz."
+          },
+          {
+            "tip": "Parti séta, természetes medencék, naplemente. Nagyon jó egy nyugodt északi parti kiránduláshoz. Kombinálja Bajamarral vagy La Lagunával."
+          },
+          {
+            "tip": "Családok, egész napos látványosság. Tenerife egyik legnagyobb turisztikai látványossága. A legjobb családoknak vagy azoknak a vendégeknek, akik kedvelik az állatparkokat."
+          },
+          {
+            "tip": "Városi kirándulás, tengeri medencék, éttermek. Egy klasszikus észak-tenerifei kirándulás. A Lago Martiánez egy César Manrique által tervezett tengervizes medencekomplexum."
+          },
+          {
+            "tip": "Hagyományos építészet, óváros, kilátás. Egy gyönyörű történelmi város, jó Puerto de la Cruzzal vagy az El Bollullo stranddal kombinálni."
+          },
+          {
+            "tip": "Vulkáni tájak, kilátók, egész napos kirándulás. Tenerife legnagyobb kötelező kirándulása. Magában foglalja a Teide-hegyet, Spanyolország legmagasabb csúcsát 3718 m-rel, és UNESCO Világörökség része."
+          },
+          {
+            "tip": "Hegyi falu, drámai út, fotók. Gyönyörű, de hosszú autóút Santa Cruztól. A legjobb egy egész napos szigeti kiránduláshoz, ideális esetben a Teidével vagy a Buenavista környékével."
+          },
+          {
+            "tip": "Vízipark, családok, izgalmas csúszdák. Messze van erről a helytől, de Tenerife egyik leghíresebb látványossága. A legjobb egész napos programként, jellemzően 4-6 órás látogatással."
+          }
+        ]
       },
       {
-        "category": "Túrázás & Természeti Ösvények ⛰️"
+        "category": "Túrázás & Természeti Ösvények ⛰️",
+        "items": [
+          {
+            "tip": "Könnyű | Legközelebbi tengeri séta, gyors helyi kószálás. A legjobb gondtalan lehetőség a háztól. Inkább városi és helyi, mint vad természet, de hasznos egy gyors tengeri kilátáshoz."
+          },
+          {
+            "tip": "Könnyű | Városi séta, árnyék, kávézók. Egy nyugodt városi séta, jó, amikor nincs kedve egy rendes túrához."
+          },
+          {
+            "tip": "Könnyű | Zöld séta, árnyék, szobrok. A legjobb könnyű zöld séta Santa Cruzon belül. Kedves reggel vagy késő délután."
+          },
+          {
+            "tip": "Könnyű | Botanikus séta, tengeri kilátás, növények. Egy nagyon jó festői séta a város elhagyása nélkül. Egy 12 hektáros, pálmafákra összpontosító botanikus kert."
+          },
+          {
+            "tip": "Könnyű | Fotók, strand panoráma, rövid séta. Nem rendes túra, de a ház egyik legkönnyebb festői kilátója. Kombinálja Las Teresitasszal vagy San Andrésszel."
+          },
+          {
+            "tip": "Könnyűtől közepesig | Erdő, hűvösebb levegő, helyi menedék. Jó lehetőség, ha zöldre vágyik anélkül, hogy mélyen az Anagába hajtana. A legjobb forró napokon, vagy amikor a part túl kitettnek tűnik."
+          },
+          {
+            "tip": "Könnyűtől közepesig | Természetes medencék, óceáni kilátás, naplemente. Egy remek északi parti séta fürdőmedence-megállókkal. Inkább a parti látványhoz jó, mint az erdei túrázáshoz."
+          },
+          {
+            "tip": "Könnyű | Babérerdő, családok, rövid természeti séta. Az egyik legjobb kezdőbarát anagai séta: egy 1 km-es körkörös, többnyire sík ösvény, amely gyerekeknek és felnőtteknek egyaránt alkalmas."
+          },
+          {
+            "tip": "Könnyűtől közepesig | Anagai erdő, útvonal-tanácsok, kilátók. A legjobb kiindulópont az anagai erdei sétákhoz. Remek azoknak a vendégeknek, akik útmutatást szeretnének, mielőtt ösvényt választanak."
+          },
+          {
+            "tip": "Könnyűtől közepesig | Drámai part, falusi séta, ebéd. Inkább festői séta, mint klasszikus túra. Remek a Roque de las Bodegas melletti ebéddel és az Almáciga vagy Benijo felé tartó fotómegállókkal."
+          },
+          {
+            "tip": "Könnyűtől közepesig | Anagai kilátás, fotók, ködös erdő. Egy remek festői megálló az Anagában. A legjobb a Cruz del Carmennel és a babérerdei sétákkal kombinálva."
+          },
+          {
+            "tip": "Közepes | Varázslatos babérerdő, mohás anagai táj. Az Anaga egyik legkülönlegesebb erdei túrája: figyelem, engedély szükséges. Foglaljon előre a hivatalos tenerifei engedélyrendszeren keresztül."
+          },
+          {
+            "tip": "Közepes | Naplemente, vad partvidék, fotók. Kiváló a drámai parti tájhoz. Lépcsők és egyenetlen ösvények, ezért jobb megfelelő cipővel. Kerülje a kockázatos fürdőzést, amikor a tenger hullámos."
+          },
+          {
+            "tip": "Közepes | Szurdoki séta, vad strand, kaland. Egy gyönyörű anagai túra egy szurdokon át egy eldugott strandig. A fürdőzés Tamaditénél veszélyes lehet, ezért kezelje inkább túracélpontként, mint strandnapként."
+          },
+          {
+            "tip": "Nehéz | Komoly túrázóknak, kilátás, anagai falvak. Egy megterhelő ösvény meredek szakaszokkal, amely Tamaditéhez ereszkedik, mielőtt meredeken felkapaszkodna Taganana felé. Nem gyenge szívűeknek való, de látványos."
+          },
+          {
+            "tip": "Közepes | Vulkáni sziklaalakzatok, Teide-kilátás. Az egyik legjobb megközelíthető Teide-séta. Kezelhetőbb, mint a csúcs felé túrázás, és nagyon festői."
+          },
+          {
+            "tip": "Könnyűtől nehézig | Vulkáni tájak, kilátók, egész napos kirándulás. A sziget legjobb egész napos túrakirándulása. A Teide-hegy Spanyolország legmagasabb csúcsa 3718 m-rel, és UNESCO Világörökség része."
+          }
+        ]
       },
       {
-        "category": "Ételek & Italok"
+        "category": "Ételek & Italok",
+        "items": [
+          {
+            "tip": "Gyors kávé, egyszerű helyi étel, legközelebbi lehetőség. A legjobb a kényelem kedvéért, nem célpont-étkezéshez. Hasznos, amikor valami nagyon közelit szeretne."
+          },
+          {
+            "tip": "Brunch, kávé, könnyed nappali étel. Hasznos lehetőség valami könnyűre városnézés előtt. A városi kínálatban rengeteg brunch- és kávézóhely van a tapas és a tenger gyümölcsei mellett."
+          },
+          {
+            "tip": "Esti italok, tapas, élénk hangulat. Egy remek terület vacsorához és italokhoz a belvárosi Santa Cruzban. A legjobb, ha egy városi estére vágyik, nem egy strandi étkezésre."
+          },
+          {
+            "tip": "Tapas, könnyed vacsora, La Noria környéke. A La Noria környékének legjobb éttermei között szerepel, erős értékelésekkel."
+          },
+          {
+            "tip": "Bor, megosztható tányérok, óvárosi hangulat. Kedves egy nyugodt estéhez a templom és a régi utcák közelében, kültéri ülőhelyekkel, borral és megosztható tányérokkal."
+          },
+          {
+            "tip": "Piaci reggeli, harapnivalók, helyi termékek, könnyed étel. Santa Cruz egyik legjobb gasztrokulturális megállója, friss termékstandokkal és visszafogott bár-éttermekkel."
+          },
+          {
+            "tip": "Megújított kanári konyha, igényesebb vacsora. Egy erősebb étteremválasztás a piac közelében, amelyet a Michelin elengedhetetlen címként ír le, megújított hagyományos konyhával."
+          },
+          {
+            "tip": "Japán és perui, különleges vacsora. Egy kifinomultabb lehetőség a piac közelében, a Mercado közelében lévő magasan értékelt éttermek között."
+          },
+          {
+            "tip": "Tacók, koktélok, könnyed vacsora. Jó, ha valami mást szeretne a kanári étel helyett, a Mercado és a La Noria környékének legjobb helyei között."
+          },
+          {
+            "tip": "Friss hal, könnyed helyi ebéd, Las Teresitas kombináció. Az egyik legjobb közeli gasztronómiai terület. Remek a Las Teresitas strand után, vagy mielőtt az Anagába hajtana."
+          },
+          {
+            "tip": "A nap hala, tenger gyümölcsei, helyi ebéd. Egy erős tengeri lehetőség Las Teresitas közelében, amelyet gyakran dicsérnek a nap haláért és a polipért."
+          },
+          {
+            "tip": "Tenger gyümölcsei, mediterrán étel, strandnapi ebéd. Egy megbízható választás Las Teresitas közelében, a legnépszerűbb San Andrés-i éttermek között."
+          },
+          {
+            "tip": "Könnyed spanyol étel, tenger gyümölcsei, jó ár-érték arány. Egy jó kisebb helyi lehetőség, magasan értékelve a Las Teresitas melletti olcsóbb falatozók között."
+          },
+          {
+            "tip": "Könnyed tenger gyümölcsei, egyszerű helyi étkezés. Egy praktikus, könnyed lehetőség Las Teresitas közelében, 8,5/10-re értékelve az ételért, kiszolgálásért és hangulatért."
+          },
+          {
+            "tip": "Történelmi városi ebéd, kávézók, vacsora. Santa Cruz legjobb kulturális gasztronómiai kirándulása. Remek az UNESCO történelmi központtal és egy nyugodt sétával kombinálva."
+          },
+          {
+            "tip": "Helyi kanári étel, bor, rusztikus élmény. Remek a kalandvágyó gasztronómiai vendégeknek. A guachinchék dísztelen, költségkímélő helyek, amelyek egyszerű, házias ételeket szolgálnak fel, többnyire északon és gyakran szezonálisan."
+          },
+          {
+            "tip": "Óceáni kilátás, könnyed ebéd, természetes medence nap. Egy jó gasztronómiai terület, ha a természetes medencéket látogatja. Jól működik egy nyugodt északi parti kirándulásként."
+          },
+          {
+            "tip": "Festői ebéd, hal, anagai kirándulás. A legjobb gasztronómiai megálló egy anagai kirándulás során. Ajánlott ebédre Taganana, Almáciga vagy Benijo után."
+          }
+        ]
       },
       {
-        "category": "Vásárlás"
+        "category": "Vásárlás",
+        "items": [
+          {
+            "tip": "Alapok, italok, harapnivalók, gyors szükségletek. A legjobb a kényelem kedvéért. Használja ezt vízhez, kisebb élelmiszerekhez és utolsó pillanatban felmerülő dolgokhoz, nem rendes vásárláshoz."
+          },
+          {
+            "tip": "Divat, cipők, kozmetikumok, városi vásárlás. Santa Cruz fő bevásárlóutcája, amely a központon halad át nemzetközi franchise-okkal, divatüzletekkel, butikokkal, kávézókkal és felfedezésre érdemes mellékutcákkal."
+          },
+          {
+            "tip": "Belvárosi vásárlás, kávézók, városnézés kombináció. Jó kiindulópont egy nyugodt bevásárló sétához, amely a Calle del Castillóba, az Imeldo Serísbe és a Valentín Sanzba vezet."
+          },
+          {
+            "tip": "Butikok, helyi üzletek, kávézók. Jobb, ha a fő bevásárlóutcán túl szeretne barangolni. A Calle Castillo és a Plaza del Príncipe körüli utcák kellemesen vegyítik a vásárlást és a gasztronómiai megállókat."
+          },
+          {
+            "tip": "Friss termékek, helyi étel, virágok, kis ajándékok. Santa Cruz legjobb helyi piaca, friss gyümölcsről, zöldségről, halról, húsról és virágról ismert. Az 1944-es épület gyönyörű mór stílusú boltíveket és belső udvarokat rejt."
+          },
+          {
+            "tip": "Kényelmes vásárlás, kávézók, könnyű parkolás. Egy kifinomult bevásárlóközpont a belvárosi Santa Cruzban, hasznos tájékozódási pont parkolóval és rendszeres eseményekkel."
+          },
+          {
+            "tip": "Nagy pláza, Primark, mozi, ételudvar. Santa Cruz legjobb plázája, közel 80 üzlettel, 15 mozivászonnal, tetőtéri ételudvarral és a sziget egyetlen Primarkjával."
+          },
+          {
+            "tip": "Strandnapi alapok, harapnivalók, egyszerű ügyintézés. Hasznos Las Teresitas előtt vagy után. Nem bevásárló célpont, de praktikus italokhoz, strandi harapnivalókhoz vagy kisebb szükségletekhez."
+          },
+          {
+            "tip": "Hipermarket, nagy bevásárlás, praktikus ügyintézés. A legjobb nagy élelmiszer-bevásárláshoz vagy praktikus ügyintézéshez autóval, 100+ üzlettel, egy nagy Carrefourral és több mint 2000 ingyenes parkolóhellyel."
+          },
+          {
+            "tip": "Butikok, ajándékok, kávézók, történelmi utcák. A legjobb kulturális bevásárló kirándulás. La Laguna UNESCO világörökségi város, remek a vásárlás, kávé és egy történelmi séta kombinálásához."
+          },
+          {
+            "tip": "Friss termékek, virágok, helyi étel. Egy jó helyi piac a történelmi központban, friss termékekről, virágokról és helyi gasztronómiáról ismert."
+          },
+          {
+            "tip": "Helyi bor, sajt, kanári termékek. Jó, ha helyi élelmiszereket szeretne a hagyományos kiskereskedelem helyett. Kombinálja egy guachinche ebéddel vagy egy északi parti autózással."
+          },
+          {
+            "tip": "Kirándulásnapi vásárlás, ajándéktárgyak, kávézók. Kellemes, ha amúgy is Puerto de la Cruzt, a Lago Martiánezt vagy La Orotavát látogatja. Megéri egy egész napos északi parti program részeként, nem csak vásárlásért."
+          },
+          {
+            "tip": "Hagyományos város, kézművesség, ajándékok. Inkább a hangulathoz és helyi ajándékokhoz jó, mint a hagyományos kiskereskedelemhez. Jól működik Puerto de la Cruzzal vagy az El Bollullo stranddal."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -577,22 +1207,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Παραλίες 🏝️"
+        "category": "Παραλίες 🏝️",
+        "items": [
+          {
+            "tip": "Πιο κοντινό μπάνιο, γρήγορη βουτιά, τοπική αίσθηση. Η πιο κοντινή επιλογή: μια μικρή αστική παραλία με βότσαλο, ήρεμα νερά και εύκολη πρόσβαση. Πιο πρακτική παρά όμορφη, αλλά ιδανική για μια γρήγορη βουτιά."
+          },
+          {
+            "tip": "Η καλύτερη επιλογή για χαλαρή ημέρα στην παραλία, οικογένειες, κολύμπι. Χρυσή άμμος, πλήρεις εγκαταστάσεις, εστιατόρια και ήρεμα νερά που προστατεύονται από κυματοθραύστη. Η πιο ασφαλής κορυφαία πρόταση από αυτή την τοποθεσία."
+          },
+          {
+            "tip": "Μαύρη άμμος, πιο ήσυχη παραλία, κρυμμένος θησαυρός. Μια πιο άγρια παραλία με μαύρη άμμο κοντά στην Las Teresitas. Καλή όταν θέλετε κάτι λιγότερο επιμελημένο και λιγότερο πολυσύχναστο, αλλά η θάλασσα μπορεί να είναι πιο ταραγμένη."
+          },
+          {
+            "tip": "Ήσυχο χωριό, γραφική ακτή, κρυμμένος θησαυρός. Μια όμορφη τοπική απόδραση πέρα από το San Andrés. Καλύτερη για μια γραφική παραθαλάσσια επίσκεψη παρά για μια κλασική ημέρα σε αμμώδη παραλία."
+          },
+          {
+            "tip": "Απομονωμένη παραλία, περιπέτεια, άγρια φύση. Ένας από τους αληθινούς κρυμμένους θησαυρούς της Anaga. Όχι πρακτική για μια απλή επίσκεψη, αλλά απολύτως εκπληκτική για περιπετειώδεις επισκέπτες."
+          },
+          {
+            "tip": "Γραφική διαδρομή, σερφ, εστιατόρια κοντά. Μια εξαιρετική στάση για ημερήσια εκδρομή στην Anaga: όμορφη μαύρη άμμος και εντυπωσιακό ορεινό τοπίο, με εστιατόρια κοντά. Καλύτερη για το τοπίο και το φαγητό παρά για ήρεμο κολύμπι."
+          },
+          {
+            "tip": "Άγρια μαύρη άμμος, σέρφερ, φύση. Όμορφη και εντυπωσιακή, αλλά όχι η πιο εύκολη παραλία για κολύμπι. Ιδανική για επισκέπτες που αγαπούν τις άγριες ακτές και δεν περιμένουν ξαπλώστρες."
+          },
+          {
+            "tip": "Ηλιοβασίλεμα, φωτογραφία, άγριο τοπίο της Anaga. Μία από τις πιο όμορφες παραλίες της Τενερίφης για φωτογραφίες και ηλιοβασιλέματα: άγρια, μαύρη άμμος, με έντονες θαλάσσιες συνθήκες. Ελέγξτε τις συνθήκες της θάλασσας πριν πάτε."
+          },
+          {
+            "tip": "Ασφαλείς θαλάσσιες πισίνες, οικογένειες, παρακολούθηση κυμάτων. Δεν είναι παραλία αλλά αξίζει πολύ. Ιδανική όταν η βόρεια ακτή είναι εντυπωσιακή και θέλετε μια πιο ασφαλή θαλάσσια εμπειρία."
+          },
+          {
+            "tip": "Φυσικές πισίνες, παραθαλάσσιος περίπατος, ηλιοβασίλεμα. Μια εξαιρετική ημερήσια εκδρομή στην ακτή: περισσότερο για κολύμπι σε πισίνες, ηφαιστειακή ακτή και υπέροχη θέα παρά για άμμο."
+          },
+          {
+            "tip": "Μαύρη άμμος, τοπική παραλία, ατμόσφαιρα βόρειας ακτής. Μια ωραία εναλλακτική στη βόρεια ακτή, καλή για επισκέπτες που εξερευνούν την Tacoronte ή την περιοχή του κρασιού."
+          },
+          {
+            "tip": "Όμορφη μαύρη άμμος, κλασική παραλία της βόρειας ακτής. Μία από τις πιο όμορφες παραλίες με μαύρη άμμο στη βόρεια Τενερίφη. Αξίζει αν επισκέπτεστε ήδη την La Orotava ή το Puerto de la Cruz."
+          },
+          {
+            "tip": "Ημερήσια εκδρομή στο Puerto de la Cruz. Συνήθως διάσημη και γραφική, αλλά οι διακοπές λόγω ποιότητας νερού έχουν επηρεάσει την Playa Jardín από το 2024. Ελέγξτε την τρέχουσα κατάσταση κολύμβησης πριν πάτε."
+          }
+        ]
       },
       {
-        "category": "Ιστορικά Μνημεία & Γραφικοί Περίπατοι 🏰"
+        "category": "Ιστορικά Μνημεία & Γραφικοί Περίπατοι 🏰",
+        "items": [
+          {
+            "tip": "Πιο κοντινός περίπατος στη θάλασσα, τοπική αίσθηση, γρήγορη βόλτα. Ο πιο εύκολος παραθαλάσσιος περίπατος από το σπίτι. Πιο πρακτικός παρά επιμελημένος, αλλά πολύ τοπικός και ιδανικός για μια γρήγορη θέα στη θάλασσα."
+          },
+          {
+            "tip": "Περίπατος στην πόλη, δέντρα, καφετέριες, τοπική ζωή. Ένας ευχάριστος αστικός περίπατος μέσα από μία από τις κύριες πράσινες λεωφόρους του Santa Cruz. Υπέροχος για ένα χαλαρό πρωινό ή αργό απόγευμα."
+          },
+          {
+            "tip": "Σκιερός περίπατος, φυτά, σιντριβάνια, γλυπτά. Ένας από τους καλύτερους εύκολους γραφικούς περιπάτους στην πόλη, ιδανικός όταν θέλετε πρασινάδα χωρίς να φύγετε από το Santa Cruz."
+          },
+          {
+            "tip": "Ιστορία της πόλης, κεντρική πλατεία, εύκολη περιήγηση. Ένα εξαιρετικό σημείο εκκίνησης για την εξερεύνηση του κεντρικού Santa Cruz. Το υπόγειο κέντρο ερμηνείας διατηρεί ερείπια του παλιού κάστρου, πρωτεύουσα της Τενερίφης από το 1833."
+          },
+          {
+            "tip": "Παλιά σοκάκια, εκκλησία, μπαρ, βραδινός τοπικός περίπατος. Υπέροχος για μια ιστορική βόλτα στην πόλη. Η εκκλησία και τα κοντινά σοκάκια της La Noria είναι από τα πιο ατμοσφαιρικά σημεία του παλιού Santa Cruz."
+          },
+          {
+            "tip": "Τοπική αγορά, φαγητό, αρχιτεκτονική, πρωινός περίπατος. Δεν είναι κλασικό μνημείο, αλλά μια εξαιρετική πολιτιστική στάση. Καλύτερη το πρωί για τοπικά προϊόντα, σνακ και ατμόσφαιρα."
+          },
+          {
+            "tip": "Μοντέρνα αρχιτεκτονική, φωτογραφίες, παραθαλάσσιος περίπατος. Ένα από τα πιο εμβληματικά σύγχρονα ορόσημα του Santa Cruz, σχεδιασμένο από τον Santiago Calatrava. Εντυπωσιακό για φωτογραφίες κατά μήκος της παραλίας."
+          },
+          {
+            "tip": "Βοτανικός περίπατος, θέα στη θάλασσα, ασυνήθιστος κήπος. Ένας πολύ καλός γραφικός περίπατος μέσα στην πόλη. Ένας βοτανικός κήπος 12 εκταρίων που ειδικεύεται στους φοίνικες."
+          },
+          {
+            "tip": "Αίσθηση χωριού, θαλασσινά, συνδυασμός με Las Teresitas. Μικρό, απλό και τοπικό. Ιδανικό να συνδυαστεί με την παραλία Las Teresitas ή μια διαδρομή στην Anaga."
+          },
+          {
+            "tip": "Η καλύτερη θέα στην παραλία, φωτογραφίες, γραφική στάση. Μία από τις πιο εύκολες στάσεις με εντυπωσιακή θέα από το σπίτι. Καλύτερα να συνδυαστεί με την Las Teresitas ή το San Andrés."
+          },
+          {
+            "tip": "Πόλη μνημείο της UNESCO, αποικιακά σοκάκια, αρχιτεκτονική. Μία από τις καλύτερες πολιτιστικές εκδρομές από το Santa Cruz. Το ιστορικό κέντρο της La Laguna είναι Μνημείο Παγκόσμιας Κληρονομιάς της UNESCO από το 1999."
+          },
+          {
+            "tip": "Βουνά, δάσος δάφνης, σημεία θέας, χωριά. Η καλύτερη εκδρομή για φύση και τοπίο από αυτή την τοποθεσία. Η Anaga είναι προστατευόμενο αγροτικό πάρκο και, από το 2015, Απόθεμα Βιόσφαιρας της UNESCO."
+          },
+          {
+            "tip": "Περίπατοι στο δάσος, πληροφορίες για την Anaga, σημεία θέας. Το καλύτερο σημείο εκκίνησης για περιπάτους στο δάσος της Anaga, με πληροφορίες και συμβουλές για διαδρομές στο Αγροτικό Πάρκο."
+          },
+          {
+            "tip": "Ιστορικό χωριό, τοπίο της Anaga, ορεινός δρόμος. Ένα όμορφο παλιό χωριό στην Anaga με εντυπωσιακά τοπία. Ιδανικό για μια γραφική διαδρομή και μια πιο παραδοσιακή αίσθηση."
+          },
+          {
+            "tip": "Θέα στον ωκεανό, μαύρη άμμος, μεσημεριανό με θαλασσινά. Πιο γραφικό παρά ιστορικό, αλλά εξαιρετικό για μια ημερήσια εκδρομή στην Anaga. Συνδυάστε με Taganana, Almáciga και Benijo."
+          },
+          {
+            "tip": "Ηλιοβασίλεμα, άγρια ακτή, φωτογραφία. Ένα από τα πιο εντυπωσιακά γραφικά σημεία της Τενερίφης. Καλύτερο για θέα και φωτογραφίες παρά για εύκολο κολύμπι."
+          }
+        ]
       },
       {
-        "category": "Αξιοθέατα & Εκδρομές 📸"
+        "category": "Αξιοθέατα & Εκδρομές 📸",
+        "items": [
+          {
+            "tip": "Πιο κοντινό σημείο στη θάλασσα, γρήγορη βουτιά, τοπική αίσθηση. Πολύ κοντά και πρακτικό. Πιο τοπικό παρά καρτ ποστάλ όμορφο, αλλά χρήσιμο για μια γρήγορη στάση στον ωκεανό."
+          },
+          {
+            "tip": "Αστικός περίπατος, καφετέριες, τοπική ζωή. Ένας ευχάριστος περίπατος στην πόλη, καλός αν θέλετε κάτι εύκολο χωρίς να φύγετε από το Santa Cruz."
+          },
+          {
+            "tip": "Πράσινος περίπατος, σκιά, σιντριβάνια, γλυπτά. Ένας από τους ωραιότερους εύκολους περιπάτους στο Santa Cruz, ειδικά όταν ο καιρός είναι ζεστός."
+          },
+          {
+            "tip": "Περιήγηση στην πόλη, ψώνια, καφετέριες. Ένα καλό σημείο εκκίνησης για έναν περίπατο στην πόλη του Santa Cruz. Εύκολο να συνδυαστεί με τα παλιά σοκάκια, την περιοχή του λιμανιού και την Mercado."
+          },
+          {
+            "tip": "Σύντομη στάση ιστορίας, κέντρο πόλης. Μικρό αλλά ενδιαφέρον αν επισκέπτεστε ήδη την Plaza de España. Καλύτερο ως γρήγορη προσθήκη παρά ως αυτόνομη εκδρομή."
+          },
+          {
+            "tip": "Τοπικό φαγητό, αγορά, πρωινή επίσκεψη. Μια εξαιρετική πολιτιστική στάση για φαγητό. Καλύτερη το πρωί για φρούτα, καφέ, τοπικά προϊόντα και ατμόσφαιρα."
+          },
+          {
+            "tip": "Αρχιτεκτονική, φωτογραφίες, παραθαλάσσιος περίπατος. Ένα από τα πιο εμβληματικά σύγχρονα ορόσημα του Santa Cruz, σχεδιασμένο από τον Santiago Calatrava. Καλό να συνδυαστεί με το Palmetum και την παραλιακή."
+          },
+          {
+            "tip": "Βοτανικός κήπος, θέα στη θάλασσα, χαλαρός περίπατος. Ένας βοτανικός κήπος 12 εκταρίων που ειδικεύεται στους φοίνικες, ένα από τα καλύτερα ήσυχα αξιοθέατα μέσα στο Santa Cruz."
+          },
+          {
+            "tip": "Θαλασσινά, αίσθηση χωριού, συνδυασμός με Las Teresitas. Ένα μικρό τοπικό χωριό, καλύτερα να συνδυαστεί με την παραλία Las Teresitas και το Mirador."
+          },
+          {
+            "tip": "Εύκολη ημέρα στην παραλία, οικογένειες, κολύμπι. Η πιο εύκολη εκδρομή σε παραλία από αυτή την τοποθεσία. Χρυσή άμμος, ήρεμα νερά, εγκαταστάσεις και εστιατόρια κοντά."
+          },
+          {
+            "tip": "Σημείο θέας, φωτογραφίες, πανόραμα παραλίας. Μία από τις πιο εύκολες εντυπωσιακές θέες από το σπίτι. Καλύτερα πριν ή μετά την Las Teresitas."
+          },
+          {
+            "tip": "Πόλη μνημείο της UNESCO, καφετέριες, αρχιτεκτονική. Μία από τις καλύτερες πολιτιστικές εκδρομές από το Santa Cruz. Ιδανική για μια ημιήμερη εκδρομή με μεσημεριανό ή καφέ."
+          },
+          {
+            "tip": "Θαλάσσιες πισίνες, οικογένειες, παρακολούθηση κυμάτων. Μια εξαιρετική εναλλακτική στο κολύμπι σε παραλία, ειδικά όταν θέλετε θαλασσινό νερό σε ένα πιο προστατευμένο σημείο."
+          },
+          {
+            "tip": "Βουνά, σημεία θέας, χωριά, δάσος δάφνης. Η καλύτερη εκδρομή στη φύση από αυτή την τοποθεσία. Η Anaga είναι προστατευόμενο αγροτικό πάρκο και Απόθεμα Βιόσφαιρας της UNESCO."
+          },
+          {
+            "tip": "Εντυπωσιακή ακτή, χωριά, μεσημεριανό, φωτογραφίες. Μία από τις καλύτερες ημερήσιες εκδρομές από το Santa Cruz: ορεινοί δρόμοι, παραλίες με μαύρη άμμο, θέα στον ωκεανό και παραδοσιακό φαγητό."
+          },
+          {
+            "tip": "Περίπατοι στο δάσος, σημεία θέας, πληροφορίες για την Anaga. Το καλύτερο σημείο εκκίνησης για εύκολους περιπάτους στο δάσος της Anaga και συμβουλές για διαδρομές."
+          },
+          {
+            "tip": "Παραθαλάσσιος περίπατος, φυσικές πισίνες, ηλιοβασίλεμα. Πολύ καλό για μια χαλαρή εκδρομή στη βόρεια ακτή. Συνδυάστε με την Bajamar ή την La Laguna."
+          },
+          {
+            "tip": "Οικογένειες, αξιοθέατο για ολόκληρη ημέρα. Ένα από τα μεγαλύτερα τουριστικά αξιοθέατα της Τενερίφης. Ιδανικό για οικογένειες ή επισκέπτες που απολαμβάνουν τα πάρκα ζώων."
+          },
+          {
+            "tip": "Ημερήσια εκδρομή στην πόλη, θαλάσσιες πισίνες, εστιατόρια. Μια κλασική ημερήσια εκδρομή στη βόρεια Τενερίφη. Το Lago Martiánez είναι ένα σύμπλεγμα πισινών με θαλασσινό νερό σχεδιασμένο από τον César Manrique."
+          },
+          {
+            "tip": "Παραδοσιακή αρχιτεκτονική, παλιά πόλη, θέα. Μια όμορφη ιστορική πόλη, καλή να συνδυαστεί με το Puerto de la Cruz ή την παραλία El Bollullo."
+          },
+          {
+            "tip": "Ηφαιστειακά τοπία, σημεία θέας, ημερήσια εκδρομή. Η μεγαλύτερη εκδρομή που πρέπει οπωσδήποτε να κάνετε στην Τενερίφη. Περιλαμβάνει το όρος Teide, την υψηλότερη κορυφή της Ισπανίας στα 3.718 μ., και Μνημείο Παγκόσμιας Κληρονομιάς της UNESCO."
+          },
+          {
+            "tip": "Ορεινό χωριό, εντυπωσιακός δρόμος, φωτογραφίες. Όμορφο αλλά μια μεγάλη διαδρομή από το Santa Cruz. Καλύτερο για μια ολοήμερη εκδρομή στο νησί, ιδανικά με το Teide ή την περιοχή Buenavista."
+          },
+          {
+            "tip": "Νεροτσουλήθρες, οικογένειες, συναρπαστικά παιχνίδια. Μακριά από αυτή την τοποθεσία, αλλά ένα από τα πιο διάσημα αξιοθέατα της Τενερίφης. Καλύτερο ως ολοήμερο σχέδιο, με τυπική επίσκεψη γύρω στις 4-6 ώρες."
+          }
+        ]
       },
       {
-        "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️"
+        "category": "Πεζοπορία & Μονοπάτια Φύσης ⛰️",
+        "items": [
+          {
+            "tip": "Εύκολη | Πιο κοντινός περίπατος στη θάλασσα, γρήγορη τοπική βόλτα. Η καλύτερη ξέγνοιαστη επιλογή από το σπίτι. Πιο αστικός και τοπικός παρά άγρια φύση, αλλά χρήσιμος για μια γρήγορη θέα στη θάλασσα."
+          },
+          {
+            "tip": "Εύκολη | Περίπατος στην πόλη, σκιά, καφετέριες. Ένας χαλαρός αστικός περίπατος, καλός όταν δεν έχετε διάθεση για κανονική πεζοπορία."
+          },
+          {
+            "tip": "Εύκολη | Πράσινος περίπατος, σκιά, γλυπτά. Ο καλύτερος εύκολος πράσινος περίπατος μέσα στο Santa Cruz. Υπέροχος το πρωί ή αργά το απόγευμα."
+          },
+          {
+            "tip": "Εύκολη | Βοτανικός περίπατος, θέα στη θάλασσα, φυτά. Ένας πολύ καλός γραφικός περίπατος χωρίς να φύγετε από την πόλη. Ένας βοτανικός κήπος 12 εκταρίων αφιερωμένος στους φοίνικες."
+          },
+          {
+            "tip": "Εύκολη | Φωτογραφίες, πανόραμα παραλίας, σύντομος περίπατος. Δεν είναι κανονική πεζοπορία, αλλά ένα από τα πιο εύκολα γραφικά σημεία θέας από το σπίτι. Συνδυάστε με την Las Teresitas ή το San Andrés."
+          },
+          {
+            "tip": "Εύκολη έως μέτρια | Δάσος, πιο δροσερός αέρας, τοπική απόδραση. Καλή επιλογή όταν θέλετε πρασινάδα χωρίς να οδηγήσετε βαθιά μέσα στην Anaga. Καλύτερη τις ζεστές ημέρες ή όταν η ακτή είναι πολύ εκτεθειμένη."
+          },
+          {
+            "tip": "Εύκολη έως μέτρια | Φυσικές πισίνες, θέα στον ωκεανό, ηλιοβασίλεμα. Ένας εξαιρετικός περίπατος στη βόρεια ακτή με στάσεις σε πισίνες κολύμβησης. Καλύτερος για παραθαλάσσιο τοπίο παρά για πεζοπορία στο δάσος."
+          },
+          {
+            "tip": "Εύκολη | Δάσος δάφνης, οικογένειες, σύντομος περίπατος στη φύση. Ένας από τους καλύτερους περιπάτους της Anaga για αρχάριους: μια κυκλική διαδρομή 1 χλμ. κυρίως επίπεδη, κατάλληλη για παιδιά και ενήλικες."
+          },
+          {
+            "tip": "Εύκολη έως μέτρια | Δάσος της Anaga, συμβουλές διαδρομών, σημεία θέας. Το καλύτερο σημείο εκκίνησης για περιπάτους στο δάσος της Anaga. Ιδανικό για επισκέπτες που θέλουν καθοδήγηση πριν επιλέξουν διαδρομή."
+          },
+          {
+            "tip": "Εύκολη έως μέτρια | Εντυπωσιακή ακτή, περίπατος στο χωριό, μεσημεριανό. Πιο γραφικός περίπατος παρά κλασική πεζοπορία. Υπέροχος με μεσημεριανό κοντά στο Roque de las Bodegas και στάσεις για φωτογραφίες προς Almáciga ή Benijo."
+          },
+          {
+            "tip": "Εύκολη έως μέτρια | Θέα στην Anaga, φωτογραφίες, ομιχλώδες δάσος. Μια εξαιρετική γραφική στάση στην Anaga. Καλύτερα να συνδυαστεί με την Cruz del Carmen και τους περιπάτους στο δάσος δάφνης."
+          },
+          {
+            "tip": "Μέτρια | Μαγικό δάσος δάφνης, βρυώδες τοπίο της Anaga. Μία από τις πιο ξεχωριστές πεζοπορίες σε δάσος στην Anaga: σημειώστε ότι απαιτείται άδεια. Κάντε κράτηση εκ των προτέρων μέσω του επίσημου συστήματος αδειών της Τενερίφης."
+          },
+          {
+            "tip": "Μέτρια | Ηλιοβασίλεμα, άγρια ακτογραμμή, φωτογραφίες. Εξαιρετική για εντυπωσιακό παραθαλάσσιο τοπίο. Σκαλιά και ανώμαλα μονοπάτια, οπότε καλύτερα με κατάλληλα παπούτσια. Αποφύγετε το επικίνδυνο κολύμπι όταν η θάλασσα είναι ταραγμένη."
+          },
+          {
+            "tip": "Μέτρια | Περίπατος σε χαράδρα, άγρια παραλία, περιπέτεια. Μια όμορφη πεζοπορία στην Anaga μέσα από μια χαράδρα προς μια απομονωμένη παραλία. Το κολύμπι στο Tamadite μπορεί να είναι επικίνδυνο, οπότε αντιμετωπίστε το ως προορισμό πεζοπορίας παρά ως ημέρα στην παραλία."
+          },
+          {
+            "tip": "Δύσκολη | Σοβαροί πεζοπόροι, θέα, χωριά της Anaga. Μια απαιτητική διαδρομή με απότομα τμήματα, που κατεβαίνει προς το Tamadite πριν από μια απότομη ανάβαση προς την Taganana. Όχι για τους ασθενικούς, αλλά εντυπωσιακή."
+          },
+          {
+            "tip": "Μέτρια | Ηφαιστειακοί βραχώδεις σχηματισμοί, θέα στο Teide. Ένας από τους καλύτερους προσβάσιμους περιπάτους στο Teide. Πιο διαχειρίσιμος από την πεζοπορία προς την κορυφή και πολύ γραφικός."
+          },
+          {
+            "tip": "Εύκολη έως δύσκολη | Ηφαιστειακά τοπία, σημεία θέας, ημερήσια εκδρομή. Η καλύτερη ολοήμερη εκδρομή πεζοπορίας στο νησί. Το όρος Teide είναι η υψηλότερη κορυφή της Ισπανίας στα 3.718 μ. και Μνημείο Παγκόσμιας Κληρονομιάς της UNESCO."
+          }
+        ]
       },
       {
-        "category": "Φαγητό & Ποτό"
+        "category": "Φαγητό & Ποτό",
+        "items": [
+          {
+            "tip": "Γρήγορος καφές, απλό τοπικό φαγητό, πιο κοντινή επιλογή. Καλύτερη για την ευκολία παρά ως προορισμός για φαγητό. Βολική όταν θέλετε κάτι πολύ κοντά."
+          },
+          {
+            "tip": "Brunch, καφές, χαλαρό φαγητό την ημέρα. Μια χρήσιμη επιλογή για κάτι εύκολο πριν την περιήγηση. Η σκηνή της πόλης έχει πολλά μέρη για brunch και καφέ μαζί με tapas και θαλασσινά."
+          },
+          {
+            "tip": "Βραδινά ποτά, tapas, ζωντανή ατμόσφαιρα. Μια εξαιρετική περιοχή για δείπνο και ποτά στο κεντρικό Santa Cruz. Καλύτερη όταν θέλετε μια βραδιά στην πόλη παρά ένα γεύμα στην παραλία."
+          },
+          {
+            "tip": "Tapas, χαλαρό δείπνο, περιοχή La Noria. Συγκαταλέγεται στα καλύτερα εστιατόρια γύρω από την La Noria, με υψηλές βαθμολογίες."
+          },
+          {
+            "tip": "Κρασί, πιάτα για μοίρασμα, ατμόσφαιρα παλιάς πόλης. Υπέροχο για μια χαλαρή βραδιά κοντά στην εκκλησία και τα παλιά σοκάκια, με υπαίθρια καθίσματα, κρασί και πιάτα για μοίρασμα."
+          },
+          {
+            "tip": "Πρωινό στην αγορά, σνακ, τοπικά προϊόντα, χαλαρό φαγητό. Μία από τις καλύτερες στάσεις γαστρονομικής κουλτούρας στο Santa Cruz, με πάγκους φρέσκων προϊόντων και ανεπιτήδευτα μπαρ εστιατόρια."
+          },
+          {
+            "tip": "Σύγχρονη κανάρια κουζίνα, πιο εκλεπτυσμένο δείπνο. Μια πιο δυνατή επιλογή εστιατορίου κοντά στην αγορά, που περιγράφεται από τον Michelin ως μια διεύθυνση που δεν πρέπει να χάσετε με ανανεωμένη παραδοσιακή κουζίνα."
+          },
+          {
+            "tip": "Ιαπωνικά και περουβιανά, ξεχωριστό δείπνο. Μια πιο επιμελημένη επιλογή κοντά στην αγορά, ανάμεσα στα εστιατόρια με υψηλές βαθμολογίες κοντά στην Mercado."
+          },
+          {
+            "tip": "Tacos, κοκτέιλ, χαλαρό δείπνο. Καλό αν θέλετε κάτι διαφορετικό από την κανάρια κουζίνα, ανάμεσα στα κορυφαία μέρη κοντά στην Mercado και την La Noria."
+          },
+          {
+            "tip": "Φρέσκο ψάρι, χαλαρό τοπικό μεσημεριανό, συνδυασμός με Las Teresitas. Μία από τις καλύτερες κοντινές περιοχές για φαγητό. Υπέροχη μετά την παραλία Las Teresitas ή πριν οδηγήσετε προς την Anaga."
+          },
+          {
+            "tip": "Ψάρι ημέρας, θαλασσινά, τοπικό μεσημεριανό. Μια δυνατή επιλογή για θαλασσινά κοντά στην Las Teresitas, που συχνά επαινείται για το ψάρι ημέρας και το χταπόδι."
+          },
+          {
+            "tip": "Θαλασσινά, μεσογειακό φαγητό, μεσημεριανό για ημέρα στην παραλία. Μια αξιόπιστη επιλογή κοντά στην Las Teresitas, ανάμεσα στα πιο δημοφιλή εστιατόρια του San Andrés."
+          },
+          {
+            "tip": "Χαλαρό ισπανικό φαγητό, θαλασσινά, καλή σχέση ποιότητας τιμής. Μια καλή μικρότερη τοπική επιλογή, με υψηλή βαθμολογία ανάμεσα στα φθηνότερα φαγητά κοντά στην Las Teresitas."
+          },
+          {
+            "tip": "Χαλαρά θαλασσινά, απλό τοπικό γεύμα. Μια πρακτική, χαλαρή επιλογή κοντά στην Las Teresitas, με βαθμολογία 8.5/10 για φαγητό, εξυπηρέτηση και ατμόσφαιρα."
+          },
+          {
+            "tip": "Μεσημεριανό σε ιστορική πόλη, καφετέριες, δείπνο. Η καλύτερη πολιτιστική εκδρομή για φαγητό από το Santa Cruz. Υπέροχη να συνδυαστεί με το ιστορικό κέντρο της UNESCO και έναν χαλαρό περίπατο."
+          },
+          {
+            "tip": "Τοπικό κανάριο φαγητό, κρασί, ρουστίκ εμπειρία. Υπέροχα για περιπετειώδεις επισκέπτες φαγητού. Τα guachinches είναι λιτά, οικονομικά μέρη που σερβίρουν απλά σπιτικά γεύματα, κυρίως στον βορρά και συχνά εποχιακά."
+          },
+          {
+            "tip": "Θέα στον ωκεανό, χαλαρό μεσημεριανό, ημέρα στις φυσικές πισίνες. Μια καλή περιοχή για φαγητό αν επισκεφθείτε τις φυσικές πισίνες. Λειτουργεί καλά ως μια χαλαρή ημερήσια εκδρομή στη βόρεια ακτή."
+          },
+          {
+            "tip": "Γραφικό μεσημεριανό, ψάρι, ημερήσια εκδρομή στην Anaga. Η καλύτερη στάση για φαγητό κατά τη διάρκεια μιας εκδρομής στην Anaga. Προτείνεται για μεσημεριανό μετά την Taganana, την Almáciga ή το Benijo."
+          }
+        ]
       },
       {
-        "category": "Ψώνια"
+        "category": "Ψώνια",
+        "items": [
+          {
+            "tip": "Βασικά είδη, ποτά, σνακ, γρήγορες ανάγκες. Καλύτερα για την ευκολία. Χρησιμοποιήστε το για νερό, μικρά ψώνια και πράγματα της τελευταίας στιγμής παρά για κανονικά ψώνια."
+          },
+          {
+            "tip": "Μόδα, παπούτσια, καλλυντικά, ψώνια στην πόλη. Ο κύριος εμπορικός δρόμος του Santa Cruz, που διασχίζει το κέντρο με διεθνείς αλυσίδες, καταστήματα μόδας, μπουτίκ, καφετέριες και παράπλευρα σοκάκια που αξίζει να εξερευνήσετε."
+          },
+          {
+            "tip": "Ψώνια στο κέντρο της πόλης, καφετέριες, συνδυασμός με περιήγηση. Ένα καλό σημείο εκκίνησης για έναν χαλαρό περίπατο για ψώνια, που οδηγεί στην Calle del Castillo, την Imeldo Serís και την Valentín Sanz."
+          },
+          {
+            "tip": "Μπουτίκ, τοπικά καταστήματα, καφετέριες. Καλύτερα αν θέλετε να περιπλανηθείτε πέρα από τον κεντρικό εμπορικό δρόμο. Τα σοκάκια γύρω από την Calle Castillo και την Plaza del Príncipe συνδυάζουν ωραία τα ψώνια με στάσεις για φαγητό."
+          },
+          {
+            "tip": "Φρέσκα προϊόντα, τοπικό φαγητό, λουλούδια, μικρά δώρα. Η καλύτερη τοπική αγορά του Santa Cruz, γνωστή για φρέσκα φρούτα, λαχανικά, ψάρι, κρέας και λουλούδια. Το κτίριο του 1944 έχει υπέροχες αψίδες και αυλές μαυριτανικού στιλ."
+          },
+          {
+            "tip": "Άνετα ψώνια, καφετέριες, εύκολη στάθμευση. Ένα επιμελημένο εμπορικό κέντρο στο κεντρικό Santa Cruz, ένα βολικό σημείο αναφοράς με στάθμευση και τακτικές εκδηλώσεις."
+          },
+          {
+            "tip": "Μεγάλο εμπορικό κέντρο, Primark, σινεμά, χώρος εστίασης. Το καλύτερο εμπορικό κέντρο του Santa Cruz, με σχεδόν 80 καταστήματα, 15 αίθουσες κινηματογράφου, χώρο εστίασης στην ταράτσα και το μοναδικό Primark του νησιού."
+          },
+          {
+            "tip": "Βασικά για ημέρα στην παραλία, σνακ, απλά θελήματα. Χρήσιμα πριν ή μετά την Las Teresitas. Όχι προορισμός για ψώνια, αλλά πρακτικά για ποτά, σνακ παραλίας ή μικρές ανάγκες."
+          },
+          {
+            "tip": "Υπεραγορά, μεγάλα ψώνια, πρακτικά θελήματα. Καλύτερο για μεγάλα ψώνια τροφίμων ή πρακτικά θελήματα με αυτοκίνητο, με 100+ καταστήματα, ένα μεγάλο Carrefour και πάνω από 2.000 δωρεάν θέσεις στάθμευσης."
+          },
+          {
+            "tip": "Μπουτίκ, δώρα, καφετέριες, ιστορικά σοκάκια. Η καλύτερη πολιτιστική εκδρομή για ψώνια. Η La Laguna είναι πόλη Παγκόσμιας Κληρονομιάς της UNESCO, ιδανική για συνδυασμό ψωνιών, καφέ και ενός ιστορικού περιπάτου."
+          },
+          {
+            "tip": "Φρέσκα προϊόντα, λουλούδια, τοπικό φαγητό. Μια καλή τοπική αγορά στο ιστορικό κέντρο, γνωστή για φρέσκα προϊόντα, λουλούδια και τοπική γαστρονομία."
+          },
+          {
+            "tip": "Τοπικό κρασί, τυρί, κανάρια προϊόντα. Καλό αν θέλετε τοπικά προϊόντα διατροφής παρά κανονικά ψώνια. Συνδυάστε με ένα μεσημεριανό σε guachinche ή μια διαδρομή στη βόρεια ακτή."
+          },
+          {
+            "tip": "Ψώνια σε ημερήσια εκδρομή, σουβενίρ, καφετέριες. Ωραία αν επισκέπτεστε ήδη το Puerto de la Cruz, το Lago Martiánez ή την La Orotava. Αξίζει ως μέρος μιας ολοήμερης εκδρομής στη βόρεια ακτή παρά μόνο για ψώνια."
+          },
+          {
+            "tip": "Παραδοσιακή πόλη, χειροτεχνίες, δώρα. Καλύτερα για την ατμόσφαιρα και τα τοπικά δώρα παρά για κανονικά ψώνια. Λειτουργεί καλά με το Puerto de la Cruz ή την παραλία El Bollullo."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -785,22 +1730,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Plages 🏝️"
+        "category": "Plages 🏝️",
+        "items": [
+          {
+            "tip": "Baignade la plus proche, plongeon rapide, ambiance locale. L'option la plus proche : une petite plage urbaine de galets aux eaux calmes et d'accès facile. Plutôt pratique que jolie, mais idéale pour un plongeon rapide."
+          },
+          {
+            "tip": "La meilleure journée plage facile, familles, baignade. Sable doré, équipements complets, restaurants et eau calme protégée par une digue. La recommandation la plus sûre depuis cet endroit."
+          },
+          {
+            "tip": "Sable noir, plage plus tranquille, joyau caché. Une plage de sable noir plus sauvage près de Las Teresitas. Bien quand vous voulez quelque chose de moins lisse et moins fréquenté, mais la mer peut être plus agitée."
+          },
+          {
+            "tip": "Village tranquille, côte pittoresque, joyau caché. Une belle escapade locale au-delà de San Andrés. Mieux pour une visite côtière pittoresque que pour une journée plage de sable classique."
+          },
+          {
+            "tip": "Plage isolée, aventure, nature sauvage. L'un des véritables joyaux cachés d'Anaga. Pas pratique pour une visite occasionnelle, mais absolument incroyable pour les voyageurs aventureux."
+          },
+          {
+            "tip": "Route pittoresque, surf, restaurants à proximité. Une belle étape d'une excursion à Anaga : sable noir magnifique et paysage montagneux spectaculaire, avec des restaurants à proximité. Mieux pour le paysage et la nourriture que pour une baignade calme."
+          },
+          {
+            "tip": "Sable noir sauvage, surfeurs, nature. Magnifique et spectaculaire, mais pas la plage de baignade la plus facile. Idéale pour les voyageurs qui aiment les côtes sauvages et ne s'attendent pas à des transats."
+          },
+          {
+            "tip": "Coucher de soleil, photographie, paysage sauvage d'Anaga. L'une des plus belles plages de Tenerife pour les photos et les couchers de soleil : sauvage, sable noir, avec des conditions océaniques fortes. Vérifiez l'état de la mer avant d'y aller."
+          },
+          {
+            "tip": "Piscines marines sûres, familles, observation des vagues. Pas une plage mais ça vaut vraiment le coup. Idéal quand la côte nord est spectaculaire et que vous voulez une expérience océanique plus sûre."
+          },
+          {
+            "tip": "Piscines naturelles, promenade côtière, coucher de soleil. Une excellente excursion côtière à la journée : plus axée sur les piscines, la côte de lave et les vues splendides que sur le sable."
+          },
+          {
+            "tip": "Sable noir, plage locale, ambiance côte nord. Une belle alternative sur la côte nord, bien pour les voyageurs qui explorent Tacoronte ou la région viticole."
+          },
+          {
+            "tip": "Magnifique sable noir, classique de la côte nord. L'une des plus jolies plages de sable noir du nord de Tenerife. Ça vaut le coup si vous visitez déjà La Orotava ou Puerto de la Cruz."
+          },
+          {
+            "tip": "Excursion à la journée à Puerto de la Cruz. Normalement célèbre et pittoresque, mais des fermetures liées à la qualité de l'eau affectent Playa Jardín depuis 2024. Vérifiez l'état actuel de la baignade avant d'y aller."
+          }
+        ]
       },
       {
-        "category": "Sites historiques & Promenades panoramiques 🏰"
+        "category": "Sites historiques & Promenades panoramiques 🏰",
+        "items": [
+          {
+            "tip": "Promenade en bord de mer la plus proche, ambiance locale, balade rapide. La promenade côtière la plus facile depuis la maison. Plutôt pratique que soignée, mais très locale et bien pour une vue rapide sur la mer."
+          },
+          {
+            "tip": "Promenade en ville, arbres, cafés, vie locale. Une agréable promenade urbaine à travers l'un des principaux boulevards verts de Santa Cruz. Charmante pour une matinée détendue ou en fin d'après-midi."
+          },
+          {
+            "tip": "Promenade ombragée, plantes, fontaines, sculptures. L'une des meilleures promenades pittoresques faciles de la ville, parfaite quand vous voulez de la verdure sans quitter Santa Cruz."
+          },
+          {
+            "tip": "Histoire de la ville, place centrale, visite facile. Un excellent point de départ pour explorer le centre de Santa Cruz. Le centre d'interprétation souterrain conserve les vestiges de l'ancien château, capitale de Tenerife depuis 1833."
+          },
+          {
+            "tip": "Vieilles rues, église, bars, promenade locale en soirée. Charmant pour une balade historique en ville. L'église et les rues voisines de La Noria comptent parmi les parties les plus pittoresques du vieux Santa Cruz."
+          },
+          {
+            "tip": "Marché local, nourriture, architecture, promenade matinale. Pas un monument classique, mais une excellente étape culturelle. Le mieux le matin pour les produits locaux, les en-cas et l'ambiance."
+          },
+          {
+            "tip": "Architecture moderne, photos, promenade en bord de mer. L'un des monuments modernes les plus emblématiques de Santa Cruz, conçu par Santiago Calatrava. Superbe pour les photos le long du front de mer."
+          },
+          {
+            "tip": "Promenade botanique, vues sur la mer, jardin insolite. Une très belle promenade pittoresque à l'intérieur de la ville. Un jardin botanique de 12 hectares spécialisé dans les palmiers."
+          },
+          {
+            "tip": "Ambiance de village, fruits de mer, combiné avec Las Teresitas. Petit, simple et local. Idéal à combiner avec la plage de Las Teresitas ou une virée dans Anaga."
+          },
+          {
+            "tip": "Meilleur point de vue sur la plage, photos, étape pittoresque. L'une des étapes « vue à couper le souffle » les plus faciles depuis la maison. Mieux combiné avec Las Teresitas ou San Andrés."
+          },
+          {
+            "tip": "Ville UNESCO, rues coloniales, architecture. L'une des meilleures excursions culturelles depuis Santa Cruz. Le centre historique de La Laguna est inscrit au patrimoine mondial de l'UNESCO depuis 1999."
+          },
+          {
+            "tip": "Montagnes, forêt de lauriers, points de vue, villages. La meilleure excursion nature et paysage depuis cet endroit. Anaga est un parc rural protégé et, depuis 2015, une réserve de biosphère de l'UNESCO."
+          },
+          {
+            "tip": "Promenades en forêt, informations sur Anaga, points de vue. Le meilleur point de départ pour les promenades en forêt d'Anaga, avec des informations et des conseils sur les itinéraires du parc rural."
+          },
+          {
+            "tip": "Village historique, paysage d'Anaga, route de montagne. Un beau vieux village d'Anaga aux paysages spectaculaires. Idéal pour une route pittoresque et une ambiance plus traditionnelle."
+          },
+          {
+            "tip": "Vues sur l'océan, sable noir, déjeuner de fruits de mer. Plus pittoresque qu'historique, mais excellent pour une excursion à la journée à Anaga. À combiner avec Taganana, Almáciga et Benijo."
+          },
+          {
+            "tip": "Coucher de soleil, côte sauvage, photographie. L'un des endroits pittoresques les plus spectaculaires de Tenerife. Mieux pour les vues et les photos que pour une baignade facile."
+          }
+        ]
       },
       {
-        "category": "Attractions & Excursions 📸"
+        "category": "Attractions & Excursions 📸",
+        "items": [
+          {
+            "tip": "Coin de mer le plus proche, plongeon rapide, ambiance locale. Très proche et pratique. Plus local que joli comme une carte postale, mais utile pour un arrêt rapide au bord de l'océan."
+          },
+          {
+            "tip": "Promenade urbaine, cafés, vie locale. Une agréable promenade en ville, bien si vous voulez quelque chose de facile sans quitter Santa Cruz."
+          },
+          {
+            "tip": "Promenade verte, ombre, fontaines, sculptures. L'une des plus belles promenades faciles de Santa Cruz, surtout quand il fait chaud."
+          },
+          {
+            "tip": "Visite de la ville, shopping, cafés. Un bon point de départ pour une promenade en ville à Santa Cruz. Facile à combiner avec les vieilles rues, la zone du port et le Mercado."
+          },
+          {
+            "tip": "Courte étape historique, centre-ville. Petit mais intéressant si vous visitez déjà la Plaza de España. Le mieux comme petit complément plutôt que comme sortie à part entière."
+          },
+          {
+            "tip": "Nourriture locale, marché, visite matinale. Une excellente étape culturelle et gastronomique. Le mieux le matin pour les fruits, le café, les produits locaux et l'ambiance."
+          },
+          {
+            "tip": "Architecture, photos, promenade en bord de mer. L'un des monuments modernes les plus emblématiques de Santa Cruz, conçu par Santiago Calatrava. Bien à combiner avec le Palmetum et le front de mer."
+          },
+          {
+            "tip": "Jardin botanique, vues sur la mer, promenade détendue. Un jardin botanique de 12 hectares spécialisé dans les palmiers, l'une des meilleures attractions tranquilles à l'intérieur de Santa Cruz."
+          },
+          {
+            "tip": "Fruits de mer, ambiance de village, combiné avec Las Teresitas. Un petit village local, le mieux combiné avec la plage de Las Teresitas et le Mirador."
+          },
+          {
+            "tip": "Journée plage facile, familles, baignade. L'excursion plage la plus facile depuis cet endroit. Sable doré, eau calme, équipements et restaurants à proximité."
+          },
+          {
+            "tip": "Point de vue, photos, panorama sur la plage. L'une des vues à couper le souffle les plus faciles depuis la maison. Le mieux avant ou après Las Teresitas."
+          },
+          {
+            "tip": "Ville UNESCO, cafés, architecture. L'une des meilleures excursions culturelles depuis Santa Cruz. Idéale pour une excursion d'une demi-journée avec déjeuner ou café."
+          },
+          {
+            "tip": "Piscines océaniques, familles, observation des vagues. Une excellente alternative à la baignade en plage, surtout quand vous voulez de l'eau de mer dans un endroit plus protégé."
+          },
+          {
+            "tip": "Montagnes, points de vue, villages, forêt de lauriers. La meilleure excursion nature depuis cet endroit. Anaga est un parc rural protégé et une réserve de biosphère de l'UNESCO."
+          },
+          {
+            "tip": "Côte spectaculaire, villages, déjeuner, photos. L'une des meilleures excursions à la journée depuis Santa Cruz : routes de montagne, plages de sable noir, vues sur l'océan et cuisine traditionnelle."
+          },
+          {
+            "tip": "Promenades en forêt, points de vue, infos Anaga. Le meilleur point de départ pour des promenades faciles en forêt d'Anaga et des conseils d'itinéraire."
+          },
+          {
+            "tip": "Promenade côtière, piscines naturelles, coucher de soleil. Très bien pour une excursion détendue sur la côte nord. À combiner avec Bajamar ou La Laguna."
+          },
+          {
+            "tip": "Familles, attraction d'une journée entière. L'une des plus grandes attractions touristiques de Tenerife. Le mieux pour les familles ou les voyageurs qui aiment les parcs animaliers."
+          },
+          {
+            "tip": "Excursion en ville à la journée, piscines marines, restaurants. Une excursion classique d'une journée dans le nord de Tenerife. Lago Martiánez est un complexe de piscines d'eau de mer conçu par César Manrique."
+          },
+          {
+            "tip": "Architecture traditionnelle, vieille ville, vues. Une belle ville historique, bien à combiner avec Puerto de la Cruz ou la plage d'El Bollullo."
+          },
+          {
+            "tip": "Paysages volcaniques, points de vue, excursion d'une journée entière. La plus grande excursion incontournable de Tenerife. Comprend le mont Teide, le plus haut sommet d'Espagne à 3 718 m, et un site du patrimoine mondial de l'UNESCO."
+          },
+          {
+            "tip": "Village de montagne, route spectaculaire, photos. Magnifique mais loin de Santa Cruz en voiture. Le mieux pour une excursion d'une journée entière sur l'île, idéalement avec le Teide ou la région de Buenavista."
+          },
+          {
+            "tip": "Parc aquatique, familles, sensations fortes. Loin de cet endroit, mais l'une des attractions les plus célèbres de Tenerife. Mieux comme programme d'une journée entière, avec une visite type d'environ 4 à 6 heures."
+          }
+        ]
       },
       {
-        "category": "Randonnées & Sentiers naturels ⛰️"
+        "category": "Randonnées & Sentiers naturels ⛰️",
+        "items": [
+          {
+            "tip": "Facile | Promenade en bord de mer la plus proche, balade locale rapide. La meilleure option sans tracas depuis la maison. Plus urbaine et locale que nature sauvage, mais utile pour une vue rapide sur la mer."
+          },
+          {
+            "tip": "Facile | Promenade en ville, ombre, cafés. Une promenade urbaine détendue, bien quand vous n'avez pas envie d'une vraie randonnée."
+          },
+          {
+            "tip": "Facile | Promenade verte, ombre, sculptures. La meilleure promenade verte facile à l'intérieur de Santa Cruz. Charmante le matin ou en fin d'après-midi."
+          },
+          {
+            "tip": "Facile | Promenade botanique, vues sur la mer, plantes. Une très belle promenade pittoresque sans quitter la ville. Un jardin botanique de 12 hectares axé sur les palmiers."
+          },
+          {
+            "tip": "Facile | Photos, panorama sur la plage, courte promenade. Pas une vraie randonnée, mais l'un des points de vue pittoresques les plus faciles depuis la maison. À combiner avec Las Teresitas ou San Andrés."
+          },
+          {
+            "tip": "Facile à modérée | Forêt, air plus frais, escapade locale. Bonne option quand vous voulez de la verdure sans conduire profondément dans Anaga. Le mieux par temps chaud ou quand la côte semble trop exposée."
+          },
+          {
+            "tip": "Facile à modérée | Piscines naturelles, vues sur l'océan, coucher de soleil. Une excellente promenade sur la côte nord avec des arrêts piscines. Mieux pour le paysage côtier que pour la randonnée en forêt."
+          },
+          {
+            "tip": "Facile | Forêt de lauriers, familles, courte promenade nature. L'une des meilleures promenades d'Anaga adaptées aux débutants : un sentier circulaire de 1 km principalement plat, adapté aux enfants comme aux adultes."
+          },
+          {
+            "tip": "Facile à modérée | Forêt d'Anaga, conseils d'itinéraire, points de vue. Le meilleur point de départ pour les promenades en forêt d'Anaga. Idéal pour les voyageurs qui veulent des conseils avant de choisir un sentier."
+          },
+          {
+            "tip": "Facile à modérée | Côte spectaculaire, promenade au village, déjeuner. Plus une promenade pittoresque qu'une randonnée classique. Idéale avec un déjeuner près de Roque de las Bodegas et des arrêts photos vers Almáciga ou Benijo."
+          },
+          {
+            "tip": "Facile à modérée | Vues sur Anaga, photos, forêt brumeuse. Une excellente étape pittoresque à Anaga. Le mieux combiné avec Cruz del Carmen et les promenades en forêt de lauriers."
+          },
+          {
+            "tip": "Modérée | Forêt de lauriers magique, paysage moussu d'Anaga. L'une des randonnées en forêt les plus particulières d'Anaga : notez qu'un permis est requis. Réservez à l'avance via le système officiel de permis de Tenerife."
+          },
+          {
+            "tip": "Modérée | Coucher de soleil, côte sauvage, photos. Excellente pour le paysage côtier spectaculaire. Marches et sentiers irréguliers, donc mieux avec de bonnes chaussures. Évitez la baignade risquée quand la mer est agitée."
+          },
+          {
+            "tip": "Modérée | Promenade dans un ravin, plage sauvage, aventure. Une belle randonnée d'Anaga à travers un ravin jusqu'à une plage isolée. La baignade à Tamadite peut être dangereuse, alors considérez-la comme une destination de randonnée plutôt qu'une journée plage."
+          },
+          {
+            "tip": "Difficile | Randonneurs aguerris, vues, villages d'Anaga. Un sentier exigeant avec des sections raides, descendant vers Tamadite avant une montée raide vers Taganana. Pas pour les âmes sensibles, mais spectaculaire."
+          },
+          {
+            "tip": "Modérée | Formations rocheuses volcaniques, vues sur le Teide. L'une des meilleures promenades accessibles du Teide. Plus abordable que de randonner vers le sommet et très pittoresque."
+          },
+          {
+            "tip": "Facile à difficile | Paysages volcaniques, points de vue, excursion d'une journée entière. La meilleure excursion de randonnée d'une journée entière sur l'île. Le mont Teide est le plus haut sommet d'Espagne à 3 718 m et un site du patrimoine mondial de l'UNESCO."
+          }
+        ]
       },
       {
-        "category": "Manger & Boire"
+        "category": "Manger & Boire",
+        "items": [
+          {
+            "tip": "Café rapide, cuisine locale simple, l'option la plus proche. Le mieux pour la commodité plutôt que pour une destination gastronomique. Pratique quand vous voulez quelque chose de très proche."
+          },
+          {
+            "tip": "Brunch, café, repas décontracté en journée. Une option utile pour quelque chose de facile avant de visiter. La scène urbaine compte de nombreux endroits pour le brunch et le café, aux côtés des tapas et des fruits de mer."
+          },
+          {
+            "tip": "Verres en soirée, tapas, ambiance animée. Un excellent quartier pour dîner et boire un verre dans le centre de Santa Cruz. Le mieux quand vous voulez une soirée en ville plutôt qu'un repas à la plage."
+          },
+          {
+            "tip": "Tapas, dîner décontracté, quartier de La Noria. Figure parmi les meilleurs restaurants autour de La Noria, avec de bonnes notes."
+          },
+          {
+            "tip": "Vin, plats à partager, ambiance de vieille ville. Charmant pour une soirée détendue près de l'église et des vieilles rues, avec terrasse, vin et plats à partager."
+          },
+          {
+            "tip": "Petit-déjeuner au marché, en-cas, produits locaux, repas décontracté. L'une des meilleures étapes de la culture gastronomique de Santa Cruz, avec des étals de produits frais et des bars-restaurants sans prétention."
+          },
+          {
+            "tip": "Cuisine canarienne revisitée, dîner plus raffiné. Un meilleur choix de restaurant près du marché, décrit par le Michelin comme une adresse incontournable avec une cuisine traditionnelle revisitée."
+          },
+          {
+            "tip": "Cuisine japonaise et péruvienne, dîner spécial. Une option plus soignée près du marché, parmi les restaurants très bien notés à proximité du Mercado."
+          },
+          {
+            "tip": "Tacos, cocktails, dîner décontracté. Bien si vous voulez changer de la cuisine canarienne, parmi les meilleurs endroits près du Mercado et de La Noria."
+          },
+          {
+            "tip": "Poisson frais, déjeuner local décontracté, combiné avec Las Teresitas. L'un des meilleurs quartiers gastronomiques à proximité. Idéal après la plage de Las Teresitas ou avant de partir pour Anaga."
+          },
+          {
+            "tip": "Poisson du jour, fruits de mer, déjeuner local. Une bonne option de fruits de mer près de Las Teresitas, souvent saluée pour son poisson du jour et son poulpe."
+          },
+          {
+            "tip": "Fruits de mer, cuisine méditerranéenne, déjeuner de journée plage. Un choix fiable près de Las Teresitas, parmi les restaurants les plus populaires de San Andrés."
+          },
+          {
+            "tip": "Cuisine espagnole décontractée, fruits de mer, bon rapport qualité-prix. Une bonne petite option locale, très bien notée parmi les repas plus abordables près de Las Teresitas."
+          },
+          {
+            "tip": "Fruits de mer décontractés, repas local simple. Une option pratique et décontractée près de Las Teresitas, notée 8,5/10 pour la nourriture, le service et l'ambiance."
+          },
+          {
+            "tip": "Déjeuner en ville historique, cafés, dîner. La meilleure excursion gastronomique et culturelle depuis Santa Cruz. Idéal à combiner avec le centre historique UNESCO et une promenade détendue."
+          },
+          {
+            "tip": "Cuisine canarienne locale, vin, expérience rustique. Idéal pour les voyageurs gourmands et aventureux. Les guachinches sont des endroits sans chichis et économiques servant des repas simples faits maison, surtout dans le nord et souvent saisonniers."
+          },
+          {
+            "tip": "Vues sur l'océan, déjeuner décontracté, journée piscines naturelles. Un bon quartier gastronomique si vous visitez les piscines naturelles. Fonctionne bien comme une excursion détendue d'une journée sur la côte nord."
+          },
+          {
+            "tip": "Déjeuner pittoresque, poisson, excursion d'une journée à Anaga. La meilleure étape gastronomique pendant une excursion à Anaga. Recommandé pour le déjeuner après Taganana, Almáciga ou Benijo."
+          }
+        ]
       },
       {
-        "category": "Shopping"
+        "category": "Shopping",
+        "items": [
+          {
+            "tip": "Produits de base, boissons, en-cas, essentiels rapides. Le mieux pour la commodité. Utilisez-le pour l'eau, les petites courses et les achats de dernière minute plutôt que pour un vrai shopping."
+          },
+          {
+            "tip": "Mode, chaussures, cosmétiques, shopping en ville. La principale rue commerçante de Santa Cruz, qui traverse le centre avec des franchises internationales, des boutiques de mode, des boutiques, des cafés et des ruelles à explorer."
+          },
+          {
+            "tip": "Shopping au centre-ville, cafés, combiné avec la visite. Un bon point de départ pour une promenade shopping détendue, menant vers Calle del Castillo, Imeldo Serís et Valentín Sanz."
+          },
+          {
+            "tip": "Boutiques, magasins locaux, cafés. Mieux si vous voulez flâner au-delà de la rue commerçante principale. Les rues autour de la Calle Castillo et de la Plaza del Príncipe mêlent agréablement shopping et arrêts gourmands."
+          },
+          {
+            "tip": "Produits frais, cuisine locale, fleurs, petits cadeaux. Le meilleur marché local de Santa Cruz, connu pour ses fruits, légumes, poissons, viandes et fleurs frais. Le bâtiment de 1944 possède de jolies arches et patios de style mauresque."
+          },
+          {
+            "tip": "Shopping confortable, cafés, stationnement facile. Un centre commercial soigné dans le centre de Santa Cruz, un point de repère pratique avec stationnement et événements réguliers."
+          },
+          {
+            "tip": "Grand centre commercial, Primark, cinéma, espace restauration. Le meilleur centre commercial de Santa Cruz, avec près de 80 boutiques, 15 salles de cinéma, un espace restauration sur le toit et le seul Primark de l'île."
+          },
+          {
+            "tip": "Essentiels de journée plage, en-cas, petites courses. Utile avant ou après Las Teresitas. Pas une destination shopping, mais pratique pour les boissons, les en-cas de plage ou les petites nécessités."
+          },
+          {
+            "tip": "Hypermarché, grand shopping, courses pratiques. Le mieux pour les grosses courses ou les achats pratiques en voiture, avec plus de 100 boutiques, un grand Carrefour et plus de 2 000 places de stationnement gratuites."
+          },
+          {
+            "tip": "Boutiques, cadeaux, cafés, rues historiques. La meilleure excursion shopping culturelle. La Laguna est une ville inscrite au patrimoine mondial de l'UNESCO, idéale pour combiner shopping, café et promenade historique."
+          },
+          {
+            "tip": "Produits frais, fleurs, cuisine locale. Un bon marché local dans le centre historique, connu pour ses produits frais, ses fleurs et sa gastronomie locale."
+          },
+          {
+            "tip": "Vin local, fromage, produits canariens. Bien si vous voulez des produits alimentaires locaux plutôt que du commerce classique. À combiner avec un déjeuner dans un guachinche ou une virée sur la côte nord."
+          },
+          {
+            "tip": "Shopping en excursion, souvenirs, cafés. Sympa si vous visitez déjà Puerto de la Cruz, Lago Martiánez ou La Orotava. Ça vaut le coup dans le cadre d'une journée entière sur la côte nord plutôt que pour le shopping uniquement."
+          },
+          {
+            "tip": "Ville traditionnelle, artisanat, cadeaux. Mieux pour l'ambiance et les cadeaux locaux que pour le commerce classique. Fonctionne bien avec Puerto de la Cruz ou la plage d'El Bollullo."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -993,22 +2253,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Playas 🏝️"
+        "category": "Playas 🏝️",
+        "items": [
+          {
+            "tip": "El baño más cercano, un chapuzón rápido, ambiente local. La opción más cercana: una pequeña playa urbana de grava con aguas tranquilas y fácil acceso. Más práctica que bonita, pero ideal para un chapuzón rápido."
+          },
+          {
+            "tip": "El mejor día de playa fácil, familias, baño. Arena dorada, instalaciones completas, restaurantes y agua tranquila protegida por un rompeolas. La recomendación más segura desde esta ubicación."
+          },
+          {
+            "tip": "Arena negra, playa más tranquila, una joya escondida. Una playa de arena negra más salvaje cerca de Las Teresitas. Buena cuando quiere algo menos pulido y con menos gente, pero el mar puede estar más agitado."
+          },
+          {
+            "tip": "Pueblo tranquilo, costa escénica, joya escondida. Una hermosa escapada local más allá de San Andrés. Mejor para una visita costera escénica que para un día clásico de playa de arena."
+          },
+          {
+            "tip": "Playa remota, aventura, naturaleza salvaje. Una de las verdaderas joyas escondidas de Anaga. No es práctica para una visita informal, pero absolutamente increíble para los huéspedes aventureros."
+          },
+          {
+            "tip": "Ruta escénica, surf, restaurantes cerca. Una gran parada en una excursión por Anaga: hermosa arena negra y paisajes de montaña espectaculares, con restaurantes cerca. Mejor para el paisaje y la comida que para un baño tranquilo."
+          },
+          {
+            "tip": "Arena negra salvaje, surfistas, naturaleza. Hermosa y espectacular, pero no es la playa más fácil para nadar. Mejor para huéspedes que aman las costas salvajes y no esperan hamacas."
+          },
+          {
+            "tip": "Atardecer, fotografía, paisaje salvaje de Anaga. Una de las playas más hermosas de Tenerife para fotos y atardeceres: salvaje, de arena negra, con fuertes condiciones del océano. Compruebe las condiciones del mar antes de ir."
+          },
+          {
+            "tip": "Piscinas de mar seguras, familias, observación de olas. No es una playa, pero merece mucho la pena. Genial cuando la costa norte está agitada y quiere una experiencia oceánica más segura."
+          },
+          {
+            "tip": "Piscinas naturales, paseo costero, atardecer. Una excelente excursión costera de un día: más sobre piscinas, costa de lava y vistas impresionantes que sobre arena."
+          },
+          {
+            "tip": "Arena negra, playa local, ambiente de costa norte. Una buena alternativa en la costa norte, ideal para huéspedes que exploran Tacoronte o la zona del vino."
+          },
+          {
+            "tip": "Hermosa arena negra, clásico de la costa norte. Una de las playas de arena negra más bonitas del norte de Tenerife. Merece la pena si ya está visitando La Orotava o Puerto de la Cruz."
+          },
+          {
+            "tip": "Excursión de un día a Puerto de la Cruz. Normalmente famosa y escénica, pero los cierres por calidad del agua han afectado a Playa Jardín desde 2024. Compruebe el estado actual del baño antes de ir."
+          }
+        ]
       },
       {
-        "category": "Lugares históricos y paseos pintorescos 🏰"
+        "category": "Lugares históricos y paseos pintorescos 🏰",
+        "items": [
+          {
+            "tip": "El paseo junto al mar más cercano, ambiente local, paseo rápido. El paseo costero más fácil desde la casa. Más práctico que pulido, pero muy local y bueno para una vista rápida del mar."
+          },
+          {
+            "tip": "Paseo urbano, árboles, cafeterías, vida local. Un agradable paseo urbano por uno de los principales bulevares verdes de Santa Cruz. Encantador para una mañana relajada o el final de la tarde."
+          },
+          {
+            "tip": "Paseo a la sombra, plantas, fuentes, esculturas. Uno de los mejores paseos escénicos fáciles de la ciudad, perfecto cuando quiere vegetación sin salir de Santa Cruz."
+          },
+          {
+            "tip": "Historia de la ciudad, plaza central, turismo fácil. Un gran punto de partida para explorar el centro de Santa Cruz. El centro de interpretación subterráneo conserva restos del antiguo castillo, capital de Tenerife desde 1833."
+          },
+          {
+            "tip": "Calles antiguas, iglesia, bares, paseo nocturno local. Encantador para un paseo histórico por la ciudad. La iglesia y las cercanas calles de La Noria están entre las zonas con más ambiente del casco antiguo de Santa Cruz."
+          },
+          {
+            "tip": "Mercado local, comida, arquitectura, paseo matutino. No es un monumento clásico, pero es una gran parada cultural. Mejor por la mañana para productos locales, aperitivos y ambiente."
+          },
+          {
+            "tip": "Arquitectura moderna, fotos, paseo junto al mar. Uno de los monumentos modernos más icónicos de Santa Cruz, diseñado por Santiago Calatrava. Impresionante para fotos a lo largo del paseo marítimo."
+          },
+          {
+            "tip": "Paseo botánico, vistas al mar, jardín inusual. Un muy buen paseo escénico dentro de la ciudad. Un jardín botánico de 12 hectáreas especializado en palmeras."
+          },
+          {
+            "tip": "Ambiente de pueblo, marisco, combinación con Las Teresitas. Pequeño, sencillo y local. Genial para combinar con la playa de Las Teresitas o una ruta por Anaga."
+          },
+          {
+            "tip": "El mejor mirador de la playa, fotos, parada escénica. Una de las paradas más fáciles con 'vistas espectaculares' desde la casa. Mejor combinada con Las Teresitas o San Andrés."
+          },
+          {
+            "tip": "Ciudad Patrimonio de la Humanidad, calles coloniales, arquitectura. Una de las mejores excursiones culturales desde Santa Cruz. El casco histórico de La Laguna es Patrimonio de la Humanidad de la UNESCO desde 1999."
+          },
+          {
+            "tip": "Montañas, bosque de laurisilva, miradores, pueblos. La mejor excursión de naturaleza y paisaje desde esta ubicación. Anaga es un parque rural protegido y, desde 2015, Reserva de la Biosfera de la UNESCO."
+          },
+          {
+            "tip": "Paseos por el bosque, información de Anaga, miradores. El mejor punto de partida para los paseos por el bosque de Anaga, con información y consejos para las rutas del Parque Rural."
+          },
+          {
+            "tip": "Pueblo histórico, paisaje de Anaga, carretera de montaña. Un hermoso pueblo antiguo en Anaga con paisajes espectaculares. Genial para una ruta escénica más un ambiente más tradicional."
+          },
+          {
+            "tip": "Vistas al océano, arena negra, almuerzo de marisco. Más escénico que histórico, pero excelente para una excursión de un día por Anaga. Combine con Taganana, Almáciga y Benijo."
+          },
+          {
+            "tip": "Atardecer, costa salvaje, fotografía. Uno de los lugares escénicos más espectaculares de Tenerife. Mejor para vistas y fotos que para un baño fácil."
+          }
+        ]
       },
       {
-        "category": "Atracciones y excursiones 📸"
+        "category": "Atracciones y excursiones 📸",
+        "items": [
+          {
+            "tip": "El punto de mar más cercano, un chapuzón rápido, ambiente local. Muy cerca y práctico. Más local que de postal, pero útil para una parada rápida en el océano."
+          },
+          {
+            "tip": "Paseo urbano, cafeterías, vida local. Un agradable paseo por la ciudad, bueno si quiere algo fácil sin salir de Santa Cruz."
+          },
+          {
+            "tip": "Paseo verde, sombra, fuentes, esculturas. Uno de los paseos fáciles más bonitos de Santa Cruz, especialmente cuando hace calor."
+          },
+          {
+            "tip": "Turismo en la ciudad, compras, cafeterías. Un buen punto de partida para un paseo por la ciudad de Santa Cruz. Fácil de combinar con las calles antiguas, la zona del puerto y el Mercado."
+          },
+          {
+            "tip": "Breve parada histórica, centro de la ciudad. Pequeño pero interesante si ya está visitando la Plaza de España. Mejor como un añadido rápido que como un viaje independiente."
+          },
+          {
+            "tip": "Comida local, mercado, visita matutina. Una gran parada gastronómica cultural. Mejor por la mañana para fruta, café, productos locales y ambiente."
+          },
+          {
+            "tip": "Arquitectura, fotos, paseo junto al mar. Uno de los monumentos modernos más icónicos de Santa Cruz, diseñado por Santiago Calatrava. Bueno para combinar con el Palmetum y el paseo marítimo."
+          },
+          {
+            "tip": "Jardín botánico, vistas al mar, paseo relajado. Un jardín botánico de 12 hectáreas especializado en palmeras, una de las mejores atracciones tranquilas dentro de Santa Cruz."
+          },
+          {
+            "tip": "Marisco, ambiente de pueblo, combinación con Las Teresitas. Un pequeño pueblo local, mejor combinado con la playa de Las Teresitas y el Mirador."
+          },
+          {
+            "tip": "Día de playa fácil, familias, baño. La excursión de playa más fácil desde esta ubicación. Arena dorada, agua tranquila, instalaciones y restaurantes cerca."
+          },
+          {
+            "tip": "Mirador, fotos, panorámica de la playa. Una de las vistas espectaculares más fáciles desde la casa. Mejor antes o después de Las Teresitas."
+          },
+          {
+            "tip": "Ciudad Patrimonio de la UNESCO, cafeterías, arquitectura. Una de las mejores excursiones culturales desde Santa Cruz. Genial para una excursión de medio día con almuerzo o café."
+          },
+          {
+            "tip": "Piscinas oceánicas, familias, observación de olas. Una gran alternativa al baño en la playa, especialmente cuando quiere agua del océano en un lugar más protegido."
+          },
+          {
+            "tip": "Montañas, miradores, pueblos, bosque de laurisilva. La mejor excursión de naturaleza desde esta ubicación. Anaga es un parque rural protegido y Reserva de la Biosfera de la UNESCO."
+          },
+          {
+            "tip": "Costa espectacular, pueblos, almuerzo, fotos. Una de las mejores excursiones de un día desde Santa Cruz: carreteras de montaña, playas de arena negra, vistas al océano y comida tradicional."
+          },
+          {
+            "tip": "Paseos por el bosque, miradores, información de Anaga. El mejor punto de partida para paseos fáciles por el bosque de Anaga y consejos sobre rutas."
+          },
+          {
+            "tip": "Paseo costero, piscinas naturales, atardecer. Muy bueno para una excursión relajada por la costa norte. Combine con Bajamar o La Laguna."
+          },
+          {
+            "tip": "Familias, atracción de día completo. Una de las mayores atracciones turísticas de Tenerife. Mejor para familias o huéspedes que disfrutan de los parques de animales."
+          },
+          {
+            "tip": "Excursión de un día a la ciudad, piscinas de mar, restaurantes. Una clásica excursión de un día por el norte de Tenerife. El Lago Martiánez es un complejo de piscinas de agua de mar diseñado por César Manrique."
+          },
+          {
+            "tip": "Arquitectura tradicional, casco antiguo, vistas. Una hermosa ciudad histórica, buena para combinar con Puerto de la Cruz o la playa de El Bollullo."
+          },
+          {
+            "tip": "Paisajes volcánicos, miradores, excursión de día completo. La mayor excursión imprescindible de Tenerife. Incluye el Teide, el pico más alto de España con 3.718 m, y Patrimonio de la Humanidad de la UNESCO."
+          },
+          {
+            "tip": "Pueblo de montaña, carretera espectacular, fotos. Hermoso, pero a un largo trayecto en coche desde Santa Cruz. Mejor para una excursión de día completo por la isla, idealmente con el Teide o la zona de Buenavista."
+          },
+          {
+            "tip": "Parque acuático, familias, atracciones de emoción. Lejos de esta ubicación, pero una de las atracciones más famosas de Tenerife. Mejor como un plan de día completo, con una visita típica de unas 4-6 horas."
+          }
+        ]
       },
       {
-        "category": "Senderismo y rutas de naturaleza ⛰️"
+        "category": "Senderismo y rutas de naturaleza ⛰️",
+        "items": [
+          {
+            "tip": "Fácil | El paseo junto al mar más cercano, un paseo local rápido. La mejor opción sin complicaciones desde la casa. Más urbano y local que naturaleza salvaje, pero útil para una vista rápida del mar."
+          },
+          {
+            "tip": "Fácil | Paseo urbano, sombra, cafeterías. Un paseo urbano relajado, bueno cuando no le apetece una caminata propiamente dicha."
+          },
+          {
+            "tip": "Fácil | Paseo verde, sombra, esculturas. El mejor paseo verde fácil dentro de Santa Cruz. Encantador por la mañana o al final de la tarde."
+          },
+          {
+            "tip": "Fácil | Paseo botánico, vistas al mar, plantas. Un muy buen paseo escénico sin salir de la ciudad. Un jardín botánico de 12 hectáreas centrado en palmeras."
+          },
+          {
+            "tip": "Fácil | Fotos, panorámica de la playa, paseo corto. No es una caminata propiamente dicha, pero es uno de los miradores escénicos más fáciles desde la casa. Combine con Las Teresitas o San Andrés."
+          },
+          {
+            "tip": "De fácil a moderado | Bosque, aire más fresco, escapada local. Buena opción cuando quiere vegetación sin conducir hasta lo profundo de Anaga. Mejor en días calurosos o cuando la costa se siente demasiado expuesta."
+          },
+          {
+            "tip": "De fácil a moderado | Piscinas naturales, vistas al océano, atardecer. Un gran paseo por la costa norte con paradas en piscinas. Mejor para el paisaje costero que para el senderismo por el bosque."
+          },
+          {
+            "tip": "Fácil | Bosque de laurisilva, familias, paseo corto de naturaleza. Uno de los mejores paseos de Anaga aptos para principiantes: un sendero circular de 1 km casi totalmente llano, adecuado tanto para niños como para adultos."
+          },
+          {
+            "tip": "De fácil a moderado | Bosque de Anaga, consejos sobre rutas, miradores. El mejor punto de partida para los paseos por el bosque de Anaga. Genial para huéspedes que quieren orientación antes de elegir un sendero."
+          },
+          {
+            "tip": "De fácil a moderado | Costa espectacular, paseo por el pueblo, almuerzo. Más un paseo escénico que una caminata clásica. Genial con almuerzo cerca de Roque de las Bodegas y paradas para fotos hacia Almáciga o Benijo."
+          },
+          {
+            "tip": "De fácil a moderado | Vistas de Anaga, fotos, bosque neblinoso. Una gran parada escénica en Anaga. Mejor combinada con Cruz del Carmen y los paseos por el bosque de laurisilva."
+          },
+          {
+            "tip": "Moderado | Bosque de laurisilva mágico, paisaje musgoso de Anaga. Una de las caminatas por el bosque más especiales de Anaga: tenga en cuenta que se requiere un permiso. Reserve con antelación a través del sistema oficial de permisos de Tenerife."
+          },
+          {
+            "tip": "Moderado | Atardecer, costa salvaje, fotos. Excelente para el paisaje costero espectacular. Tiene escalones y senderos irregulares, así que mejor con calzado adecuado. Evite el baño arriesgado cuando el mar está agitado."
+          },
+          {
+            "tip": "Moderado | Paseo por el barranco, playa salvaje, aventura. Una hermosa caminata de Anaga a través de un barranco hasta una playa remota. El baño en Tamadite puede ser peligroso, así que tómela como un destino de senderismo más que como un día de playa."
+          },
+          {
+            "tip": "Difícil | Senderistas serios, vistas, pueblos de Anaga. Un sendero exigente con secciones empinadas, que desciende a Tamadite antes de una empinada subida hacia Taganana. No es para los débiles de corazón, pero es espectacular."
+          },
+          {
+            "tip": "Moderado | Formaciones de roca volcánica, vistas del Teide. Uno de los mejores paseos accesibles del Teide. Más manejable que caminar hacia la cumbre y muy escénico."
+          },
+          {
+            "tip": "De fácil a difícil | Paisajes volcánicos, miradores, excursión de día completo. La mejor excursión de senderismo de día completo de la isla. El Teide es el pico más alto de España con 3.718 m y Patrimonio de la Humanidad de la UNESCO."
+          }
+        ]
       },
       {
-        "category": "Comer y beber"
+        "category": "Comer y beber",
+        "items": [
+          {
+            "tip": "Café rápido, comida local sencilla, la opción más cercana. Mejor por comodidad que como destino gastronómico. Práctico cuando quiere algo muy cerca."
+          },
+          {
+            "tip": "Brunch, café, comida informal de día. Una opción útil para algo fácil antes de hacer turismo. La escena de la ciudad tiene muchos sitios de brunch y café junto a tapas y marisco."
+          },
+          {
+            "tip": "Copas nocturnas, tapas, ambiente animado. Una gran zona para cenar y tomar copas en el centro de Santa Cruz. Mejor cuando quiere una noche en la ciudad en lugar de una comida en la playa."
+          },
+          {
+            "tip": "Tapas, cena informal, zona de La Noria. Incluido entre los mejores restaurantes de la zona de La Noria, con buenas valoraciones."
+          },
+          {
+            "tip": "Vino, platos para compartir, ambiente del casco antiguo. Encantador para una noche relajada cerca de la iglesia y las calles antiguas, con terraza, vino y platos para compartir."
+          },
+          {
+            "tip": "Desayuno de mercado, aperitivos, productos locales, comida informal. Una de las mejores paradas de cultura gastronómica de Santa Cruz, con puestos de productos frescos y bares restaurantes sencillos."
+          },
+          {
+            "tip": "Cocina canaria actualizada, una cena más especial. Una opción de restaurante más fuerte cerca del mercado, descrita por Michelin como una dirección imprescindible con cocina tradicional actualizada."
+          },
+          {
+            "tip": "Japonés y peruano, cena especial. Una opción más cuidada cerca del mercado, entre los restaurantes mejor valorados cerca del Mercado."
+          },
+          {
+            "tip": "Tacos, cócteles, cena informal. Bueno si quiere algo diferente a la comida canaria, entre los mejores sitios cerca del Mercado y de La Noria."
+          },
+          {
+            "tip": "Pescado fresco, almuerzo local informal, combinación con Las Teresitas. Una de las mejores zonas gastronómicas cercanas. Genial después de la playa de Las Teresitas o antes de adentrarse en Anaga."
+          },
+          {
+            "tip": "Pescado del día, marisco, almuerzo local. Una fuerte opción de marisco cerca de Las Teresitas, a menudo elogiada por su pescado del día y su pulpo."
+          },
+          {
+            "tip": "Marisco, comida mediterránea, almuerzo de día de playa. Una elección fiable cerca de Las Teresitas, entre los restaurantes más populares de San Andrés."
+          },
+          {
+            "tip": "Comida española informal, marisco, buena relación calidad-precio. Una buena opción local más pequeña, muy bien valorada entre los sitios más económicos cerca de Las Teresitas."
+          },
+          {
+            "tip": "Marisco informal, comida local sencilla. Una opción práctica e informal cerca de Las Teresitas, valorada con un 8,5/10 en comida, servicio y ambiente."
+          },
+          {
+            "tip": "Almuerzo en ciudad histórica, cafeterías, cena. La mejor excursión gastronómica cultural desde Santa Cruz. Genial para combinar con el casco histórico Patrimonio de la UNESCO y un paseo relajado."
+          },
+          {
+            "tip": "Comida canaria local, vino, experiencia rústica. Genial para huéspedes aventureros con la comida. Los guachinches son sitios sin lujos y económicos que sirven comidas sencillas caseras, mayormente en el norte y a menudo de temporada."
+          },
+          {
+            "tip": "Vistas al océano, almuerzo informal, día de piscinas naturales. Una buena zona gastronómica si visita las piscinas naturales. Funciona bien como una relajada excursión de un día por la costa norte."
+          },
+          {
+            "tip": "Almuerzo escénico, pescado, excursión de un día por Anaga. La mejor parada gastronómica durante una excursión por Anaga. Recomendado para almorzar después de Taganana, Almáciga o Benijo."
+          }
+        ]
       },
       {
-        "category": "Compras"
+        "category": "Compras",
+        "items": [
+          {
+            "tip": "Básicos, bebidas, aperitivos, esenciales rápidos. Mejor por comodidad. Úselo para agua, pequeñas compras y cosas de última hora más que para compras propiamente dichas."
+          },
+          {
+            "tip": "Moda, zapatos, cosméticos, compras en la ciudad. La principal calle comercial de Santa Cruz, que atraviesa el centro con franquicias internacionales, tiendas de moda, boutiques, cafeterías y calles secundarias que merece la pena explorar."
+          },
+          {
+            "tip": "Compras en el centro de la ciudad, cafeterías, combinación con turismo. Un buen punto de partida para un paseo de compras relajado, que lleva hacia la Calle del Castillo, Imeldo Serís y Valentín Sanz."
+          },
+          {
+            "tip": "Boutiques, tiendas locales, cafeterías. Mejor si quiere pasear más allá de la calle comercial principal. Las calles alrededor de la Calle Castillo y la Plaza del Príncipe mezclan bien compras y paradas gastronómicas."
+          },
+          {
+            "tip": "Productos frescos, comida local, flores, pequeños regalos. El mejor mercado local de Santa Cruz, conocido por su fruta, verdura, pescado, carne y flores frescas. El edificio de 1944 tiene preciosos arcos y patios de estilo morisco."
+          },
+          {
+            "tip": "Compras cómodas, cafeterías, aparcamiento fácil. Un cuidado centro comercial en el centro de Santa Cruz, un práctico punto de referencia con aparcamiento y eventos habituales."
+          },
+          {
+            "tip": "Gran centro comercial, Primark, cine, zona de restauración. El mejor centro comercial de Santa Cruz, con casi 80 tiendas, 15 salas de cine, una zona de restauración en la azotea y el único Primark de la isla."
+          },
+          {
+            "tip": "Básicos de día de playa, aperitivos, recados sencillos. Útil antes o después de Las Teresitas. No es un destino de compras, pero es práctico para bebidas, aperitivos de playa o pequeñas necesidades."
+          },
+          {
+            "tip": "Hipermercado, grandes compras, recados prácticos. Mejor para grandes compras de alimentación o recados prácticos en coche, con más de 100 tiendas, un gran Carrefour y más de 2.000 plazas de aparcamiento gratuitas."
+          },
+          {
+            "tip": "Boutiques, regalos, cafeterías, calles históricas. La mejor excursión de compras cultural. La Laguna es una ciudad Patrimonio de la Humanidad de la UNESCO, genial para combinar compras, café y un paseo histórico."
+          },
+          {
+            "tip": "Productos frescos, flores, comida local. Un buen mercado local en el casco histórico, conocido por sus productos frescos, flores y gastronomía local."
+          },
+          {
+            "tip": "Vino local, queso, productos canarios. Bueno si quiere productos locales de alimentación más que comercio normal. Combine con un almuerzo en un guachinche o una ruta por la costa norte."
+          },
+          {
+            "tip": "Compras de excursión de un día, recuerdos, cafeterías. Agradable si ya está visitando Puerto de la Cruz, el Lago Martiánez o La Orotava. Merece la pena como parte de un día completo por la costa norte más que solo para comprar."
+          },
+          {
+            "tip": "Pueblo tradicional, artesanía, regalos. Mejor por el ambiente y los regalos locales que por el comercio habitual. Funciona bien con Puerto de la Cruz o la playa de El Bollullo."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -1201,22 +2776,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Plaże 🏝️"
+        "category": "Plaże 🏝️",
+        "items": [
+          {
+            "tip": "Najbliższa kąpiel, szybkie zanurzenie, lokalny klimat. Najbliższa opcja: mała miejska plaża żwirowa ze spokojną wodą i łatwym dostępem. Bardziej praktyczna niż ładna, ale świetna na szybką kąpiel."
+          },
+          {
+            "tip": "Najlepszy łatwy dzień na plaży, rodziny, pływanie. Złoty piasek, pełne zaplecze, restauracje i spokojna woda chroniona falochronem. Najbezpieczniejsza, najlepsza rekomendacja z tej lokalizacji."
+          },
+          {
+            "tip": "Czarny piasek, spokojniejsza plaża, ukryty skarb. Dziksza plaża z czarnym piaskiem blisko Las Teresitas. Dobra, gdy chcą Państwo czegoś mniej dopracowanego i mniej zatłoczonego, ale morze bywa wzburzone."
+          },
+          {
+            "tip": "Cicha wioska, malownicze wybrzeże, ukryty skarb. Piękna lokalna ucieczka za San Andrés. Lepsza na malowniczą wizytę nad wybrzeżem niż na klasyczny dzień na piaszczystej plaży."
+          },
+          {
+            "tip": "Odludna plaża, przygoda, dzika natura. Jeden z prawdziwych ukrytych skarbów Anagi. Niepraktyczna na zwykłą wizytę, ale absolutnie niesamowita dla żądnych przygód gości."
+          },
+          {
+            "tip": "Malownicza droga, surfowanie, restauracje w pobliżu. Świetny przystanek na jednodniową wycieczkę po Anadze: piękny czarny piasek i dramatyczna górska sceneria, z restauracjami w pobliżu. Lepsza na widoki i jedzenie niż na spokojne pływanie."
+          },
+          {
+            "tip": "Dziki czarny piasek, surferzy, natura. Piękna i dramatyczna, ale niełatwa do pływania. Najlepsza dla gości, którzy kochają dzikie wybrzeża i nie oczekują leżaków."
+          },
+          {
+            "tip": "Zachód słońca, fotografia, dzika sceneria Anagi. Jedna z najpiękniejszych plaż na Teneryfie do zdjęć i zachodów słońca: dzika, czarny piasek, z silnymi warunkami oceanicznymi. Proszę sprawdzić warunki morskie przed wyjazdem."
+          },
+          {
+            "tip": "Bezpieczne baseny morskie, rodziny, obserwowanie fal. Nie jest to plaża, ale bardzo warte uwagi. Świetne, gdy północne wybrzeże jest wzburzone, a Państwo chcą bezpieczniejszego kontaktu z oceanem."
+          },
+          {
+            "tip": "Naturalne baseny, spacer wzdłuż wybrzeża, zachód słońca. Doskonała jednodniowa wycieczka nad wybrzeże: bardziej o basenach do pływania, lawowym wybrzeżu i zapierających dech widokach niż o piasku."
+          },
+          {
+            "tip": "Czarny piasek, lokalna plaża, klimat północnego wybrzeża. Miła alternatywa na północnym wybrzeżu, dobra dla gości zwiedzających Tacoronte lub region winiarski."
+          },
+          {
+            "tip": "Piękny czarny piasek, klasyk północnego wybrzeża. Jedna z najładniejszych plaż z czarnym piaskiem na północy Teneryfy. Warta uwagi, jeśli i tak odwiedzają Państwo La Orotava lub Puerto de la Cruz."
+          },
+          {
+            "tip": "Jednodniowa wycieczka do Puerto de la Cruz. Zwykle słynna i malownicza, ale zamknięcia związane z jakością wody dotykają Playa Jardín od 2024 roku. Proszę sprawdzić aktualny status kąpieli przed wyjazdem."
+          }
+        ]
       },
       {
-        "category": "Miejsca historyczne i malownicze spacery 🏰"
+        "category": "Miejsca historyczne i malownicze spacery 🏰",
+        "items": [
+          {
+            "tip": "Najbliższy spacer nad morzem, lokalny klimat, szybki spacer. Najłatwiejszy spacer wzdłuż wybrzeża z domu. Bardziej praktyczny niż dopracowany, ale bardzo lokalny i dobry na szybki widok na morze."
+          },
+          {
+            "tip": "Spacer po mieście, drzewa, kawiarnie, lokalne życie. Przyjemny miejski spacer jednym z głównych zielonych bulwarów Santa Cruz. Uroczy na spokojny poranek lub późne popołudnie."
+          },
+          {
+            "tip": "Cienisty spacer, rośliny, fontanny, rzeźby. Jeden z najlepszych łatwych, malowniczych spacerów w mieście, idealny, gdy chcą Państwo zieleni bez opuszczania Santa Cruz."
+          },
+          {
+            "tip": "Historia miasta, centralny plac, łatwe zwiedzanie. Świetny punkt wyjścia do zwiedzania centrum Santa Cruz. Podziemne centrum interpretacji zachowuje pozostałości starego zamku, stolicy Teneryfy od 1833 roku."
+          },
+          {
+            "tip": "Stare uliczki, kościół, bary, wieczorny lokalny spacer. Urocze na historyczny spacer po mieście. Kościół i pobliskie uliczki La Noria należą do najbardziej klimatycznych części starego Santa Cruz."
+          },
+          {
+            "tip": "Lokalny targ, jedzenie, architektura, poranny spacer. Nie jest to klasyczny zabytek, ale świetny przystanek kulturalny. Najlepiej rano, na lokalne produkty, przekąski i atmosferę."
+          },
+          {
+            "tip": "Nowoczesna architektura, zdjęcia, spacer nad morzem. Jeden z najbardziej ikonicznych nowoczesnych zabytków Santa Cruz, zaprojektowany przez Santiago Calatravę. Zachwycający do zdjęć wzdłuż nabrzeża."
+          },
+          {
+            "tip": "Spacer botaniczny, widoki na morze, niezwykły ogród. Bardzo dobry malowniczy spacer w obrębie miasta. 12-hektarowy ogród botaniczny specjalizujący się w palmach."
+          },
+          {
+            "tip": "Klimat wioski, owoce morza, połączenie z Las Teresitas. Mała, prosta i lokalna. Świetna do połączenia z plażą Las Teresitas lub przejażdżką po Anadze."
+          },
+          {
+            "tip": "Najlepszy punkt widokowy na plażę, zdjęcia, malowniczy przystanek. Jeden z najłatwiejszych przystanków z widokiem na \"wow\" z domu. Najlepiej połączyć z Las Teresitas lub San Andrés."
+          },
+          {
+            "tip": "Miasto UNESCO, kolonialne uliczki, architektura. Jedna z najlepszych kulturalnych wycieczek z Santa Cruz. Historyczne centrum La Laguny jest wpisane na listę światowego dziedzictwa UNESCO od 1999 roku."
+          },
+          {
+            "tip": "Góry, las laurowy, punkty widokowe, wioski. Najlepsza wycieczka przyrodniczo-krajobrazowa z tej lokalizacji. Anaga to chroniony park wiejski, a od 2015 roku rezerwat biosfery UNESCO."
+          },
+          {
+            "tip": "Spacery po lesie, informacje o Anadze, punkty widokowe. Najlepszy punkt wyjścia do spacerów po lasach Anagi, z informacjami i poradami dotyczącymi tras w Parku Wiejskim."
+          },
+          {
+            "tip": "Historyczna wioska, sceneria Anagi, górska droga. Piękna stara wioska w Anadze z dramatycznymi krajobrazami. Świetna na malowniczą przejażdżkę z bardziej tradycyjnym klimatem."
+          },
+          {
+            "tip": "Widoki na ocean, czarny piasek, obiad z owoców morza. Bardziej malownicze niż historyczne, ale doskonałe na jednodniową wycieczkę po Anadze. Proszę połączyć z Tagananą, Almácigą i Benijo."
+          },
+          {
+            "tip": "Zachód słońca, dzikie wybrzeże, fotografia. Jedno z najbardziej dramatycznych malowniczych miejsc na Teneryfie. Lepsze na widoki i zdjęcia niż na łatwe pływanie."
+          }
+        ]
       },
       {
-        "category": "Atrakcje i wycieczki 📸"
+        "category": "Atrakcje i wycieczki 📸",
+        "items": [
+          {
+            "tip": "Najbliższe miejsce nad morzem, szybkie zanurzenie, lokalny klimat. Bardzo blisko i praktycznie. Bardziej lokalne niż widokówkowo piękne, ale przydatne na szybki przystanek nad oceanem."
+          },
+          {
+            "tip": "Miejski spacer, kawiarnie, lokalne życie. Przyjemny spacer po mieście, dobry, gdy chcą Państwo czegoś łatwego bez opuszczania Santa Cruz."
+          },
+          {
+            "tip": "Zielony spacer, cień, fontanny, rzeźby. Jeden z najmilszych łatwych spacerów w Santa Cruz, zwłaszcza gdy jest ciepło."
+          },
+          {
+            "tip": "Zwiedzanie miasta, zakupy, kawiarnie. Dobry punkt wyjścia na spacer po mieście Santa Cruz. Łatwo połączyć ze starymi uliczkami, rejonem portu i Mercado."
+          },
+          {
+            "tip": "Krótki przystanek historyczny, centrum miasta. Małe, ale interesujące, jeśli i tak odwiedzają Państwo Plaza de España. Najlepiej jako szybki dodatek niż samodzielna wycieczka."
+          },
+          {
+            "tip": "Lokalne jedzenie, targ, poranna wizyta. Świetny kulinarno-kulturalny przystanek. Najlepiej rano, na owoce, kawę, lokalne produkty i atmosferę."
+          },
+          {
+            "tip": "Architektura, zdjęcia, spacer nad morzem. Jeden z najbardziej ikonicznych nowoczesnych zabytków Santa Cruz, zaprojektowany przez Santiago Calatravę. Dobry do połączenia z Palmetum i nabrzeżem."
+          },
+          {
+            "tip": "Ogród botaniczny, widoki na morze, spokojny spacer. 12-hektarowy ogród botaniczny specjalizujący się w palmach, jedna z najlepszych spokojnych atrakcji w Santa Cruz."
+          },
+          {
+            "tip": "Owoce morza, klimat wioski, połączenie z Las Teresitas. Mała lokalna wioska, najlepiej połączyć z plażą Las Teresitas i punktem widokowym Mirador."
+          },
+          {
+            "tip": "Łatwy dzień na plaży, rodziny, pływanie. Najłatwiejsza wycieczka na plażę z tej lokalizacji. Złoty piasek, spokojna woda, zaplecze i restauracje w pobliżu."
+          },
+          {
+            "tip": "Punkt widokowy, zdjęcia, panorama plaży. Jeden z najłatwiejszych widoków na \"wow\" z domu. Najlepiej przed lub po Las Teresitas."
+          },
+          {
+            "tip": "Miasto UNESCO, kawiarnie, architektura. Jedna z najlepszych kulturalnych wycieczek z Santa Cruz. Świetna na półdniową wycieczkę z obiadem lub kawą."
+          },
+          {
+            "tip": "Baseny oceaniczne, rodziny, obserwowanie fal. Świetna alternatywa dla pływania na plaży, zwłaszcza gdy chcą Państwo wody oceanicznej w bardziej osłoniętym miejscu."
+          },
+          {
+            "tip": "Góry, punkty widokowe, wioski, las laurowy. Najlepsza wycieczka przyrodnicza z tej lokalizacji. Anaga to chroniony park wiejski i rezerwat biosfery UNESCO."
+          },
+          {
+            "tip": "Dramatyczne wybrzeże, wioski, obiad, zdjęcia. Jedna z najlepszych jednodniowych wycieczek z Santa Cruz: górskie drogi, plaże z czarnym piaskiem, widoki na ocean i tradycyjne jedzenie."
+          },
+          {
+            "tip": "Spacery po lesie, punkty widokowe, informacje o Anadze. Najlepszy punkt wyjścia do łatwych spacerów po lasach Anagi i porad dotyczących tras."
+          },
+          {
+            "tip": "Spacer wzdłuż wybrzeża, naturalne baseny, zachód słońca. Bardzo dobre na spokojną wycieczkę po północnym wybrzeżu. Proszę połączyć z Bajamar lub La Laguną."
+          },
+          {
+            "tip": "Rodziny, całodniowa atrakcja. Jedna z największych atrakcji turystycznych Teneryfy. Najlepsza dla rodzin lub gości, którzy lubią parki ze zwierzętami."
+          },
+          {
+            "tip": "Jednodniowa wycieczka do miasta, baseny morskie, restauracje. Klasyczna jednodniowa wycieczka na północ Teneryfy. Lago Martiánez to kompleks basenów z wodą morską zaprojektowany przez Césara Manrique."
+          },
+          {
+            "tip": "Tradycyjna architektura, stare miasto, widoki. Piękne historyczne miasto, dobre do połączenia z Puerto de la Cruz lub plażą El Bollullo."
+          },
+          {
+            "tip": "Wulkaniczne krajobrazy, punkty widokowe, całodniowa wycieczka. Największa wycieczka, którą trzeba zobaczyć na Teneryfie. Obejmuje górę Teide, najwyższy szczyt Hiszpanii na wysokości 3718 m, i miejsce światowego dziedzictwa UNESCO."
+          },
+          {
+            "tip": "Górska wioska, dramatyczna droga, zdjęcia. Piękna, ale daleka przejażdżka z Santa Cruz. Najlepiej na całodniową wycieczkę po wyspie, najlepiej z Teide lub okolicą Buenavista."
+          },
+          {
+            "tip": "Park wodny, rodziny, ekscytujące zjeżdżalnie. Daleko od tej lokalizacji, ale jedna z najsłynniejszych atrakcji Teneryfy. Lepsza jako całodniowy plan, z typową wizytą trwającą około 4-6 godzin."
+          }
+        ]
       },
       {
-        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️"
+        "category": "Piesze wędrówki i szlaki przyrodnicze ⛰️",
+        "items": [
+          {
+            "tip": "Łatwy | Najbliższy spacer nad morzem, szybki lokalny spacer. Najlepsza bezproblemowa opcja z domu. Bardziej miejska i lokalna niż dzika natura, ale przydatna na szybki widok na morze."
+          },
+          {
+            "tip": "Łatwy | Spacer po mieście, cień, kawiarnie. Spokojny miejski spacer, dobry, gdy nie mają Państwo ochoty na prawdziwą wędrówkę."
+          },
+          {
+            "tip": "Łatwy | Zielony spacer, cień, rzeźby. Najlepszy łatwy zielony spacer w Santa Cruz. Uroczy rano lub późnym popołudniem."
+          },
+          {
+            "tip": "Łatwy | Spacer botaniczny, widoki na morze, rośliny. Bardzo dobry malowniczy spacer bez opuszczania miasta. 12-hektarowy ogród botaniczny skupiony na palmach."
+          },
+          {
+            "tip": "Łatwy | Zdjęcia, panorama plaży, krótki spacer. Nie jest to prawdziwa wędrówka, ale jeden z najłatwiejszych malowniczych punktów widokowych z domu. Proszę połączyć z Las Teresitas lub San Andrés."
+          },
+          {
+            "tip": "Łatwy do umiarkowanego | Las, chłodniejsze powietrze, lokalna ucieczka. Dobra opcja, gdy chcą Państwo zieleni bez wjeżdżania głęboko w Anagę. Najlepsza w gorące dni lub gdy wybrzeże wydaje się zbyt odsłonięte."
+          },
+          {
+            "tip": "Łatwy do umiarkowanego | Naturalne baseny, widoki na ocean, zachód słońca. Świetny spacer po północnym wybrzeżu z przystankami przy basenach do pływania. Lepszy na sceneria wybrzeża niż na wędrówkę po lesie."
+          },
+          {
+            "tip": "Łatwy | Las laurowy, rodziny, krótki spacer przyrodniczy. Jeden z najlepszych przyjaznych początkującym spacerów po Anadze: 1-kilometrowa, w większości płaska, okrężna trasa, odpowiednia zarówno dla dzieci, jak i dorosłych."
+          },
+          {
+            "tip": "Łatwy do umiarkowanego | Las Anagi, porady dotyczące tras, punkty widokowe. Najlepszy punkt wyjścia do spacerów po lasach Anagi. Świetny dla gości, którzy chcą wskazówek przed wyborem trasy."
+          },
+          {
+            "tip": "Łatwy do umiarkowanego | Dramatyczne wybrzeże, spacer po wiosce, obiad. Bardziej malowniczy spacer niż klasyczna wędrówka. Świetny z obiadem w pobliżu Roque de las Bodegas i przystankami na zdjęcia w kierunku Almácigi lub Benijo."
+          },
+          {
+            "tip": "Łatwy do umiarkowanego | Widoki Anagi, zdjęcia, mglisty las. Świetny malowniczy przystanek w Anadze. Najlepiej połączyć z Cruz del Carmen i spacerami po lesie laurowym."
+          },
+          {
+            "tip": "Umiarkowany | Magiczny las laurowy, omszały krajobraz Anagi. Jedna z najbardziej wyjątkowych wędrówek leśnych w Anadze: proszę pamiętać, że wymagane jest zezwolenie. Proszę zarezerwować z wyprzedzeniem przez oficjalny system zezwoleń Teneryfy."
+          },
+          {
+            "tip": "Umiarkowany | Zachód słońca, dzikie wybrzeże, zdjęcia. Doskonały na dramatyczną sceneria wybrzeża. Schody i nierówne ścieżki, więc lepiej w odpowiednim obuwiu. Proszę unikać ryzykownego pływania, gdy morze jest wzburzone."
+          },
+          {
+            "tip": "Umiarkowany | Spacer przez wąwóz, dzika plaża, przygoda. Piękna wędrówka po Anadze przez wąwóz do odludnej plaży. Pływanie w Tamadite może być niebezpieczne, więc proszę traktować to jako cel wędrówki, a nie dzień na plaży."
+          },
+          {
+            "tip": "Trudny | Doświadczeni piesi wędrowcy, widoki, wioski Anagi. Wymagająca trasa ze stromymi odcinkami, schodząca do Tamadite przed stromym podejściem w kierunku Taganany. Nie dla osób o słabych nerwach, ale spektakularna."
+          },
+          {
+            "tip": "Umiarkowany | Wulkaniczne formacje skalne, widoki na Teide. Jeden z najlepszych dostępnych spacerów po Teide. Łatwiejszy do pokonania niż wędrówka w kierunku szczytu i bardzo malowniczy."
+          },
+          {
+            "tip": "Łatwy do trudnego | Wulkaniczne krajobrazy, punkty widokowe, całodniowa wycieczka. Najlepsza całodniowa wycieczka piesza na wyspie. Góra Teide to najwyższy szczyt Hiszpanii na wysokości 3718 m i miejsce światowego dziedzictwa UNESCO."
+          }
+        ]
       },
       {
-        "category": "Jedzenie i napoje"
+        "category": "Jedzenie i napoje",
+        "items": [
+          {
+            "tip": "Szybka kawa, proste lokalne jedzenie, najbliższa opcja. Najlepsza dla wygody, a nie dla docelowego posiłku. Przydatna, gdy chcą Państwo czegoś bardzo blisko."
+          },
+          {
+            "tip": "Brunch, kawa, lekkie dzienne jedzenie. Przydatna opcja na coś łatwego przed zwiedzaniem. Miejska scena oferuje mnóstwo miejsc na brunch i kawę, obok tapas i owoców morza."
+          },
+          {
+            "tip": "Wieczorne drinki, tapas, żywa atmosfera. Świetny rejon na kolację i drinki w centrum Santa Cruz. Najlepszy, gdy chcą Państwo miejskiego wieczoru zamiast posiłku na plaży."
+          },
+          {
+            "tip": "Tapas, swobodna kolacja, rejon La Noria. Wymieniana wśród najlepszych restauracji wokół La Noria, z wysokimi ocenami."
+          },
+          {
+            "tip": "Wino, dania do dzielenia, atmosfera starego miasta. Urocze na spokojny wieczór w pobliżu kościoła i starych uliczek, ze stolikami na zewnątrz, winem i daniami do dzielenia."
+          },
+          {
+            "tip": "Targowe śniadanie, przekąski, lokalne produkty, swobodne jedzenie. Jeden z najlepszych przystanków kultury kulinarnej w Santa Cruz, ze stoiskami ze świeżymi produktami i niezobowiązującymi bar-restauracjami."
+          },
+          {
+            "tip": "Odświeżona kuchnia kanaryjska, lepsza kolacja. Mocniejszy wybór restauracji w pobliżu targu, opisany przez Michelin jako adres, którego nie można przegapić, z odświeżoną tradycyjną kuchnią."
+          },
+          {
+            "tip": "Kuchnia japońska i peruwiańska, wyjątkowa kolacja. Bardziej dopracowana opcja w pobliżu targu, wśród wysoko ocenianych restauracji blisko Mercado."
+          },
+          {
+            "tip": "Tacos, koktajle, swobodna kolacja. Dobre, jeśli chcą Państwo czegoś innego niż kuchnia kanaryjska, wśród najlepszych miejsc w pobliżu Mercado i La Noria."
+          },
+          {
+            "tip": "Świeże ryby, swobodny lokalny obiad, połączenie z Las Teresitas. Jeden z najlepszych pobliskich rejonów kulinarnych. Świetny po plaży Las Teresitas lub przed przejażdżką do Anagi."
+          },
+          {
+            "tip": "Ryba dnia, owoce morza, lokalny obiad. Mocna opcja z owocami morza w pobliżu Las Teresitas, często chwalona za rybę dnia i ośmiornicę."
+          },
+          {
+            "tip": "Owoce morza, kuchnia śródziemnomorska, obiad w dniu na plaży. Pewny wybór w pobliżu Las Teresitas, wśród najpopularniejszych restauracji San Andrés."
+          },
+          {
+            "tip": "Swobodna kuchnia hiszpańska, owoce morza, dobry stosunek jakości do ceny. Dobra mniejsza lokalna opcja, wysoko oceniana wśród tańszych miejsc w pobliżu Las Teresitas."
+          },
+          {
+            "tip": "Swobodne owoce morza, prosty lokalny posiłek. Praktyczna, swobodna opcja w pobliżu Las Teresitas, oceniona na 8,5/10 za jedzenie, obsługę i atmosferę."
+          },
+          {
+            "tip": "Obiad w historycznym mieście, kawiarnie, kolacja. Najlepsza kulturalno-kulinarna wycieczka z Santa Cruz. Świetna do połączenia z historycznym centrum UNESCO i spokojnym spacerem."
+          },
+          {
+            "tip": "Lokalna kuchnia kanaryjska, wino, rustykalne doświadczenie. Świetne dla gości żądnych kulinarnych przygód. Guachinches to bezpretensjonalne, niedrogie miejsca serwujące proste domowe posiłki, głównie na północy i często sezonowe."
+          },
+          {
+            "tip": "Widoki na ocean, swobodny obiad, dzień przy naturalnych basenach. Dobry rejon kulinarny, jeśli odwiedzają Państwo naturalne baseny. Sprawdza się jako spokojna jednodniowa wycieczka po północnym wybrzeżu."
+          },
+          {
+            "tip": "Malowniczy obiad, ryby, jednodniowa wycieczka po Anadze. Najlepszy przystanek kulinarny podczas wycieczki po Anadze. Polecany na obiad po Tagananie, Almácidze lub Benijo."
+          }
+        ]
       },
       {
-        "category": "Zakupy"
+        "category": "Zakupy",
+        "items": [
+          {
+            "tip": "Podstawy, napoje, przekąski, szybkie niezbędniki. Najlepsze dla wygody. Proszę z tego korzystać na wodę, drobne zakupy i rzeczy na ostatnią chwilę, a nie na właściwe zakupy."
+          },
+          {
+            "tip": "Moda, buty, kosmetyki, zakupy w mieście. Główna ulica handlowa w Santa Cruz, biegnąca przez centrum, z międzynarodowymi sieciami, sklepami z modą, butikami, kawiarniami i bocznymi uliczkami wartymi odkrycia."
+          },
+          {
+            "tip": "Zakupy w centrum miasta, kawiarnie, połączenie ze zwiedzaniem. Dobry punkt wyjścia na spokojny spacer po zakupach, prowadzący na Calle del Castillo, Imeldo Serís i Valentín Sanz."
+          },
+          {
+            "tip": "Butiki, lokalne sklepy, kawiarnie. Lepsze, jeśli chcą Państwo powałęsać się poza główną ulicą handlową. Uliczki wokół Calle Castillo i Plaza del Príncipe ładnie łączą zakupy i przystanki kulinarne."
+          },
+          {
+            "tip": "Świeże produkty, lokalne jedzenie, kwiaty, drobne prezenty. Najlepszy lokalny targ w Santa Cruz, znany ze świeżych owoców, warzyw, ryb, mięsa i kwiatów. Budynek z 1944 roku ma urocze łuki i patia w stylu mauretańskim."
+          },
+          {
+            "tip": "Komfortowe zakupy, kawiarnie, łatwy parking. Dopracowane centrum handlowe w centrum Santa Cruz, przydatny punkt odniesienia z parkingiem i regularnymi wydarzeniami."
+          },
+          {
+            "tip": "Duża galeria, Primark, kino, food court. Najlepsza galeria w Santa Cruz, z prawie 80 sklepami, 15 salami kinowymi, food courtem na dachu i jedynym Primarkiem na wyspie."
+          },
+          {
+            "tip": "Podstawy na dzień na plaży, przekąski, proste sprawunki. Przydatne przed lub po Las Teresitas. Nie jest to cel zakupowy, ale praktyczne na napoje, przekąski na plażę lub drobne niezbędniki."
+          },
+          {
+            "tip": "Hipermarket, duże zakupy, praktyczne sprawunki. Najlepsze na duże zakupy spożywcze lub praktyczne sprawunki samochodem, ze 100+ sklepami, dużym Carrefourem i ponad 2000 darmowych miejsc parkingowych."
+          },
+          {
+            "tip": "Butiki, prezenty, kawiarnie, historyczne uliczki. Najlepsza kulturalna wycieczka zakupowa. La Laguna to miasto wpisane na listę światowego dziedzictwa UNESCO, świetne do połączenia zakupów, kawy i historycznego spaceru."
+          },
+          {
+            "tip": "Świeże produkty, kwiaty, lokalne jedzenie. Dobry lokalny targ w historycznym centrum, znany ze świeżych produktów, kwiatów i lokalnej gastronomii."
+          },
+          {
+            "tip": "Lokalne wino, ser, kanaryjskie produkty. Dobre, jeśli chcą Państwo lokalnych produktów spożywczych zamiast zwykłego handlu detalicznego. Proszę połączyć z obiadem w guachinche lub przejażdżką po północnym wybrzeżu."
+          },
+          {
+            "tip": "Zakupy podczas jednodniowej wycieczki, pamiątki, kawiarnie. Miłe, jeśli i tak odwiedzają Państwo Puerto de la Cruz, Lago Martiánez lub La Orotava. Warte uwagi jako część całodniowego dnia na północnym wybrzeżu, a nie tylko na zakupy."
+          },
+          {
+            "tip": "Tradycyjne miasto, rękodzieło, prezenty. Lepsze dla atmosfery i lokalnych prezentów niż zwykły handel detaliczny. Sprawdza się z Puerto de la Cruz lub plażą El Bollullo."
+          }
+        ]
       }
     ],
     "gettingAround": [
@@ -1409,22 +3299,337 @@
     ],
     "thingsToDo": [
       {
-        "category": "Пляжи 🏝️"
+        "category": "Пляжи 🏝️",
+        "items": [
+          {
+            "tip": "Ближайшее место для купания, быстрое окунание, местная атмосфера. Самый близкий вариант: небольшой городской галечный пляж со спокойной водой и удобным доступом. Скорее практичный, чем красивый, но отлично подходит для быстрого окунания."
+          },
+          {
+            "tip": "Лучший лёгкий пляжный день, для семей, купание. Золотистый песок, полная инфраструктура, рестораны и спокойная вода, защищённая волнорезом. Самая безопасная топ-рекомендация из этого места."
+          },
+          {
+            "tip": "Чёрный песок, более тихий пляж, скрытая жемчужина. Более дикий пляж с чёрным песком рядом с Las Teresitas. Хорош, когда хочется чего-то менее прилизанного и менее людного, но море может быть более бурным."
+          },
+          {
+            "tip": "Тихая деревня, живописное побережье, скрытая жемчужина. Красивое местное убежище за San Andrés. Лучше подходит для живописной поездки вдоль побережья, чем для классического дня на песчаном пляже."
+          },
+          {
+            "tip": "Удалённый пляж, приключение, дикая природа. Одна из настоящих скрытых жемчужин Анаги. Не очень удобно для обычного визита, но абсолютно потрясающе для любителей приключений."
+          },
+          {
+            "tip": "Живописная дорога, сёрфинг, рестораны поблизости. Отличная остановка для поездки по Анаге: красивый чёрный песок и драматичные горные пейзажи, с ресторанами поблизости. Лучше для пейзажей и еды, чем для спокойного купания."
+          },
+          {
+            "tip": "Дикий чёрный песок, сёрферы, природа. Красивый и драматичный, но не самый простой пляж для купания. Лучше для гостей, которые любят дикие побережья и не ждут шезлонгов."
+          },
+          {
+            "tip": "Закат, фотография, дикие пейзажи Анаги. Один из самых красивых пляжей Тенерифе для фото и закатов: дикий, с чёрным песком и сильными океанскими условиями. Проверьте состояние моря перед поездкой."
+          },
+          {
+            "tip": "Безопасные морские бассейны, для семей, наблюдение за волнами. Не пляж, но очень стоит того. Отлично, когда северное побережье драматично, а вам хочется более безопасного океанского опыта."
+          },
+          {
+            "tip": "Природные бассейны, прогулка вдоль побережья, закат. Превосходная поездка на день вдоль побережья: больше про бассейны, лавовое побережье и потрясающие виды, чем про песок."
+          },
+          {
+            "tip": "Чёрный песок, местный пляж, атмосфера северного побережья. Приятная альтернатива на северном побережье, хороша для гостей, исследующих Такоронте или винодельческий регион."
+          },
+          {
+            "tip": "Красивый чёрный песок, классика северного побережья. Один из самых красивых пляжей с чёрным песком на севере Тенерифе. Стоит того, если вы уже посещаете La Orotava или Puerto de la Cruz."
+          },
+          {
+            "tip": "Поездка на день в Puerto de la Cruz. Обычно знаменитый и живописный, но проблемы с качеством воды влияют на Playa Jardín с 2024 года. Проверьте текущий статус купания перед поездкой."
+          }
+        ]
       },
       {
-        "category": "Исторические места и живописные прогулки 🏰"
+        "category": "Исторические места и живописные прогулки 🏰",
+        "items": [
+          {
+            "tip": "Ближайшая прогулка к морю, местная атмосфера, быстрая прогулка. Самая лёгкая прогулка вдоль побережья от дома. Скорее практичная, чем прилизанная, но очень местная и хороша для быстрого вида на море."
+          },
+          {
+            "tip": "Городская прогулка, деревья, кафе, местная жизнь. Приятная городская прогулка по одному из главных зелёных бульваров Санта-Крус. Прекрасно для спокойного утра или позднего вечера."
+          },
+          {
+            "tip": "Тенистая прогулка, растения, фонтаны, скульптуры. Одна из лучших лёгких живописных прогулок в городе, идеальна, когда хочется зелени, не покидая Санта-Крус."
+          },
+          {
+            "tip": "История города, центральная площадь, лёгкий осмотр достопримечательностей. Отличная отправная точка для исследования центра Санта-Крус. Подземный интерпретационный центр хранит остатки старого замка, столицы Тенерифе с 1833 года."
+          },
+          {
+            "tip": "Старые улицы, церковь, бары, вечерняя прогулка по местам. Прекрасно для исторической прогулки по городу. Церковь и соседние улицы La Noria, одни из самых атмосферных частей старого Санта-Крус."
+          },
+          {
+            "tip": "Местный рынок, еда, архитектура, утренняя прогулка. Не классический памятник, но отличная культурная остановка. Лучше всего утром, ради местных продуктов, закусок и атмосферы."
+          },
+          {
+            "tip": "Современная архитектура, фото, прогулка у моря. Одна из самых знаковых современных достопримечательностей Санта-Крус, спроектированная Сантьяго Калатравой. Потрясающе для фото вдоль набережной."
+          },
+          {
+            "tip": "Ботаническая прогулка, виды на море, необычный сад. Очень хорошая живописная прогулка внутри города. Ботанический сад площадью 12 гектаров, специализирующийся на пальмах."
+          },
+          {
+            "tip": "Деревенская атмосфера, морепродукты, в сочетании с Las Teresitas. Маленькая, простая и местная. Отлично сочетается с пляжем Las Teresitas или поездкой в Анагу."
+          },
+          {
+            "tip": "Лучшая смотровая площадка на пляж, фото, живописная остановка. Одна из самых лёгких остановок с потрясающим видом от дома. Лучше всего сочетать с Las Teresitas или San Andrés."
+          },
+          {
+            "tip": "Город ЮНЕСКО, колониальные улицы, архитектура. Одна из лучших культурных экскурсий из Санта-Крус. Исторический центр La Laguna является объектом Всемирного наследия ЮНЕСКО с 1999 года."
+          },
+          {
+            "tip": "Горы, лавровый лес, смотровые площадки, деревни. Лучшая экскурсия на природу и за пейзажами из этого места. Анага, охраняемый сельский парк и, с 2015 года, биосферный заповедник ЮНЕСКО."
+          },
+          {
+            "tip": "Лесные прогулки, информация об Анаге, смотровые площадки. Лучшая отправная точка для лесных прогулок по Анаге, с информацией и советами по маршрутам в сельском парке."
+          },
+          {
+            "tip": "Историческая деревня, пейзажи Анаги, горная дорога. Красивая старая деревня в Анаге с драматичными ландшафтами. Отлично для живописной поездки и более традиционной атмосферы."
+          },
+          {
+            "tip": "Виды на океан, чёрный песок, обед с морепродуктами. Более живописное, чем историческое, но превосходно для поездки на день по Анаге. Сочетайте с Taganana, Almáciga и Benijo."
+          },
+          {
+            "tip": "Закат, дикое побережье, фотография. Одно из самых драматичных живописных мест на Тенерифе. Лучше для видов и фото, чем для лёгкого купания."
+          }
+        ]
       },
       {
-        "category": "Достопримечательности и экскурсии 📸"
+        "category": "Достопримечательности и экскурсии 📸",
+        "items": [
+          {
+            "tip": "Ближайшее место у моря, быстрое окунание, местная атмосфера. Очень близко и практично. Более местное, чем открыточно красивое, но полезно для быстрой остановки у океана."
+          },
+          {
+            "tip": "Городская прогулка, кафе, местная жизнь. Приятная городская прогулка, хороша, если хочется чего-то лёгкого, не покидая Санта-Крус."
+          },
+          {
+            "tip": "Зелёная прогулка, тень, фонтаны, скульптуры. Одна из самых приятных лёгких прогулок в Санта-Крус, особенно когда тепло."
+          },
+          {
+            "tip": "Осмотр города, шопинг, кафе. Хорошая отправная точка для прогулки по Санта-Крус. Легко сочетать со старыми улицами, районом порта и рынком Mercado."
+          },
+          {
+            "tip": "Короткая историческая остановка, центр города. Небольшой, но интересный, если вы уже посещаете Plaza de España. Лучше как быстрое дополнение, чем как отдельная поездка."
+          },
+          {
+            "tip": "Местная еда, рынок, утренний визит. Отличная культурно-гастрономическая остановка. Лучше всего утром, ради фруктов, кофе, местных продуктов и атмосферы."
+          },
+          {
+            "tip": "Архитектура, фото, прогулка у моря. Одна из самых знаковых современных достопримечательностей Санта-Крус, спроектированная Сантьяго Калатравой. Хорошо сочетать с Palmetum и набережной."
+          },
+          {
+            "tip": "Ботанический сад, виды на море, спокойная прогулка. Ботанический сад площадью 12 гектаров, специализирующийся на пальмах, одна из лучших тихих достопримечательностей внутри Санта-Крус."
+          },
+          {
+            "tip": "Морепродукты, деревенская атмосфера, в сочетании с Las Teresitas. Маленькая местная деревня, лучше всего сочетать с пляжем Las Teresitas и смотровой площадкой Mirador."
+          },
+          {
+            "tip": "Лёгкий пляжный день, для семей, купание. Самая лёгкая пляжная экскурсия из этого места. Золотистый песок, спокойная вода, инфраструктура и рестораны поблизости."
+          },
+          {
+            "tip": "Смотровая площадка, фото, панорама пляжа. Один из самых лёгких потрясающих видов от дома. Лучше всего до или после Las Teresitas."
+          },
+          {
+            "tip": "Город ЮНЕСКО, кафе, архитектура. Одна из лучших культурных экскурсий из Санта-Крус. Отлично для поездки на полдня с обедом или кофе."
+          },
+          {
+            "tip": "Океанские бассейны, для семей, наблюдение за волнами. Отличная альтернатива пляжному купанию, особенно когда хочется океанской воды в более защищённом месте."
+          },
+          {
+            "tip": "Горы, смотровые площадки, деревни, лавровый лес. Лучшая экскурсия на природу из этого места. Анага, охраняемый сельский парк и биосферный заповедник ЮНЕСКО."
+          },
+          {
+            "tip": "Драматичное побережье, деревни, обед, фото. Одна из лучших поездок на день из Санта-Крус: горные дороги, пляжи с чёрным песком, виды на океан и традиционная еда."
+          },
+          {
+            "tip": "Лесные прогулки, смотровые площадки, информация об Анаге. Лучшая отправная точка для лёгких лесных прогулок по Анаге и советов по маршрутам."
+          },
+          {
+            "tip": "Прогулка вдоль побережья, природные бассейны, закат. Очень хорошо для спокойной экскурсии по северному побережью. Сочетайте с Bajamar или La Laguna."
+          },
+          {
+            "tip": "Для семей, достопримечательность на целый день. Одна из крупнейших туристических достопримечательностей Тенерифе. Лучше всего для семей или гостей, которым нравятся зоопарки."
+          },
+          {
+            "tip": "Поездка в город на день, морские бассейны, рестораны. Классическая поездка на день по северу Тенерифе. Lago Martiánez, комплекс бассейнов с морской водой, спроектированный Сесаром Манрике."
+          },
+          {
+            "tip": "Традиционная архитектура, старый город, виды. Красивый исторический город, хорошо сочетать с Puerto de la Cruz или пляжем El Bollullo."
+          },
+          {
+            "tip": "Вулканические пейзажи, смотровые площадки, поездка на целый день. Главная обязательная экскурсия на Тенерифе. Включает гору Тейде, высочайшую вершину Испании в 3718 м, и объект Всемирного наследия ЮНЕСКО."
+          },
+          {
+            "tip": "Горная деревня, драматичная дорога, фото. Красиво, но долгая поездка из Санта-Крус. Лучше всего для поездки на целый день по острову, идеально с Тейде или районом Buenavista."
+          },
+          {
+            "tip": "Аквапарк, для семей, захватывающие аттракционы. Далеко от этого места, но одна из самых известных достопримечательностей Тенерифе. Лучше как план на целый день, типичный визит около 4-6 часов."
+          }
+        ]
       },
       {
-        "category": "Пешие прогулки и природные маршруты ⛰️"
+        "category": "Пешие прогулки и природные маршруты ⛰️",
+        "items": [
+          {
+            "tip": "Лёгкий | Ближайшая прогулка к морю, быстрая местная прогулка. Лучший беспроблемный вариант от дома. Более городской и местный, чем дикая природа, но полезен для быстрого вида на море."
+          },
+          {
+            "tip": "Лёгкий | Городская прогулка, тень, кафе. Спокойная городская прогулка, хороша, когда не хочется полноценного похода."
+          },
+          {
+            "tip": "Лёгкий | Зелёная прогулка, тень, скульптуры. Лучшая лёгкая зелёная прогулка внутри Санта-Крус. Прекрасна утром или поздним днём."
+          },
+          {
+            "tip": "Лёгкий | Ботаническая прогулка, виды на море, растения. Очень хорошая живописная прогулка, не покидая города. Ботанический сад площадью 12 гектаров, посвящённый пальмам."
+          },
+          {
+            "tip": "Лёгкий | Фото, панорама пляжа, короткая прогулка. Не полноценный поход, но одна из самых лёгких живописных смотровых площадок от дома. Сочетайте с Las Teresitas или San Andrés."
+          },
+          {
+            "tip": "Лёгкий - средний | Лес, более прохладный воздух, местное убежище. Хороший вариант, когда хочется зелени, не заезжая вглубь Анаги. Лучше всего в жаркие дни или когда побережье кажется слишком открытым."
+          },
+          {
+            "tip": "Лёгкий - средний | Природные бассейны, виды на океан, закат. Отличная прогулка по северному побережью с остановками у бассейнов. Лучше для прибрежных пейзажей, чем для лесного похода."
+          },
+          {
+            "tip": "Лёгкий | Лавровый лес, для семей, короткая прогулка на природе. Одна из лучших прогулок по Анаге для начинающих: круговая тропа длиной 1 км, в основном ровная, подходящая как детям, так и взрослым."
+          },
+          {
+            "tip": "Лёгкий - средний | Лес Анаги, советы по маршрутам, смотровые площадки. Лучшая отправная точка для лесных прогулок по Анаге. Отлично для гостей, которым нужны рекомендации перед выбором тропы."
+          },
+          {
+            "tip": "Лёгкий - средний | Драматичное побережье, прогулка по деревне, обед. Скорее живописная прогулка, чем классический поход. Отлично с обедом рядом с Roque de las Bodegas и фотоостановками в сторону Almáciga или Benijo."
+          },
+          {
+            "tip": "Лёгкий - средний | Виды на Анагу, фото, туманный лес. Отличная живописная остановка в Анаге. Лучше всего сочетать с Cruz del Carmen и прогулками по лавровому лесу."
+          },
+          {
+            "tip": "Средний | Волшебный лавровый лес, мшистый ландшафт Анаги. Один из самых особенных лесных походов в Анаге: учтите, что требуется разрешение. Бронируйте заранее через официальную систему разрешений Тенерифе."
+          },
+          {
+            "tip": "Средний | Закат, дикое побережье, фото. Превосходно для драматичных прибрежных пейзажей. Ступени и неровные тропы, поэтому лучше в удобной обуви. Избегайте рискованного купания, когда море бурное."
+          },
+          {
+            "tip": "Средний | Прогулка по ущелью, дикий пляж, приключение. Красивый поход по Анаге через ущелье к удалённому пляжу. Купание в Tamadite может быть опасным, поэтому рассматривайте его как место для похода, а не для пляжного дня."
+          },
+          {
+            "tip": "Сложный | Для серьёзных туристов, виды, деревни Анаги. Требовательная тропа с крутыми участками, спускающаяся к Tamadite перед крутым подъёмом к Taganana. Не для слабонервных, но впечатляющая."
+          },
+          {
+            "tip": "Средний | Вулканические скальные образования, виды на Тейде. Одна из лучших доступных прогулок у Тейде. Более посильная, чем поход к вершине, и очень живописная."
+          },
+          {
+            "tip": "Лёгкий - сложный | Вулканические пейзажи, смотровые площадки, поездка на целый день. Лучшая походная экскурсия на целый день на острове. Гора Тейде, высочайшая вершина Испании в 3718 м и объект Всемирного наследия ЮНЕСКО."
+          }
+        ]
       },
       {
-        "category": "Еда и напитки"
+        "category": "Еда и напитки",
+        "items": [
+          {
+            "tip": "Быстрый кофе, простая местная еда, ближайший вариант. Лучше для удобства, чем для гастрономической поездки. Удобно, когда хочется чего-то совсем рядом."
+          },
+          {
+            "tip": "Бранч, кофе, лёгкая дневная еда. Полезный вариант для чего-то лёгкого перед осмотром достопримечательностей. В городе много мест для бранча и кофе наряду с тапас и морепродуктами."
+          },
+          {
+            "tip": "Вечерние напитки, тапас, оживлённая атмосфера. Отличный район для ужина и напитков в центре Санта-Крус. Лучше всего, когда хочется городского вечера, а не еды на пляже."
+          },
+          {
+            "tip": "Тапас, непринуждённый ужин, район La Noria. Входит в число лучших ресторанов вокруг La Noria, с высокими оценками."
+          },
+          {
+            "tip": "Вино, блюда для компании, атмосфера старого города. Прекрасно для спокойного вечера рядом с церковью и старыми улицами, с террасой, вином и блюдами для компании."
+          },
+          {
+            "tip": "Завтрак на рынке, закуски, местные продукты, лёгкая еда. Одна из лучших гастрономических остановок в Санта-Крус, со свежими продуктами и непринуждёнными барами-ресторанами."
+          },
+          {
+            "tip": "Обновлённая канарская кухня, ужин получше. Более серьёзный выбор ресторана рядом с рынком, описанный Michelin как обязательный адрес с обновлённой традиционной кухней."
+          },
+          {
+            "tip": "Японская и перуанская кухня, особенный ужин. Более изысканный вариант рядом с рынком, среди высоко оценённых ресторанов недалеко от Mercado."
+          },
+          {
+            "tip": "Тако, коктейли, непринуждённый ужин. Хорошо, если хочется чего-то отличного от канарской еды, среди лучших мест рядом с Mercado и La Noria."
+          },
+          {
+            "tip": "Свежая рыба, непринуждённый местный обед, в сочетании с Las Teresitas. Один из лучших гастрономических районов поблизости. Отлично после пляжа Las Teresitas или перед поездкой в Анагу."
+          },
+          {
+            "tip": "Рыба дня, морепродукты, местный обед. Сильный вариант с морепродуктами рядом с Las Teresitas, часто хвалят за рыбу дня и осьминога."
+          },
+          {
+            "tip": "Морепродукты, средиземноморская еда, обед в пляжный день. Надёжный выбор рядом с Las Teresitas, среди самых популярных ресторанов San Andrés."
+          },
+          {
+            "tip": "Непринуждённая испанская еда, морепродукты, хорошее соотношение цены и качества. Хороший небольшой местный вариант, высоко оценённый среди недорогих мест рядом с Las Teresitas."
+          },
+          {
+            "tip": "Непринуждённые морепродукты, простая местная еда. Практичный, непринуждённый вариант рядом с Las Teresitas, оценённый на 8.5/10 за еду, обслуживание и атмосферу."
+          },
+          {
+            "tip": "Обед в историческом городе, кафе, ужин. Лучшая культурно-гастрономическая экскурсия из Санта-Крус. Отлично сочетать с историческим центром ЮНЕСКО и спокойной прогулкой."
+          },
+          {
+            "tip": "Местная канарская еда, вино, деревенский опыт. Отлично для гостей, любящих гастрономические приключения. Guachinches, это простые, бюджетные места, где подают незатейливую домашнюю еду, в основном на севере и часто сезонные."
+          },
+          {
+            "tip": "Виды на океан, непринуждённый обед, день у природных бассейнов. Хороший гастрономический район, если вы посещаете природные бассейны. Отлично подходит для спокойной поездки на день по северному побережью."
+          },
+          {
+            "tip": "Живописный обед, рыба, поездка на день по Анаге. Лучшая гастрономическая остановка во время экскурсии по Анаге. Рекомендуется для обеда после Taganana, Almáciga или Benijo."
+          }
+        ]
       },
       {
-        "category": "Шопинг"
+        "category": "Шопинг",
+        "items": [
+          {
+            "tip": "Базовые товары, напитки, закуски, быстрые мелочи. Лучше для удобства. Используйте для воды, мелких продуктов и вещей в последнюю минуту, а не для полноценного шопинга."
+          },
+          {
+            "tip": "Мода, обувь, косметика, городской шопинг. Главная торговая улица в Санта-Крус, проходящая через центр, с международными франшизами, магазинами одежды, бутиками, кафе и боковыми улочками, которые стоит исследовать."
+          },
+          {
+            "tip": "Шопинг в центре города, кафе, в сочетании с осмотром достопримечательностей. Хорошая отправная точка для спокойной прогулки по магазинам, ведущей на Calle del Castillo, Imeldo Serís и Valentín Sanz."
+          },
+          {
+            "tip": "Бутики, местные магазины, кафе. Лучше, если хочется побродить за пределами главной торговой улицы. Улицы вокруг Calle Castillo и Plaza del Príncipe приятно сочетают шопинг и гастрономические остановки."
+          },
+          {
+            "tip": "Свежие продукты, местная еда, цветы, небольшие подарки. Лучший местный рынок в Санта-Крус, известный свежими фруктами, овощами, рыбой, мясом и цветами. Здание 1944 года имеет красивые арки и патио в мавританском стиле."
+          },
+          {
+            "tip": "Комфортный шопинг, кафе, удобная парковка. Изысканный торговый центр в центре Санта-Крус, удобный ориентир с парковкой и регулярными мероприятиями."
+          },
+          {
+            "tip": "Большой торговый центр, Primark, кинотеатр, фуд-корт. Лучший торговый центр в Санта-Крус, с почти 80 магазинами, 15 кинозалами, фуд-кортом на крыше и единственным Primark на острове."
+          },
+          {
+            "tip": "Базовые товары для пляжного дня, закуски, простые мелочи. Полезно до или после Las Teresitas. Не место для шопинга, но практично для напитков, пляжных закусок или мелких нужд."
+          },
+          {
+            "tip": "Гипермаркет, крупный шопинг, практичные дела. Лучше для большой закупки продуктов или практичных дел на машине, с более чем 100 магазинами, большим Carrefour и более чем 2000 бесплатных парковочных мест."
+          },
+          {
+            "tip": "Бутики, подарки, кафе, исторические улицы. Лучшая культурно-торговая экскурсия. La Laguna, город Всемирного наследия ЮНЕСКО, отлично для сочетания шопинга, кофе и исторической прогулки."
+          },
+          {
+            "tip": "Свежие продукты, цветы, местная еда. Хороший местный рынок в историческом центре, известный свежими продуктами, цветами и местной гастрономией."
+          },
+          {
+            "tip": "Местное вино, сыр, канарские продукты. Хорошо, если хочется местных продуктов питания, а не обычного ритейла. Сочетайте с обедом в guachinche или поездкой по северному побережью."
+          },
+          {
+            "tip": "Шопинг во время поездки на день, сувениры, кафе. Приятно, если вы уже посещаете Puerto de la Cruz, Lago Martiánez или La Orotava. Стоит того как часть полного дня на северном побережье, а не только ради шопинга."
+          },
+          {
+            "tip": "Традиционный город, ремёсла, подарки. Лучше для атмосферы и местных подарков, чем для обычного ритейла. Хорошо сочетается с Puerto de la Cruz или пляжем El Bollullo."
+          }
+        ]
       }
     ],
     "gettingAround": [

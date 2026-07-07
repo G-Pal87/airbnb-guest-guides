@@ -121,7 +121,7 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once: for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let me know as soon as you can and I'll help sort it out."
+      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once: for example a hair dryer, the oven and the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just shut down all appliances and switch back the main electrical fuse (next to the entrance door)!"
     },
     {
       "name": "Kitchen",

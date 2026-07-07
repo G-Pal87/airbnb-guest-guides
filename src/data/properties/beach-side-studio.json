@@ -14,7 +14,8 @@
   "address": {
     "display": "Calle Manuel Ravina 69, Valleseco, Santa Cruz de Tenerife",
     "googleMapsUrl": "https://goo.gl/maps/WT1nmL1gHQZAudzH7",
-    "nearestLandmark": "Near Punto y Coma Minimarket, Valleseco village"
+    "nearestLandmark": "Near Punto y Coma Minimarket, Valleseco village",
+    "addressNote": "Google Maps is not 100% accurate for the last stretch, so please use the photo guide!"
   },
   "quickRef": {
     "checkoutTime": "11:00 AM",

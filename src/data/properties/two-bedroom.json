@@ -164,7 +164,7 @@
       "instructions": "My right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
     }
   ],
-  "thingsToDo":   [
+  "thingsToDo": [
     {
       "category": "Beaches 🏝️",
       "icon": "🏝️",
@@ -183,25 +183,25 @@
         },
         {
           "name": "Boca Cangrejo",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Boca Cangrejo is a small and very charming Canarian village with a little beach, traditional fishing boats, white houses, nice local bars, and a great restaurant for fresh fish and paella. Look for the bay decorated with colourful hearts and paintings made by a local fisherman.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Cangrejo+Tenerife"
         },
         {
           "name": "Playa Montaña Roja",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Playa Montaña Roja is a long, calm, very beautiful beach near El Médano. It is especially nice for sunset.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+Montana+Roja+El+Medano+Tenerife"
         },
         {
           "name": "Playa de Bollullo",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Playa de Bollullo is a gorgeous natural beach in the scenic La Orotava Valley in the north of Tenerife. The drive there is a little adventure itself, but the beach is very much worth it.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Bollullo+Tenerife"
         },
         {
           "name": "Playa de Benijo",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Playa de Benijo is an epic rocky beach in the north of the island. The drive there is very scenic and already part of the experience.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         }
@@ -213,31 +213,31 @@
       "items": [
         {
           "name": "San Andrés village",
-          "distance": "Car or bus",
+          "distance": "Car or Bus",
           "tip": "For eating out close to the house, go to San Andrés or Santa Cruz downtown. Las Teresitas has small beach bars for drinks and tapas, but for a proper meal, it is better to go into San Andrés village.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Santa+Cruz+de+Tenerife"
         },
         {
           "name": "Tasca El Asunto Los Parres",
-          "distance": "Restaurant",
+          "distance": "Car or Bus",
           "tip": "A small family run restaurant with Canarian wines, which are quite rare to find, and amazing food. They also have vegetarian and vegan options.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasca+El+Asunto+Los+Parres+Tenerife"
         },
         {
           "name": "Lena",
-          "distance": "Restaurant",
+          "distance": "Car or Bus",
           "tip": "Great Canarian food, a long menu, and very nice staff. It is not the cheapest option, but the food is really good.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lena+Restaurante+Tenerife"
         },
         {
           "name": "Kiosco in Boca Cangrejo",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "A good option in Boca Cangrejo for fresh fish and very good paella.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Cangrejo+Tenerife"
         },
         {
           "name": "Aroma y Sabor",
-          "distance": "Restaurant",
+          "distance": "Car or Bus",
           "tip": "A great restaurant recommendation for the way back from Teide. It serves Peruvian food, is super delicious, and offers good food for a good price.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aroma+y+Sabor+Tenerife"
         }
@@ -249,43 +249,43 @@
       "items": [
         {
           "name": "San Andrés",
-          "distance": "Car or bus",
+          "distance": "Car or Bus",
           "tip": "San Andrés is one of the oldest villages of the Canary Islands, founded around 1497. It is close to Las Teresitas and sits beautifully next to the Anaga mountains.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Santa+Cruz+de+Tenerife"
         },
         {
           "name": "Boca Cangrejo",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "A small, charming Canarian fishing village with white houses, traditional boats, a little beach, local bars, and a bay decorated with colourful hearts and paintings.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Cangrejo+Tenerife"
         },
         {
           "name": "El Médano",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "El Médano is a small resort town on the south east coast, close to the south airport. It is very laid back, casual, clean, and typically Spanish in look and feel. It is popular with windsurfers, kitesurfers, sporty people, and digital nomads. It is a great place to walk around, swim, do watersports, check out the weekend market, eat out, or go for drinks.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Medano+Tenerife"
         },
         {
           "name": "Los Cristianos and Playa de las Américas",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "These are the most famous touristic spots in the south, with the safest weather, usually sunny and warm. They are busy and very touristic, with hotels, shops, clubs, services, diving clubs, and everything you may need.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Cristianos+Tenerife"
         },
         {
           "name": "Puerto de la Cruz",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Puerto de la Cruz is a very historical and authentic Canarian town with typical houses, museums, and nice little beaches. It is definitely worth a visit.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto+de+la+Cruz+Tenerife"
         },
         {
           "name": "Los Gigantes",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Los Gigantes is a resort town on the west coast of Tenerife. It is famous for the giant rock formations, Acantilados de Los Gigantes, which rise from the sea to a height of around 500 to 800 metres. The town is nice to walk around, although it is a little touristic.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Gigantes+Tenerife"
         },
         {
           "name": "Masca",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Masca is one of the most beautiful villages on the island, and maybe even in the Canary Islands. Go there, walk around, enjoy an almond cake, try the tropical fruit juices, and maybe do a hike. Stay for sunset if you have the chance.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masca+Tenerife"
         }
@@ -297,31 +297,31 @@
       "items": [
         {
           "name": "Anaga area",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "The Anaga area is the closest and greenest mountain area to the house. It has many hiking paths and small villages.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
         },
         {
           "name": "Teide National Park",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Teide National Park is the national park around Mount Teide, with many different treks and volcanic landscapes.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+Tenerife"
         },
         {
           "name": "Mount Teide",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Mount Teide is a volcano and the highest point in Spain at 3,715 metres. You can drive or take the bus up to around 2,200 metres, then hike up or take the cable car. The hike takes around 4 to 5 hours depending on your fitness level. For the last 50 metres to the summit, you need to register in advance. Even without that final part, the view is amazing and rewarding. It is not an easy hike and it can get cold up there, but it is very much worth it.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount+Teide+Tenerife"
         },
         {
           "name": "Orotava area",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "The Orotava area is a wine region on the northern side of the island and offers many nice treks and scenic routes.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+Tenerife"
         },
         {
           "name": "Barranco de Masca",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "If you visit Masca and like hiking, Barranco de Masca is a great option to consider.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barranco+de+Masca+Tenerife"
         },
@@ -335,27 +335,23 @@
     {
       "category": "Wine & Local Experiences 🍷",
       "icon": "🍷",
+      "description": "Tenerife has some of the highest elevation vineyards in Europe. The production is limited and the wines taste different here because of the volcanic soil and climate. The best way to experience local wine is to arrange a visit and tasting with one of the bodegas.",
       "items": [
         {
-          "name": "Tenerife wine tasting",
-          "distance": "Experience",
-          "tip": "Tenerife has some of the highest elevation vineyards in Europe. The production is limited and the wines taste different here because of the volcanic soil and climate. The best way to experience local wine is to arrange a visit and tasting with one of the bodegas."
-        },
-        {
           "name": "Bodegas Monje Tenerife in El Sauzal",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Recommended bodega in El Sauzal.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodegas+Monje+El+Sauzal+Tenerife"
         },
         {
           "name": "Bodega El Lomo",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Recommended for a wine visit and tasting.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodega+El+Lomo+Tenerife"
         },
         {
           "name": "Bodegas Suertes del Marqués",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Another recommended local winery experience.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodegas+Suertes+del+Marques+Tenerife"
         }
@@ -367,25 +363,25 @@
       "items": [
         {
           "name": "Siam Park",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Siam Park is one of the most famous water parks in the world, with many attractions and slides.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam+Park+Tenerife"
         },
         {
           "name": "Loro Parque",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Loro Parque is a modern zoo with many different types of rescued animals.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loro+Parque+Tenerife"
         },
         {
           "name": "El Médano watersports",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "El Médano is a great place for windsurfing, kitesurfing, swimming, beach walks, and a relaxed sporty atmosphere.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Medano+Tenerife"
         },
         {
           "name": "Los Cristianos and Playa de las Américas",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "A good area for tourist services, diving clubs, nightlife, shopping, restaurants, and the most reliable sunny weather.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Cristianos+Tenerife"
         }
@@ -413,19 +409,19 @@
         },
         {
           "name": "Santa Cruz Market Hall",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "A good option for fresh food, local products, and a more local shopping experience.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
           "name": "Lidl",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Lidl is further away, but useful for larger grocery shopping.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lidl+Santa+Cruz+de+Tenerife"
         },
         {
           "name": "Mercadona or Spar",
-          "distance": "Car",
+          "distance": "Car or Bus",
           "tip": "Mercadona and Spar are also further away, but good for bigger shopping. Google Maps is accurate for locations and opening times."
         }
       ]
@@ -647,7 +643,10 @@
     "steps": [
       "If you could give any dishes a quick wash and leave them on the drying rack, that would be great!",
       "If you could clear out the fridge and pop any leftover food in the bin, I'd appreciate it!",
-      { "text": "It would be great if you dispose of the garbage. You will find big containers just before you leave the village.", "mapsUrl": "https://maps.app.goo.gl/CbhTHvcmiUrj9ivg9?g_st=ic" },
+      {
+        "text": "It would be great if you dispose of the garbage. You will find big containers just before you leave the village.",
+        "mapsUrl": "https://maps.app.goo.gl/CbhTHvcmiUrj9ivg9?g_st=ic"
+      },
       "Before heading off, please lock the windows and the door.",
       "Please switch off all the lights and any electric appliances (oven, stove, blender) when you're done.",
       "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",

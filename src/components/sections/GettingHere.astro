@@ -65,7 +65,7 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
           </p>
           {property.address.addressNote && (
             <p class="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-xl px-3 py-2 mt-3">
-              ⚠️ {property.address.addressNote}
+              <span aria-hidden="true">⚠️ </span><span data-i18n="address.addressNote">{property.address.addressNote}</span>
             </p>
           )}
           <a
@@ -208,7 +208,7 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
                         loading="lazy"
                         class="w-full rounded-xl object-contain mb-2"
                       />
-                      <p class="text-stone-600 text-sm leading-relaxed">{photo.caption}</p>
+                      <p class="text-stone-600 text-sm leading-relaxed" data-i18n={`gettingHere.directionPhotosBus.${i}.caption`}>{photo.caption}</p>
                     </div>
                   </div>
                 ))}

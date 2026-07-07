@@ -77,7 +77,9 @@ const { property } = Astro.props;
             </div>
           </div>
           {property.wifi.notes && (
-            <p class="text-white/80 text-xs mt-3 leading-relaxed">ℹ️ {property.wifi.notes}</p>
+            <p class="text-white/80 text-xs mt-3 leading-relaxed">
+              <span aria-hidden="true">ℹ️ </span><span data-i18n="wifi.notes">{property.wifi.notes}</span>
+            </p>
           )}
         </div>
       </div>

@@ -40,13 +40,13 @@ const hasHeroImage = property.heroImage && property.heroImage.trim() !== '';
       </h1>
       <!-- Subtitle -->
       {property.subtitle && (
-        <p class="text-accent font-semibold text-lg md:text-xl mb-2 drop-shadow">
+        <p class="text-accent font-semibold text-lg md:text-xl mb-2 drop-shadow" data-i18n="subtitle">
           {property.subtitle}
         </p>
       )}
       <!-- Tagline -->
       {property.tagline && (
-        <p class="text-white/75 text-base md:text-lg font-light italic">
+        <p class="text-white/75 text-base md:text-lg font-light italic" data-i18n="tagline">
           {property.tagline}
         </p>
       )}

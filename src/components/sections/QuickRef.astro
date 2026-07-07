@@ -3,10 +3,12 @@ interface Props {
   property: {
     wifi: { networkName: string; networkNames?: string[]; password: string };
     quickRef: { checkoutTime: string; emergencyPhone: string; checkinTime: string };
+    cohost?: unknown;
   };
 }
 
 const { property } = Astro.props;
+const hasCohost = !!property.cohost;
 ---
 
 <section class="relative bg-gradient-to-br from-teal-800 via-primary to-cyan-600 py-10 overflow-hidden" aria-labelledby="quickref-heading">
@@ -88,12 +90,16 @@ const { property } = Astro.props;
           <span class="text-xl" aria-hidden="true">📞</span>
           <span class="text-sm font-semibold text-white/80 uppercase tracking-wide" data-i18n="ui.contacts">Contacts</span>
         </div>
-        <p class="text-xs text-white/70 mb-3 leading-relaxed" data-i18n="ui.contactsNote">Need help? We're always available.</p>
+        <p class="text-xs text-white/70 mb-3 leading-relaxed" data-i18n={hasCohost ? "ui.contactsNoteCohost" : "ui.contactsNoteSolo"}>
+          {hasCohost
+            ? "Need help? We're always available."
+            : "Need help? I'm always available! Contact me."}
+        </p>
         <a
           href="#page-bottom"
           class="inline-flex items-center justify-center gap-2 bg-accent text-charcoal text-sm font-bold px-4 py-2.5 rounded-xl shadow-md hover:bg-yellow-300 hover:shadow-lg transition-all min-h-[44px]"
         >
-          <span data-i18n="ui.contactUs">Contact Us</span>
+          <span data-i18n={hasCohost ? "ui.contactUsCohost" : "ui.contactUsSolo"}>{hasCohost ? 'Contact Us' : 'Contact Me'}</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
           </svg>

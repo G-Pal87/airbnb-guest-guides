@@ -14,7 +14,8 @@
   "address": {
     "display": "Calle Manuel Ravina 69, Valleseco, Santa Cruz de Tenerife",
     "googleMapsUrl": "https://goo.gl/maps/WT1nmL1gHQZAudzH7",
-    "nearestLandmark": "Near Punto y Coma Minimarket, Valleseco village"
+    "nearestLandmark": "Near Punto y Coma Minimarket, Valleseco village",
+    "addressNote": "Google Maps is not 100% accurate for the last stretch, so please use the photo guide!"
   },
   "quickRef": {
     "checkoutTime": "11:00 AM",
@@ -28,7 +29,7 @@
       "TP-LINK 347C"
     ],
     "password": "26419398",
-    "notes": "If you experience connection issues, flip the switch on the socket next to the router to restart it. If the problem persists, let me know."
+    "notes": "If you experience connection issues, please let me know so I can help."
   },
   "checkin": {
     "keyLocation": "Look for the white door on the lower part of the house. The keybox is right next to it.",
@@ -88,7 +89,7 @@
         "caption": "Look for the white door opening from the stairs at the side of the house, with a key box next to it. Code: 6015"
       }
     ],
-    "taxi": "Taxis are available from Tenerife North (TFN) and Tenerife South (TFS) airports. Agree on the fare before departing or ensure the meter is running. Ask the driver to drop you at the parking spot linked below, then follow the By Car step-by-step photo guide from photo 1.",
+    "taxi": "Taxis are available from Tenerife North (TFN) airport and from Santa Cruz (costs about 10 EUR). Best is to agree on the fare before departing or ensure the meter is running. From Tenerife South, I recommend to take the bus to Santa Cruz first as it's further away. Ask the taxi driver to drop you at the parking spot linked above in the \"By Car\" section, then follow the step-by-step photo guide from photo 1.",
     "directionPhotosStart": 1,
     "puntoYComaUrl": "https://goo.gl/maps/SxAHmMN7bQ8NW4gy6",
     "directionPhotosBus": [
@@ -120,7 +121,7 @@
     {
       "name": "Electricity",
       "icon": "💡",
-      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once: for example a hair dryer plus the oven plus the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just let me know as soon as you can and I'll help sort it out."
+      "instructions": "The house's electrical system is a little old, so it can't handle several high-power appliances running at once: for example a hair dryer, the oven and the stove. To be on the safe side, please use just one of these at a time. If the electricity ever cuts out, don't worry at all, just shut down all appliances and switch back the main electrical fuse (next to the entrance door)!"
     },
     {
       "name": "Kitchen",
@@ -130,7 +131,7 @@
     {
       "name": "Washing Machine",
       "icon": "🫧",
-      "instructions": "You'll find the washing machine in the kitchen, please feel free to use it. The fast programme called \"Rapido\" is usually all you need. If you have any questions, just let me know!"
+      "instructions": "You'll find the washing machine in the hall area, feel free to use it! The fast programme called \"Rapido\" is usually all you need. If you have any questions, just let me know."
     },
     {
       "name": "Drinking Water",
@@ -1054,5 +1055,6 @@
       "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",
       "Please drop me a WhatsApp or Airbnb message to let me know you've left and I'd truly love a review if you enjoyed your stay! 🩵"
     ]
-  }
+  },
+  "hostPhoto": "/airbnb-guest-guides/images/beach-house-style-studio/Rita%20Pic.jpeg"
 }

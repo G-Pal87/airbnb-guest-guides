@@ -213,7 +213,7 @@
       "items": [
         {
           "name": "San Andrés village",
-          "distance": "Car or bus",
+          "distance": "Car or Bus",
           "tip": "For eating out close to the house, go to San Andrés or Santa Cruz downtown. Las Teresitas has small beach bars for drinks and tapas, but for a proper meal, it is better to go into San Andrés village.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Santa+Cruz+de+Tenerife"
         },
@@ -249,7 +249,7 @@
       "items": [
         {
           "name": "San Andrés",
-          "distance": "Car or bus",
+          "distance": "Car or Bus",
           "tip": "San Andrés is one of the oldest villages of the Canary Islands, founded around 1497. It is close to Las Teresitas and sits beautifully next to the Anaga mountains.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Santa+Cruz+de+Tenerife"
         },

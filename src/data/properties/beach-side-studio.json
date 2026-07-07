@@ -159,676 +159,269 @@
       "instructions": "My right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
     }
   ],
-  "thingsToDo": [
+  "thingsToDo":   [
     {
       "category": "Beaches 🏝️",
+      "icon": "🏝️",
       "items": [
         {
-          "name": "Playa de Valleseco / Los Charcos de Valleseco",
-          "distance": "1-2 km, walk or car",
-          "tip": "Closest swim, quick dip, local feel. Closest option: a small urban gravel beach with calm waters and easy access. Practical rather than pretty, but great for a quick dip.",
+          "name": "Playa de Valleseco",
+          "distance": "5 min walk",
+          "tip": "The closest beach to the house, only around a 5 minute walk down the stairs. It is a new beach with all basic amenities and a very easy option for a quick swim close to home.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Playa de Las Teresitas",
-          "distance": "7-8 km, car, bus, or taxi",
-          "tip": "Best easy beach day, families, swimming. Golden sand, full facilities, restaurants, and calm water protected by a breakwater. The safest top recommendation from this location.",
+          "name": "Playa de las Teresitas",
+          "distance": "7 min by car",
+          "tip": "Playa de las Teresitas is an artificial golden sandy beach just north of San Andrés. It is long, beautiful, and safe for swimming or paddle boarding, although it can get windy. The white sand was imported from the Sahara, which makes it very different from the usual black sand beaches in Tenerife. It is around 7 minutes by car from the house, or around 15 minutes by bus.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Teresitas+Tenerife"
         },
         {
-          "name": "Playa de Las Gaviotas",
-          "distance": "9-10 km, car or taxi",
-          "tip": "Black sand, quieter beach, hidden gem. A wilder black sand beach close to Las Teresitas. Good when you want something less polished and less crowded, but the sea can be rougher.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Gaviotas+Tenerife"
+          "name": "Boca Cangrejo",
+          "distance": "Car",
+          "tip": "Boca Cangrejo is a small and very charming Canarian village with a little beach, traditional fishing boats, white houses, nice local bars, and a great restaurant for fresh fish and paella. Look for the bay decorated with colourful hearts and paintings made by a local fisherman.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Cangrejo+Tenerife"
         },
         {
-          "name": "Playa de Igueste de San Andrés",
-          "distance": "14-16 km, car",
-          "tip": "Quiet village, scenic coast, hidden gem. A beautiful local escape beyond San Andrés. Better for a scenic coastal visit than a classic sandy beach day.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Igueste+de+San+Andres+Tenerife"
+          "name": "Playa Montaña Roja",
+          "distance": "Car",
+          "tip": "Playa Montaña Roja is a long, calm, very beautiful beach near El Médano. It is especially nice for sunset.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+Montana+Roja+El+Medano+Tenerife"
         },
         {
-          "name": "Playa de Antequera",
-          "distance": "Accessible by boat or long hike",
-          "tip": "Remote beach, adventure, wild nature. One of the true hidden gems of Anaga. Not practical for a casual visit, but absolutely amazing for adventurous guests.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Antequera+Tenerife"
-        },
-        {
-          "name": "Playa del Roque de las Bodegas",
-          "distance": "24-27 km, car",
-          "tip": "Scenic drive, surf, restaurants nearby. A great Anaga day trip stop: beautiful black sand and dramatic mountain scenery, with restaurants close by. Better for scenery and food than calm swimming.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+del+Roque+de+las+Bodegas+Tenerife"
-        },
-        {
-          "name": "Playa de Almáciga",
-          "distance": "25-28 km, car",
-          "tip": "Wild black sand, surfers, nature. Beautiful and dramatic, but not the easiest swimming beach. Best for guests who love wild coastlines and don't expect sunbeds.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Almaciga+Tenerife"
+          "name": "Playa de Bollullo",
+          "distance": "Car",
+          "tip": "Playa de Bollullo is a gorgeous natural beach in the scenic La Orotava Valley in the north of Tenerife. The drive there is a little adventure itself, but the beach is very much worth it.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Bollullo+Tenerife"
         },
         {
           "name": "Playa de Benijo",
-          "distance": "27-30 km, car",
-          "tip": "Sunset, photography, wild Anaga scenery. One of the most beautiful beaches in Tenerife for photos and sunsets: wild, black sand, with strong ocean conditions. Check sea conditions before going.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
-        },
-        {
-          "name": "Bajamar Natural Pools",
-          "distance": "20-23 km, car or bus",
-          "tip": "Safe sea pools, families, wave watching. Not a beach but very worth it. Great when the north coast is dramatic and you want a safer ocean experience.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piscinas+Naturales+de+Bajamar+Tenerife"
-        },
-        {
-          "name": "Punta del Hidalgo Natural Pools",
-          "distance": "24-27 km, car or bus",
-          "tip": "Natural pools, coastal walk, sunset. An excellent coastal day trip: more about swimming pools, lava coast, and stunning views than sand.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+natural+pools+Tenerife"
-        },
-        {
-          "name": "Playa de Mesa del Mar",
-          "distance": "28-32 km, car",
-          "tip": "Black sand, local beach, north coast vibe. A nice alternative on the north coast, good for guests exploring Tacoronte or the wine area.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Mesa+del+Mar+Tenerife"
-        },
-        {
-          "name": "Playa de El Bollullo",
-          "distance": "38-45 km, car then short walk",
-          "tip": "Beautiful black sand, north coast classic. One of the prettiest black sand beaches in northern Tenerife. Worth it if you are already visiting La Orotava or Puerto de la Cruz.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+El+Bollullo+Tenerife"
-        },
-        {
-          "name": "Playa Jardín, Puerto de la Cruz",
-          "distance": "40-45 km, car or bus",
-          "tip": "Puerto de la Cruz day trip. Normally famous and scenic, but water quality closures have affected Playa Jardín since 2024. Check current bathing status before going.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+Jardin+Puerto+de+la+Cruz+Tenerife"
-        }
-      ]
-    },
-    {
-      "category": "Historical Sites & Scenic Walks 🏰",
-      "items": [
-        {
-          "name": "Playa de Valleseco coastal walk",
-          "distance": "1-2 km, walk or car",
-          "tip": "Closest sea walk, local feel, quick stroll. The easiest coastal walk from the house. Practical rather than polished, but very local and good for a quick sea view.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Rambla de Santa Cruz",
-          "distance": "2-3 km, car, taxi, bus, or long walk",
-          "tip": "City walk, trees, cafes, local life. A pleasant urban walk through one of the main green boulevards of Santa Cruz. Lovely for a relaxed morning or late afternoon.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Parque García Sanabria",
-          "distance": "3-4 km, car, taxi, bus, or long walk",
-          "tip": "Shaded walk, plants, fountains, sculptures. One of the best easy scenic walks in the city, perfect when you want greenery without leaving Santa Cruz.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Plaza de España & Castillo de San Cristóbal",
-          "distance": "3.5-4.5 km, car, taxi, bus, or walk",
-          "tip": "City history, central square, easy sightseeing. A great starting point for exploring central Santa Cruz. The underground interpretation centre preserves remains of the old castle, capital of Tenerife since 1833.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Santa+Cruz+de+Tenerife+Castillo+de+San+Cristobal"
-        },
-        {
-          "name": "Iglesia de Nuestra Señora de la Concepción & La Noria",
-          "distance": "4-5 km, car, taxi, bus, or walk",
-          "tip": "Old streets, church, bars, local evening walk. Lovely for a historical city stroll. The church and nearby La Noria streets are among the most atmospheric parts of old Santa Cruz.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+Nuestra+Senora+de+la+Concepcion+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Mercado Nuestra Señora de África",
-          "distance": "4.5-5.5 km, car, taxi, or bus",
-          "tip": "Local market, food, architecture, morning walk. Not a classic monument, but a great cultural stop. Best in the morning for local produce, snacks, and atmosphere.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Auditorio de Tenerife",
-          "distance": "5-6 km, car, taxi, or bus",
-          "tip": "Modern architecture, photos, sea walk. One of Santa Cruz's most iconic modern landmarks, designed by Santiago Calatrava. Stunning for photos along the seafront.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorio+de+Tenerife+Santa+Cruz"
-        },
-        {
-          "name": "Palmetum of Santa Cruz",
-          "distance": "5.5-6.5 km, car, taxi, or bus",
-          "tip": "Botanical walk, sea views, unusual garden. A very good scenic walk inside the city. A 12 hectare botanical garden specialising in palm trees.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "San Andrés village",
-          "distance": "6-7 km, car, bus, or taxi",
-          "tip": "Village feel, seafood, Las Teresitas combo. Small, simple, and local. Great to combine with Las Teresitas beach or a drive into Anaga.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife"
-        },
-        {
-          "name": "Mirador de Las Teresitas",
-          "distance": "8-9 km, car or taxi",
-          "tip": "Best beach viewpoint, photos, scenic stop. One of the easiest 'wow view' stops from the house. Best combined with Las Teresitas or San Andrés.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
-        },
-        {
-          "name": "San Cristóbal de La Laguna Historic Centre",
-          "distance": "13-16 km, car, taxi, tram, or bus",
-          "tip": "UNESCO town, colonial streets, architecture. One of the best cultural excursions from Santa Cruz. La Laguna's historic centre has been a UNESCO World Heritage Site since 1999.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Cristobal+de+La+Laguna+Historic+Centre+Tenerife"
-        },
-        {
-          "name": "Anaga Rural Park scenic drive",
-          "distance": "20-35 km depending on stop, car or tour",
-          "tip": "Mountains, laurel forest, viewpoints, villages. The best nature and scenery excursion from this location. Anaga is a protected rural park and, since 2015, a UNESCO Biosphere Reserve.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
-        },
-        {
-          "name": "Cruz del Carmen Visitor Centre, Anaga",
-          "distance": "22-28 km, car or organised tour",
-          "tip": "Forest walks, Anaga information, viewpoints. The best starting point for Anaga forest walks, with information and advice for routes in the Rural Park.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
-        },
-        {
-          "name": "Taganana village",
-          "distance": "22-26 km, car",
-          "tip": "Historic village, Anaga scenery, mountain road. A beautiful old village in Anaga with dramatic landscapes. Great for a scenic drive plus a more traditional feel.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Tenerife"
-        },
-        {
-          "name": "Roque de las Bodegas scenic coast",
-          "distance": "24-27 km, car",
-          "tip": "Ocean views, black sand, seafood lunch. More scenic than historical, but excellent for an Anaga day trip. Combine with Taganana, Almáciga, and Benijo.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roque+de+las+Bodegas+Tenerife"
-        },
-        {
-          "name": "Benijo viewpoint and coastal walk",
-          "distance": "27-30 km, car",
-          "tip": "Sunset, wild coast, photography. One of the most dramatic scenic spots in Tenerife. Better for views and photos than easy swimming.",
+          "distance": "Car",
+          "tip": "Playa de Benijo is an epic rocky beach in the north of the island. The drive there is very scenic and already part of the experience.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
         }
       ]
     },
     {
-      "category": "Attractions & Excursions 📸",
+      "category": "Eat & Drink 🍽️",
+      "icon": "🍽️",
       "items": [
         {
-          "name": "Playa de Valleseco / Los Charcos de Valleseco",
-          "distance": "1-2 km, walk or car",
-          "tip": "Closest sea spot, quick dip, local feel. Very close and practical. More local than postcard beautiful, but useful for a quick ocean stop.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Rambla de Santa Cruz",
-          "distance": "2-3 km, bus, taxi, car, or long walk",
-          "tip": "Urban walk, cafes, local life. A pleasant city walk, good if you want something easy without leaving Santa Cruz.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Parque García Sanabria",
-          "distance": "3-4 km, bus, taxi, car, or long walk",
-          "tip": "Green walk, shade, fountains, sculptures. One of the nicest easy walks in Santa Cruz, especially when the weather is warm.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Plaza de España & city centre",
-          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
-          "tip": "City sightseeing, shopping, cafes. A good starting point for a Santa Cruz city walk. Easy to combine with the old streets, harbour area, and the Mercado.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Castillo de San Cristóbal Interpretation Centre",
-          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
-          "tip": "Short history stop, city centre. Small but interesting if you are already visiting Plaza de España. Best as a quick add-on rather than a standalone trip.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castillo+de+San+Cristobal+Interpretation+Centre+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Mercado Nuestra Señora de África",
-          "distance": "4.5-5.5 km, bus, taxi, or car",
-          "tip": "Local food, market, morning visit. A great cultural food stop. Best in the morning for fruit, coffee, local products, and atmosphere.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Auditorio de Tenerife",
-          "distance": "5-6 km, bus, taxi, or car",
-          "tip": "Architecture, photos, sea walk. One of Santa Cruz's most iconic modern landmarks, designed by Santiago Calatrava. Good to combine with the Palmetum and waterfront.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auditorio+de+Tenerife+Santa+Cruz"
-        },
-        {
-          "name": "Palmetum of Santa Cruz",
-          "distance": "5.5-6.5 km, bus, taxi, or car",
-          "tip": "Botanical garden, sea views, relaxed walk. A 12 hectare botanical garden specialising in palm trees, one of the best quiet attractions inside Santa Cruz.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
-        },
-        {
           "name": "San Andrés village",
-          "distance": "6-7 km, bus, taxi, or car",
-          "tip": "Seafood, village feel, Las Teresitas combo. A small local village, best combined with Las Teresitas beach and the Mirador.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife"
+          "distance": "Car or bus",
+          "tip": "For eating out close to the house, go to San Andrés or Santa Cruz downtown. Las Teresitas has small beach bars for drinks and tapas, but for a proper meal, it is better to go into San Andrés village.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Playa de Las Teresitas",
-          "distance": "7-8 km, bus, taxi, or car",
-          "tip": "Easy beach day, families, swimming. The easiest beach excursion from this location. Golden sand, calm water, facilities, and restaurants nearby.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Las+Teresitas+Tenerife"
+          "name": "Tasca El Asunto Los Parres",
+          "distance": "Restaurant",
+          "tip": "A small family run restaurant with Canarian wines, which are quite rare to find, and amazing food. They also have vegetarian and vegan options.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasca+El+Asunto+Los+Parres+Tenerife"
         },
         {
-          "name": "Mirador de Las Teresitas",
-          "distance": "8-9 km, car or taxi",
-          "tip": "Viewpoint, photos, beach panorama. One of the easiest wow views from the house. Best before or after Las Teresitas.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
+          "name": "Lena",
+          "distance": "Restaurant",
+          "tip": "Great Canarian food, a long menu, and very nice staff. It is not the cheapest option, but the food is really good.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lena+Restaurante+Tenerife"
         },
         {
-          "name": "San Cristóbal de La Laguna Historic Centre",
-          "distance": "13-16 km, car, taxi, tram, or bus",
-          "tip": "UNESCO town, cafes, architecture. One of the best cultural excursions from Santa Cruz. Great for a half day trip with lunch or coffee.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Cristobal+de+La+Laguna+Historic+Centre+Tenerife"
+          "name": "Kiosco in Boca Cangrejo",
+          "distance": "Car",
+          "tip": "A good option in Boca Cangrejo for fresh fish and very good paella.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Cangrejo+Tenerife"
         },
         {
-          "name": "Bajamar Natural Pools",
-          "distance": "20-23 km, car or bus",
-          "tip": "Ocean pools, families, wave watching. A great alternative to beach swimming, especially when you want ocean water in a more protected spot.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Piscinas+Naturales+de+Bajamar+Tenerife"
+          "name": "Aroma y Sabor",
+          "distance": "Restaurant",
+          "tip": "A great restaurant recommendation for the way back from Teide. It serves Peruvian food, is super delicious, and offers good food for a good price.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aroma+y+Sabor+Tenerife"
+        }
+      ]
+    },
+    {
+      "category": "Villages, Towns & Scenic Walks 🏘️",
+      "icon": "🏘️",
+      "items": [
+        {
+          "name": "San Andrés",
+          "distance": "Car or bus",
+          "tip": "San Andrés is one of the oldest villages of the Canary Islands, founded around 1497. It is close to Las Teresitas and sits beautifully next to the Anaga mountains.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Anaga Rural Park scenic drive",
-          "distance": "20-35 km depending on stop, car or tour",
-          "tip": "Mountains, viewpoints, villages, laurel forest. The best nature excursion from this location. Anaga is a protected rural park and a UNESCO Biosphere Reserve.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
+          "name": "Boca Cangrejo",
+          "distance": "Car",
+          "tip": "A small, charming Canarian fishing village with white houses, traditional boats, a little beach, local bars, and a bay decorated with colourful hearts and paintings.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Cangrejo+Tenerife"
         },
         {
-          "name": "Taganana, Roque de las Bodegas & Benijo",
-          "distance": "22-30 km, car",
-          "tip": "Dramatic coast, villages, lunch, photos. One of the best day trips from Santa Cruz: mountain roads, black sand beaches, ocean views, and traditional food.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+Benijo+Tenerife"
+          "name": "El Médano",
+          "distance": "Car",
+          "tip": "El Médano is a small resort town on the south east coast, close to the south airport. It is very laid back, casual, clean, and typically Spanish in look and feel. It is popular with windsurfers, kitesurfers, sporty people, and digital nomads. It is a great place to walk around, swim, do watersports, check out the weekend market, eat out, or go for drinks.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Medano+Tenerife"
         },
         {
-          "name": "Cruz del Carmen Visitor Centre",
-          "distance": "22-28 km, car or organised tour",
-          "tip": "Forest walks, viewpoints, Anaga info. The best starting point for easy Anaga forest walks and route advice.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
+          "name": "Los Cristianos and Playa de las Américas",
+          "distance": "Car",
+          "tip": "These are the most famous touristic spots in the south, with the safest weather, usually sunny and warm. They are busy and very touristic, with hotels, shops, clubs, services, diving clubs, and everything you may need.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Cristianos+Tenerife"
         },
         {
-          "name": "Punta del Hidalgo",
-          "distance": "24-27 km, car or bus",
-          "tip": "Coastal walk, natural pools, sunset. Very good for a relaxed north coast excursion. Combine with Bajamar or La Laguna.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Punta+del+Hidalgo+Tenerife"
+          "name": "Puerto de la Cruz",
+          "distance": "Car",
+          "tip": "Puerto de la Cruz is a very historical and authentic Canarian town with typical houses, museums, and nice little beaches. It is definitely worth a visit.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto+de+la+Cruz+Tenerife"
         },
         {
-          "name": "Loro Parque, Puerto de la Cruz",
-          "distance": "38-45 km, car or bus",
-          "tip": "Families, full day attraction. One of Tenerife's biggest tourist attractions. Best for families or guests who enjoy animal parks.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loro+Parque+Puerto+de+la+Cruz+Tenerife"
+          "name": "Los Gigantes",
+          "distance": "Car",
+          "tip": "Los Gigantes is a resort town on the west coast of Tenerife. It is famous for the giant rock formations, Acantilados de Los Gigantes, which rise from the sea to a height of around 500 to 800 metres. The town is nice to walk around, although it is a little touristic.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Gigantes+Tenerife"
         },
         {
-          "name": "Puerto de la Cruz & Lago Martiánez",
-          "distance": "38-45 km, car or bus",
-          "tip": "City day trip, sea pools, restaurants. A classic north Tenerife day trip. Lago Martiánez is a seawater pool complex designed by César Manrique.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago+Martianez+Puerto+de+la+Cruz+Tenerife"
-        },
-        {
-          "name": "La Orotava Historic Centre",
-          "distance": "40-45 km, car or bus",
-          "tip": "Traditional architecture, old town, views. A beautiful historic town, good to combine with Puerto de la Cruz or El Bollullo beach.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+Historic+Centre+Tenerife"
-        },
-        {
-          "name": "Teide National Park",
-          "distance": "60-75 km depending on route, car or organised tour",
-          "tip": "Volcano landscapes, viewpoints, full day trip. The biggest must-do excursion in Tenerife. Includes Mount Teide, Spain's highest peak at 3,718 m, and a UNESCO World Heritage Site.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+Tenerife"
-        },
-        {
-          "name": "Masca Village",
-          "distance": "70-85 km, car or organised tour",
-          "tip": "Mountain village, dramatic road, photos. Beautiful but a long drive from Santa Cruz. Best for a full island day trip, ideally with Teide or the Buenavista area.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masca+Village+Tenerife"
-        },
-        {
-          "name": "Siam Park, Costa Adeje",
-          "distance": "80-90 km, car or organised transfer",
-          "tip": "Waterpark, families, thrill rides. Far from this location, but one of Tenerife's most famous attractions. Better as a full day plan, with a typical visit of around 4-6 hours.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam+Park+Tenerife"
+          "name": "Masca",
+          "distance": "Car",
+          "tip": "Masca is one of the most beautiful villages on the island, and maybe even in the Canary Islands. Go there, walk around, enjoy an almond cake, try the tropical fruit juices, and maybe do a hike. Stay for sunset if you have the chance.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masca+Tenerife"
         }
       ]
     },
     {
       "category": "Hiking & Nature Trails ⛰️",
+      "icon": "⛰️",
       "items": [
         {
-          "name": "Valleseco coastal walk",
-          "distance": "1-2 km, walk or car",
-          "tip": "Easy | Closest sea walk, quick local stroll. Best no-hassle option from the house. More urban and local than wild nature, but useful for a quick sea view.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Valleseco+Santa+Cruz+de+Tenerife"
+          "name": "Anaga area",
+          "distance": "Car",
+          "tip": "The Anaga area is the closest and greenest mountain area to the house. It has many hiking paths and small villages.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anaga+Rural+Park+Tenerife"
         },
         {
-          "name": "Rambla de Santa Cruz walk",
-          "distance": "2-3 km, bus, taxi, car, or long walk",
-          "tip": "Easy | City walk, shade, cafes. A relaxed urban walk, good when you don't feel like a proper hike.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rambla+de+Santa+Cruz+de+Tenerife"
+          "name": "Teide National Park",
+          "distance": "Car",
+          "tip": "Teide National Park is the national park around Mount Teide, with many different treks and volcanic landscapes.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+Tenerife"
         },
         {
-          "name": "Parque García Sanabria",
-          "distance": "3-4 km, bus, taxi, car, or long walk",
-          "tip": "Easy | Green walk, shade, sculptures. Best easy green walk inside Santa Cruz. Lovely in the morning or late afternoon.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+Garcia+Sanabria+Santa+Cruz+de+Tenerife"
+          "name": "Mount Teide",
+          "distance": "Car",
+          "tip": "Mount Teide is a volcano and the highest point in Spain at 3,715 metres. You can drive or take the bus up to around 2,200 metres, then hike up or take the cable car. The hike takes around 4 to 5 hours depending on your fitness level. For the last 50 metres to the summit, you need to register in advance. Even without that final part, the view is amazing and rewarding. It is not an easy hike and it can get cold up there, but it is very much worth it.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount+Teide+Tenerife"
         },
         {
-          "name": "Palmetum of Santa Cruz",
-          "distance": "5.5-6.5 km, bus, taxi, or car",
-          "tip": "Easy | Botanical walk, sea views, plants. A very good scenic walk without leaving the city. A 12 hectare botanical garden focused on palm trees.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palmetum+Santa+Cruz+de+Tenerife"
+          "name": "Orotava area",
+          "distance": "Car",
+          "tip": "The Orotava area is a wine region on the northern side of the island and offers many nice treks and scenic routes.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+Tenerife"
         },
         {
-          "name": "Mirador de Las Teresitas viewpoint walk",
-          "distance": "8-9 km, car or taxi",
-          "tip": "Easy | Photos, beach panorama, short walk. Not a proper hike, but one of the easiest scenic viewpoints from the house. Combine with Las Teresitas or San Andrés.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirador+Las+Teresitas+Tenerife"
+          "name": "Barranco de Masca",
+          "distance": "Car",
+          "tip": "If you visit Masca and like hiking, Barranco de Masca is a great option to consider.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barranco+de+Masca+Tenerife"
         },
         {
-          "name": "La Laguna to Cruz del Carmen / Las Mercedes forest",
-          "distance": "18-25 km, car or bus",
-          "tip": "Easy to moderate | Forest, cooler air, local escape. Good option when you want greenery without driving deep into Anaga. Best on hot days or when the coast feels too exposed.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Las+Mercedes+Forest+Tenerife"
-        },
-        {
-          "name": "Bajamar to Punta del Hidalgo coastal walk",
-          "distance": "20-27 km, car or bus",
-          "tip": "Easy to moderate | Natural pools, ocean views, sunset. A great north coast walk with swimming pool stops. Better for coastal scenery than forest hiking.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bajamar+Punta+del+Hidalgo+coastal+walk+Tenerife"
-        },
-        {
-          "name": "Cruz del Carmen: Sendero de los Sentidos",
-          "distance": "22-28 km, car or organised tour",
-          "tip": "Easy | Laurel forest, families, short nature walk. One of the best beginner-friendly Anaga walks: a 1 km circular mostly flat trail, suitable for children and adults alike.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sendero+de+los+Sentidos+Cruz+del+Carmen+Tenerife"
-        },
-        {
-          "name": "Cruz del Carmen Visitor Centre forest walks",
-          "distance": "22-28 km, car or organised tour",
-          "tip": "Easy to moderate | Anaga forest, route advice, viewpoints. The best starting point for Anaga forest walks. Great for guests who want guidance before choosing a trail.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cruz+del+Carmen+Visitor+Centre+Tenerife"
-        },
-        {
-          "name": "Taganana to Roque de las Bodegas coastal walk",
-          "distance": "24-28 km, car",
-          "tip": "Easy to moderate | Dramatic coast, village walk, lunch. More scenic walk than classic hike. Great with lunch near Roque de las Bodegas and photo stops toward Almáciga or Benijo.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+Tenerife"
-        },
-        {
-          "name": "Pico del Inglés viewpoint and forest area",
-          "distance": "25-30 km, car",
-          "tip": "Easy to moderate | Anaga views, photos, misty forest. A great scenic stop in Anaga. Best combined with Cruz del Carmen and the laurel forest walks.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pico+del+Ingles+Tenerife"
-        },
-        {
-          "name": "El Pijaral 'Enchanted Forest', Anaga",
-          "distance": "25-32 km, car",
-          "tip": "Moderate | Magical laurel forest, mossy Anaga landscape. One of the most special forest hikes in Anaga: note that a permit is required. Book in advance through the official Tenerife permits system.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Pijaral+Anaga+Tenerife"
-        },
-        {
-          "name": "Benijo coastal viewpoint walk",
-          "distance": "27-30 km, car",
-          "tip": "Moderate | Sunset, wild coastline, photos. Excellent for dramatic coastal scenery. Steps and uneven paths, so better with proper shoes. Avoid risky swimming when the sea is rough.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playa+de+Benijo+Tenerife"
-        },
-        {
-          "name": "Afur to Playa de Tamadite",
-          "distance": "28-35 km, car",
-          "tip": "Moderate | Ravine walk, wild beach, adventure. A beautiful Anaga hike through a ravine to a remote beach. Swimming at Tamadite can be dangerous, so treat it as a hiking destination rather than a beach day.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Afur+Playa+Tamadite+Tenerife"
-        },
-        {
-          "name": "PR TF 08 Afur to Taganana loop",
-          "distance": "28-35 km, car",
-          "tip": "Hard | Serious hikers, views, Anaga villages. A demanding trail with steep sections, descending to Tamadite before a steep climb toward Taganana. Not for the faint-hearted, but spectacular.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PR+TF+08+Afur+Taganana+Tenerife"
-        },
-        {
-          "name": "Roques de García loop, Teide",
-          "distance": "65-80 km, car or organised tour",
-          "tip": "Moderate | Volcanic rock formations, Teide views. One of the best accessible Teide walks. More manageable than hiking toward the summit and very scenic.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roques+de+Garcia+Trail+Tenerife"
-        },
-        {
-          "name": "Teide National Park short trails",
-          "distance": "60-75 km depending on route, car or organised tour",
-          "tip": "Easy to hard | Volcano landscapes, viewpoints, full day trip. The best full day hiking excursion on the island. Mount Teide is Spain's highest peak at 3,718 m and a UNESCO World Heritage Site.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teide+National+Park+trails+Tenerife"
+          "name": "Komoot app",
+          "distance": "Tip",
+          "tip": "Tip: Use the Komoot app. It is very accurate and has lots of recorded hikes for Tenerife."
         }
       ]
     },
     {
-      "category": "Eat & Drink",
+      "category": "Wine & Local Experiences 🍷",
+      "icon": "🍷",
       "items": [
         {
-          "name": "Local cafés and small bars in Valleseco",
-          "distance": "0-1 km, walk",
-          "tip": "Quick coffee, simple local food, closest option. Best for convenience rather than destination dining. Handy when you want something very close.",
-          "type": "Café / Local",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=restaurants+Valleseco+Santa+Cruz+de+Tenerife"
+          "name": "Tenerife wine tasting",
+          "distance": "Experience",
+          "tip": "Tenerife has some of the highest elevation vineyards in Europe. The production is limited and the wines taste different here because of the volcanic soil and climate. The best way to experience local wine is to arrange a visit and tasting with one of the bodegas."
         },
         {
-          "name": "Santa Cruz city centre brunch and coffee spots",
-          "distance": "3.5-5 km, car, taxi, bus, or walk",
-          "tip": "Brunch, coffee, casual daytime food. A useful option for something easy before sightseeing. The city scene has plenty of brunch and coffee spots alongside tapas and seafood.",
-          "type": "Brunch / Coffee",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=brunch+coffee+Santa+Cruz+de+Tenerife"
+          "name": "Bodegas Monje Tenerife in El Sauzal",
+          "distance": "Car",
+          "tip": "Recommended bodega in El Sauzal.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodegas+Monje+El+Sauzal+Tenerife"
         },
         {
-          "name": "La Noria street restaurants and bars",
-          "distance": "4-5 km, car, taxi, bus, or walk",
-          "tip": "Evening drinks, tapas, lively atmosphere. A great area for dinner and drinks in central Santa Cruz. Best when you want a city evening rather than a beach meal.",
-          "type": "Tapas / Bars",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+La+Noria+Santa+Cruz+de+Tenerife+restaurants"
+          "name": "Bodega El Lomo",
+          "distance": "Car",
+          "tip": "Recommended for a wine visit and tasting.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodega+El+Lomo+Tenerife"
         },
         {
-          "name": "El Porrón Tasca Andaluza",
-          "distance": "4-5 km, car, taxi, or bus",
-          "tip": "Tapas, casual dinner, La Noria area. Listed among the best restaurants around La Noria, with strong ratings.",
-          "type": "Andalusian Tapas",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Porron+Tasca+Andaluza+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Bar Concepción",
-          "distance": "4-5 km, car, taxi, bus, or walk",
-          "tip": "Wine, sharing plates, old town atmosphere. Lovely for a relaxed evening near the church and old streets, with outdoor seating, wine, and sharing plates.",
-          "type": "Wine / Sharing plates",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Concepcion+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Mercado Nuestra Señora de África",
-          "distance": "4.5-5.5 km, car, taxi, or bus",
-          "tip": "Market breakfast, snacks, local produce, casual food. One of the best food culture stops in Santa Cruz, with fresh produce stalls and low-key bar restaurants.",
-          "type": "Market / Local",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "San Sebastián 57",
-          "distance": "4.5-5.5 km, car, taxi, or bus",
-          "tip": "Updated Canarian cuisine, nicer dinner. A stronger restaurant choice near the market, described by Michelin as an unmissable address with updated traditional cuisine.",
-          "type": "Modern Canarian",
-          "priceRange": "€€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Sebastian+57+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "Restaurante Origen",
-          "distance": "4.5-5.5 km, car, taxi, or bus",
-          "tip": "Japanese and Peruvian, special dinner. A more polished option near the market, among the highly rated restaurants close to the Mercado.",
-          "type": "Japanese / Peruvian",
-          "priceRange": "€€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Origen+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "El Rincón de Guadalupe",
-          "distance": "4.5-5.5 km, car, taxi, or bus",
-          "tip": "Tacos, cocktails, casual dinner. Good if you want something different from Canarian food, among the top spots near the Mercado and La Noria.",
-          "type": "Mexican / Cocktails",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Rincon+de+Guadalupe+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "San Andrés seafood restaurants",
-          "distance": "6-7 km, car, taxi, or bus",
-          "tip": "Fresh fish, casual local lunch, Las Teresitas combo. One of the best nearby food areas. Great after Las Teresitas beach or before driving into Anaga.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Andres+Tenerife+seafood+restaurants"
-        },
-        {
-          "name": "Restaurante Rincón del Pescador, San Andrés",
-          "distance": "6-7 km, car, taxi, or bus",
-          "tip": "Fish of the day, seafood, local lunch. A strong seafood option near Las Teresitas, often praised for its fish of the day and octopus.",
-          "type": "Seafood",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Rincon+del+Pescador+San+Andres+Tenerife"
-        },
-        {
-          "name": "La Pandorga, San Andrés",
-          "distance": "6-7 km, car, taxi, or bus",
-          "tip": "Seafood, Mediterranean food, beach day lunch. A reliable pick near Las Teresitas, among the most popular San Andrés restaurants.",
-          "type": "Seafood / Mediterranean",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Pandorga+San+Andres+Tenerife"
-        },
-        {
-          "name": "Tasquita Lucas, San Andrés",
-          "distance": "6-7 km, car, taxi, or bus",
-          "tip": "Casual Spanish food, seafood, good value. A good smaller local option, highly rated among the cheaper eats near Las Teresitas.",
-          "type": "Spanish / Casual",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tasquita+Lucas+San+Andres+Tenerife"
-        },
-        {
-          "name": "Los Pinchitos, San Andrés",
-          "distance": "6-7 km, car, taxi, or bus",
-          "tip": "Casual seafood, simple local meal. A practical, casual option near Las Teresitas, rated 8.5/10 for food, service, and atmosphere.",
-          "type": "Seafood / Casual",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Pinchitos+San+Andres+Tenerife"
-        },
-        {
-          "name": "La Laguna cafés and restaurants",
-          "distance": "13-16 km, car, taxi, tram, or bus",
-          "tip": "Historic town lunch, cafes, dinner. The best cultural food excursion from Santa Cruz. Great to combine with the UNESCO historic centre and a relaxed walk.",
-          "type": "Cafés / Varied",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Laguna+Tenerife+restaurants+cafes"
-        },
-        {
-          "name": "Guachinches near La Laguna and Tacoronte",
-          "distance": "15-30 km, car",
-          "tip": "Local Canarian food, wine, rustic experience. Great for adventurous food guests. Guachinches are frills-free, budget-friendly spots serving simple home-style meals, mostly in the north and often seasonal.",
-          "type": "Traditional Canarian",
-          "priceRange": "€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=guachinche+La+Laguna+Tacoronte+Tenerife"
-        },
-        {
-          "name": "Bajamar and Punta del Hidalgo restaurants",
-          "distance": "20-27 km, car or bus",
-          "tip": "Ocean views, casual lunch, natural pools day. A good food area if you visit the natural pools. Works well as a relaxed north coast day trip.",
-          "type": "Seafood / Casual",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bajamar+Punta+del+Hidalgo+restaurants+Tenerife"
-        },
-        {
-          "name": "Taganana and Roque de las Bodegas restaurants",
-          "distance": "24-28 km, car",
-          "tip": "Scenic lunch, fish, Anaga day trip. The best food stop during an Anaga excursion. Recommended for lunch after Taganana, Almáciga, or Benijo.",
-          "type": "Seafood / Scenic",
-          "priceRange": "€€",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taganana+Roque+de+las+Bodegas+restaurants+Tenerife"
+          "name": "Bodegas Suertes del Marqués",
+          "distance": "Car",
+          "tip": "Another recommended local winery experience.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodegas+Suertes+del+Marques+Tenerife"
         }
       ]
     },
     {
-      "category": "Shopping",
+      "category": "Attractions & Excursions 📸",
+      "icon": "📸",
       "items": [
         {
-          "name": "Local minimarkets and small shops in Valleseco",
-          "distance": "0-1 km, walk",
-          "tip": "Basics, drinks, snacks, quick essentials. Best for convenience. Use this for water, small groceries, and last-minute things rather than proper shopping.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=supermarket+Valleseco+Santa+Cruz+de+Tenerife"
+          "name": "Siam Park",
+          "distance": "Car",
+          "tip": "Siam Park is one of the most famous water parks in the world, with many attractions and slides.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam+Park+Tenerife"
         },
         {
-          "name": "Calle del Castillo",
-          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
-          "tip": "Fashion, shoes, cosmetics, city shopping. The main shopping street in Santa Cruz, running through the centre with international franchises, fashion shops, boutiques, cafes, and side streets worth exploring.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+del+Castillo+Santa+Cruz+de+Tenerife"
+          "name": "Loro Parque",
+          "distance": "Car",
+          "tip": "Loro Parque is a modern zoo with many different types of rescued animals.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Loro+Parque+Tenerife"
         },
         {
-          "name": "Plaza de España & Plaza de la Candelaria area",
-          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
-          "tip": "City centre shopping, cafes, sightseeing combo. A good starting point for a relaxed shopping walk, leading into Calle del Castillo, Imeldo Serís, and Valentín Sanz.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+de+Espana+Plaza+de+la+Candelaria+Santa+Cruz+de+Tenerife"
+          "name": "El Médano watersports",
+          "distance": "Car",
+          "tip": "El Médano is a great place for windsurfing, kitesurfing, swimming, beach walks, and a relaxed sporty atmosphere.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Medano+Tenerife"
         },
         {
-          "name": "Calle del Pilar and side streets",
-          "distance": "3.5-4.5 km, bus, taxi, car, or walk",
-          "tip": "Boutiques, local shops, cafes. Better if you want to wander beyond the main high street. The streets around Calle Castillo and Plaza del Príncipe mix shopping and food stops nicely.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calle+del+Pilar+Santa+Cruz+de+Tenerife"
+          "name": "Los Cristianos and Playa de las Américas",
+          "distance": "Car",
+          "tip": "A good area for tourist services, diving clubs, nightlife, shopping, restaurants, and the most reliable sunny weather.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Cristianos+Tenerife"
+        }
+      ]
+    },
+    {
+      "category": "Groceries & Practical Shopping 🛒",
+      "icon": "🛒",
+      "items": [
+        {
+          "name": "Mini supermarkets in Valleseco",
+          "distance": "Walk",
+          "tip": "There are two small mini supermarkets in the village where you can buy basic things like water and simple groceries."
         },
         {
-          "name": "Mercado Nuestra Señora de África",
-          "distance": "4.5-5.5 km, bus, taxi, or car",
-          "tip": "Fresh produce, local food, flowers, small gifts. The best local market in Santa Cruz, known for fresh fruit, veg, fish, meat, and flowers. The 1944 building has lovely Moorish-style arches and patios.",
+          "name": "Pharmacy",
+          "distance": "Walk",
+          "tip": "There is also a pharmacy very close to the main road. Please check Google Maps for current opening hours."
+        },
+        {
+          "name": "HiperDino",
+          "distance": "20 min walk or 5 min by car",
+          "tip": "For bigger grocery shopping, HiperDino toward Santa Cruz is a good option. It is around 20 minutes on foot or 5 minutes by car. It has a wide range of products, although it can be a little pricey.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HiperDino+Santa+Cruz+de+Tenerife"
+        },
+        {
+          "name": "Santa Cruz Market Hall",
+          "distance": "Car",
+          "tip": "A good option for fresh food, local products, and a more local shopping experience.",
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+Nuestra+Senora+de+Africa+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Nivaria Center",
-          "distance": "5-6 km, bus, taxi, or car",
-          "tip": "Comfortable shopping, cafes, easy parking. A polished shopping centre in central Santa Cruz, a handy reference point with parking and regular events.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nivaria+Center+Santa+Cruz+de+Tenerife"
+          "name": "Lidl",
+          "distance": "Car",
+          "tip": "Lidl is further away, but useful for larger grocery shopping.",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lidl+Santa+Cruz+de+Tenerife"
         },
         {
-          "name": "Centro Comercial Meridiano",
-          "distance": "5.5-6.5 km, bus, taxi, or car",
-          "tip": "Big mall, Primark, cinema, food court. The best mall in Santa Cruz, with nearly 80 stores, 15 cinema screens, a rooftop food court, and the only Primark on the island.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Meridiano+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "San Andrés small shops",
-          "distance": "6-7 km, bus, taxi, or car",
-          "tip": "Beach day basics, snacks, simple errands. Useful before or after Las Teresitas. Not a shopping destination, but practical for drinks, beach snacks, or small necessities.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=shops+San+Andres+Tenerife"
-        },
-        {
-          "name": "Centro Comercial Añaza Carrefour",
-          "distance": "11-13 km, car or taxi",
-          "tip": "Hypermarket, large shopping, practical errands. Best for big grocery shopping or practical errands by car, with 100+ shops, a large Carrefour, and over 2,000 free parking spaces.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Comercial+Anaza+Carrefour+Santa+Cruz+de+Tenerife"
-        },
-        {
-          "name": "La Laguna Historic Centre shops",
-          "distance": "13-16 km, car, taxi, tram, or bus",
-          "tip": "Boutiques, gifts, cafes, historic streets. The best cultural shopping excursion. La Laguna is a UNESCO World Heritage city, great for combining shopping, coffee, and a historic walk.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Laguna+Tenerife+shopping+historic+centre"
-        },
-        {
-          "name": "Mercado de La Laguna",
-          "distance": "13-16 km, car, taxi, tram, or bus",
-          "tip": "Fresh produce, flowers, local food. A good local market in the historic centre, known for fresh products, flowers, and local gastronomy.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercado+de+La+Laguna+Tenerife"
-        },
-        {
-          "name": "Local product shopping near Tacoronte",
-          "distance": "22-30 km, car",
-          "tip": "Local wine, cheese, Canarian products. Good if you want local food products rather than normal retail. Combine with a guachinche lunch or a north coast drive.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=local+products+Tacoronte+Tenerife+wine+shops"
-        },
-        {
-          "name": "Puerto de la Cruz shopping streets",
-          "distance": "38-45 km, car or bus",
-          "tip": "Day trip shopping, souvenirs, cafes. Nice if you are already visiting Puerto de la Cruz, Lago Martiánez, or La Orotava. Worth it as part of a full north coast day rather than only for shopping.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerto+de+la+Cruz+shopping+Tenerife"
-        },
-        {
-          "name": "La Orotava local shops and crafts",
-          "distance": "40-45 km, car or bus",
-          "tip": "Traditional town, crafts, gifts. Better for atmosphere and local gifts than regular retail. Works well with Puerto de la Cruz or El Bollullo beach.",
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Orotava+craft+shops+Tenerife"
+          "name": "Mercadona or Spar",
+          "distance": "Car",
+          "tip": "Mercadona and Spar are also further away, but good for bigger shopping. Google Maps is accurate for locations and opening times."
         }
       ]
     }

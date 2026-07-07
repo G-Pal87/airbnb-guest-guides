@@ -164,7 +164,7 @@
       "instructions": "My right hand and greatest help is the lovely Mari, who lives right next door. If anything comes up at all (say you need an extra towel), she's always happy to help. She might even pop by with some homemade sweets if she has the time! Mari speaks only Spanish, but don't worry if you don't, somehow it always works out beautifully. 🙂"
     }
   ],
-  "thingsToDo":   [
+  "thingsToDo": [
     {
       "category": "Beaches 🏝️",
       "icon": "🏝️",
@@ -335,12 +335,8 @@
     {
       "category": "Wine & Local Experiences 🍷",
       "icon": "🍷",
+      "description": "Tenerife has some of the highest elevation vineyards in Europe. The production is limited and the wines taste different here because of the volcanic soil and climate. The best way to experience local wine is to arrange a visit and tasting with one of the bodegas.",
       "items": [
-        {
-          "name": "Tenerife wine tasting",
-          "distance": "Experience",
-          "tip": "Tenerife has some of the highest elevation vineyards in Europe. The production is limited and the wines taste different here because of the volcanic soil and climate. The best way to experience local wine is to arrange a visit and tasting with one of the bodegas."
-        },
         {
           "name": "Bodegas Monje Tenerife in El Sauzal",
           "distance": "Car",
@@ -647,7 +643,10 @@
     "steps": [
       "If you could give any dishes a quick wash and leave them on the drying rack, that would be great!",
       "If you could clear out the fridge and pop any leftover food in the bin, I'd appreciate it!",
-      { "text": "It would be great if you dispose of the garbage. You will find big containers just before you leave the village.", "mapsUrl": "https://maps.app.goo.gl/CbhTHvcmiUrj9ivg9?g_st=ic" },
+      {
+        "text": "It would be great if you dispose of the garbage. You will find big containers just before you leave the village.",
+        "mapsUrl": "https://maps.app.goo.gl/CbhTHvcmiUrj9ivg9?g_st=ic"
+      },
       "Before heading off, please lock the windows and the door.",
       "Please switch off all the lights and any electric appliances (oven, stove, blender) when you're done.",
       "When you're ready to go, please lock up and return all keys to the keybox, resetting the code after.",

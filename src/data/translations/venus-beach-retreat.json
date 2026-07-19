@@ -46,24 +46,24 @@
       "stepTitleSwitchOffAppliances": "Lichter & Geräte ausschalten",
       "stepTitleSwitchOffAC": "Lichter & Klimaanlage ausschalten",
       "stepTitleReturnKeys": "Schlüssel zurückgeben",
-      "stepTitleDropMeMessage": "Schreiben Sie mir kurz!",
-      "stepTitleDropUsMessage": "Schreiben Sie uns kurz!",
+      "stepTitleDropMeMessage": "Schreibt mir kurz!",
+      "stepTitleDropUsMessage": "Schreibt uns kurz!",
       "yourHost": "Ihr Gastgeber",
       "cohost": "Mitgastgeber",
       "call": "Anrufen",
       "whatsapp": "WhatsApp",
       "email": "E-Mail",
-      "enjoyStay": "Genießen Sie Ihren Aufenthalt!",
-      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht Ihren Aufenthalt noch angenehmer. Wenn Sie Ihre Zeit hier genießen, wäre ich Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
-      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden Ihren Aufenthalt noch angenehmer macht. Wenn Sie Ihre Zeit hier genießen, wären wir Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
-      "contactHostIntroSolo": "Ich bin während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass Sie eine wunderbare Zeit haben.",
-      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben.",
+      "enjoyStay": "Genießt euren Aufenthalt!",
+      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht euren Aufenthalt noch angenehmer. Wenn ihr eure Zeit hier genießt, wäre ich euch sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
+      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden euren Aufenthalt noch angenehmer macht. Wenn ihr eure Zeit hier genießt, wären wir euch sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
+      "contactHostIntroSolo": "Ich bin während eures gesamten Aufenthalts für euch da. Zögert nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass ihr eine wunderbare Zeit habt.",
+      "contactHostIntroCohost": "Wir sind während eures gesamten Aufenthalts für euch da. Zögert nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass ihr eine wunderbare Zeit habt.",
       "atAGlance": "Auf einen Blick",
       "checkInNote": "Ab diesem Zeitpunkt",
       "checkoutNote": "Bitte bis zu dieser Zeit abreisen",
       "contacts": "Kontakte",
-      "contactsNoteCohost": "Benötigen Sie Hilfe? Wir sind immer für Sie da.",
-      "contactsNoteSolo": "Benötigen Sie Hilfe? Ich bin immer für Sie da! Kontaktieren Sie mich.",
+      "contactsNoteCohost": "Braucht ihr Hilfe? Wir sind immer für euch da.",
+      "contactsNoteSolo": "Braucht ihr Hilfe? Ich bin immer für euch da! Kontaktiert mich.",
       "contactUsCohost": "Kontakt aufnehmen",
       "contactUsSolo": "Mich kontaktieren",
       "copied": "Kopiert!",
@@ -207,7 +207,7 @@
             "tip": "Dramatische Küstenlinie. Besser für Landschafts- und Sonnenuntergangsfotos als für einen klassischen Strandtag."
           },
           {
-            "tip": "Kleiner Strand, gut zum Schnorcheln. Kombinieren Sie den Besuch mit Sea Caves und Oniro by the Sea."
+            "tip": "Kleiner Strand, gut zum Schnorcheln. Kombiniert den Besuch mit Sea Caves und Oniro by the Sea."
           },
           {
             "tip": "Rau und wunderschön, wilde Küste. Besser zum Erkunden als zum Sonnenbaden."
@@ -222,7 +222,7 @@
             "tip": "Bester Ausgangspunkt für die Blue Lagoon ohne Geländefahrten. Bootsfahrten starten von hier."
           },
           {
-            "tip": "Das beeindruckendste Wasser im Raum Paphos. Kein Strand, den man direkt anfahren kann. Nehmen Sie ein Boot von Latchi."
+            "tip": "Das beeindruckendste Wasser im Raum Paphos. Kein Strand, den man direkt anfahren kann. Nehmt ein Boot von Latchi."
           }
         ]
       },
@@ -233,7 +233,7 @@
             "tip": "Nächstgelegene und wichtigste historische Stätte. Felsengräber aus hellenistischer und römischer Zeit, Teil des UNESCO-gelisteten archäologischen Gebiets von Paphos."
           },
           {
-            "tip": "Spazieren Sie entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
+            "tip": "Spaziert entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
           },
           {
             "tip": "Entspannter Haltepunkt auf halbem Weg zwischen Avlida und dem Hafen. Gut für einen landschaftlich reizvollen Spaziergang mit einem Stopp am Strand."
@@ -251,7 +251,7 @@
             "tip": "Wunderschöner Halbtagsausflug. Im 12. Jahrhundert vom Heiligen Neophytos in einem abgelegenen Tal nördlich von Paphos gegründet."
           },
           {
-            "tip": "Malerische Küste, großartig für Fotos und Sonnenuntergang. Kombinieren Sie den Besuch mit Oniro by the Sea und Agios Georgios."
+            "tip": "Malerische Küste, großartig für Fotos und Sonnenuntergang. Kombiniert den Besuch mit Oniro by the Sea und Agios Georgios."
           },
           {
             "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenpfade. Gut geeignet, wenn man ohnehin in Richtung Sea Caves oder Lara unterwegs ist."
@@ -442,7 +442,7 @@
             "tip": "Überdachter Marktplatz mit Ständen für Kleidung, Taschen, Schmuck, Strandausrüstung und lokale Souvenirs."
           },
           {
-            "tip": "Schlendern Sie durch die schöne Altstadt und entdecken Sie viele kleine Boutiquen und Handwerksläden."
+            "tip": "Schlendert durch die schöne Altstadt und entdeckt viele kleine Boutiquen und Handwerksläden."
           }
         ]
       }
@@ -535,9 +535,9 @@
       "stepTitleSwitchOffAppliances": "Kapcsolja le a villanyt és a készülékeket",
       "stepTitleSwitchOffAC": "Kapcsolja le a villanyt és a légkondicionálót",
       "stepTitleReturnKeys": "Adja vissza a kulcsokat",
-      "stepTitleDropMeMessage": "Írjon nekem egy üzenetet!",
-      "stepTitleDropUsMessage": "Írjon nekünk egy üzenetet!",
-      "yourHost": "Az Ön házigazdája",
+      "stepTitleDropMeMessage": "Írjatok nekem egy üzenetet!",
+      "stepTitleDropUsMessage": "Írjatok nekünk egy üzenetet!",
+      "yourHost": "A házigazdátok",
       "cohost": "Társ-házigazda",
       "call": "Hívás",
       "whatsapp": "WhatsApp",

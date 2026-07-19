@@ -46,117 +46,117 @@
       "stepTitleSwitchOffAppliances": "Lichter & Geräte ausschalten",
       "stepTitleSwitchOffAC": "Lichter & Klimaanlage ausschalten",
       "stepTitleReturnKeys": "Schlüssel zurückgeben",
-      "stepTitleDropMeMessage": "Schreiben Sie mir kurz!",
-      "stepTitleDropUsMessage": "Schreiben Sie uns kurz!",
-      "yourHost": "Ihr Gastgeber",
+      "stepTitleDropMeMessage": "Schreib mir kurz!",
+      "stepTitleDropUsMessage": "Schreib uns kurz!",
+      "yourHost": "Dein Gastgeber",
       "cohost": "Mitgastgeber",
       "call": "Anrufen",
       "whatsapp": "WhatsApp",
       "email": "E-Mail",
-      "enjoyStay": "Genießen Sie Ihren Aufenthalt!",
-      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht Ihren Aufenthalt noch angenehmer. Wenn Sie Ihre Zeit hier genießen, wäre ich Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
-      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden Ihren Aufenthalt noch angenehmer macht. Wenn Sie Ihre Zeit hier genießen, wären wir Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
-      "contactHostIntroSolo": "Ich bin während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass Sie eine wunderbare Zeit haben.",
-      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben.",
+      "enjoyStay": "Genieß deinen Aufenthalt!",
+      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht deinen Aufenthalt noch schöner. Wenn du deine Zeit hier genießt, wäre ich dir sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
+      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden deinen Aufenthalt noch schöner macht. Wenn du deine Zeit hier genießt, wären wir dir sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
+      "contactHostIntroSolo": "Ich bin während deines gesamten Aufenthalts für dich da. Zöger nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit braucht zu kontaktieren – ich möchte wirklich, dass du eine wunderbare Zeit hast.",
+      "contactHostIntroCohost": "Wir sind während deines gesamten Aufenthalts für dich da. Zöger nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit braucht zu kontaktieren – wir möchten wirklich, dass du eine wunderbare Zeit hast.",
       "atAGlance": "Auf einen Blick",
       "checkInNote": "Ab diesem Zeitpunkt",
       "checkoutNote": "Bitte bis zu dieser Zeit abreisen",
       "contacts": "Kontakte",
-      "contactsNoteCohost": "Benötigen Sie Hilfe? Wir sind immer für Sie da.",
-      "contactsNoteSolo": "Benötigen Sie Hilfe? Ich bin immer für Sie da! Kontaktieren Sie mich.",
+      "contactsNoteCohost": "Brauchst du Hilfe? Wir sind immer für dich da.",
+      "contactsNoteSolo": "Brauchst du Hilfe? Ich bin immer für dich da! Meld dich bei mir.",
       "contactUsCohost": "Kontakt aufnehmen",
       "contactUsSolo": "Mich kontaktieren",
       "copied": "Kopiert!",
       "contact": "Kontakt"
     },
-    "welcomeMessage": "Willkommen! Ihr seid mitten im Herzen von Paphos, nur wenige Schritte vom historischen Hafen entfernt. Eine voll ausgestattete Küche, ein sonniger Balkon und ein Gemeinschaftspool stehen euch zur Verfügung. Fühlt euch wie zu Hause – meldet euch jederzeit, wenn ihr etwas braucht!",
+    "welcomeMessage": "Willkommen! Du bist mitten im Herzen von Paphos, nur wenige Schritte vom historischen Hafen entfernt. Eine voll ausgestattete Küche, ein sonniger Balkon und ein Gemeinschaftspool stehen dir zur Verfügung. Fühl dich wie zu Hause – meld dich jederzeit, wenn du etwas brauchst!",
     "gettingHere": {
-      "byCar": "Fahrt zum Kings Avenue Mall in Paphos. Der Byzantium Gardens-Komplex liegt direkt nebenan. ⚠️ Google Maps kann auf den letzten Metern irreführend sein und euch durch eine Fußgängerpromenade leiten – fahrt stattdessen um den Block, um zur Haupteinfahrt zu gelangen. Weitere Details in der Fotoanleitung unten.",
-      "parking": "Parken ist kostenlos überall im Komplex. Benutzt den Chip am Schlüsselbund, um das Haupttor zu öffnen. Zum Ausfahren mit dem Auto einfach vor dem STOP/WARTEN-Schild anhalten – das Tor öffnet sich automatisch.",
+      "byCar": "Fahr zum Kings Avenue Mall in Paphos. Der Byzantium Gardens-Komplex liegt direkt nebenan. ⚠️ Google Maps kann auf den letzten Metern irreführend sein und dich durch eine Fußgängerpromenade leiten – fahr stattdessen um den Block, um zur Haupteinfahrt zu gelangen. Weitere Details in der Fotoanleitung unten.",
+      "parking": "Parken ist kostenlos überall im Komplex. Benutz den Chip am Schlüsselbund, um das Haupttor zu öffnen. Zum Ausfahren mit dem Auto einfach vor dem STOP/WARTEN-Schild anhalten – das Tor öffnet sich automatisch.",
       "publicTransport": "Bus 612 vom Flughafen Paphos (~35 Min. Fahrtzeit je nach Saison und Haltestellen), aussteigen an der Haltestelle Kings Avenue Mall (3 Min. Fußweg zur Wohnung). Haltestelle verpasst? Die nächste ist nur 10 Min. Fußweg entfernt. ⚠️ Nur Bargeld. 2,50 € pro Fahrt.",
       "taxi": "Taxis stehen vor dem Ankunftsbereich des Flughafens Paphos bereit. Preis: 40–45 € (tagsüber), 45–50 € (nachts). ~20–25 Min. Fahrtzeit. Eine etwas günstigere Alternative ist Bolt.",
       "directionPhotos": [
         {
-          "caption": "Navigiert zur Google Maps-Location. Der Komplex liegt 2 Blocks links vom Kings Avenue Mall. Die roten Markierungen zeigen Straßen, die ihr meiden sollt; folgt der richtigen Route zur Haupteinfahrt. Ihr werdet auch ein Einfahrt-Verboten-Schild sehen – das gilt nur für Nicht-Bewohner. Als Gäste dürft ihr einfahren."
+          "caption": "Navigier zur Google Maps-Location. Der Komplex liegt 2 Blocks links vom Kings Avenue Mall. Die roten Markierungen zeigen Straßen, die du meiden solltest; folg der richtigen Route zur Haupteinfahrt. Du wirst auch ein Einfahrt-Verboten-Schild sehen – das gilt nur für Nicht-Bewohner. Als Gast darfst du einfahren."
         },
         {
-          "caption": "Wenn ihr die Einfahrt erreicht, findet ihr die Schlüsselboxen an der linken Wand."
+          "caption": "Wenn du die Einfahrt erreichst, findest du die Schlüsselboxen an der linken Wand."
         },
         {
-          "caption": "Benutzt den kleinen Plastikchip (Transponder) am Schlüsselbund. Haltet ihn an das Lesegerät, um die Eingangstür zu öffnen."
+          "caption": "Benutz den kleinen Plastikchip (Transponder) am Schlüsselbund. Halt ihn an das Lesegerät, um die Eingangstür zu öffnen."
         },
         {
-          "caption": "Öffnet die linke Box in der 2. Reihe (rot markiert) mit dem Code: 9900, um eure Schlüssel zu entnehmen."
+          "caption": "Öffne die linke Box in der 2. Reihe (rot markiert) mit dem Code: 9900, um deine Schlüssel zu entnehmen."
         },
         {
-          "caption": "Mit dem Auto? Nutzt dieses Gerät, um das Haupttor zu öffnen. Ihr findet es auf der rechten Seite, wenn ihr dem Tor gegenübersteht."
+          "caption": "Mit dem Auto? Nutz dieses Gerät, um das Haupttor zu öffnen. Du findest es auf der rechten Seite, wenn du dem Tor gegenüberstehst."
         },
         {
-          "caption": "Drinnen: geradeaus fahren und an Block B vorbei. Block C (eure Wohnung) liegt direkt dahinter."
+          "caption": "Drinnen: geradeaus fahren und an Block B vorbei. Block C (deine Wohnung) liegt direkt dahinter."
         },
         {
-          "caption": "Bei Block C: nehmt den Eingang links und geht ins 1. Obergeschoss. Ein Aufzug ist vorhanden."
+          "caption": "Bei Block C: nimm den Eingang links und geh ins 1. Obergeschoss. Ein Aufzug ist vorhanden."
         },
         {
-          "caption": "Sucht nach Tür Nr. 106, direkt neben dem Aufzug."
+          "caption": "Such nach Tür Nr. 106, direkt neben dem Aufzug."
         },
         {
-          "caption": "Ausfahrt mit dem Auto: fahrt vor das STOP/WARTEN-Schild am Haupttor. Die Tore öffnen sich automatisch."
+          "caption": "Ausfahrt mit dem Auto: fahr vor das STOP/WARTEN-Schild am Haupttor. Die Tore öffnen sich automatisch."
         }
       ]
     },
     "checkin": {
-      "keyLocation": "Die Schlüsselbox befindet sich an der linken Seite der Wand, wenn ihr dem Haupttor gegenübersteht.",
+      "keyLocation": "Die Schlüsselbox befindet sich an der linken Seite der Wand, wenn du dem Haupttor gegenüberstehst.",
       "steps": [
-        "Fahrt zu den Byzantium Gardens. Der Komplex liegt direkt neben dem Kings Avenue Mall (siehe Foto 1 für Kartenübersicht)",
-        "Findet am Eingang die Schlüsselboxen an der linken Wand (Foto 2)",
-        "Haltet den Chip/Transponder an das Lesegerät, um die Eingangstür zu öffnen (Foto 3)",
-        "Öffnet die linke Box in der 2. Reihe mit Code: 9900, um eure Schlüssel zu entnehmen (Foto 4)",
-        "Bei Anreise mit dem Auto: nutzt das Gerät auf der rechten Seite, wenn ihr dem Haupttor gegenübersteht (Foto 5)",
+        "Fahr zu den Byzantium Gardens. Der Komplex liegt direkt neben dem Kings Avenue Mall (siehe Foto 1 für Kartenübersicht)",
+        "Find am Eingang die Schlüsselboxen an der linken Wand (Foto 2)",
+        "Halt den Chip/Transponder an das Lesegerät, um die Eingangstür zu öffnen (Foto 3)",
+        "Öffne die linke Box in der 2. Reihe mit Code: 9900, um deine Schlüssel zu entnehmen (Foto 4)",
+        "Bei Anreise mit dem Auto: nutz das Gerät auf der rechten Seite, wenn du dem Haupttor gegenüberstehst (Foto 5)",
         "Einfahren, Block B passieren. Block C und Parkplatz liegen direkt dahinter (Foto 6)",
         "Bei Block C: Eingang links nehmen und ins 1. Obergeschoss. Aufzug vorhanden (Foto 7)",
-        "Eure Wohnung ist Tür Nr. 106, direkt neben dem Aufzug (Foto 8)"
+        "Deine Wohnung ist Tür Nr. 106, direkt neben dem Aufzug (Foto 8)"
       ],
-      "notes": "Falls ihr Schwierigkeiten habt, uns zu finden, ruft uns einfach an oder schreibt uns per WhatsApp – wir führen euch gerne Schritt für Schritt."
+      "notes": "Falls du Schwierigkeiten hast, uns zu finden, ruf uns einfach an oder schreib uns per WhatsApp – wir führen dich gerne Schritt für Schritt."
     },
     "houseRules": [
-      "Bitte raucht nur auf dem Balkon oder der Terrasse, nicht drinnen",
-      "Bitte seid rücksichtsvoll. Ruhezeiten sind von 23:00 bis 8:00 Uhr. Keine Partys oder Veranstaltungen",
+      "Bitte rauch nur auf dem Balkon oder der Terrasse, nicht drinnen",
+      "Bitte sei rücksichtsvoll. Ruhezeiten sind von 23:00 bis 8:00 Uhr. Keine Partys oder Veranstaltungen",
       "Wir lieben Tiere, können aber leider keine Haustiere aufnehmen. Tut uns leid!",
-      "Benutzt bitte den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation kann das wirklich nicht verarbeiten",
-      "Steckt den Metallschlüssel in den Stromanschluss neben der Tür, wenn ihr drinnen seid, und nehmt ihn mit, wenn ihr geht",
-      "Schließt Balkon- und Terrassentüren sowie Fenster, wenn die Klimaanlage läuft, um die Wohnung kühl zu halten und Energie zu sparen",
-      "Bitte legt die Schlüssel bei der Abreise in die Schlüsselbox zurück und setzt den Code zurück. Bei verlorenen oder eingeschlossenen Schlüsseln trägt ihr die Kosten für den Schlüsseldienst – also gebt gut auf sie acht!",
-      "Behandelt die Wohnung bitte wie eure eigene und sagt uns sofort Bescheid, wenn etwas kaputt geht. Wir wissen, dass Unfälle passieren"
+      "Benutz bitte den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation kann das wirklich nicht verarbeiten",
+      "Steck den Metallschlüssel in den Stromanschluss neben der Tür, wenn du drinnen bist, und nimm ihn mit, wenn du gehst",
+      "Schließ Balkon- und Terrassentüren sowie Fenster, wenn die Klimaanlage läuft, um die Wohnung kühl zu halten und Energie zu sparen",
+      "Bitte leg die Schlüssel bei der Abreise in die Schlüsselbox zurück und setz den Code zurück. Bei verlorenen oder eingeschlossenen Schlüsseln trägst du die Kosten für den Schlüsseldienst – also gib gut auf sie acht!",
+      "Behandle die Wohnung bitte wie deine eigene und sag uns sofort Bescheid, wenn etwas kaputt geht. Wir wissen, dass Unfälle passieren"
     ],
     "appliances": [
       {
         "name": "Strom",
-        "instructions": "Jede Steckdose hat einen eigenen Wandschalter – wenn etwas nicht funktioniert, ist der Schalter meist der Grund. EU-Adapter sind vorhanden, falls ihr sie braucht."
+        "instructions": "Jede Steckdose hat einen eigenen Wandschalter – wenn etwas nicht funktioniert, ist der Schalter meist der Grund. EU-Adapter sind vorhanden, falls du sie brauchst."
       },
       {
         "name": "Küche",
-        "instructions": "Alles, was ihr braucht, ist da: Elektroherd, Backofen, Heißluftfritteuse, Kaffeemaschine und Mühle. Salz, Pfeffer, Olivenöl und Kaffeebohnen sind für euch da. Tipp: Bitte spült das Geschirr zeitnah und haltet die Arbeitsflächen frei – warmes Wetter kann Insekten anlocken."
+        "instructions": "Alles, was du brauchst, ist da: Elektroherd, Backofen, Heißluftfritteuse, Kaffeemaschine und Mühle. Salz, Pfeffer, Olivenöl und Kaffeebohnen sind für dich da. Tipp: Bitte spül das Geschirr zeitnah und halt die Arbeitsflächen frei – warmes Wetter kann Insekten anlocken."
       },
       {
         "name": "Waschmaschine",
-        "instructions": "Das Schnellwaschprogramm funktioniert für die meisten Wäscheladungen gut. Ihr findet sie in der Küche."
+        "instructions": "Das Schnellwaschprogramm funktioniert für die meisten Wäscheladungen gut. Du findest sie in der Küche."
       },
       {
         "name": "Dusche & Warmwasser",
-        "instructions": "Das Wasser wird durch Solarpanele auf dem Dach erhitzt – daher ist es warm und umweltfreundlich! Gebt dem Wasser 2–3 Minuten Zeit, anzukommen – es muss den Weg von den Paneelen herunter nehmen. An bewölkten Tagen reicht die Sonne möglicherweise nicht aus: Drückt den Boiler-Knopf neben der Badezimmertür und wartet 20–30 Minuten pro Person vor dem Duschen. ⚠️ Schaltet den Boiler immer aus, bevor ihr unter die Dusche geht."
+        "instructions": "Das Wasser wird durch Solarpanele auf dem Dach erhitzt – daher ist es warm und umweltfreundlich! Gib dem Wasser 2–3 Minuten Zeit, anzukommen – es muss den Weg von den Paneelen herunter nehmen. An bewölkten Tagen reicht die Sonne möglicherweise nicht aus: Drück den Boiler-Knopf neben der Badezimmertür und warte 20–30 Minuten pro Person vor dem Duschen. ⚠️ Schalt den Boiler immer aus, bevor du unter die Dusche gehst."
       },
       {
         "name": "Poolzugang",
-        "instructions": "Der Pool steht allen Gästen offen – kein Schlüssel nötig, einfach jederzeit hinuntergehern! Bitte benutzt die mitgebrachten Strandtücher statt der Badezimmertücher und haltet Glas und Springen aus dem Poolbereich heraus. Seid auch rücksichtsvoll gegenüber anderen Gästen."
+        "instructions": "Der Pool steht allen Gästen offen – kein Schlüssel nötig, einfach jederzeit hinuntergehen! Bitte benutz die mitgebrachten Strandtücher statt der Badezimmertücher und halt Glas und Springen aus dem Poolbereich heraus. Sei auch rücksichtsvoll gegenüber anderen Gästen."
       },
       {
         "name": "Badezimmer",
-        "instructions": "Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Bitte benutzt den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation ist wirklich nicht dafür ausgelegt!"
+        "instructions": "Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Bitte benutz den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation ist wirklich nicht dafür ausgelegt!"
       },
       {
         "name": "Trinkwasser",
-        "instructions": "Leitungswasser ist sicher zu trinken, obwohl viele Gäste Flaschenwasser bevorzugen. Ihr findet es in den nahegelegenen Supermärkten."
+        "instructions": "Leitungswasser ist sicher zu trinken, obwohl viele Gäste Flaschenwasser bevorzugen. Du findest es in den nahegelegenen Supermärkten."
       }
     ],
     "thingsToDo": [
@@ -188,7 +188,7 @@
             "tip": "Dramatische Küstenlinie. Besser für Landschafts- und Sonnenuntergangsfotos als für einen klassischen Strandtag."
           },
           {
-            "tip": "Kleiner Strand, gut zum Schnorcheln. Kombinieren Sie den Besuch mit Sea Caves und Oniro by the Sea."
+            "tip": "Kleiner Strand, gut zum Schnorcheln. Kombinier den Besuch mit Sea Caves und Oniro by the Sea."
           },
           {
             "tip": "Rau und wunderschön, wilde Küste. Besser zum Erkunden als zum Sonnenbaden."
@@ -203,7 +203,7 @@
             "tip": "Bester Ausgangspunkt für die Blue Lagoon ohne Geländefahrten. Bootsfahrten starten von hier."
           },
           {
-            "tip": "Das beeindruckendste Wasser im Raum Paphos. Kein Strand, den man direkt anfahren kann. Nehmen Sie ein Boot von Latchi."
+            "tip": "Das beeindruckendste Wasser im Raum Paphos. Kein Strand, den man direkt anfahren kann. Nimm ein Boot von Latchi."
           }
         ]
       },
@@ -214,7 +214,7 @@
             "tip": "Nächstgelegene und wichtigste historische Stätte. Felsengräber aus hellenistischer und römischer Zeit, Teil des UNESCO-gelisteten archäologischen Gebiets von Paphos."
           },
           {
-            "tip": "Spazieren Sie entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
+            "tip": "Spazier entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
           },
           {
             "tip": "Entspannter Haltepunkt auf halbem Weg zwischen Avlida und dem Hafen. Gut für einen landschaftlich reizvollen Spaziergang mit einem Stopp am Strand."
@@ -232,10 +232,10 @@
             "tip": "Wunderschöner Halbtagsausflug. Im 12. Jahrhundert vom Heiligen Neophytos in einem abgelegenen Tal nördlich von Paphos gegründet."
           },
           {
-            "tip": "Malerische Küste, großartig für Fotos und Sonnenuntergang. Kombinieren Sie den Besuch mit Oniro by the Sea und Agios Georgios."
+            "tip": "Malerische Küste, großartig für Fotos und Sonnenuntergang. Kombinier den Besuch mit Oniro by the Sea und Agios Georgios."
           },
           {
-            "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenpfade. Gut geeignet, wenn man ohnehin in Richtung Sea Caves oder Lara unterwegs ist."
+            "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenpfade. Gut geeignet, wenn du ohnehin in Richtung Sea Caves oder Lara unterwegs bist."
           },
           {
             "tip": "Ikonischste landschaftliche Sehenswürdigkeit Zyperns. Besser für Ausblicke und Mythologie als zum Schwimmen geeignet."
@@ -273,7 +273,7 @@
             "tip": "Malerische Küste, ideal für Fotos und Sonnenuntergang. Kombination mit Oniro by the Sea und Agios Georgios empfohlen."
           },
           {
-            "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenrouten. Gut, wenn man ohnehin in Richtung Sea Caves oder Lara fährt."
+            "tip": "Ruhige Ruinen mit Meerblick, abseits der Touristenrouten. Gut, wenn du ohnehin in Richtung Sea Caves oder Lara fährst."
           },
           {
             "tip": "Die ikonischste Sehenswürdigkeit Zyperns. Besser für Ausblicke und Mythologie als zum Schwimmen."
@@ -423,7 +423,7 @@
             "tip": "Überdachter Marktplatz mit Ständen für Kleidung, Taschen, Schmuck, Strandausrüstung und lokale Souvenirs."
           },
           {
-            "tip": "Schlendern Sie durch die schöne Altstadt und entdecken Sie viele kleine Boutiquen und Handwerksläden."
+            "tip": "Schlender durch die schöne Altstadt und entdecke viele kleine Boutiquen und Handwerksläden."
           }
         ]
       }
@@ -439,7 +439,7 @@
         "info": "Bolt ist eine günstige Taxi-App – eine gute Alternative zu herkömmlichen Taxis in Paphos."
       },
       {
-        "info": "Verschiedene Taxidienste sind online verfügbar. Eine zuverlässige Option ist Paphos Taxi Airport, wo ihr auch direkt per WhatsApp einen Abholtermin vereinbaren könnt: +357 99 460 829."
+        "info": "Verschiedene Taxidienste sind online verfügbar. Eine zuverlässige Option ist Paphos Taxi Airport, wo du auch direkt per WhatsApp einen Abholtermin vereinbaren kannst: +357 99 460 829."
       }
     ],
     "emergency": {
@@ -454,17 +454,17 @@
           "note": "Polizeiwache Paphos"
         }
       ],
-      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragt uns, wenn ihr eine Empfehlung braucht."
+      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Frag uns, wenn du eine Empfehlung brauchst."
     },
     "checkout": {
       "steps": [
-        "Wenn ihr den Kühlschrank leeren und übrig gebliebene Lebensmittel in den Mülleimer werfen könntet, wären wir sehr dankbar!",
-        "Wenn ihr das Geschirr kurz abwaschen und auf dem Abtropfgitter lassen könntet, wäre das super!",
-        "Wenn ihr den Mülleimer leeren und den Beutel zu den Mülltonnen auf dem Parkplatz bringen könntet, wäre das eine große Hilfe!",
-        "Bitte schließt vor dem Abreisen die Balkontür sowie alle Fenster.",
-        "Bitte schaltet die Klimaanlage, alle Lichter und den Fernseher aus, wenn ihr fertig seid.",
-        "Beim Check-out legt bitte die Schlüssel zurück in die Schlüsselbox und setzt den Code zurück.",
-        "Schickt uns eine WhatsApp, wenn ihr aufbrecht – es war wirklich schön, euch zu haben!"
+        "Wenn du den Kühlschrank leeren und übrig gebliebene Lebensmittel in den Mülleimer werfen könntest, wären wir sehr dankbar!",
+        "Wenn du das Geschirr kurz abwaschen und auf dem Abtropfgitter lassen könntest, wäre das super!",
+        "Wenn du den Mülleimer leeren und den Beutel zu den Mülltonnen auf dem Parkplatz bringen könntest, wäre das eine große Hilfe!",
+        "Bitte schließ vor dem Abreisen die Balkontür sowie alle Fenster.",
+        "Bitte schalt die Klimaanlage, alle Lichter und den Fernseher aus, wenn du fertig bist.",
+        "Beim Check-out leg bitte die Schlüssel zurück in die Schlüsselbox und setz den Code zurück.",
+        "Schick uns eine WhatsApp, wenn du aufbrichst – es war wirklich schön, dich zu haben!"
       ]
     }
   },
@@ -507,33 +507,33 @@
       "ruleTitleLostKeys": "Elveszett kulcsok",
       "ruleTitleKeys": "Kulcsok",
       "ruleTitlePropertyCare": "Az ingatlan gondozása",
-      "stepTitleFridge": "Ürítse ki a hűtőt",
-      "stepTitleDishes": "Mossa el az edényeket",
-      "stepTitleRubbish": "Vigye ki a szemetet",
-      "stepTitleCushions": "Eső esetén vigye be a párnákat",
-      "stepTitleCloseWindows": "Zárja be az ablakokat és ajtókat",
-      "stepTitleSwitchOffAppliances": "Kapcsolja le a villanyt és a készülékeket",
-      "stepTitleSwitchOffAC": "Kapcsolja le a villanyt és a légkondicionálót",
-      "stepTitleReturnKeys": "Adja vissza a kulcsokat",
-      "stepTitleDropMeMessage": "Írjon nekem egy üzenetet!",
-      "stepTitleDropUsMessage": "Írjon nekünk egy üzenetet!",
-      "yourHost": "Az Ön házigazdája",
+      "stepTitleFridge": "Ürítsétek ki a hűtőt",
+      "stepTitleDishes": "Mossátok el az edényeket",
+      "stepTitleRubbish": "Vigyétek ki a szemetet",
+      "stepTitleCushions": "Eső esetén vigyétek be a párnákat",
+      "stepTitleCloseWindows": "Zárjátok be az ablakokat és ajtókat",
+      "stepTitleSwitchOffAppliances": "Kapcsoljátok le a villanyt és a készülékeket",
+      "stepTitleSwitchOffAC": "Kapcsoljátok le a villanyt és a légkondicionálót",
+      "stepTitleReturnKeys": "Adjátok vissza a kulcsokat",
+      "stepTitleDropMeMessage": "Írjatok nekem egy üzenetet!",
+      "stepTitleDropUsMessage": "Írjatok nekünk egy üzenetet!",
+      "yourHost": "A házigazdátok",
       "cohost": "Társ-házigazda",
       "call": "Hívás",
       "whatsapp": "WhatsApp",
       "email": "E-mail",
       "enjoyStay": "Kellemes tartózkodást kívánunk!",
-      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
-      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
-      "contactHostIntroSolo": "Egész tartózkodása alatt elérhető vagyok. Ne habozzon felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsön itt.",
-      "contactHostIntroCohost": "Egész tartózkodása alatt elérhetők vagyunk. Ne habozzon felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsön itt.",
+      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodásotokat. Ha jól érzitek magatokat nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
+      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodásotokat. Ha jól érzitek magatokat nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
+      "contactHostIntroSolo": "Egész tartózkodásotok alatt elérhető vagyok. Ne habozzatok felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsetek itt.",
+      "contactHostIntroCohost": "Egész tartózkodásotok alatt elérhetők vagyunk. Ne habozzatok felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsetek itt.",
       "atAGlance": "Gyors áttekintés",
       "checkInNote": "Ettől az időponttól",
-      "checkoutNote": "Kérjük, eddig az időpontig hagyja el a szállást",
+      "checkoutNote": "Kérjük, eddig az időpontig hagyjátok el a szállást",
       "contacts": "Kapcsolatok",
-      "contactsNoteCohost": "Segítségre van szüksége? Mindig elérhetők vagyunk.",
-      "contactsNoteSolo": "Segítségre van szüksége? Mindig elérhető vagyok! Vegye fel velem a kapcsolatot.",
-      "contactUsCohost": "Lépjen kapcsolatba velünk",
+      "contactsNoteCohost": "Segítségre van szükségetek? Mindig elérhetők vagyunk.",
+      "contactsNoteSolo": "Segítségre van szükségetek? Mindig elérhető vagyok! Vegyétek fel velem a kapcsolatot.",
+      "contactUsCohost": "Lépjetek kapcsolatba velünk",
       "contactUsSolo": "Kapcsolatba velem",
       "copied": "Másolva!",
       "contact": "Kapcsolat"
@@ -657,7 +657,7 @@
             "tip": "Drámai tengerpart. Inkább tájfotózásra és naplementeképekre alkalmas, mint egy klasszikus strandnapra."
           },
           {
-            "tip": "Kis strand, jó snorkelezéshez. Kombinálja a Sea Caves-szel és az Oniro by the Sea-vel."
+            "tip": "Kis strand, jó snorkelezéshez. Kombináljátok a Sea Caves-szel és az Oniro by the Sea-vel."
           },
           {
             "tip": "Nyers és gyönyörű, vad tengerpart. Inkább felfedezésre alkalmas, mint napozásra."
@@ -672,7 +672,7 @@
             "tip": "Legjobb kiindulópont a Blue Lagoonhoz terepjáró-vezetés nélkül. Innen indulnak a hajókirándulások."
           },
           {
-            "tip": "A Paphos közelének legimpozánsabb vize. Nem közelíthető meg kocsival. Vegyen hajót Latchiból."
+            "tip": "A Paphos közelének legimpozánsabb vize. Nem közelíthető meg kocsival. Vegyetek hajót Latchiból."
           }
         ]
       },
@@ -701,7 +701,7 @@
             "tip": "Gyönyörű félnapos megálló. A 12. században alapította Szent Neophytosz egy elzárt völgyben Paphostól északra."
           },
           {
-            "tip": "Festői part, nagyszerű fényképezéshez és napnyugtához. Kombinálja az Oniro by the Sea és az Agios Georgios meglátogatásával."
+            "tip": "Festői part, nagyszerű fényképezéshez és napnyugtához. Kombináljátok az Oniro by the Sea és az Agios Georgios meglátogatásával."
           },
           {
             "tip": "Csendes romok tengeri kilátással, a turistautak mellett. Érdemes felkeresni, ha amúgy is a Sea Caves vagy Lara felé tart."
@@ -727,7 +727,7 @@
             "tip": "A legjobb közeli családi attrakció. Könnyű fél- vagy egésznapos lehetőség meleg napokon."
           },
           {
-            "tip": "A Paphos egyik legjobb élménye. Foglaljon online és érkezzen korán."
+            "tip": "A Paphos egyik legjobb élménye. Foglaljatok online és érkezzetek korán."
           },
           {
             "tip": "Ciprus legjelentősebb kulturális helyszíne. A keleti Mediterráneum legszebb római mozaikjai közé sorolt alkotások, UNESCO-listán."
@@ -739,7 +739,7 @@
             "tip": "Gyönyörű félnapos megálló. A 12. században Neophytosz Szent alapította egy elzárt völgyben Paphos-tól északra."
           },
           {
-            "tip": "Festői part, kiváló fényképezéshez és napszentületre. Kombinálja az Oniro by the Sea-vel és az Agios Georgiosszal."
+            "tip": "Festői part, kiváló fényképezéshez és napszentületre. Kombináljátok az Oniro by the Sea-vel és az Agios Georgiosszal."
           },
           {
             "tip": "Csendes romok tengeri kilátással, a turisták által nem látogatott helyen. Jó, ha már Sea Caves vagy Lara felé tart."
@@ -751,7 +751,7 @@
             "tip": "Vad természet, kilátóhelyek, túraútvonalak. Az útviszonyok változóak. Legjobb kalandvágyó vendégeknek."
           },
           {
-            "tip": "Kis strand, jó snorkelezéshez. Kombinálja a Sea Caves-szel. Az Oniro by the Sea étterem pontosan ott van."
+            "tip": "Kis strand, jó snorkelezéshez. Kombináljátok a Sea Caves-szel. Az Oniro by the Sea étterem pontosan ott van."
           },
           {
             "tip": "Delfinlesés, snorkelezés, tengerpart. 2–3 órás hajóutak a Paphos kikötőből vagy Latchiból. Az egyik legjobb tengeri élmény."
@@ -792,7 +792,7 @@
             "tip": "Népszerű jelzett ösvény az Akamas dombjain át. Közepes nehézségű. Legjobb hűvösebb hónapokban."
           },
           {
-            "tip": "Igényesebb ösvény az Akamas mélyébe. Nagyon látványos kilátás. Vegyen vizet és induljon korán."
+            "tip": "Igényesebb ösvény az Akamas mélyébe. Nagyon látványos kilátás. Vegyetek vizet és induljatok korán."
           },
           {
             "tip": "Könnyű, festői kör szőlőültetvényeken és hagyományos falusi élettel. Legjobb tavasszal vagy ősszel."
@@ -939,13 +939,13 @@
   },
   "el": {
     "ui": {
-      "welcome": "Καλώς ήρθατε!",
+      "welcome": "Καλώς ήρθες!",
       "checkIn": "Check-in",
       "keyLocation": "Τοποθεσία Κλειδιού",
       "accessCode": "Κωδικός Πρόσβασης",
       "stepByStep": "Βήμα-Βήμα",
       "houseRules": "Κανόνες Κατοικίας",
-      "gettingHere": "Πώς να φτάσετε",
+      "gettingHere": "Πώς να φτάσεις",
       "openGoogleMaps": "Άνοιγμα στο Google Maps",
       "byCar": "Με Αυτοκίνητο",
       "parking": "Παρκάρισμα",
@@ -976,125 +976,125 @@
       "ruleTitleLostKeys": "Χαμένα κλειδιά",
       "ruleTitleKeys": "Κλειδιά",
       "ruleTitlePropertyCare": "Φροντίδα του χώρου",
-      "stepTitleFridge": "Αδειάστε το ψυγείο",
-      "stepTitleDishes": "Πλύνετε τα πιάτα",
-      "stepTitleRubbish": "Βγάλτε τα σκουπίδια",
-      "stepTitleCushions": "Βροχή; Μαζέψτε τα μαξιλάρια",
-      "stepTitleCloseWindows": "Κλείστε παράθυρα & πόρτες",
-      "stepTitleSwitchOffAppliances": "Σβήστε φώτα & συσκευές",
-      "stepTitleSwitchOffAC": "Σβήστε φώτα & κλιματισμό",
-      "stepTitleReturnKeys": "Επιστρέψτε τα κλειδιά",
-      "stepTitleDropMeMessage": "Στείλτε μου ένα μήνυμα!",
-      "stepTitleDropUsMessage": "Στείλτε μας ένα μήνυμα!",
-      "yourHost": "Ο οικοδεσπότης σας",
+      "stepTitleFridge": "Άδειασε το ψυγείο",
+      "stepTitleDishes": "Πλύνε τα πιάτα",
+      "stepTitleRubbish": "Βγάλε τα σκουπίδια",
+      "stepTitleCushions": "Βροχή; Μάζεψε τα μαξιλάρια",
+      "stepTitleCloseWindows": "Κλείσε παράθυρα & πόρτες",
+      "stepTitleSwitchOffAppliances": "Σβήσε φώτα & συσκευές",
+      "stepTitleSwitchOffAC": "Σβήσε φώτα & κλιματισμό",
+      "stepTitleReturnKeys": "Επίστρεψε τα κλειδιά",
+      "stepTitleDropMeMessage": "Στείλε μου ένα μήνυμα!",
+      "stepTitleDropUsMessage": "Στείλε μας ένα μήνυμα!",
+      "yourHost": "Ο οικοδεσπότης σου",
       "cohost": "Συν-οικοδεσπότης",
       "call": "Κλήση",
       "whatsapp": "WhatsApp",
       "email": "Email",
-      "enjoyStay": "Απολαύστε τη διαμονή σας!",
-      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
-      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
-      "contactHostIntroSolo": "Είμαι εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσετε υπέροχα.",
-      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα.",
+      "enjoyStay": "Απόλαυσε τη διαμονή σου!",
+      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σου ακόμα καλύτερη. Αν απολαύσεις τον χρόνο σου εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
+      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σου ακόμα καλύτερη. Αν απολαύσεις τον χρόνο σου εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
+      "contactHostIntroSolo": "Είμαι εδώ για εσένα καθ' όλη τη διάρκεια της διαμονής σου. Μη διστάσεις να επικοινωνήσεις μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσεις υπέροχα.",
+      "contactHostIntroCohost": "Είμαστε εδώ για εσένα καθ' όλη τη διάρκεια της διαμονής σου. Μη διστάσεις να επικοινωνήσεις μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσεις υπέροχα.",
       "atAGlance": "Με μια ματιά",
       "checkInNote": "Από αυτή την ώρα και μετά",
-      "checkoutNote": "Παρακαλούμε να έχετε αποχωρήσει μέχρι τότε",
+      "checkoutNote": "Παρακαλούμε να έχεις αποχωρήσει μέχρι τότε",
       "contacts": "Επικοινωνία",
-      "contactsNoteCohost": "Χρειάζεστε βοήθεια; Είμαστε πάντα διαθέσιμοι.",
-      "contactsNoteSolo": "Χρειάζεστε βοήθεια; Είμαι πάντα εδώ για εσάς! Επικοινωνήστε μαζί μου.",
-      "contactUsCohost": "Επικοινωνήστε μαζί μας",
-      "contactUsSolo": "Επικοινωνήστε μαζί μου",
+      "contactsNoteCohost": "Χρειάζεσαι βοήθεια; Είμαστε πάντα διαθέσιμοι.",
+      "contactsNoteSolo": "Χρειάζεσαι βοήθεια; Είμαι πάντα εδώ για εσένα! Επικοινώνησε μαζί μου.",
+      "contactUsCohost": "Επικοινώνησε μαζί μας",
+      "contactUsSolo": "Επικοινώνησε μαζί μου",
       "copied": "Αντιγράφηκε!",
       "contact": "Επικοινωνία"
     },
-    "welcomeMessage": "Καλώς ήρθατε! Βρίσκεστε στην καρδιά της Πάφου, μόλις λίγα βήματα από το ιστορικό λιμάνι. Μια πλήρης κουζίνα, ένα ηλιόλουστο μπαλκόνι και μια κοινόχρηστη πισίνα είναι στη διάθεσή σας. Νιώστε σαν στο σπίτι σας – επικοινωνήστε μαζί μας οποτεδήποτε αν χρειαστείτε κάτι!",
+    "welcomeMessage": "Καλώς ήρθες! Βρίσκεσαι στην καρδιά της Πάφου, μόλις λίγα βήματα από το ιστορικό λιμάνι. Μια πλήρης κουζίνα, ένα ηλιόλουστο μπαλκόνι και μια κοινόχρηστη πισίνα είναι στη διάθεσή σου. Νιώσε σαν στο σπίτι σου – επικοινώνησε μαζί μας οποτεδήποτε αν χρειαστείς κάτι!",
     "gettingHere": {
-      "byCar": "Κατευθυνθείτε προς το Kings Avenue Mall στην Πάφο. Το συγκρότημα Byzantium Gardens βρίσκεται ακριβώς δίπλα. ⚠️ Το Google Maps μπορεί να σας οδηγήσει μέσα από πεζόδρομο στο τελευταίο κομμάτι – κάντε αντίθετα τον γύρο του τετραγώνου για να φτάσετε στην κύρια είσοδο. Δείτε τον φωτογραφικό οδηγό παρακάτω για λεπτομέρειες.",
-      "parking": "Δωρεάν παρκάρισμα παντού στο συγκρότημα. Χρησιμοποιήστε το chip στο μπρελόκ για να ανοίξετε την κύρια πύλη. Για έξοδο με αυτοκίνητο, σταματήστε μπροστά στο σήμα STOP/ΑΝΑΜΟΝΗ – η πύλη ανοίγει αυτόματα.",
-      "publicTransport": "Λεωφορείο 612 από το αεροδρόμιο Πάφου (~35 λεπτά, ανάλογα με εποχή και στάσεις), κατεβείτε στη στάση Kings Avenue Mall (3 λεπτά με τα πόδια). Χάσατε τη στάση; Η επόμενη είναι μόλις 10 λεπτά με τα πόδια. ⚠️ Μόνο μετρητά. 2,50 € ανά διαδρομή.",
+      "byCar": "Κατευθύνσου προς το Kings Avenue Mall στην Πάφο. Το συγκρότημα Byzantium Gardens βρίσκεται ακριβώς δίπλα. ⚠️ Το Google Maps μπορεί να σε οδηγήσει μέσα από πεζόδρομο στο τελευταίο κομμάτι – κάνε αντίθετα τον γύρο του τετραγώνου για να φτάσεις στην κύρια είσοδο. Δες τον φωτογραφικό οδηγό παρακάτω για λεπτομέρειες.",
+      "parking": "Δωρεάν παρκάρισμα παντού στο συγκρότημα. Χρησιμοποίησε το chip στο μπρελόκ για να ανοίξεις την κύρια πύλη. Για έξοδο με αυτοκίνητο, σταμάτησε μπροστά στο σήμα STOP/ΑΝΑΜΟΝΗ – η πύλη ανοίγει αυτόματα.",
+      "publicTransport": "Λεωφορείο 612 από το αεροδρόμιο Πάφου (~35 λεπτά, ανάλογα με εποχή και στάσεις), κατέβα στη στάση Kings Avenue Mall (3 λεπτά με τα πόδια). Έχασες τη στάση; Η επόμενη είναι μόλις 10 λεπτά με τα πόδια. ⚠️ Μόνο μετρητά. 2,50 € ανά διαδρομή.",
       "taxi": "Ταξί περιμένουν έξω από τις αφίξεις του αεροδρομίου Πάφου. Τιμή: 40–45 € (ημέρα), 45–50 € (νυχτερινές ώρες). ~20–25 λεπτά. Μια ελαφρώς οικονομικότερη επιλογή είναι το Bolt.",
       "directionPhotos": [
         {
-          "caption": "Πλοηγηθείτε στην τοποθεσία Google Maps. Το συγκρότημα βρίσκεται 2 τετράγωνα αριστερά από το Kings Avenue Mall. Τα κόκκινα σημάδια δείχνουν δρόμους που πρέπει να αποφύγετε. Θα δείτε επίσης σήμα ΑΠΑΓΟΡΕΥΣΗΣ ΕΙΣΟΔΟΥ – ισχύει μόνο για μη κατοίκους. Ως φιλοξενούμενοι επιτρέπεται να εισέλθετε."
+          "caption": "Πλοηγήσου στην τοποθεσία Google Maps. Το συγκρότημα βρίσκεται 2 τετράγωνα αριστερά από το Kings Avenue Mall. Τα κόκκινα σημάδια δείχνουν δρόμους που πρέπει να αποφύγεις. Θα δεις επίσης σήμα ΑΠΑΓΟΡΕΥΣΗΣ ΕΙΣΟΔΟΥ – ισχύει μόνο για μη κατοίκους. Ως φιλοξενούμενος/-η επιτρέπεται να μπεις."
         },
         {
-          "caption": "Μόλις φτάσετε στην είσοδο, βρείτε τα κουτιά κλειδιών στον αριστερό τοίχο."
+          "caption": "Μόλις φτάσεις στην είσοδο, βρες τα κουτιά κλειδιών στον αριστερό τοίχο."
         },
         {
-          "caption": "Χρησιμοποιήστε το μικρό πλαστικό chip (transponder) στο μπρελόκ. Κρατήστε το κοντά στον αναγνώστη για να ανοίξει η εξώπορτα."
+          "caption": "Χρησιμοποίησε το μικρό πλαστικό chip (transponder) στο μπρελόκ. Κράτησέ το κοντά στον αναγνώστη για να ανοίξει η εξώπορτα."
         },
         {
-          "caption": "Ανοίξτε το αριστερό κουτί στη 2η σειρά (σημειωμένο με κόκκινο) με τον κωδικό: 9900 για να παραλάβετε τα κλειδιά σας."
+          "caption": "Άνοιξε το αριστερό κουτί στη 2η σειρά (σημειωμένο με κόκκινο) με τον κωδικό: 9900 για να πάρεις τα κλειδιά σου."
         },
         {
-          "caption": "Με αυτοκίνητο; Χρησιμοποιήστε αυτή τη συσκευή για να ανοίξετε την κύρια πύλη. Θα τη βρείτε στη δεξιά πλευρά όταν κοιτάτε την πύλη."
+          "caption": "Με αυτοκίνητο; Χρησιμοποίησε αυτή τη συσκευή για να ανοίξεις την κύρια πύλη. Θα τη βρεις στη δεξιά πλευρά όταν κοιτάς την πύλη."
         },
         {
-          "caption": "Μέσα: πηγαίνετε ευθεία και περάστε το Block B. Το Block C (το διαμέρισμά σας) βρίσκεται ακριβώς μπροστά."
+          "caption": "Μέσα: πήγαινε ευθεία και πέρασε το Block B. Το Block C (το διαμέρισμά σου) βρίσκεται ακριβώς μπροστά."
         },
         {
-          "caption": "Στο Block C: πάρτε την είσοδο αριστερά και ανεβείτε στον 1ο όροφο. Υπάρχει ανελκυστήρας."
+          "caption": "Στο Block C: πάρε την είσοδο αριστερά και ανέβα στον 1ο όροφο. Υπάρχει ανελκυστήρας."
         },
         {
-          "caption": "Ψάξτε την πόρτα Νο. 106, ακριβώς δίπλα στον ανελκυστήρα."
+          "caption": "Ψάξε την πόρτα Νο. 106, ακριβώς δίπλα στον ανελκυστήρα."
         },
         {
-          "caption": "Έξοδος με αυτοκίνητο: σταματήστε μπροστά στο σήμα STOP/ΑΝΑΜΟΝΗ στην κύρια πύλη. Οι πόρτες ανοίγουν αυτόματα."
+          "caption": "Έξοδος με αυτοκίνητο: σταμάτησε μπροστά στο σήμα STOP/ΑΝΑΜΟΝΗ στην κύρια πύλη. Οι πόρτες ανοίγουν αυτόματα."
         }
       ]
     },
     "checkin": {
-      "keyLocation": "Το κουτί κλειδιών βρίσκεται στην αριστερή πλευρά του τοίχου όταν κοιτάτε την κύρια πύλη.",
+      "keyLocation": "Το κουτί κλειδιών βρίσκεται στην αριστερή πλευρά του τοίχου όταν κοιτάς την κύρια πύλη.",
       "steps": [
-        "Κατευθυνθείτε στο Byzantium Gardens. Το συγκρότημα βρίσκεται ακριβώς δίπλα στο Kings Avenue Mall (βλ. Φωτογραφία 1 για χάρτη)",
-        "Βρείτε τα κουτιά κλειδιών στον αριστερό τοίχο της εισόδου (Φωτογραφία 2)",
-        "Κρατήστε το chip/transponder στον αναγνώστη για να ανοίξετε την εξώπορτα (Φωτογραφία 3)",
-        "Ανοίξτε το αριστερό κουτί στη 2η σειρά με κωδικό: 9900 για να παραλάβετε τα κλειδιά (Φωτογραφία 4)",
-        "Με αυτοκίνητο: χρησιμοποιήστε τη συσκευή στη δεξιά πλευρά όταν κοιτάτε την κύρια πύλη (Φωτογραφία 5)",
-        "Εισέλθετε, περάστε το Block B. Το Block C και ο χώρος στάθμευσης βρίσκονται ακριβώς μπροστά (Φωτογραφία 6)",
-        "Στο Block C: πάρτε την αριστερή είσοδο και ανεβείτε στον 1ο όροφο. Υπάρχει ανελκυστήρας (Φωτογραφία 7)",
-        "Ψάξτε την πόρτα Νο. 106, ακριβώς δίπλα στον ανελκυστήρα (Φωτογραφία 8)"
+        "Κατευθύνσου στο Byzantium Gardens. Το συγκρότημα βρίσκεται ακριβώς δίπλα στο Kings Avenue Mall (βλ. Φωτογραφία 1 για χάρτη)",
+        "Βρες τα κουτιά κλειδιών στον αριστερό τοίχο της εισόδου (Φωτογραφία 2)",
+        "Κράτησε το chip/transponder στον αναγνώστη για να ανοίξεις την εξώπορτα (Φωτογραφία 3)",
+        "Άνοιξε το αριστερό κουτί στη 2η σειρά με κωδικό: 9900 για να πάρεις τα κλειδιά (Φωτογραφία 4)",
+        "Με αυτοκίνητο: χρησιμοποίησε τη συσκευή στη δεξιά πλευρά όταν κοιτάς την κύρια πύλη (Φωτογραφία 5)",
+        "Μπες, πέρασε το Block B. Το Block C και ο χώρος στάθμευσης βρίσκονται ακριβώς μπροστά (Φωτογραφία 6)",
+        "Στο Block C: πάρε την αριστερή είσοδο και ανέβα στον 1ο όροφο. Υπάρχει ανελκυστήρας (Φωτογραφία 7)",
+        "Ψάξε την πόρτα Νο. 106, ακριβώς δίπλα στον ανελκυστήρα (Φωτογραφία 8)"
       ],
-      "notes": "Αν δυσκολευτείτε να μας βρείτε, καλέστε μας ή στείλτε WhatsApp οποιαδήποτε στιγμή – χαρούμε να σας οδηγήσουμε βήμα βήμα."
+      "notes": "Αν δυσκολευτείς να μας βρεις, κάλεσέ μας ή στείλε μας WhatsApp οποιαδήποτε στιγμή – χαρούμε να σε οδηγήσουμε βήμα βήμα."
     },
     "houseRules": [
-      "Παρακαλούμε καπνίζετε μόνο στα μπαλκόνια και τις βεράντες",
-      "Παρακαλούμε να είστε ήσυχοι. Ώρες κοινής ησυχίας: 23:00 έως 8:00. Δεν επιτρέπονται πάρτι ή εκδηλώσεις",
+      "Παρακαλούμε κάπνιζε μόνο στα μπαλκόνια και τις βεράντες",
+      "Παρακαλούμε να είσαι ήσυχος/-η. Ώρες κοινής ησυχίας: 23:00 έως 8:00. Δεν επιτρέπονται πάρτι ή εκδηλώσεις",
       "Αγαπάμε τα ζώα, αλλά δεν μπορούμε να φιλοξενήσουμε κατοικίδια. Λυπούμαστε!",
-      "Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα αντί να ρίχνετε χαρτί στη λεκάνη – η κυπριακή υδραυλική δεν μπορεί να το χειριστεί",
-      "Τοποθετήστε το μεταλλικό κλειδί στην υποδοχή ρεύματος δίπλα στην πόρτα όταν είστε μέσα, και πάρτε το μαζί σας όταν φύγετε",
-      "Κλείνετε τις πόρτες μπαλκονιού/βεράντας και τα παράθυρα όταν λειτουργεί το κλιματιστικό, για να κρατάτε το χώρο δροσερό και να εξοικονομείτε ενέργεια",
-      "Παρακαλούμε να επιστρέψετε τα κλειδιά στο κουτί και να επαναφέρετε τον κωδικό πριν φύγετε. Αν τα κλειδιά χαθούν ή κλειδωθείτε έξω, θα επιβαρυνθείτε με το κόστος κλειδαρά – φροντίστε τα!",
-      "Παρακαλούμε να φερθείτε στο διαμέρισμα σαν δικό σας, και ενημερώστε μας αμέσως αν κάτι χαλάσει. Καταλαβαίνουμε ότι τα ατυχήματα συμβαίνουν"
+      "Παρακαλούμε χρησιμοποίησε τον κάδο δίπλα στην τουαλέτα αντί να ρίχνεις χαρτί στη λεκάνη – η κυπριακή υδραυλική δεν μπορεί να το χειριστεί",
+      "Τοποθέτησε το μεταλλικό κλειδί στην υποδοχή ρεύματος δίπλα στην πόρτα όταν είσαι μέσα, και πάρ' το μαζί σου όταν φύγεις",
+      "Κλείνε τις πόρτες μπαλκονιού/βεράντας και τα παράθυρα όταν λειτουργεί το κλιματιστικό, για να κρατάς το χώρο δροσερό και να εξοικονομείς ενέργεια",
+      "Παρακαλούμε να επιστρέψεις τα κλειδιά στο κουτί και να επαναφέρεις τον κωδικό πριν φύγεις. Αν τα κλειδιά χαθούν ή κλειδωθείς έξω, θα επιβαρυνθείς με το κόστος κλειδαρά – φρόντισέ τα!",
+      "Παρακαλούμε να φερθείς στο διαμέρισμα σαν δικό σου, και ενημέρωσέ μας αμέσως αν κάτι χαλάσει. Καταλαβαίνουμε ότι τα ατυχήματα συμβαίνουν"
     ],
     "appliances": [
       {
         "name": "Ρεύμα",
-        "instructions": "Κάθε πρίζα έχει τον δικό της διακόπτη στον τοίχο – αν κάτι δεν λειτουργεί, συνήθως ο διακόπτης είναι η αιτία. Διατίθενται αντάπτορες EU αν τους χρειαστείτε."
+        "instructions": "Κάθε πρίζα έχει τον δικό της διακόπτη στον τοίχο – αν κάτι δεν λειτουργεί, συνήθως ο διακόπτης είναι η αιτία. Διατίθενται αντάπτορες EU αν τους χρειαστείς."
       },
       {
         "name": "Κουζίνα",
-        "instructions": "Όλα όσα χρειάζεστε είναι εδώ: ηλεκτρική εστία, φούρνος, air fryer, καφετιέρα και μύλος. Αλάτι, πιπέρι, ελαιόλαδο και κόκκοι καφέ είναι για εσάς. Μια συμβουλή: παρακαλούμε πλένετε τα πιάτα αμέσως και κρατάτε καθαρές τις επιφάνειες – ο ζεστός καιρός μπορεί να προσελκύσει έντομα."
+        "instructions": "Όλα όσα χρειάζεσαι είναι εδώ: ηλεκτρική εστία, φούρνος, air fryer, καφετιέρα και μύλος. Αλάτι, πιπέρι, ελαιόλαδο και κόκκοι καφέ είναι για εσένα. Μια συμβουλή: παρακαλούμε πλένε τα πιάτα αμέσως και κράτα καθαρές τις επιφάνειες – ο ζεστός καιρός μπορεί να προσελκύσει έντομα."
       },
       {
         "name": "Πλυντήριο",
-        "instructions": "Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα ρούχα. Θα το βρείτε στην κουζίνα."
+        "instructions": "Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα ρούχα. Θα το βρεις στην κουζίνα."
       },
       {
         "name": "Ντους & Ζεστό Νερό",
-        "instructions": "Το νερό θερμαίνεται από ηλιακούς συλλέκτες στη στέγη – γι' αυτό είναι ζεστό και φιλικό προς το περιβάλλον! Δώστε 2–3 λεπτά να έρθει, καθώς ταξιδεύει από τους συλλέκτες. Σε συννεφιασμένες μέρες το ηλιακό μπορεί να μην αρκεί: πατήστε το κουμπί του boiler δίπλα στην πόρτα του μπάνιου και περιμένετε 20–30 λεπτά ανά άτομο πριν κάνετε μπάνιο. ⚠️ Σβήστε πάντα τον boiler πριν μπείτε στο ντους."
+        "instructions": "Το νερό θερμαίνεται από ηλιακούς συλλέκτες στη στέγη – γι' αυτό είναι ζεστό και φιλικό προς το περιβάλλον! Δώσε 2–3 λεπτά να έρθει, καθώς ταξιδεύει από τους συλλέκτες. Σε συννεφιασμένες μέρες το ηλιακό μπορεί να μην αρκεί: πάτησε το κουμπί του boiler δίπλα στην πόρτα του μπάνιου και περίμενε 20–30 λεπτά ανά άτομο πριν κάνεις μπάνιο. ⚠️ Σβήνε πάντα τον boiler πριν μπεις στο ντους."
       },
       {
         "name": "Πρόσβαση στην Πισίνα",
-        "instructions": "Η πισίνα είναι ανοιχτή για όλους τους φιλοξενούμενους – δεν χρειάζεται κλειδί, απλά κατεβείτε όποτε θέλετε! Παρακαλούμε χρησιμοποιήστε τις παρεχόμενες πετσέτες παραλίας αντί για τις πετσέτες μπάνιου, και αποφύγετε γυάλινα σκεύη και βουτιές. Να είστε προσεκτικοί και απέναντι στους άλλους φιλοξενούμενους."
+        "instructions": "Η πισίνα είναι ανοιχτή για όλους τους φιλοξενούμενους – δεν χρειάζεται κλειδί, απλά κατέβα όποτε θέλεις! Παρακαλούμε χρησιμοποίησε τις παρεχόμενες πετσέτες παραλίας αντί για τις πετσέτες μπάνιου, και απόφυγε γυάλινα σκεύη και βουτιές. Να είσαι προσεκτικός/-ή και απέναντι στους άλλους φιλοξενούμενους."
       },
       {
         "name": "Μπάνιο",
-        "instructions": "Πετσέτες, πιστολάκι μαλλιών και βασικά είδη τουαλέτας παρέχονται. Παρακαλούμε χρησιμοποιήστε τον κάδο δίπλα στην τουαλέτα αντί να ρίχνετε χαρτί – η κυπριακή υδραυλική δεν είναι φτιαγμένη γι' αυτό!"
+        "instructions": "Πετσέτες, πιστολάκι μαλλιών και βασικά είδη τουαλέτας παρέχονται. Παρακαλούμε χρησιμοποίησε τον κάδο δίπλα στην τουαλέτα αντί να ρίχνεις χαρτί – η κυπριακή υδραυλική δεν είναι φτιαγμένη γι' αυτό!"
       },
       {
         "name": "Πόσιμο Νερό",
-        "instructions": "Το νερό βρύσης είναι ασφαλές για κατανάλωση, αν και πολλοί φιλοξενούμενοι προτιμούν εμφιαλωμένο. Θα το βρείτε στα κοντινά σούπερ μάρκετ."
+        "instructions": "Το νερό βρύσης είναι ασφαλές για κατανάλωση, αν και πολλοί φιλοξενούμενοι προτιμούν εμφιαλωμένο. Θα το βρεις στα κοντινά σούπερ μάρκετ."
       }
     ],
     "thingsToDo": [
@@ -1126,7 +1126,7 @@
             "tip": "Εντυπωσιακή ακτογραμμή. Καλύτερη για τοπία και φωτογραφίες ηλιοβασιλέματος παρά για κλασική μέρα παραλίας."
           },
           {
-            "tip": "Μικρή παραλία, ιδανική για αναπνευστήρα. Συνδυάστε με Sea Caves και Oniro by the Sea."
+            "tip": "Μικρή παραλία, ιδανική για αναπνευστήρα. Συνδύασέ την με Sea Caves και Oniro by the Sea."
           },
           {
             "tip": "Ακατέργαστη και όμορφη, άγρια ακτή. Καλύτερη για εξερεύνηση παρά για ξαπλώστρες."
@@ -1141,7 +1141,7 @@
             "tip": "Καλύτερο σημείο εκκίνησης για τη Blue Lagoon χωρίς οδήγηση εκτός δρόμου. Εδώ αναχωρούν τα πλοιάρια."
           },
           {
-            "tip": "Τα πιο εντυπωσιακά νερά στην περιοχή της Πάφου. Δεν είναι παραλία που φτάνετε με αυτοκίνητο. Πάρτε βάρκα από το Latchi."
+            "tip": "Τα πιο εντυπωσιακά νερά στην περιοχή της Πάφου. Δεν είναι παραλία που φτάνεις με αυτοκίνητο. Πάρε βάρκα από το Latchi."
           }
         ]
       },
@@ -1152,7 +1152,7 @@
             "tip": "Η πλησιέστερη και σημαντικότερη ιστορική τοποθεσία. Λαξευτοί τάφοι από την ελληνιστική και ρωμαϊκή περίοδο, τμήμα της αρχαιολογικής περιοχής της Πάφου που είναι καταχωρημένη στην UNESCO."
           },
           {
-            "tip": "Περπατήστε κατά μήκος της ακτογραμμής προς την παραλία του Φάρου, το λιμάνι και το Κάστρο της Πάφου. Εύκολη και γραφική διαδρομή, ιδιαίτερα στο ηλιοβασίλεμα."
+            "tip": "Περπάτησε κατά μήκος της ακτογραμμής προς την παραλία του Φάρου, το λιμάνι και το Κάστρο της Πάφου. Εύκολη και γραφική διαδρομή, ιδιαίτερα στο ηλιοβασίλεμα."
           },
           {
             "tip": "Χαλαρός ενδιάμεσος σταθμός μεταξύ Αυλίδας και του λιμανιού. Ιδανικό για μια γραφική βόλτα με μια στάση στην παραλία."
@@ -1170,10 +1170,10 @@
             "tip": "Όμορφη στάση μισής ημέρας. Ιδρύθηκε τον 12ο αιώνα από τον Άγιο Νεόφυτο σε μια απομονωμένη κοιλάδα βόρεια της Πάφου."
           },
           {
-            "tip": "Γραφική ακτή, ιδανική για φωτογραφίες και ηλιοβασίλεμα. Συνδυάστε με Oniro by the Sea και Άγιο Γεώργιο."
+            "tip": "Γραφική ακτή, ιδανική για φωτογραφίες και ηλιοβασίλεμα. Συνδύασέ την με Oniro by the Sea και Άγιο Γεώργιο."
           },
           {
-            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεστε ήδη προς τα Sea Caves ή τη Λάρα."
+            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεσαι ήδη προς τα Sea Caves ή τη Λάρα."
           },
           {
             "tip": "Η πιο εμβληματική γραφική στάση στην Κύπρο. Καλύτερη για τη θέα και τη μυθολογία παρά για κολύμπι."
@@ -1196,7 +1196,7 @@
             "tip": "Η καλύτερη οικογενειακή αξιοθέατο στην περιοχή. Εύκολη επιλογή μισής ή ολόκληρης ημέρας σε ζεστές μέρες."
           },
           {
-            "tip": "Μία από τις κορυφαίες εμπειρίες της Πάφου. Κλείστε διαδικτυακά και φτάστε νωρίς."
+            "tip": "Μία από τις κορυφαίες εμπειρίες της Πάφου. Κλείσε διαδικτυακά και φτάσε νωρίς."
           },
           {
             "tip": "Πιο σημαντικός πολιτιστικός χώρος της Κύπρου. Ρωμαϊκά ψηφιδωτά μεταξύ των καλύτερων στην ανατολική Μεσόγειο, στη λίστα της UNESCO."
@@ -1208,10 +1208,10 @@
             "tip": "Όμορφη στάση μισής ημέρας. Ιδρύθηκε τον 12ο αιώνα από τον Άγιο Νεόφυτο σε μια απομονωμένη κοιλάδα βόρεια της Πάφου."
           },
           {
-            "tip": "Γραφική ακτή, υπέροχη για φωτογραφίες και ηλιοβασίλεμα. Συνδυάστε με Oniro by the Sea και Άγιο Γεώργιο."
+            "tip": "Γραφική ακτή, υπέροχη για φωτογραφίες και ηλιοβασίλεμα. Συνδύασέ την με Oniro by the Sea και Άγιο Γεώργιο."
           },
           {
-            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεστε ήδη προς Sea Caves ή Λάρα."
+            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεσαι ήδη προς Sea Caves ή Λάρα."
           },
           {
             "tip": "Η πιο εμβληματική γραφική στάση στην Κύπρο. Καλύτερη για θέα και μυθολογία παρά για κολύμπι."
@@ -1220,7 +1220,7 @@
             "tip": "Άγρια φύση, σημεία θέας, μονοπάτια πεζοπορίας. Οι συνθήκες του δρόμου ποικίλλουν. Καλύτερο για τολμηρούς επισκέπτες."
           },
           {
-            "tip": "Μικρή παραλία, ιδανική για αναπνευστήρα. Συνδυάστε με Sea Caves. Το εστιατόριο Oniro by the Sea είναι εκεί."
+            "tip": "Μικρή παραλία, ιδανική για αναπνευστήρα. Συνδύασέ την με Sea Caves. Το εστιατόριο Oniro by the Sea είναι εκεί."
           },
           {
             "tip": "Παρατήρηση δελφινιών, αναπνευστήρας, ακτογραμμή. Πλοιάρια 2–3 ωρών από το λιμάνι της Πάφου ή το Latchi. Μία από τις καλύτερες θαλάσσιες εμπειρίες."
@@ -1235,7 +1235,7 @@
             "tip": "Ένα όμορφο βυζαντινό μοναστήρι στις υπώρειες του Τροόδους. Αξίζει να συνδυαστεί με επίσκεψη στο Τρόοδος."
           },
           {
-            "tip": "Η καλύτερη συνολική εκδρομή ημέρας κοντά στην Πάφο συνδυάζοντας τη Διαδρομή Κρασιού και ένα μεσαιωνικό μοναστήρι. Οδηγήστε μέσα από εντυπωσιακούς αμπελώνες."
+            "tip": "Η καλύτερη συνολική εκδρομή ημέρας κοντά στην Πάφο συνδυάζοντας τη Διαδρομή Κρασιού και ένα μεσαιωνικό μοναστήρι. Οδήγησε μέσα από εντυπωσιακούς αμπελώνες."
           },
           {
             "tip": "Το καλύτερο οικογενειακό υδάτινο πάρκο της Κύπρου. Αξίζει την οδήγηση, ειδικά για όσους έχουν παιδιά."
@@ -1246,7 +1246,7 @@
         "category": "Πεζοπορία & Φύση ⛰️",
         "items": [
           {
-            "tip": "Καλύτερη επιλογή χωρίς αυτοκίνητο. Περπατήστε από την περιοχή των Τάφων των Βασιλέων προς Lighthouse Beach, το λιμάνι και το Κάστρο της Πάφου."
+            "tip": "Καλύτερη επιλογή χωρίς αυτοκίνητο. Περπάτησε από την περιοχή των Τάφων των Βασιλέων προς Lighthouse Beach, το λιμάνι και το Κάστρο της Πάφου."
           },
           {
             "tip": "Πρακτικό από την Αυλίδα. Κατάλληλο για επισκέπτες που θέλουν φύση χωρίς κανονική πεζοπορία."
@@ -1261,7 +1261,7 @@
             "tip": "Δημοφιλές σηματοδοτημένο μονοπάτι μέσα από τους λόφους της Ακάμας. Μέτριο. Καλύτερο τους πιο δροσερούς μήνες."
           },
           {
-            "tip": "Πιο απαιτητικό μονοπάτι βαθύτερα στην Ακάμα. Πολύ ανταμείβοντες απόψεις. Πάρτε νερό και ξεκινήστε νωρίς."
+            "tip": "Πιο απαιτητικό μονοπάτι βαθύτερα στην Ακάμα. Πολύ ανταμείβοντες απόψεις. Πάρε νερό και ξεκίνησε νωρίς."
           },
           {
             "tip": "Εύκολη γραφική διαδρομή μέσα από αμπελώνες και παραδοσιακή χωριάτικη ζωή. Καλύτερη την άνοιξη ή το φθινόπωρο."
@@ -1323,7 +1323,7 @@
             "tip": "Το εμβληματικό μπαρ-εστιατόριο στο λιμάνι της Πάφου. Κατάλληλο για ένα ποτό και ένα ανεπίσημο γεύμα."
           },
           {
-            "tip": "Ρουστίκ κυπριακή ταβέρνα γνωστή για παραδοσιακό μεζέ. Αξίζει την οδήγηση αν αγαπάτε την αυθεντική τοπική κουζίνα."
+            "tip": "Ρουστίκ κυπριακή ταβέρνα γνωστή για παραδοσιακό μεζέ. Αξίζει την οδήγηση αν αγαπάς την αυθεντική τοπική κουζίνα."
           },
           {
             "tip": "Φανταστικό εστιατόριο με θέα θάλασσα στα Sea Caves. Αξίζει να συνδυαστεί με επίσκεψη στις σπηλιές."
@@ -1361,14 +1361,14 @@
             "tip": "Στεγασμένη αγορά με πάγκους για ρούχα, τσάντες, κοσμήματα, είδη παραλίας και τοπικά αναμνηστικά."
           },
           {
-            "tip": "Περιηγηθείτε στην όμορφη Παλιά Πόλη και ανακαλύψτε πολλά μικρά μπουτίκ και βιοτεχνικά καταστήματα."
+            "tip": "Περιηγήσου στην όμορφη Παλιά Πόλη και ανακάλυψε πολλά μικρά μπουτίκ και βιοτεχνικά καταστήματα."
           }
         ]
       }
     ],
     "gettingAround": [
       {
-        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις. Οι στάσεις έχουν προστεθεί και στο Google Maps, αλλά αξίζει πάντα να ελέγχετε και τον επίσημο ιστότοπο."
+        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις. Οι στάσεις έχουν προστεθεί και στο Google Maps, αλλά αξίζει πάντα να ελέγχεις και τον επίσημο ιστότοπο."
       },
       {
         "info": "Το RideNow είναι μια εφαρμογή κοινής χρήσης αυτοκινήτου που λειτουργεί καλά στην Πάφο. Εγγραφή σε λεπτά. Αυτοκίνητα συνήθως διαθέσιμα σε 5–10 λεπτά με τα πόδια."
@@ -1377,7 +1377,7 @@
         "info": "Το Bolt είναι μια οικονομική εφαρμογή ταξί – καλή εναλλακτική στα παραδοσιακά ταξί στην Πάφο."
       },
       {
-        "info": "Διάφορες υπηρεσίες ταξί είναι διαθέσιμες online. Μια αξιόπιστη επιλογή είναι το Paphos Taxi Airport, όπου μπορείτε να κανονίσετε μεταφορά και μέσω WhatsApp: +357 99 460 829."
+        "info": "Διάφορες υπηρεσίες ταξί είναι διαθέσιμες online. Μια αξιόπιστη επιλογή είναι το Paphos Taxi Airport, όπου μπορείς να κανονίσεις μεταφορά και μέσω WhatsApp: +357 99 460 829."
       }
     ],
     "emergency": {
@@ -1392,17 +1392,17 @@
           "note": "Αστυνομικό τμήμα Πάφου"
         }
       ],
-      "nearestPharmacy": "Αρκετά φαρμακεία σε απόσταση βόλτας στον κεντρικό δρόμο. Ρωτήστε μας αν χρειάζεστε βοήθεια να βρείτε το πλησιέστερο."
+      "nearestPharmacy": "Αρκετά φαρμακεία σε απόσταση βόλτας στον κεντρικό δρόμο. Ρώτησέ μας αν χρειάζεσαι βοήθεια να βρεις το πλησιέστερο."
     },
     "checkout": {
       "steps": [
-        "Αν μπορούσατε να αδειάσετε το ψυγείο και να πετάξετε τυχόν υπόλοιπα τρόφιμα στον κάδο, θα το εκτιμούσαμε πολύ!",
-        "Αν μπορούσατε να πλύνετε γρήγορα τα πιάτα και να τα αφήσετε στη σχάρα στεγνώματος, θα ήταν υπέροχο!",
-        "Αν μπορούσατε να αδειάσετε τον κάδο σκουπιδιών και να φέρετε τη σακούλα στους κάδους στο πάρκινγκ, θα ήταν μεγάλη βοήθεια!",
-        "Πριν φύγετε, παρακαλούμε κλειδώστε την πόρτα του μπαλκονιού και όλα τα παράθυρα.",
-        "Παρακαλούμε σβήστε το κλιματιστικό, όλα τα φώτα και την τηλεόραση όταν τελειώσετε.",
-        "Κατά την αναχώρηση, παρακαλούμε επιστρέψτε τα κλειδιά στο κουτί και επαναφέρετε τον κωδικό.",
-        "Στείλτε μας ένα WhatsApp για να μας ενημερώσετε ότι φεύγετε – ήταν πραγματική χαρά να σας φιλοξενούμε!"
+        "Αν μπορούσες να αδειάσεις το ψυγείο και να πετάξεις τυχόν υπόλοιπα τρόφιμα στον κάδο, θα το εκτιμούσαμε πολύ!",
+        "Αν μπορούσες να πλύνεις γρήγορα τα πιάτα και να τα αφήσεις στη σχάρα στεγνώματος, θα ήταν υπέροχο!",
+        "Αν μπορούσες να αδειάσεις τον κάδο σκουπιδιών και να φέρεις τη σακούλα στους κάδους στο πάρκινγκ, θα ήταν μεγάλη βοήθεια!",
+        "Πριν φύγεις, παρακαλούμε κλείδωσε την πόρτα του μπαλκονιού και όλα τα παράθυρα.",
+        "Παρακαλούμε σβήσε το κλιματιστικό, όλα τα φώτα και την τηλεόραση όταν τελειώσεις.",
+        "Κατά την αναχώρηση, παρακαλούμε επίστρεψε τα κλειδιά στο κουτί και επανάφερε τον κωδικό.",
+        "Στείλε μας ένα WhatsApp για να μας ενημερώσεις ότι φεύγεις – ήταν πραγματική χαρά να σε φιλοξενούμε!"
       ]
     }
   },
@@ -1448,114 +1448,114 @@
       "stepTitleFridge": "Vider le réfrigérateur",
       "stepTitleDishes": "Faire la vaisselle",
       "stepTitleRubbish": "Sortir les poubelles",
-      "stepTitleCushions": "Pluie ? Rentrez les coussins",
+      "stepTitleCushions": "Pluie ? Rentre les coussins",
       "stepTitleCloseWindows": "Fermer les fenêtres et les portes",
       "stepTitleSwitchOffAppliances": "Éteindre les lumières et les appareils",
       "stepTitleSwitchOffAC": "Éteindre les lumières et la climatisation",
       "stepTitleReturnKeys": "Rendre les clés",
-      "stepTitleDropMeMessage": "Envoyez-moi un message !",
-      "stepTitleDropUsMessage": "Envoyez-nous un message !",
-      "yourHost": "Votre hôte",
+      "stepTitleDropMeMessage": "Envoie-moi un message !",
+      "stepTitleDropUsMessage": "Envoie-nous un message !",
+      "yourHost": "Ton hôte",
       "cohost": "Co-hôte",
       "call": "Appeler",
       "whatsapp": "WhatsApp",
       "email": "E-mail",
-      "enjoyStay": "Profitez bien de votre séjour !",
-      "enjoyStayMessageSolo": "J'espère que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, je vous serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
-      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, nous vous serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
-      "contactHostIntroSolo": "Je suis disponible pour vous tout au long de votre séjour. N'hésitez pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que vous passiez un merveilleux moment.",
-      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment.",
+      "enjoyStay": "Profite bien de ton séjour !",
+      "enjoyStayMessageSolo": "J'espère que ce guide rendra ton séjour encore meilleur. Si tu passes un bon moment ici, je te serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
+      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra ton séjour encore meilleur. Si tu passes un bon moment ici, nous te serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
+      "contactHostIntroSolo": "Je suis disponible pour toi tout au long de ton séjour. N'hésite pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que tu passes un merveilleux moment.",
+      "contactHostIntroCohost": "Nous sommes disponibles pour toi tout au long de ton séjour. N'hésite pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que tu passes un merveilleux moment.",
       "atAGlance": "En un coup d'œil",
       "checkInNote": "À partir de cette heure",
-      "checkoutNote": "Veuillez partir avant cette heure",
+      "checkoutNote": "Merci de partir avant cette heure",
       "contacts": "Contacts",
       "contactsNoteCohost": "Besoin d'aide ? Nous sommes toujours disponibles.",
-      "contactsNoteSolo": "Besoin d'aide ? Je suis toujours disponible ! Contactez-moi.",
+      "contactsNoteSolo": "Besoin d'aide ? Je suis toujours disponible ! Contacte-moi.",
       "contactUsCohost": "Nous contacter",
       "contactUsSolo": "Me contacter",
       "copied": "Copié !",
       "contact": "Contact"
     },
-    "welcomeMessage": "Bienvenue ! Vous êtes en plein cœur de Paphos, à deux pas du port historique. Une cuisine complète, un balcon ensoleillé et une piscine commune sont à votre disposition. Faites comme chez vous – n'hésitez pas à nous contacter à tout moment si vous avez besoin de quoi que ce soit !",
+    "welcomeMessage": "Bienvenue ! Tu es en plein cœur de Paphos, à deux pas du port historique. Une cuisine complète, un balcon ensoleillé et une piscine commune sont à ta disposition. Fais comme chez toi – n'hésite pas à nous contacter à tout moment si tu as besoin de quoi que ce soit !",
     "gettingHere": {
-      "byCar": "Dirigez-vous vers le Kings Avenue Mall à Paphos. Le complexe Byzantium Gardens se trouve juste à côté. ⚠️ Google Maps peut vous induire en erreur sur le dernier tronçon en vous faisant passer par une promenade piétonne – contournez le pâté de maisons pour atteindre l'entrée principale. Consultez le guide photo ci-dessous pour plus de détails.",
-      "parking": "Le stationnement est gratuit partout dans le complexe. Utilisez la puce sur le trousseau pour ouvrir le portail principal. Pour sortir en voiture, avancez devant le panneau STOP / ATTENDRE – le portail s'ouvre automatiquement.",
-      "publicTransport": "Bus 612 depuis l'aéroport de Paphos (~35 min selon la saison et les arrêts), descendre à l'arrêt Kings Avenue Mall (3 min à pied). Vous avez raté l'arrêt ? Le suivant est à seulement 10 min à pied. ⚠️ Espèces uniquement. 2,50 € par trajet.",
+      "byCar": "Dirige-toi vers le Kings Avenue Mall à Paphos. Le complexe Byzantium Gardens se trouve juste à côté. ⚠️ Google Maps peut t'induire en erreur sur le dernier tronçon en te faisant passer par une promenade piétonne – contourne le pâté de maisons pour atteindre l'entrée principale. Consulte le guide photo ci-dessous pour plus de détails.",
+      "parking": "Le stationnement est gratuit partout dans le complexe. Utilise la puce sur le trousseau pour ouvrir le portail principal. Pour sortir en voiture, avance devant le panneau STOP / ATTENDRE – le portail s'ouvre automatiquement.",
+      "publicTransport": "Bus 612 depuis l'aéroport de Paphos (~35 min selon la saison et les arrêts), descends à l'arrêt Kings Avenue Mall (3 min à pied). Tu as raté l'arrêt ? Le suivant est à seulement 10 min à pied. ⚠️ Espèces uniquement. 2,50 € par trajet.",
       "taxi": "Des taxis attendent devant les arrivées de l'aéroport de Paphos. Tarif : 40–45 € (de jour), 45–50 € (en dehors des heures normales). ~20–25 min. Une option légèrement moins chère est Bolt.",
       "directionPhotos": [
         {
-          "caption": "Naviguez vers l'emplacement Google Maps. Le complexe se trouve à 2 pâtés de maisons à gauche du Kings Avenue Mall. Les marques rouges indiquent les routes à éviter ; suivez le bon itinéraire pour atteindre l'entrée principale. Vous verrez également un panneau sens interdit à l'entrée – il ne s'applique qu'aux non-résidents. En tant que locataire, vous avez le droit d'entrer."
+          "caption": "Navigue vers l'emplacement Google Maps. Le complexe se trouve à 2 pâtés de maisons à gauche du Kings Avenue Mall. Les marques rouges indiquent les routes à éviter ; suis le bon itinéraire pour atteindre l'entrée principale. Tu verras également un panneau sens interdit à l'entrée – il ne s'applique qu'aux non-résidents. En tant que locataire, tu as le droit d'entrer."
         },
         {
-          "caption": "Une fois à l'entrée, trouvez les boîtes à clés sur le mur de gauche."
+          "caption": "Une fois à l'entrée, trouve les boîtes à clés sur le mur de gauche."
         },
         {
-          "caption": "Utilisez la petite puce en plastique (badge) sur le trousseau. Posez-la sur ce lecteur pour ouvrir la porte d'entrée."
+          "caption": "Utilise la petite puce en plastique (badge) sur le trousseau. Pose-la sur ce lecteur pour ouvrir la porte d'entrée."
         },
         {
-          "caption": "Ouvrez la boîte de gauche de la 2e rangée (en rouge) avec le code : 9900 pour récupérer vos clés."
+          "caption": "Ouvre la boîte de gauche de la 2e rangée (en rouge) avec le code : 9900 pour récupérer tes clés."
         },
         {
-          "caption": "En voiture ? Utilisez cette machine pour ouvrir le portail principal. Vous la trouverez sur votre droite face au portail."
+          "caption": "En voiture ? Utilise cette machine pour ouvrir le portail principal. Tu la trouveras sur ta droite face au portail."
         },
         {
-          "caption": "Une fois à l'intérieur, continuez tout droit et dépassez le Bloc B. Le Bloc C (votre appartement) est juste devant."
+          "caption": "Une fois à l'intérieur, continue tout droit et dépasse le Bloc B. Le Bloc C (ton appartement) est juste devant."
         },
         {
-          "caption": "Au Bloc C, prenez l'entrée à gauche et montez au premier étage. Un ascenseur est disponible."
+          "caption": "Au Bloc C, prends l'entrée à gauche et monte au premier étage. Un ascenseur est disponible."
         },
         {
-          "caption": "Cherchez la porte n° 106, juste à côté de l'ascenseur."
+          "caption": "Cherche la porte n° 106, juste à côté de l'ascenseur."
         },
         {
-          "caption": "Pour sortir en voiture : avancez devant le panneau STOP / ATTENDRE à l'entrée principale. Les portes s'ouvrent automatiquement."
+          "caption": "Pour sortir en voiture : avance devant le panneau STOP / ATTENDRE à l'entrée principale. Les portes s'ouvrent automatiquement."
         }
       ]
     },
     "checkin": {
       "keyLocation": "La boîte à clés se trouve sur le côté gauche du mur face au portail principal.",
       "steps": [
-        "Rendez-vous aux Byzantium Gardens. Le complexe se trouve juste à côté du Kings Avenue Mall (voir photo 1 pour la vue d'ensemble)",
-        "À l'entrée, trouvez les boîtes à clés sur le mur de gauche (photo 2)",
-        "Posez la puce/le badge sur le lecteur pour ouvrir la porte d'entrée (photo 3)",
-        "Ouvrez la boîte de gauche de la 2e rangée avec le code : 9900 pour récupérer vos clés (photo 4)",
-        "Si vous arrivez en voiture, utilisez la machine sur votre droite face au portail principal pour l'ouvrir (photo 5)",
-        "Entrez, dépassez le Bloc B. Le Bloc C et le parking sont juste devant (photo 6)",
-        "Au Bloc C, prenez l'entrée à gauche et montez au 1er étage. Ascenseur disponible (photo 7)",
-        "Votre appartement est la porte n° 106, juste à côté de l'ascenseur (photo 8)"
+        "Rends-toi aux Byzantium Gardens. Le complexe se trouve juste à côté du Kings Avenue Mall (voir photo 1 pour la vue d'ensemble)",
+        "À l'entrée, trouve les boîtes à clés sur le mur de gauche (photo 2)",
+        "Pose la puce/le badge sur le lecteur pour ouvrir la porte d'entrée (photo 3)",
+        "Ouvre la boîte de gauche de la 2e rangée avec le code : 9900 pour récupérer tes clés (photo 4)",
+        "Si tu arrives en voiture, utilise la machine sur ta droite face au portail principal pour l'ouvrir (photo 5)",
+        "Entre, dépasse le Bloc B. Le Bloc C et le parking sont juste devant (photo 6)",
+        "Au Bloc C, prends l'entrée à gauche et monte au 1er étage. Ascenseur disponible (photo 7)",
+        "Ton appartement est la porte n° 106, juste à côté de l'ascenseur (photo 8)"
       ],
-      "notes": "Si vous avez du mal à nous trouver, appelez-nous ou envoyez-nous un WhatsApp à tout moment – nous serons ravis de vous guider étape par étape."
+      "notes": "Si tu as du mal à nous trouver, appelle-nous ou envoie-nous un WhatsApp à tout moment – nous serons ravis de te guider étape par étape."
     },
     "houseRules": [
       "Merci de fumer uniquement sur les balcons et terrasses",
       "Merci de respecter la tranquillité. Les heures calmes sont de 23h à 8h. Ni fêtes ni événements",
       "Nous adorons les animaux, mais nous ne pouvons malheureusement pas les accueillir. Désolés !",
       "Merci d'utiliser la poubelle à côté des toilettes plutôt que de tirer la chasse – la plomberie chypriote ne peut vraiment pas le gérer",
-      "Placez la clé métallique dans la prise électrique près de la porte lorsque vous êtes à l'intérieur, et emportez-la avec vous en partant",
-      "Fermez les portes du balcon/terrasse et les fenêtres lorsque la climatisation fonctionne, pour garder la fraîcheur et économiser l'énergie",
-      "Merci de remettre les clés dans la boîte et de réinitialiser le code en partant. En cas de clés perdues ou enfermées à l'intérieur, les frais de serrurier seront à votre charge – prenez-en soin !",
-      "Traitez l'appartement comme le vôtre et signalez-nous immédiatement tout dommage. Nous comprenons que les accidents arrivent"
+      "Place la clé métallique dans la prise électrique près de la porte lorsque tu es à l'intérieur, et emporte-la avec toi en partant",
+      "Ferme les portes du balcon/terrasse et les fenêtres lorsque la climatisation fonctionne, pour garder la fraîcheur et économiser l'énergie",
+      "Merci de remettre les clés dans la boîte et de réinitialiser le code en partant. En cas de clés perdues ou enfermées à l'intérieur, les frais de serrurier seront à ta charge – prends-en soin !",
+      "Traite l'appartement comme le tien et signale-nous immédiatement tout dommage. Nous comprenons que les accidents arrivent"
     ],
     "appliances": [
       {
         "name": "Électricité",
-        "instructions": "Chaque prise possède son propre interrupteur mural – si quelque chose ne fonctionne pas, l'interrupteur en est souvent la cause. Des adaptateurs EU sont disponibles si vous en avez besoin."
+        "instructions": "Chaque prise possède son propre interrupteur mural – si quelque chose ne fonctionne pas, l'interrupteur en est souvent la cause. Des adaptateurs EU sont disponibles si tu en as besoin."
       },
       {
         "name": "Cuisine",
-        "instructions": "Tout ce qu'il vous faut est là : plaque électrique, four, air fryer, cafetière et moulin. Sel, poivre, huile d'olive et grains de café sont à votre disposition. Un conseil : merci de laver la vaisselle rapidement et de garder les plans de travail dégagés – la chaleur peut attirer des insectes."
+        "instructions": "Tout ce qu'il te faut est là : plaque électrique, four, air fryer, cafetière et moulin. Sel, poivre, huile d'olive et grains de café sont à ta disposition. Un conseil : merci de laver la vaisselle rapidement et de garder les plans de travail dégagés – la chaleur peut attirer des insectes."
       },
       {
         "name": "Machine à laver",
-        "instructions": "Le programme lavage rapide convient à la plupart des charges. Vous la trouverez dans la cuisine."
+        "instructions": "Le programme lavage rapide convient à la plupart des charges. Tu la trouveras dans la cuisine."
       },
       {
         "name": "Douche & eau chaude",
-        "instructions": "L'eau est chauffée par des panneaux solaires sur le toit – elle est donc chaude et écologique ! Laissez 2–3 minutes pour qu'elle arrive, le temps de descendre des panneaux. Par temps nuageux, le solaire peut ne pas suffire : appuyez sur le bouton du chauffe-eau à côté de la porte de salle de bain et attendez 20–30 minutes par personne avant de vous doucher. ⚠️ Éteignez toujours le chauffe-eau avant d'entrer sous la douche."
+        "instructions": "L'eau est chauffée par des panneaux solaires sur le toit – elle est donc chaude et écologique ! Laisse 2–3 minutes pour qu'elle arrive, le temps de descendre des panneaux. Par temps nuageux, le solaire peut ne pas suffire : appuie sur le bouton du chauffe-eau à côté de la porte de salle de bain et attends 20–30 minutes par personne avant de te doucher. ⚠️ Éteins toujours le chauffe-eau avant d'entrer sous la douche."
       },
       {
         "name": "Accès piscine",
-        "instructions": "La piscine est ouverte à tous les clients – pas besoin de clé, descendez simplement quand vous voulez ! Merci d'utiliser les serviettes de plage fournies plutôt que les serviettes de bain, et d'éviter le verre et les plongeons. Soyez attentifs aux autres clients."
+        "instructions": "La piscine est ouverte à tous les clients – pas besoin de clé, descends simplement quand tu veux ! Merci d'utiliser les serviettes de plage fournies plutôt que les serviettes de bain, et d'éviter le verre et les plongeons. Sois attentif aux autres clients."
       },
       {
         "name": "Salle de bain",
@@ -1563,7 +1563,7 @@
       },
       {
         "name": "Eau potable",
-        "instructions": "L'eau du robinet est potable, bien que de nombreux clients préfèrent l'eau en bouteille. Vous en trouverez dans les supermarchés à proximité."
+        "instructions": "L'eau du robinet est potable, bien que de nombreux clients préfèrent l'eau en bouteille. Tu en trouveras dans les supermarchés à proximité."
       }
     ],
     "thingsToDo": [
@@ -1610,7 +1610,7 @@
             "tip": "Meilleur point de départ pour la Blue Lagoon sans conduite tout-terrain. Les excursions en bateau partent d'ici."
           },
           {
-            "tip": "L'eau la plus impressionnante de la région de Paphos. Pas une plage accessible en voiture. Prenez un bateau depuis Latchi."
+            "tip": "L'eau la plus impressionnante de la région de Paphos. Pas une plage accessible en voiture. Prends un bateau depuis Latchi."
           }
         ]
       },
@@ -1621,7 +1621,7 @@
             "tip": "Le site historique le plus proche et le plus important. Tombes rupestres des périodes hellénistique et romaine, faisant partie du site archéologique de Paphos classé par l'UNESCO."
           },
           {
-            "tip": "Promenez-vous le long du littoral vers Lighthouse Beach, le port et le château de Paphos. Facile et pittoresque, surtout au coucher du soleil."
+            "tip": "Promène-toi le long du littoral vers Lighthouse Beach, le port et le château de Paphos. Facile et pittoresque, surtout au coucher du soleil."
           },
           {
             "tip": "Point de mi-chemin détendu entre Avlida et le port. Idéal pour une promenade pittoresque avec une halte à la plage."
@@ -1642,7 +1642,7 @@
             "tip": "Côte pittoresque, idéale pour les photos et le coucher de soleil. À combiner avec Oniro by the Sea et Agios Georgios."
           },
           {
-            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des sentiers touristiques. Idéal si vous vous dirigez déjà vers Sea Caves ou Lara."
+            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des sentiers touristiques. Idéal si tu te diriges déjà vers Sea Caves ou Lara."
           },
           {
             "tip": "L'arrêt panoramique le plus emblématique de Chypre. Mieux pour les vues et la mythologie que pour la baignade."
@@ -1665,7 +1665,7 @@
             "tip": "Meilleure attraction familiale à proximité. Option facile pour une demi-journée ou une journée complète par temps chaud."
           },
           {
-            "tip": "L'une des meilleures expériences à Paphos. Réservez en ligne et arrivez tôt le matin."
+            "tip": "L'une des meilleures expériences à Paphos. Réserve en ligne et arrive tôt le matin."
           },
           {
             "tip": "Site culturel le plus important de Chypre. Mosaïques romaines parmi les plus belles de la Méditerranée orientale, classées par l'UNESCO."
@@ -1680,7 +1680,7 @@
             "tip": "Côte pittoresque, idéale pour les photos et le coucher de soleil. À combiner avec Oniro by the Sea et Agios Georgios."
           },
           {
-            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des circuits touristiques. Bon si vous vous dirigez déjà vers Sea Caves ou Lara."
+            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des circuits touristiques. Bon si tu te diriges déjà vers Sea Caves ou Lara."
           },
           {
             "tip": "L'arrêt panoramique le plus emblématique de Chypre. Mieux pour les vues et la mythologie que pour la baignade."
@@ -1704,7 +1704,7 @@
             "tip": "Un magnifique monastère byzantin dans les contreforts du Troodos. Mérite d'être combiné avec une excursion au Troodos."
           },
           {
-            "tip": "La meilleure excursion d'une journée autour de Paphos combinant la Route des Vins et un monastère médiéval. Conduisez à travers de superbes vignobles."
+            "tip": "La meilleure excursion d'une journée autour de Paphos combinant la Route des Vins et un monastère médiéval. Conduis à travers de superbes vignobles."
           },
           {
             "tip": "Le meilleur parc aquatique familial de Chypre. Ça vaut le déplacement, surtout pour les familles avec enfants."
@@ -1715,7 +1715,7 @@
         "category": "Randonnées & sentiers nature ⛰️",
         "items": [
           {
-            "tip": "Meilleure option sans voiture. Marchez depuis les Tombes des Rois vers Lighthouse Beach, le port et le château de Paphos."
+            "tip": "Meilleure option sans voiture. Marche depuis les Tombes des Rois vers Lighthouse Beach, le port et le château de Paphos."
           },
           {
             "tip": "Pratique depuis Avlida. Idéal pour les clients qui veulent de la nature sans randonnée proprement dite."
@@ -1730,7 +1730,7 @@
             "tip": "Sentier balisé populaire à travers les collines d'Akamas. Moyen. Idéal pendant les mois plus frais."
           },
           {
-            "tip": "Sentier plus exigeant vers l'intérieur d'Akamas. Vues très gratifiantes. Emportez de l'eau et partez tôt."
+            "tip": "Sentier plus exigeant vers l'intérieur d'Akamas. Vues très gratifiantes. Emporte de l'eau et pars tôt."
           },
           {
             "tip": "Boucle facile et pittoresque à travers les vignobles et la vie villageoise traditionnelle. Idéale au printemps ou en automne."
@@ -1748,7 +1748,7 @@
             "tip": "Sentier nature pittoresque à travers la forêt de cèdres et la vallée des cèdres. Moyen. Mieux avec une voiture."
           },
           {
-            "tip": "La randonnée jusqu'au plus haut sommet de Chypre. Difficile mais vues incroyables. Idéale les mois plus frais, prenez des couches chaudes."
+            "tip": "La randonnée jusqu'au plus haut sommet de Chypre. Difficile mais vues incroyables. Idéale les mois plus frais, prends des couches chaudes."
           }
         ]
       },
@@ -1792,7 +1792,7 @@
             "tip": "Le pub emblématique du port de Paphos. Idéal pour une boisson et un repas décontracté."
           },
           {
-            "tip": "Taverne chypriote rustique connue pour ses mezze très traditionnels. Vaut le déplacement si vous aimez la cuisine locale authentique."
+            "tip": "Taverne chypriote rustique connue pour ses mezze très traditionnels. Vaut le déplacement si tu aimes la cuisine locale authentique."
           },
           {
             "tip": "Fantastique restaurant avec vue sur la mer aux Sea Caves. Mérite d'être combiné avec une visite des grottes."
@@ -1830,14 +1830,14 @@
             "tip": "Marché couvert avec des étals pour les vêtements, les sacs, les bijoux, les articles de plage et les souvenirs locaux."
           },
           {
-            "tip": "Déambulez dans la belle vieille ville et découvrez de nombreuses petites boutiques et magasins d'artisans."
+            "tip": "Déambule dans la belle vieille ville et découvre de nombreuses petites boutiques et magasins d'artisans."
           }
         ]
       }
     ],
     "gettingAround": [
       {
-        "info": "La gare routière centrale (Tombes des Rois) est à 18 min à pied (~1,3 km), avec des connexions directes vers les principales attractions, l'aéroport et les villes voisines. Les arrêts sont désormais aussi sur Google Maps, mais vérifiez toujours le site officiel pour les horaires."
+        "info": "La gare routière centrale (Tombes des Rois) est à 18 min à pied (~1,3 km), avec des connexions directes vers les principales attractions, l'aéroport et les villes voisines. Les arrêts sont désormais aussi sur Google Maps, mais vérifie toujours le site officiel pour les horaires."
       },
       {
         "info": "RideNow est une appli d'autopartage qui fonctionne bien à Paphos. Inscription en quelques minutes. Des voitures sont généralement disponibles à 5–10 min à pied."
@@ -1846,7 +1846,7 @@
         "info": "Bolt est une appli de taxi économique – une bonne alternative aux taxis classiques à Paphos."
       },
       {
-        "info": "Plusieurs services de taxi sont disponibles en ligne. Une option fiable est Paphos Taxi Airport, où vous pouvez aussi organiser un transfert directement par WhatsApp : +357 99 460 829."
+        "info": "Plusieurs services de taxi sont disponibles en ligne. Une option fiable est Paphos Taxi Airport, où tu peux aussi organiser un transfert directement par WhatsApp : +357 99 460 829."
       }
     ],
     "emergency": {
@@ -1861,17 +1861,17 @@
           "note": "Commissariat de Paphos"
         }
       ],
-      "nearestPharmacy": "Plusieurs pharmacies à quelques minutes à pied sur la rue principale. Contactez-nous si vous avez besoin d'une recommandation."
+      "nearestPharmacy": "Plusieurs pharmacies à quelques minutes à pied sur la rue principale. Contacte-nous si tu as besoin d'une recommandation."
     },
     "checkout": {
       "steps": [
-        "Si vous pouviez vider le réfrigérateur et jeter les restes alimentaires dans la poubelle, nous vous en serions reconnaissants !",
-        "Si vous pouviez faire une rapide vaisselle et laisser la vaisselle sur l'égouttoir, ce serait parfait !",
-        "Si vous pouviez vider la poubelle et porter le sac aux conteneurs dans le parking, ce serait d'une grande aide !",
+        "Si tu pouvais vider le réfrigérateur et jeter les restes alimentaires dans la poubelle, nous t'en serions reconnaissants !",
+        "Si tu pouvais faire une rapide vaisselle et laisser la vaisselle sur l'égouttoir, ce serait parfait !",
+        "Si tu pouvais vider la poubelle et porter le sac aux conteneurs dans le parking, ce serait d'une grande aide !",
         "Avant de partir, merci de fermer la porte du balcon et toutes les fenêtres.",
         "Merci d'éteindre la climatisation, toutes les lumières et la télévision avant de partir.",
         "Lors du départ, merci de remettre les clés dans la boîte et de réinitialiser le code.",
-        "Envoyez-nous un WhatsApp pour nous dire que vous partez – c'était un réel plaisir de vous accueillir !"
+        "Envoie-nous un WhatsApp pour nous dire que tu pars – c'était un réel plaisir de t'accueillir !"
       ]
     }
   },
@@ -1938,10 +1938,10 @@
       "checkInNote": "A partir de esta hora",
       "checkoutNote": "Por favor, salga antes de esta hora",
       "contacts": "Contactos",
-      "contactsNoteCohost": "¿Necesita ayuda? Siempre estamos disponibles.",
-      "contactsNoteSolo": "¿Necesita ayuda? Siempre estoy disponible. ¡Contácteme!",
-      "contactUsCohost": "Contáctenos",
-      "contactUsSolo": "Contácteme",
+      "contactsNoteCohost": "¿Necesitas ayuda? Siempre estamos disponibles.",
+      "contactsNoteSolo": "¿Necesitas ayuda? Siempre estoy disponible. ¡Contáctame!",
+      "contactUsCohost": "Contáctanos",
+      "contactUsSolo": "Contáctame",
       "copied": "¡Copiado!",
       "contact": "Contacto"
     },
@@ -2079,7 +2079,7 @@
             "tip": "Mejor punto de partida para la Blue Lagoon sin conducción por caminos no asfaltados. Los viajes en barco salen desde aquí."
           },
           {
-            "tip": "El agua más impresionante de la zona de Pafos. No es una playa accesible en coche. Tome un barco desde Latchi."
+            "tip": "El agua más impresionante de la zona de Pafos. No es una playa accesible en coche. Toma un barco desde Latchi."
           }
         ]
       },
@@ -2090,7 +2090,7 @@
             "tip": "El sitio histórico más cercano e importante. Tumbas excavadas en la roca de los períodos helenístico y romano, parte del área arqueológica de Pafos catalogada por la UNESCO."
           },
           {
-            "tip": "Camine a lo largo de la costa hacia Lighthouse Beach, el puerto y el Castillo de Pafos. Fácil y pintoresco, especialmente al atardecer."
+            "tip": "Camina a lo largo de la costa hacia Lighthouse Beach, el puerto y el Castillo de Pafos. Fácil y pintoresco, especialmente al atardecer."
           },
           {
             "tip": "Punto intermedio relajado entre Avlida y el puerto. Ideal para un paseo pintoresco con parada en la playa."
@@ -2134,7 +2134,7 @@
             "tip": "Mejor atracción familiar cercana. Opción fácil para medio día o día completo en días calurosos."
           },
           {
-            "tip": "Una de las mejores experiencias en Pafos. Reserve en línea y llegue temprano."
+            "tip": "Una de las mejores experiencias en Pafos. Reserva en línea y llega temprano."
           },
           {
             "tip": "Lugar cultural más importante de Chipre. Mosaicos romanos entre los más bellos del Mediterráneo oriental, catalogados por la UNESCO."
@@ -2199,7 +2199,7 @@
             "tip": "Ruta señalizada popular por las colinas de Akamas. Moderada. Mejor en los meses más frescos."
           },
           {
-            "tip": "Ruta más exigente adentrándose en Akamas. Vistas muy gratificantes. Lleve agua y salga temprano."
+            "tip": "Ruta más exigente adentrándose en Akamas. Vistas muy gratificantes. Lleva agua y sal temprano."
           },
           {
             "tip": "Fácil circuito pintoresco por viñedos y vida rural tradicional. Mejor en primavera u otoño."
@@ -2299,7 +2299,7 @@
             "tip": "Mercado cubierto con puestos de ropa, bolsos, joyería, artículos de playa y souvenirs locales."
           },
           {
-            "tip": "Pasee por el hermoso casco antiguo y descubra muchas pequeñas boutiques y tiendas de artesanos."
+            "tip": "Pasea por el hermoso casco antiguo y descubre muchas pequeñas boutiques y tiendas de artesanos."
           }
         ]
       }
@@ -2852,105 +2852,105 @@
       "ruleTitleLostKeys": "Утерянные ключи",
       "ruleTitleKeys": "Ключи",
       "ruleTitlePropertyCare": "Бережное отношение к жилью",
-      "stepTitleFridge": "Освободите холодильник",
-      "stepTitleDishes": "Вымойте посуду",
-      "stepTitleRubbish": "Вынесите мусор",
-      "stepTitleCushions": "Дождь? Занесите подушки",
-      "stepTitleCloseWindows": "Закройте окна и двери",
-      "stepTitleSwitchOffAppliances": "Выключите свет и приборы",
-      "stepTitleSwitchOffAC": "Выключите свет и кондиционер",
-      "stepTitleReturnKeys": "Верните ключи",
-      "stepTitleDropMeMessage": "Напишите мне сообщение!",
-      "stepTitleDropUsMessage": "Напишите нам сообщение!",
-      "yourHost": "Ваш хозяин",
+      "stepTitleFridge": "Освободи холодильник",
+      "stepTitleDishes": "Вымой посуду",
+      "stepTitleRubbish": "Вынеси мусор",
+      "stepTitleCushions": "Дождь? Занеси подушки",
+      "stepTitleCloseWindows": "Закрой окна и двери",
+      "stepTitleSwitchOffAppliances": "Выключи свет и приборы",
+      "stepTitleSwitchOffAC": "Выключи свет и кондиционер",
+      "stepTitleReturnKeys": "Верни ключи",
+      "stepTitleDropMeMessage": "Напиши мне сообщение!",
+      "stepTitleDropUsMessage": "Напиши нам сообщение!",
+      "yourHost": "Твой хозяин",
       "cohost": "Со-хозяйка",
       "call": "Позвонить",
       "whatsapp": "WhatsApp",
       "email": "Эл. почта",
       "enjoyStay": "Приятного пребывания!",
-      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
-      "enjoyStayMessageCohost": "Надеемся, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
-      "contactHostIntroSolo": "Я здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы вы провели здесь замечательное время.",
-      "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время.",
+      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает твоё пребывание ещё лучше. Если тебе понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
+      "enjoyStayMessageCohost": "Надеемся, это руководство сделает твоё пребывание ещё лучше. Если тебе понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
+      "contactHostIntroSolo": "Я здесь для тебя на протяжении всего твоего пребывания. Не стесняйся обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы у тебя было здесь замечательное время.",
+      "contactHostIntroCohost": "Мы здесь для тебя на протяжении всего твоего пребывания. Не стесняйся обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы у тебя было здесь замечательное время.",
       "atAGlance": "Краткий обзор",
       "checkInNote": "Начиная с этого времени",
-      "checkoutNote": "Пожалуйста, освободите номер до этого времени",
+      "checkoutNote": "Пожалуйста, освободи номер до этого времени",
       "contacts": "Контакты",
       "contactsNoteCohost": "Нужна помощь? Мы всегда на связи.",
-      "contactsNoteSolo": "Нужна помощь? Я всегда на связи! Напишите мне.",
+      "contactsNoteSolo": "Нужна помощь? Я всегда на связи! Напиши мне.",
       "contactUsCohost": "Связаться с нами",
       "contactUsSolo": "Связаться со мной",
       "copied": "Скопировано!",
       "contact": "Контакт"
     },
-    "welcomeMessage": "Добро пожаловать! Вы в самом сердце Пафоса, в нескольких шагах от исторического порта. В вашем распоряжении полностью оборудованная кухня, солнечный балкон и общий бассейн. Чувствуйте себя как дома – пишите нам в любое время, если понадобится помощь!",
+    "welcomeMessage": "Добро пожаловать! Ты в самом сердце Пафоса, в нескольких шагах от исторического порта. В твоём распоряжении полностью оборудованная кухня, солнечный балкон и общий бассейн. Чувствуй себя как дома – пиши нам в любое время, если понадобится помощь!",
     "gettingHere": {
-      "byCar": "Следуйте к Kings Avenue Mall в Пафосе. Комплекс Byzantium Gardens находится прямо рядом. ⚠️ Google Maps может вести вас по пешеходной зоне на последнем участке – вместо этого объедьте квартал, чтобы добраться до главного входа. Подробности в фотогиде ниже.",
-      "parking": "Парковка бесплатная по всему комплексу. Используйте чип на связке ключей для открытия главных ворот. Для выезда на машине подъедьте к знаку СТОП/ОЖИДАНИЕ – ворота откроются автоматически.",
-      "publicTransport": "Автобус 612 из аэропорта Пафоса (~35 мин в зависимости от сезона и остановок), выйдите на остановке Kings Avenue Mall (3 мин пешком до квартиры). Пропустили остановку? Следующая всего в 10 мин ходьбы. ⚠️ Только наличные. 2,50 € за поездку.",
+      "byCar": "Следуй к Kings Avenue Mall в Пафосе. Комплекс Byzantium Gardens находится прямо рядом. ⚠️ Google Maps может вести тебя по пешеходной зоне на последнем участке – вместо этого объедь квартал, чтобы добраться до главного входа. Подробности в фотогиде ниже.",
+      "parking": "Парковка бесплатная по всему комплексу. Используй чип на связке ключей для открытия главных ворот. Для выезда на машине подъезжай к знаку СТОП/ОЖИДАНИЕ – ворота откроются автоматически.",
+      "publicTransport": "Автобус 612 из аэропорта Пафоса (~35 мин в зависимости от сезона и остановок), выходи на остановке Kings Avenue Mall (3 мин пешком до квартиры). Если пропустишь остановку — следующая всего в 10 мин ходьбы. ⚠️ Только наличные. 2,50 € за поездку.",
       "taxi": "Такси ждут у выхода из зоны прилёта аэропорта Пафоса. Стоимость: 40–45 € (днём), 45–50 € (в ночное время). ~20–25 мин. Чуть дешевле – Bolt.",
       "directionPhotos": [
         {
-          "caption": "Навигируйте к местоположению в Google Maps. Комплекс находится в 2 кварталах слева от Kings Avenue Mall. Красные метки показывают дороги, которых следует избегать; следуйте правильному маршруту к главному входу. Вы также увидите знак «Въезд запрещён» – он действует только для не-жильцов. Как гости вы имеете право въехать."
+          "caption": "Найди это место в Google Maps. Комплекс находится в 2 кварталах слева от Kings Avenue Mall. Красные метки показывают дороги, которых следует избегать; следуй правильному маршруту к главному входу. Ты также увидишь знак «Въезд запрещён» – он действует только для не-жильцов. Как гость ты имеешь право въехать."
         },
         {
-          "caption": "Когда доберётесь до въезда, найдите ящики с ключами на левой стене."
+          "caption": "Когда доберёшься до въезда, найди ящики с ключами на левой стене."
         },
         {
-          "caption": "Используйте маленький пластиковый чип (ключ) на связке. Приложите его к этому считывателю, чтобы открыть входную дверь."
+          "caption": "Используй маленький пластиковый чип (ключ) на связке. Приложи его к этому считывателю, чтобы открыть входную дверь."
         },
         {
-          "caption": "Откройте левый ящик во 2-м ряду (выделен красным) кодом: 9900, чтобы забрать ключи."
+          "caption": "Открой левый ящик во 2-м ряду (выделен красным) кодом: 9900, чтобы забрать ключи."
         },
         {
-          "caption": "Приезжаете на машине? Используйте этот аппарат для открытия главных ворот. Он находится справа, когда вы стоите лицом к воротам."
+          "caption": "Приезжаешь на машине? Используй этот аппарат для открытия главных ворот. Он находится справа, когда ты стоишь лицом к воротам."
         },
         {
-          "caption": "Внутри: езжайте прямо мимо Блока B. Блок C (ваша квартира) находится прямо впереди."
+          "caption": "Внутри: езжай прямо мимо Блока B. Блок C (твоя квартира) находится прямо впереди."
         },
         {
-          "caption": "У Блока C: вход слева, поднимитесь на 1-й этаж. Лифт доступен."
+          "caption": "У Блока C: вход слева, поднимись на 1-й этаж. Лифт доступен."
         },
         {
-          "caption": "Ищите дверь № 106, прямо рядом с лифтом."
+          "caption": "Ищи дверь № 106, прямо рядом с лифтом."
         },
         {
-          "caption": "Выезд на машине: подъедьте к знаку СТОП/ОЖИДАНИЕ у главных ворот. Двери открываются автоматически."
+          "caption": "Выезд на машине: подъезжай к знаку СТОП/ОЖИДАНИЕ у главных ворот. Двери открываются автоматически."
         }
       ]
     },
     "checkin": {
       "keyLocation": "Ключница находится с левой стороны стены напротив главных ворот.",
       "steps": [
-        "Езжайте к Byzantium Gardens. Комплекс находится рядом с Kings Avenue Mall (см. фото 1 для обзора на карте)",
-        "У входа найдите ящики с ключами на левой стене (фото 2)",
-        "Приложите чип/брелок к считывателю, чтобы открыть входную дверь (фото 3)",
-        "Откройте левый ящик во 2-м ряду с кодом: 9900, чтобы забрать ключи (фото 4)",
-        "Если приезжаете на машине, используйте аппарат справа, стоя лицом к главным воротам (фото 5)",
-        "Въезжайте, проезжайте мимо Блока B. Блок C и парковка находятся прямо впереди (фото 6)",
-        "У Блока C: вход слева, поднимитесь на 1-й этаж. Лифт доступен (фото 7)",
-        "Ваша квартира – дверь № 106, прямо рядом с лифтом (фото 8)"
+        "Езжай к Byzantium Gardens. Комплекс находится рядом с Kings Avenue Mall (см. фото 1 для обзора на карте)",
+        "У входа найди ящики с ключами на левой стене (фото 2)",
+        "Приложи чип/брелок к считывателю, чтобы открыть входную дверь (фото 3)",
+        "Открой левый ящик во 2-м ряду с кодом: 9900, чтобы забрать ключи (фото 4)",
+        "Если приезжаешь на машине, используй аппарат справа, стоя лицом к главным воротам (фото 5)",
+        "Въезжай, проезжай мимо Блока B. Блок C и парковка находятся прямо впереди (фото 6)",
+        "У Блока C: вход слева, поднимись на 1-й этаж. Лифт доступен (фото 7)",
+        "Твоя квартира – дверь № 106, прямо рядом с лифтом (фото 8)"
       ],
-      "notes": "Если возникнут трудности с поиском, позвоните нам или напишите в WhatsApp в любое время – мы с радостью поможем шаг за шагом."
+      "notes": "Если возникнут трудности с поиском, позвони нам или напиши в WhatsApp в любое время – мы с радостью поможем шаг за шагом."
     },
     "houseRules": [
-      "Пожалуйста, курите только на балконах и террасах",
+      "Пожалуйста, кури только на балконах и террасах",
       "Просим соблюдать тишину. Тихие часы: с 23:00 до 8:00. Вечеринки и мероприятия запрещены",
-      "Мы любим животных, но, к сожалению, не можем принимать питомцев. Извините!",
-      "Пожалуйста, используйте мусорное ведро рядом с унитазом вместо смыва бумаги – канализация на Кипре с этим не справляется",
-      "Вставляйте металлический ключ в электрическую розетку у двери, когда вы внутри, и берите его с собой при выходе",
-      "Закрывайте двери балкона/террасы и окна при работающем кондиционере, чтобы сохранять прохладу и экономить энергию",
-      "Пожалуйста, верните ключи в ключницу и сбросьте код при выезде. Если ключи потеряются или останутся внутри, стоимость вызова слесаря будет на вас – берегите их!",
-      "Относитесь к квартире как к своей собственной и сразу сообщайте нам, если что-то сломается. Мы понимаем, что несчастные случаи бывают"
+      "Мы любим животных, но, к сожалению, не можем принимать питомцев. Извини!",
+      "Пожалуйста, используй мусорное ведро рядом с унитазом вместо смыва бумаги – канализация на Кипре с этим не справляется",
+      "Вставляй металлический ключ в электрическую розетку у двери, когда ты внутри, и бери его с собой при выходе",
+      "Закрывай двери балкона/террасы и окна при работающем кондиционере, чтобы сохранять прохладу и экономить энергию",
+      "Пожалуйста, верни ключи в ключницу и сбрось код при выезде. Если ключи потеряются или останутся внутри, стоимость вызова слесаря будет на тебе – береги их!",
+      "Относись к квартире как к своей собственной и сразу сообщай нам, если что-то сломается. Мы понимаем, что несчастные случаи бывают"
     ],
     "appliances": [
       {
         "name": "Электричество",
-        "instructions": "Каждая розетка имеет собственный выключатель на стене – если что-то не работает, обычно причина именно в нём. EU-адаптеры доступны, если они вам понадобятся."
+        "instructions": "Каждая розетка имеет собственный выключатель на стене – если что-то не работает, обычно причина именно в нём. EU-адаптеры доступны, если они тебе понадобятся."
       },
       {
         "name": "Кухня",
-        "instructions": "Здесь есть всё необходимое: электрическая плита, духовка, аэрогриль, кофемашина и кофемолка. Соль, перец, оливковое масло и кофейные зёрна – для вас. Один совет: пожалуйста, мойте посуду сразу и держите столешницы чистыми – тёплый климат может привлекать насекомых."
+        "instructions": "Здесь есть всё необходимое: электрическая плита, духовка, аэрогриль, кофемашина и кофемолка. Соль, перец, оливковое масло и кофейные зёрна – для тебя. Один совет: пожалуйста, мой посуду сразу и держи столешницы чистыми – тёплый климат может привлекать насекомых."
       },
       {
         "name": "Стиральная машина",
@@ -2958,15 +2958,15 @@
       },
       {
         "name": "Душ и горячая вода",
-        "instructions": "Вода нагревается солнечными панелями на крыше – поэтому она тёплая и экологичная! Дайте 2–3 минуты, чтобы она поступила сверху. В пасмурные дни солнца может не хватить: нажмите кнопку бойлера рядом с дверью ванной и подождите 20–30 минут на человека перед душем. ⚠️ Всегда выключайте бойлер перед тем, как заходить в душ."
+        "instructions": "Вода нагревается солнечными панелями на крыше – поэтому она тёплая и экологичная! Дай 2–3 минуты, чтобы она поступила сверху. В пасмурные дни солнца может не хватить: нажми кнопку бойлера рядом с дверью ванной и подожди 20–30 минут на человека перед душем. ⚠️ Всегда выключай бойлер перед тем, как заходить в душ."
       },
       {
         "name": "Доступ к бассейну",
-        "instructions": "Бассейн открыт для всех гостей – ключ не нужен, просто спускайтесь в любое время! Пожалуйста, используйте предоставленные пляжные полотенца вместо банных, и не приносите стеклянную посуду и не ныряйте. Будьте внимательны к другим гостям."
+        "instructions": "Бассейн открыт для всех гостей – ключ не нужен, просто спускайся в любое время! Пожалуйста, используй предоставленные пляжные полотенца вместо банных, и не приноси стеклянную посуду и не ныряй. Будь внимателен к другим гостям."
       },
       {
         "name": "Ванная комната",
-        "instructions": "Предоставлены полотенца, фен и базовые туалетные принадлежности. Пожалуйста, используйте мусорное ведро рядом с унитазом вместо смыва бумаги – кипрская канализация для этого не предназначена!"
+        "instructions": "Предоставлены полотенца, фен и базовые туалетные принадлежности. Пожалуйста, используй мусорное ведро рядом с унитазом вместо смыва бумаги – кипрская канализация для этого не предназначена!"
       },
       {
         "name": "Питьевая вода",
@@ -3002,7 +3002,7 @@
             "tip": "Эффектное побережье. Лучше для пейзажных фото и закатов, чем для классического пляжного отдыха."
           },
           {
-            "tip": "Маленький пляж, хорош для снорклинга. Совместите с Sea Caves и Oniro by the Sea."
+            "tip": "Маленький пляж, хорош для снорклинга. Совмести с Sea Caves и Oniro by the Sea."
           },
           {
             "tip": "Дикое и красивое побережье. Лучше для прогулок и изучения, чем для шезлонгов."
@@ -3017,7 +3017,7 @@
             "tip": "Лучшая отправная точка для Blue Lagoon без езды по бездорожью. Отсюда отходят лодочные прогулки."
           },
           {
-            "tip": "Самая впечатляющая вода в районе Пафоса. Не доступна для подъезда на машине. Берите лодку из Латчи."
+            "tip": "Самая впечатляющая вода в районе Пафоса. Не доступна для подъезда на машине. Возьми лодку из Латчи."
           }
         ]
       },
@@ -3046,7 +3046,7 @@
             "tip": "Прекрасная остановка на полдня. Основан в XII веке святым Неофитом в уединённой долине к северу от Пафоса."
           },
           {
-            "tip": "Живописное побережье, отлично подходит для фотографий и закатов. Совместите с посещением Oniro by the Sea и Агиос Георгиос."
+            "tip": "Живописное побережье, отлично подходит для фотографий и закатов. Совмести с посещением Oniro by the Sea и Агиос Георгиос."
           },
           {
             "tip": "Тихие руины с видом на море, в стороне от туристических маршрутов. Хорошо подходит, если вы и так направляетесь к Sea Caves или Лара."
@@ -3072,7 +3072,7 @@
             "tip": "Лучшая семейная достопримечательность поблизости. Удобный вариант на полдня или целый день в жаркую погоду."
           },
           {
-            "tip": "Одно из лучших впечатлений от Пафоса. Бронируйте онлайн и приезжайте пораньше."
+            "tip": "Одно из лучших впечатлений от Пафоса. Бронируй онлайн и приезжай пораньше."
           },
           {
             "tip": "Главный культурный объект Кипра. Римские мозаики, считающиеся одними из лучших в восточном Средиземноморье, внесены в список ЮНЕСКО."
@@ -3084,7 +3084,7 @@
             "tip": "Прекрасная остановка на полдня. Основан в XII веке святым Неофитом в уединённой долине к северу от Пафоса."
           },
           {
-            "tip": "Живописное побережье, отлично для фотографий и закатов. Совместите с Oniro by the Sea и Агиос Георгиос."
+            "tip": "Живописное побережье, отлично для фотографий и закатов. Совмести с Oniro by the Sea и Агиос Георгиос."
           },
           {
             "tip": "Тихие руины с видом на море, в стороне от туристических маршрутов. Хорошо, если всё равно направляетесь к Sea Caves или Лара."
@@ -3096,7 +3096,7 @@
             "tip": "Дикая природа, смотровые площадки, пешеходные тропы. Состояние дорог варьируется. Лучше всего для любителей приключений."
           },
           {
-            "tip": "Маленький пляж, хорош для снорклинга. Совместите с Sea Caves. Ресторан Oniro by the Sea — прямо там."
+            "tip": "Маленький пляж, хорош для снорклинга. Совмести с Sea Caves. Ресторан Oniro by the Sea — прямо там."
           },
           {
             "tip": "Наблюдение за дельфинами, снорклинг, побережье. Прогулки 2–3 часа из гавани Пафоса или Латчи. Одно из лучших морских впечатлений."
@@ -3137,7 +3137,7 @@
             "tip": "Популярная размеченная тропа через холмы Акамас. Умеренная сложность. Лучше в прохладные месяцы."
           },
           {
-            "tip": "Более сложная тропа вглубь Акамаса. Очень впечатляющие виды. Возьмите воду и выходите рано."
+            "tip": "Более сложная тропа вглубь Акамаса. Очень впечатляющие виды. Возьми воду и выходи рано."
           },
           {
             "tip": "Лёгкий живописный круговой маршрут через виноградники и традиционную деревенскую жизнь. Лучше всего весной или осенью."
@@ -3155,7 +3155,7 @@
             "tip": "Живописная природная тропа через кедровый лес и Кедровую долину. Умеренная сложность. Лучше с машиной."
           },
           {
-            "tip": "Поход на высшую вершину Кипра. Сложный, но невероятные виды. Лучше в прохладные месяцы, возьмите тёплые слои одежды."
+            "tip": "Поход на высшую вершину Кипра. Сложный, но невероятные виды. Лучше в прохладные месяцы, возьми тёплые слои одежды."
           }
         ]
       },
@@ -3199,7 +3199,7 @@
             "tip": "Легендарный паб в гавани Пафоса. Хорошо для напитка и неформальной еды."
           },
           {
-            "tip": "Деревенская кипрская таверна с очень традиционным мезе. Стоит поездки, если вы любите аутентичную местную кухню."
+            "tip": "Деревенская кипрская таверна с очень традиционным мезе. Стоит поездки, если ты любишь аутентичную местную кухню."
           },
           {
             "tip": "Фантастический ресторан с видом на море у Sea Caves. Стоит совместить с посещением пещер."
@@ -3237,7 +3237,7 @@
             "tip": "Крытый рынок с прилавками одежды, сумок, ювелирных украшений, пляжного снаряжения и местных сувениров."
           },
           {
-            "tip": "Прогуляйтесь по красивому Старому городу и откройте для себя множество небольших бутиков и магазинов ремесленников."
+            "tip": "Прогуляйся по красивому Старому городу и открой для себя множество небольших бутиков и магазинов ремесленников."
           }
         ]
       }
@@ -3268,17 +3268,17 @@
           "note": "Полицейский участок Пафоса"
         }
       ],
-      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спросите нас, если нужна рекомендация."
+      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спроси нас, если нужна рекомендация."
     },
     "checkout": {
       "steps": [
-        "Если вы могли бы очистить холодильник и выбросить остатки еды в мусор, мы будем очень признательны!",
-        "Если вы могли бы быстро помыть посуду и оставить её на сушилке, это было бы замечательно!",
-        "Если вы могли бы вынести мусор и отнести пакет к мусорным контейнерам на парковке, это была бы большая помощь!",
-        "Перед отъездом, пожалуйста, закройте дверь балкона и все окна.",
-        "Пожалуйста, выключите кондиционер, весь свет и телевизор, когда закончите.",
-        "При выезде, пожалуйста, верните ключ в ключницу и сбросьте код.",
-        "Напишите нам в WhatsApp, чтобы мы знали, что вы в пути – было искренне приятно принимать вас!"
+        "Если сможешь освободить холодильник и выбросить остатки еды в мусор, мы будем очень признательны!",
+        "Если сможешь быстро помыть посуду и оставить её на сушилке, это было бы замечательно!",
+        "Если сможешь вынести мусор и отнести пакет к мусорным контейнерам на парковке, это будет большая помощь!",
+        "Перед отъездом, пожалуйста, закрой дверь балкона и все окна.",
+        "Пожалуйста, выключи кондиционер, весь свет и телевизор, когда закончишь.",
+        "При выезде, пожалуйста, верни ключ в ключницу и сбрось код.",
+        "Напиши нам в WhatsApp, чтобы мы знали, что ты в пути – было искренне приятно принимать тебя!"
       ]
     }
   }

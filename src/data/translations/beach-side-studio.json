@@ -46,128 +46,128 @@
       "stepTitleSwitchOffAppliances": "Lichter & Geräte ausschalten",
       "stepTitleSwitchOffAC": "Lichter & Klimaanlage ausschalten",
       "stepTitleReturnKeys": "Schlüssel zurückgeben",
-      "stepTitleDropMeMessage": "Schreiben Sie mir kurz!",
-      "stepTitleDropUsMessage": "Schreiben Sie uns kurz!",
-      "yourHost": "Ihr Gastgeber",
+      "stepTitleDropMeMessage": "Schreib mir kurz!",
+      "stepTitleDropUsMessage": "Schreib uns kurz!",
+      "yourHost": "Dein Gastgeber",
       "cohost": "Mitgastgeber",
       "call": "Anrufen",
       "whatsapp": "WhatsApp",
       "email": "E-Mail",
-      "enjoyStay": "Genießen Sie Ihren Aufenthalt!",
-      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht Ihren Aufenthalt noch angenehmer. Wenn Sie Ihre Zeit hier genießen, wäre ich Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
-      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden Ihren Aufenthalt noch angenehmer macht. Wenn Sie Ihre Zeit hier genießen, wären wir Ihnen sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
-      "contactHostIntroSolo": "Ich bin während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass Sie eine wunderbare Zeit haben.",
-      "contactHostIntroCohost": "Wir sind während Ihres gesamten Aufenthalts für Sie da. Zögern Sie nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass Sie eine wunderbare Zeit haben.",
+      "enjoyStay": "Genieß deinen Aufenthalt!",
+      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht deinen Aufenthalt noch schöner. Wenn du deine Zeit hier genießt, wäre ich dir riesig dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich viel.",
+      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden deinen Aufenthalt noch schöner macht. Wenn du deine Zeit hier genießt, wären wir dir riesig dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich viel.",
+      "contactHostIntroSolo": "Ich bin während deines ganzen Aufenthalts für dich da. Zögere nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit braucht zu kontaktieren – ich möchte wirklich, dass du eine wunderbare Zeit hast.",
+      "contactHostIntroCohost": "Wir sind während deines ganzen Aufenthalts für dich da. Zögere nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit braucht zu kontaktieren – wir möchten wirklich, dass du eine wunderbare Zeit hast.",
       "atAGlance": "Auf einen Blick",
       "checkInNote": "Ab diesem Zeitpunkt",
       "checkoutNote": "Bitte bis zu dieser Zeit abreisen",
       "contacts": "Kontakte",
-      "contactsNoteCohost": "Benötigen Sie Hilfe? Wir sind immer für Sie da.",
-      "contactsNoteSolo": "Benötigen Sie Hilfe? Ich bin immer für Sie da! Kontaktieren Sie mich.",
+      "contactsNoteCohost": "Brauchst du Hilfe? Wir sind immer für dich da.",
+      "contactsNoteSolo": "Brauchst du Hilfe? Ich bin immer für dich da! Kontaktier mich.",
       "contactUsCohost": "Kontakt aufnehmen",
       "contactUsSolo": "Mich kontaktieren",
       "copied": "Kopiert!",
       "contact": "Kontakt"
     },
     "subtitle": "Buntes Haus in den Hügeln von Teneriffa",
-    "tagline": "Ihr gemütlicher Bergrückzugsort in Valleseco",
-    "welcomeMessage": "Willkommen in meinem bunten Haus in den Hügeln von Teneriffa! Eingebettet in das charmante Dorf Valleseco, ist es voller Charakter und von Natur umgeben. Ich hoffe, Sie lieben es genauso sehr wie ich. Melden Sie sich jederzeit, wenn Sie irgendetwas benötigen.",
+    "tagline": "Dein gemütlicher Bergrückzugsort in Valleseco",
+    "welcomeMessage": "Willkommen in meinem bunten Haus in den Hügeln von Teneriffa! Eingebettet in das charmante Dorf Valleseco, ist es voller Charakter und von Natur umgeben. Ich hoffe, du liebst es genauso sehr wie ich. Meld dich jederzeit, wenn du etwas brauchst.",
     "address": {
-      "addressNote": "Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutzen Sie daher den Fotoleitfaden!"
+      "addressNote": "Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutz daher den Fotoleitfaden!"
     },
     "wifi": {
-      "notes": "Falls Sie Verbindungsprobleme haben, lassen Sie es mich bitte wissen, damit ich helfen kann."
+      "notes": "Falls du Verbindungsprobleme hast, lass es mich bitte wissen, damit ich helfen kann."
     },
     "checkin": {
-      "keyLocation": "Suchen Sie die weiße Tür im unteren Teil des Hauses. Die Schlüsselbox befindet sich direkt daneben.",
-      "notes": "Falls Sie Schwierigkeiten haben, das Haus zu finden, rufen Sie mich jederzeit an oder schreiben Sie mir per WhatsApp, ich helfe Ihnen gerne Schritt für Schritt weiter. Hinweis: Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte folgen Sie daher dem Fotoleitfaden!"
+      "keyLocation": "Such die weiße Tür im unteren Teil des Hauses. Die Schlüsselbox ist direkt daneben.",
+      "notes": "Falls du Schwierigkeiten hast, das Haus zu finden, ruf mich jederzeit an oder schreib mir per WhatsApp, ich helfe dir gerne Schritt für Schritt weiter. Hinweis: Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte folg daher dem Fotoleitfaden!"
     },
     "gettingHere": {
-      "byCar": "Am besten parken Sie an der empfohlenen Stelle (Link unten). Es sind immer Plätze verfügbar und Sie müssen kaum Treppen steigen. Folgen Sie dann den Gehanweisungen im Fotoleitfaden. Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutzen Sie daher den Fotoleitfaden!",
+      "byCar": "Am besten parkst du an der empfohlenen Stelle (Link unten). Es sind immer Plätze frei und du musst kaum Treppen steigen. Folg dann den Gehanweisungen im Fotoleitfaden. Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutz daher den Fotoleitfaden!",
       "parking": "Es sind immer Parkplätze verfügbar und es ist ein kurzer, ebener Weg zum Hauseingang.",
-      "publicTransport": "Es gibt verschiedene Busse von Santa Cruz de Tenerife (z.B. Nr. 909, 910, 916). Achten Sie darauf, in Valleseco auszusteigen (es ist ein kleines Dorf mit nur einer Haltestelle). Sobald Sie ausgestiegen sind, suchen Sie den Minimarkt Punto y Coma und nehmen Sie die Treppe auf der linken Seite etwa 20 Meter nach dem Minimarkt. Es ist ein 5-10 minütiger Aufstieg zum Haus. Google Maps ist für die letzte Strecke nicht vollständig genau, bitte folgen Sie daher dem Fotoleitfaden!",
-      "taxi": "Taxis stehen am Flughafen Tenerife Nord (TFN) und in Santa Cruz zur Verfügung (kostet etwa 10 EUR). Am besten vereinbaren Sie den Preis vor der Abfahrt oder stellen sicher, dass das Taxameter läuft. Vom Flughafen Tenerife Süd empfehle ich, zuerst den Bus nach Santa Cruz zu nehmen, da es weiter entfernt ist. Bitten Sie den Taxifahrer, Sie am oben im Abschnitt \"Mit dem Auto\" verlinkten Parkplatz abzusetzen, und folgen Sie dann dem Schritt-für-Schritt-Fotoleitfaden ab Foto 1.",
+      "publicTransport": "Es gibt verschiedene Busse von Santa Cruz de Tenerife (z.B. Nr. 909, 910, 916). Achte darauf, in Valleseco auszusteigen (es ist ein kleines Dorf mit nur einer Haltestelle). Sobald du ausgestiegen bist, such den Minimarkt Punto y Coma und nimm die Treppe auf der linken Seite etwa 20 Meter nach dem Minimarkt. Es ist ein 5-10 minütiger Aufstieg zum Haus. Google Maps ist für die letzte Strecke nicht vollständig genau, bitte folg daher dem Fotoleitfaden!",
+      "taxi": "Taxis stehen am Flughafen Tenerife Nord (TFN) und in Santa Cruz zur Verfügung (kostet etwa 10 EUR). Am besten vereinbarst du den Preis vor der Abfahrt oder stellst sicher, dass das Taxameter läuft. Vom Flughafen Tenerife Süd empfehle ich, zuerst den Bus nach Santa Cruz zu nehmen, da es weiter entfernt ist. Bitte den Taxifahrer, dich am oben im Abschnitt \"Mit dem Auto\" verlinkten Parkplatz abzusetzen, und folg dann dem Schritt-für-Schritt-Fotoleitfaden ab Foto 1.",
       "directionPhotos": [
         {
-          "caption": "Parken Sie hier. Es sind immer Plätze verfügbar und Sie müssen kaum Treppen steigen."
+          "caption": "Parke hier. Es sind immer Plätze frei und du musst kaum Treppen steigen."
         },
         {
-          "caption": "Gehen Sie vom Parkplatz aus in diese Richtung, bis die Straße endet, und gehen Sie dann die Treppe auf der linken Seite hinunter."
+          "caption": "Geh vom Parkplatz aus in diese Richtung, bis die Straße endet, und geh dann die Treppe auf der linken Seite hinunter."
         },
         {
-          "caption": "Gehen Sie hinunter zur nächsten Straße und biegen Sie rechts ab. Das ist die Straße des Hauses."
+          "caption": "Geh hinunter zur nächsten Straße und bieg rechts ab. Das ist die Straße des Hauses."
         },
         {
-          "caption": "Gehen Sie geradeaus und durchqueren Sie den Garten mit Kakteen und anderen Pflanzen."
+          "caption": "Geh geradeaus und durchquere den Garten mit Kakteen und anderen Pflanzen."
         },
         {
-          "caption": "Gehen Sie weiter zwischen den Häusern hindurch..."
+          "caption": "Geh weiter zwischen den Häusern hindurch..."
         },
         {
-          "caption": "Gehen Sie weiter geradeaus..."
+          "caption": "Geh weiter geradeaus..."
         },
         {
-          "caption": "Nach 1 Minute sehen Sie auf der linken Seite ein weißes Haus."
+          "caption": "Nach 1 Minute siehst du auf der linken Seite ein weißes Haus."
         },
         {
-          "caption": "Fast da. Ihre Wohnung befindet sich im unteren Teil des Hauses."
+          "caption": "Fast da. Deine Wohnung ist im unteren Teil des Hauses."
         },
         {
-          "caption": "Suchen Sie die weiße Tür, die von der Treppe an der Seite des Hauses aus zugänglich ist, mit einer Schlüsselbox daneben. Code: 6015"
+          "caption": "Such die weiße Tür, die von der Treppe an der Seite des Hauses aus zugänglich ist, mit einer Schlüsselbox daneben. Code: 6015"
         }
       ],
       "directionPhotosBus": [
         {
-          "caption": "Suchen Sie den Minimarkt Punto y Coma. Nachdem Sie daran vorbeigegangen sind, nehmen Sie die Treppe auf der linken Seite nach oben."
+          "caption": "Such den Minimarkt Punto y Coma. Nachdem du daran vorbeigegangen bist, nimm die Treppe auf der linken Seite nach oben."
         },
         {
-          "caption": "Suchen Sie die Treppe auf der linken Seite, etwa 20 Meter nachdem Sie am Minimarkt vorbeigegangen sind."
+          "caption": "Such die Treppe auf der linken Seite, etwa 20 Meter nachdem du am Minimarkt vorbeigegangen bist."
         },
         {
-          "caption": "Nach 5-10 Minuten Aufstieg (je nach Ihrem Ehrgeiz!) sehen Sie das Haus."
+          "caption": "Nach 5-10 Minuten Aufstieg (je nach deinem Ehrgeiz!) siehst du das Haus."
         },
         {
-          "caption": "Es ist der untere Teil des Hauses. Suchen Sie die weiße Tür, die von der seitlichen Treppe aus zugänglich ist, mit einer Schlüsselbox daneben. Code: 6015"
+          "caption": "Es ist der untere Teil des Hauses. Such die weiße Tür, die von der seitlichen Treppe aus zugänglich ist, mit einer Schlüsselbox daneben. Code: 6015"
         }
       ]
     },
     "houseRules": [
-      "Bitte rauchen Sie nur draußen. Die Außenbereiche gehören ganz Ihnen, aber bitte halten Sie das Innere des Hauses rauchfrei. Vielen Dank!",
-      "Bitte halten Sie es ruhig. Die Ruhezeiten sind von 23 bis 8 Uhr. Keine Partys oder Veranstaltungen",
-      "Bitte behandeln Sie die Wohnung wie Ihr eigenes Zuhause und lassen Sie mich sofort wissen, falls etwas beschädigt wird. Ich weiß, dass Unfälle passieren können"
+      "Bitte rauch nur draußen. Die Außenbereiche gehören ganz dir, aber bitte halte das Innere des Hauses rauchfrei. Vielen Dank!",
+      "Bitte halt es ruhig. Die Ruhezeiten sind von 23 bis 8 Uhr. Keine Partys oder Veranstaltungen",
+      "Bitte behandle die Wohnung wie dein eigenes Zuhause und lass mich sofort wissen, falls etwas kaputtgeht. Ich weiß, dass Unfälle passieren können"
     ],
     "appliances": [
       {
         "name": "Strom",
-        "instructions": "Das elektrische System des Hauses ist etwas alt und kommt daher nicht mit mehreren gleichzeitig laufenden leistungsstarken Geräten zurecht: zum Beispiel ein Haartrockner, der Ofen und der Herd. Um auf der sicheren Seite zu sein, nutzen Sie bitte immer nur eines dieser Geräte gleichzeitig. Sollte der Strom einmal ausfallen, machen Sie sich keine Sorgen, schalten Sie einfach alle Geräte aus und legen Sie die Hauptsicherung (neben der Eingangstür) wieder um!"
+        "instructions": "Das elektrische System des Hauses ist etwas alt und kommt daher nicht mit mehreren gleichzeitig laufenden leistungsstarken Geräten zurecht: zum Beispiel ein Haartrockner, der Ofen und der Herd. Um auf der sicheren Seite zu sein, nutz bitte immer nur eines dieser Geräte gleichzeitig. Sollte der Strom einmal ausfallen, mach dir keine Sorgen, schalte einfach alle Geräte aus und leg die Hauptsicherung (neben der Eingangstür) wieder um!"
       },
       {
         "name": "Küche",
-        "instructions": "Sie haben einen Küchenbereich, ausgestattet mit einem Elektroherd, einem Miniofen, einem Kühlschrank sowie den üblichen Küchenutensilien, die Sie benötigen könnten. ⚠️ Wichtig: Da auf Teneriffa immer Sommer ist, schlafen Käfer und Insekten nie. Bitte entfernen Sie alle übriggebliebenen Lebensmittel und werfen Sie diese sofort in den Mülleimer, und ich empfehle auch, das Geschirr direkt nach dem Essen zu reinigen, um Fliegen und andere Insekten in der Küche zu vermeiden."
+        "instructions": "Du hast einen Küchenbereich, ausgestattet mit einem Elektroherd, einem Miniofen, einem Kühlschrank sowie den üblichen Küchenutensilien, die du brauchen könntest. ⚠️ Wichtig: Da auf Teneriffa immer Sommer ist, schlafen Käfer und Insekten nie. Bitte entfern alle übriggebliebenen Lebensmittel und wirf sie sofort in den Mülleimer, und ich empfehle auch, das Geschirr direkt nach dem Essen zu reinigen, um Fliegen und andere Insekten in der Küche zu vermeiden."
       },
       {
         "name": "Waschmaschine",
-        "instructions": "Sie finden die Waschmaschine im Flurbereich, nutzen Sie sie gerne! Das Schnellprogramm namens \"Rapido\" reicht in der Regel völlig aus. Falls Sie Fragen haben, lassen Sie es mich einfach wissen."
+        "instructions": "Du findest die Waschmaschine im Flurbereich, nutz sie gerne! Das Schnellprogramm namens \"Rapido\" reicht in der Regel völlig aus. Falls du Fragen hast, lass es mich einfach wissen."
       },
       {
         "name": "Trinkwasser",
-        "instructions": "Das Leitungswasser auf Teneriffa soll sicher und sauber sein, obwohl die meisten Menschen Flaschenwasser bevorzugen, das Sie in jedem Supermarkt oder Kiosk finden. Die günstigere und praktischere Option ist es, sich einen 5-, 8-Liter- oder größeren Kanister zu holen."
+        "instructions": "Das Leitungswasser auf Teneriffa soll sicher und sauber sein, obwohl die meisten Menschen Flaschenwasser bevorzugen, das du in jedem Supermarkt oder Kiosk findest. Die günstigere und praktischere Option ist es, dir einen 5-, 8-Liter- oder größeren Kanister zu holen."
       },
       {
         "name": "Badezimmer",
-        "instructions": "Sie finden frische Handtücher, einen Haartrockner sowie Seife und Shampoo, alles bereit für Sie. Falls noch etwas fehlt, lassen Sie es mich einfach wissen und ich werde mich darum kümmern."
+        "instructions": "Du findest frische Handtücher, einen Haartrockner sowie Seife und Shampoo, alles bereit für dich. Falls noch etwas fehlt, lass es mich einfach wissen und ich werde mich darum kümmern."
       },
       {
         "name": "Badezimmerbelüftung",
-        "instructions": "⚠️ WICHTIG: Da das Badezimmer kein Fenster hat, ist es wichtig, den Dampf abzuleiten. Es gibt ein Belüftungssystem, das idealerweise täglich 20 Minuten laufen sollte. Es funktioniert zusammen mit dem Licht im Badezimmer, lassen Sie es daher bitte noch eine Weile an, nachdem Sie das Badezimmer benutzt haben, besonders nach dem Duschen. Bitte achten Sie auch darauf, die Tür offen zu lassen, wenn Sie das Badezimmer nicht benutzen."
+        "instructions": "⚠️ WICHTIG: Da das Badezimmer kein Fenster hat, ist es wichtig, den Dampf abzuleiten. Es gibt ein Belüftungssystem, das idealerweise täglich 20 Minuten laufen sollte. Es funktioniert zusammen mit dem Licht im Badezimmer, lass es daher bitte noch eine Weile an, nachdem du das Badezimmer benutzt hast, besonders nach dem Duschen. Bitte achte auch darauf, die Tür offen zu lassen, wenn du das Badezimmer nicht benutzt."
       },
       {
         "name": "Pflanzen",
-        "instructions": "Wenn Sie ein paar Tage bleiben, würden sich die Pflanzen über etwas Wasser alle 3-4 Tage freuen. Sie werden es Ihnen danken!"
+        "instructions": "Wenn du ein paar Tage bleibst, würden sich die Pflanzen über etwas Wasser alle 3-4 Tage freuen. Sie werden es dir danken!"
       },
       {
         "name": "Mari, die liebe Nachbarin",
-        "instructions": "Meine rechte Hand und größte Hilfe ist die liebe Mari, die direkt nebenan wohnt. Sollte irgendetwas anfallen (zum Beispiel, wenn Sie ein zusätzliches Handtuch benötigen), hilft sie immer gerne. Vielleicht schaut sie sogar mit ein paar selbstgemachten Süßigkeiten vorbei, wenn sie die Zeit dazu hat! Mari spricht nur Spanisch, aber keine Sorge, falls Sie das nicht sprechen, irgendwie klappt es immer wunderbar. 🙂"
+        "instructions": "Meine rechte Hand und größte Hilfe ist die liebe Mari, die direkt nebenan wohnt. Sollte irgendetwas anfallen (zum Beispiel, wenn du ein zusätzliches Handtuch brauchst), hilft sie immer gerne. Vielleicht schaut sie sogar mit ein paar selbstgemachten Süßigkeiten vorbei, wenn sie die Zeit dazu hat! Mari spricht nur Spanisch, aber keine Sorge, falls du das nicht sprichst, irgendwie klappt es immer wunderbar. 🙂"
       }
     ],
     "thingsToDo": [
@@ -187,7 +187,7 @@
           {
             "name": "Boca Cangrejo",
             "distance": "Auto oder Bus",
-            "tip": "Boca Cangrejo ist ein kleines und sehr charmantes kanarisches Dorf mit einem kleinen Strand, traditionellen Fischerbooten, weißen Häusern, netten lokalen Bars und einem großartigen Restaurant für frischen Fisch und Paella. Achten Sie auf die Bucht, die mit bunten Herzen und Gemälden eines lokalen Fischers verziert ist."
+            "tip": "Boca Cangrejo ist ein kleines und sehr charmantes kanarisches Dorf mit einem kleinen Strand, traditionellen Fischerbooten, weißen Häusern, netten lokalen Bars und einem großartigen Restaurant für frischen Fisch und Paella. Achte auf die Bucht, die mit bunten Herzen und Gemälden eines lokalen Fischers verziert ist."
           },
           {
             "name": "Playa Montaña Roja",
@@ -212,7 +212,7 @@
           {
             "name": "Dorf San Andrés",
             "distance": "Auto oder Bus",
-            "tip": "Zum Essengehen in der Nähe des Hauses gehen Sie nach San Andrés oder in die Innenstadt von Santa Cruz. Las Teresitas hat kleine Strandbars für Getränke und Tapas, aber für eine richtige Mahlzeit ist es besser, ins Dorf San Andrés zu gehen."
+            "tip": "Zum Essengehen in der Nähe des Hauses geh nach San Andrés oder in die Innenstadt von Santa Cruz. Las Teresitas hat kleine Strandbars für Getränke und Tapas, aber für eine richtige Mahlzeit ist es besser, ins Dorf San Andrés zu gehen."
           },
           {
             "name": "Tasca El Asunto Los Parres",
@@ -257,7 +257,7 @@
           {
             "name": "Los Cristianos and Playa de las Américas",
             "distance": "Auto oder Bus",
-            "tip": "Das sind die bekanntesten touristischen Orte im Süden mit dem verlässlichsten Wetter, meist sonnig und warm. Sie sind belebt und sehr touristisch, mit Hotels, Geschäften, Clubs, Dienstleistungen, Tauchclubs und allem, was Sie brauchen könnten."
+            "tip": "Das sind die bekanntesten touristischen Orte im Süden mit dem verlässlichsten Wetter, meist sonnig und warm. Sie sind belebt und sehr touristisch, mit Hotels, Geschäften, Clubs, Dienstleistungen, Tauchclubs und allem, was du brauchen könntest."
           },
           {
             "name": "Puerto de la Cruz",
@@ -272,7 +272,7 @@
           {
             "name": "Masca",
             "distance": "Auto oder Bus",
-            "tip": "Masca ist eines der schönsten Dörfer der Insel, vielleicht sogar der Kanarischen Inseln. Fahren Sie dorthin, schlendern Sie durch das Dorf, genießen Sie einen Mandelkuchen, probieren Sie die tropischen Fruchtsäfte und machen Sie vielleicht eine Wanderung. Bleiben Sie bis zum Sonnenuntergang, wenn Sie die Möglichkeit haben."
+            "tip": "Masca ist eines der schönsten Dörfer der Insel, vielleicht sogar der Kanarischen Inseln. Fahr dorthin, schlendere durch das Dorf, genieß einen Mandelkuchen, probier die tropischen Fruchtsäfte und mach vielleicht eine Wanderung. Bleib bis zum Sonnenuntergang, wenn du die Möglichkeit hast."
           }
         ]
       },
@@ -292,7 +292,7 @@
           {
             "name": "Mount Teide",
             "distance": "Auto oder Bus",
-            "tip": "Der Teide ist ein Vulkan und mit 3.715 Metern der höchste Punkt Spaniens. Sie können mit dem Auto oder dem Bus bis auf etwa 2.200 Meter fahren und dann hochwandern oder die Seilbahn nehmen. Die Wanderung dauert je nach Fitnesslevel etwa 4 bis 5 Stunden. Für die letzten 50 Meter zum Gipfel müssen Sie sich vorher anmelden. Auch ohne diesen letzten Abschnitt ist die Aussicht erstaunlich und lohnend. Es ist keine leichte Wanderung und es kann dort oben kalt werden, aber es ist es sehr wert."
+            "tip": "Der Teide ist ein Vulkan und mit 3.715 Metern der höchste Punkt Spaniens. Du kannst mit dem Auto oder dem Bus bis auf etwa 2.200 Meter fahren und dann hochwandern oder die Seilbahn nehmen. Die Wanderung dauert je nach Fitnesslevel etwa 4 bis 5 Stunden. Für die letzten 50 Meter zum Gipfel musst du dich vorher anmelden. Auch ohne diesen letzten Abschnitt ist die Aussicht erstaunlich und lohnend. Es ist keine leichte Wanderung und es kann dort oben kalt werden, aber es ist es sehr wert."
           },
           {
             "name": "Orotava-Gebiet",
@@ -302,12 +302,12 @@
           {
             "name": "Barranco de Masca",
             "distance": "Auto oder Bus",
-            "tip": "Wenn Sie Masca besuchen und gerne wandern, ist der Barranco de Masca eine großartige Option."
+            "tip": "Wenn du Masca besuchst und gerne wanderst, ist der Barranco de Masca eine großartige Option."
           },
           {
             "name": "Komoot-App",
             "distance": "Tipp",
-            "tip": "Tipp: Nutzen Sie die Komoot-App. Sie ist sehr genau und hat viele aufgezeichnete Wanderungen für Teneriffa."
+            "tip": "Tipp: Nutz die Komoot-App. Sie ist sehr genau und hat viele aufgezeichnete Wanderungen für Teneriffa."
           }
         ]
       },
@@ -363,12 +363,12 @@
           {
             "name": "Mini-Supermärkte in Valleseco",
             "distance": "Zu Fuß",
-            "tip": "Es gibt zwei kleine Mini-Supermärkte im Dorf, in denen Sie grundlegende Dinge wie Wasser und einfache Lebensmittel kaufen können."
+            "tip": "Es gibt zwei kleine Mini-Supermärkte im Dorf, in denen du grundlegende Dinge wie Wasser und einfache Lebensmittel kaufen kannst."
           },
           {
             "name": "Apotheke",
             "distance": "Zu Fuß",
-            "tip": "Es gibt auch eine Apotheke ganz in der Nähe der Hauptstraße. Bitte prüfen Sie Google Maps für die aktuellen Öffnungszeiten."
+            "tip": "Es gibt auch eine Apotheke ganz in der Nähe der Hauptstraße. Bitte prüf Google Maps für die aktuellen Öffnungszeiten."
           },
           {
             "name": "HiperDino",
@@ -396,7 +396,7 @@
     "gettingAround": [
       {
         "name": "Bus",
-        "info": "Um Teneriffa mit öffentlichen Verkehrsmitteln zu erkunden, schauen Sie am besten zunächst auf der TITSA-Website oder in der TITSA-App nach. Von Valleseco aus ist es meist am einfachsten, zunächst zum Intercambiador Santa Cruz zu fahren, dem Hauptbusbahnhof in Santa Cruz. Von dort können Sie ins Stadtzentrum laufen, die Straßenbahn nach La Laguna nehmen oder in Busse zu anderen Städten, Flughäfen, Stränden und in den Süden der Insel umsteigen. Für die Playa de Las Teresitas nehmen Sie die TITSA-Linie 910 Richtung San Andrés / Playa de Las Teresitas. Sie können den Bus entweder direkt aus dem Gebiet Valleseco nehmen, wenn verfügbar, oder zunächst zum Intercambiador Santa Cruz fahren und dort umsteigen. Vor der Abfahrt empfehle ich, die genaue Route auf Google Maps, TITSA oder in der TITSA-App zu prüfen, da sich die Busfahrzeiten je nach Wochentag, Saison und Feiertagen ändern können."
+        "info": "Um Teneriffa mit öffentlichen Verkehrsmitteln zu erkunden, schau am besten zunächst auf der TITSA-Website oder in der TITSA-App nach. Von Valleseco aus ist es meist am einfachsten, zunächst zum Intercambiador Santa Cruz zu fahren, dem Hauptbusbahnhof in Santa Cruz. Von dort kannst du ins Stadtzentrum laufen, die Straßenbahn nach La Laguna nehmen oder in Busse zu anderen Städten, Flughäfen, Stränden und in den Süden der Insel umsteigen. Für die Playa de Las Teresitas nimm die TITSA-Linie 910 Richtung San Andrés / Playa de Las Teresitas. Du kannst den Bus entweder direkt aus dem Gebiet Valleseco nehmen, wenn verfügbar, oder zunächst zum Intercambiador Santa Cruz fahren und dort umsteigen. Vor der Abfahrt empfehle ich, die genaue Route auf Google Maps, TITSA oder in der TITSA-App zu prüfen, da sich die Busfahrzeiten je nach Wochentag, Saison und Feiertagen ändern können."
       }
     ],
     "emergency": {
@@ -410,17 +410,17 @@
           "note": "Hauptkrankenhaus in Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Mehrere Apotheken in Gehweite an der Hauptstraße. Fragen Sie mich, falls Sie eine Empfehlung brauchen."
+      "nearestPharmacy": "Mehrere Apotheken in Gehweite an der Hauptstraße. Frag mich, falls du eine Empfehlung brauchst."
     },
     "checkout": {
       "steps": [
-        "Wenn Sie das Geschirr kurz abspülen und auf dem Abtropfgestell stehen lassen könnten, wäre das großartig!",
-        "Wenn Sie den Kühlschrank ausräumen und übriggebliebene Lebensmittel in den Mülleimer geben könnten, wäre ich Ihnen sehr dankbar!",
-        "Es wäre großartig, wenn Sie den Müll entsorgen könnten. Sie finden große Container kurz bevor Sie das Dorf verlassen.",
-        "Bevor Sie losgehen, schließen Sie bitte die Fenster und die Tür ab.",
-        "Bitte schalten Sie alle Lichter und elektrischen Geräte (Ofen, Herd, Mixer) aus, wenn Sie fertig sind.",
-        "Wenn Sie abreisen, schließen Sie bitte alles ab und legen Sie alle Schlüssel zurück in die Schlüsselbox, wobei Sie danach den Code zurücksetzen.",
-        "Schicken Sie mir bitte eine WhatsApp- oder Airbnb-Nachricht, um mir mitzuteilen, dass Sie abgereist sind, und ich würde mich sehr über eine Bewertung freuen, wenn Ihnen Ihr Aufenthalt gefallen hat! 🩵"
+        "Wenn du das Geschirr kurz abspülst und auf dem Abtropfgestell stehen lässt, wäre das großartig!",
+        "Wenn du den Kühlschrank ausräumst und übriggebliebene Lebensmittel in den Mülleimer gibst, wäre ich dir sehr dankbar!",
+        "Es wäre großartig, wenn du den Müll entsorgen könntest. Du findest große Container kurz bevor du das Dorf verlässt.",
+        "Bevor du losgehst, schließ bitte die Fenster und die Tür ab.",
+        "Bitte schalte alle Lichter und elektrischen Geräte (Ofen, Herd, Mixer) aus, wenn du fertig bist.",
+        "Wenn du abreist, schließ bitte alles ab und leg alle Schlüssel zurück in die Schlüsselbox, und setz danach den Code zurück.",
+        "Schick mir bitte eine WhatsApp- oder Airbnb-Nachricht, um mir mitzuteilen, dass du abgereist bist, und ich würde mich sehr über eine Bewertung freuen, wenn dir dein Aufenthalt gefallen hat! 🩵"
       ]
     }
   },
@@ -463,136 +463,136 @@
       "ruleTitleLostKeys": "Elveszett kulcsok",
       "ruleTitleKeys": "Kulcsok",
       "ruleTitlePropertyCare": "Az ingatlan gondozása",
-      "stepTitleFridge": "Ürítse ki a hűtőt",
-      "stepTitleDishes": "Mossa el az edényeket",
-      "stepTitleRubbish": "Vigye ki a szemetet",
-      "stepTitleCushions": "Eső esetén vigye be a párnákat",
-      "stepTitleCloseWindows": "Zárja be az ablakokat és ajtókat",
-      "stepTitleSwitchOffAppliances": "Kapcsolja le a villanyt és a készülékeket",
-      "stepTitleSwitchOffAC": "Kapcsolja le a villanyt és a légkondicionálót",
-      "stepTitleReturnKeys": "Adja vissza a kulcsokat",
-      "stepTitleDropMeMessage": "Írjon nekem egy üzenetet!",
-      "stepTitleDropUsMessage": "Írjon nekünk egy üzenetet!",
-      "yourHost": "Az Ön házigazdája",
+      "stepTitleFridge": "Ürítsd ki a hűtőt",
+      "stepTitleDishes": "Mosd el az edényeket",
+      "stepTitleRubbish": "Vidd ki a szemetet",
+      "stepTitleCushions": "Eső esetén vidd be a párnákat",
+      "stepTitleCloseWindows": "Zárd be az ablakokat és ajtókat",
+      "stepTitleSwitchOffAppliances": "Kapcsold le a villanyt és a készülékeket",
+      "stepTitleSwitchOffAC": "Kapcsold le a villanyt és a légkondicionálót",
+      "stepTitleReturnKeys": "Add vissza a kulcsokat",
+      "stepTitleDropMeMessage": "Írj nekem egy üzenetet!",
+      "stepTitleDropUsMessage": "Írj nekünk egy üzenetet!",
+      "yourHost": "A házigazdád",
       "cohost": "Társ-házigazda",
       "call": "Hívás",
       "whatsapp": "WhatsApp",
       "email": "E-mail",
       "enjoyStay": "Kellemes tartózkodást kívánunk!",
-      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
-      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodását. Ha jól érzi magát nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
-      "contactHostIntroSolo": "Egész tartózkodása alatt elérhető vagyok. Ne habozzon felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsön itt.",
-      "contactHostIntroCohost": "Egész tartózkodása alatt elérhetők vagyunk. Ne habozzon felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsön itt.",
+      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodásodat. Ha jól érzed magad nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
+      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodásodat. Ha jól érzed magad nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
+      "contactHostIntroSolo": "Egész tartózkodásod alatt elérhető vagyok. Ne habozz felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt tölts itt.",
+      "contactHostIntroCohost": "Egész tartózkodásod alatt elérhetők vagyunk. Ne habozz felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt tölts itt.",
       "atAGlance": "Gyors áttekintés",
       "checkInNote": "Ettől az időponttól",
-      "checkoutNote": "Kérjük, eddig az időpontig hagyja el a szállást",
+      "checkoutNote": "Kérjük, eddig az időpontig hagyd el a szállást",
       "contacts": "Kapcsolatok",
-      "contactsNoteCohost": "Segítségre van szüksége? Mindig elérhetők vagyunk.",
-      "contactsNoteSolo": "Segítségre van szüksége? Mindig elérhető vagyok! Vegye fel velem a kapcsolatot.",
-      "contactUsCohost": "Lépjen kapcsolatba velünk",
+      "contactsNoteCohost": "Segítségre van szükséged? Mindig elérhetők vagyunk.",
+      "contactsNoteSolo": "Segítségre van szükséged? Mindig elérhető vagyok! Vedd fel velem a kapcsolatot.",
+      "contactUsCohost": "Lépj kapcsolatba velünk",
       "contactUsSolo": "Kapcsolatba velem",
       "copied": "Másolva!",
       "contact": "Kapcsolat"
     },
     "subtitle": "Színes ház Tenerife hegyei között",
-    "tagline": "Az Ön kényelmes hegyi menedékhelye Vallesecóban",
-    "welcomeMessage": "Üdvözlöm színes házamban, Tenerife hegyei között! A bájos Valleseco faluban megbújva, teli van jellemmel és körülveszi a természet. Remélem, ugyanúgy megszereti, mint én. Vegye fel velem a kapcsolatot bármikor, ha bármire szüksége lenne.",
+    "tagline": "A kényelmes hegyi menedékhelyed Vallesecóban",
+    "welcomeMessage": "Üdvözöllek színes házamban, Tenerife hegyei között! A bájos Valleseco faluban megbújva, teli van jellemmel és körülveszi a természet. Remélem, ugyanúgy megszereted, mint én. Vedd fel velem a kapcsolatot bármikor, ha bármire szükséged lenne.",
     "address": {
-      "addressNote": "A Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérem, használja a fotós útmutatót!"
+      "addressNote": "A Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérlek, használd a fotós útmutatót!"
     },
     "wifi": {
-      "notes": "Ha kapcsolódási problémákat észlel, kérem, jelezze felém, hogy segíthessek."
+      "notes": "Ha kapcsolódási problémákat észlelsz, kérlek, jelezd felém, hogy segíthessek."
     },
     "checkin": {
-      "keyLocation": "Keresse a fehér ajtót a ház alsó részén. A kulcsdoboz közvetlenül mellette van.",
-      "notes": "Ha bármilyen nehézsége lenne megtalálni a házat, hívjon vagy írjon WhatsAppon nekem bármikor, és szívesen elvezetem lépésről lépésre. Megjegyzés: a Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérem, kövesse a fotós útmutatót!"
+      "keyLocation": "Keresd a fehér ajtót a ház alsó részén. A kulcsdoboz közvetlenül mellette van.",
+      "notes": "Ha bármilyen nehézséged lenne megtalálni a házat, hívj vagy írj WhatsAppon nekem bármikor, és szívesen elvezetlek lépésről lépésre. Megjegyzés: a Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérlek, kövesd a fotós útmutatót!"
     },
     "gettingHere": {
-      "byCar": "A legjobb, ha az ajánlott helyen parkol (link lent). Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznia. Ezután kövesse a gyalogos útmutatást a fotós útmutatóban. A Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérem, használja a fotós útmutatót!",
-      "parking": "Mindig van szabad parkolóhely, és a ház bejáratáig egy rövid, sík terepen vezető séta várja.",
-      "publicTransport": "Számos busz indul Santa Cruz de Teneriféből (pl. 909, 910, 916-os). Ügyeljen arra, hogy Vallesecónál szálljon le (ez egy kis falu, csak egy megállóval). Leszállás után keresse meg a Punto y Coma Minimarketet, és menjen fel a bal oldali lépcsőn, körülbelül 20 méterrel utána. Ez egy 5-10 perces, felfelé vezető séta a házig. A Google Maps nem teljesen pontos az utolsó szakaszra, ezért kérem, kövesse a fotós útmutatót!",
-      "taxi": "Taxi elérhető a Tenerife North (TFN) repülőtérről és Santa Cruzból is (kb. 10 EUR-ba kerül). A legjobb, ha elindulás előtt megegyezik a viteldíjban, vagy meggyőződik arról, hogy az órát bekapcsolták. Tenerife Southból azt javaslom, hogy először busszal menjen Santa Cruzba, mivel az onnan messzebb van. Kérje meg a taxisofőrt, hogy tegye le a fent linkelt parkolóhelynél, az \"By Car\" szakaszban, majd kövesse a lépésről lépésre fotós útmutatót az 1. fotótól kezdve.",
+      "byCar": "A legjobb, ha az ajánlott helyen parkolsz (link lent). Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznod. Ezután kövesd a gyalogos útmutatást a fotós útmutatóban. A Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérlek, használd a fotós útmutatót!",
+      "parking": "Mindig van szabad parkolóhely, és a ház bejáratáig egy rövid, sík terepen vezető séta vár.",
+      "publicTransport": "Számos busz indul Santa Cruz de Teneriféből (pl. 909, 910, 916-os). Ügyelj arra, hogy Vallesecónál szállj le (ez egy kis falu, csak egy megállóval). Leszállás után keresd meg a Punto y Coma Minimarketet, és menj fel a bal oldali lépcsőn, körülbelül 20 méterrel utána. Ez egy 5-10 perces, felfelé vezető séta a házig. A Google Maps nem teljesen pontos az utolsó szakaszra, ezért kérlek, kövesd a fotós útmutatót!",
+      "taxi": "Taxi elérhető a Tenerife North (TFN) repülőtérről és Santa Cruzból is (kb. 10 EUR-ba kerül). A legjobb, ha elindulás előtt megegyezel a viteldíjban, vagy meggyőződsz arról, hogy az órát bekapcsolták. Tenerife Southból azt javaslom, hogy először busszal menj Santa Cruzba, mivel az onnan messzebb van. Kérd meg a taxisofőrt, hogy tegye le a fent linkelt parkolóhelynél, az \"By Car\" szakaszban, majd kövesd a lépésről lépésre fotós útmutatót az 1. fotótól kezdve.",
       "directionPhotos": [
         {
-          "caption": "Itt parkoljon le. Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznia."
+          "caption": "Itt parkolj le. Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznod."
         },
         {
-          "caption": "A parkolóból kiindulva induljon ebbe az irányba, és sétáljon, amíg az utca végére nem ér, majd menjen le a bal oldali lépcsőn."
+          "caption": "A parkolóból kiindulva indulj ebbe az irányba, és sétálj, amíg az utca végére nem érsz, majd menj le a bal oldali lépcsőn."
         },
         {
-          "caption": "Menjen le a következő utcába lejjebb, és forduljon jobbra. Ez a ház utcája."
+          "caption": "Menj le a következő utcába lejjebb, és fordulj jobbra. Ez a ház utcája."
         },
         {
-          "caption": "Menjen egyenesen, és haladjon át a kaktuszokkal és egyéb növényekkel teli kerten."
+          "caption": "Menj egyenesen, és haladj át a kaktuszokkal és egyéb növényekkel teli kerten."
         },
         {
-          "caption": "Haladjon tovább a házak között..."
+          "caption": "Haladj tovább a házak között..."
         },
         {
-          "caption": "Menjen tovább egyenesen..."
+          "caption": "Menj tovább egyenesen..."
         },
         {
-          "caption": "1 perc után, a bal oldalon meglát egy fehér színű házat."
+          "caption": "1 perc után, a bal oldalon meglátsz egy fehér színű házat."
         },
         {
-          "caption": "Már közel van. Az apartmanja a ház alsó részében található."
+          "caption": "Már közel vagy. Az apartmanod a ház alsó részében található."
         },
         {
-          "caption": "Keresse meg a fehér ajtót, amely a ház oldalán található lépcsőről nyílik, mellette egy kulcsdobozzal. Kód: 6015"
+          "caption": "Keresd meg a fehér ajtót, amely a ház oldalán található lépcsőről nyílik, mellette egy kulcsdobozzal. Kód: 6015"
         }
       ],
       "directionPhotosBus": [
         {
-          "caption": "Keresse meg a Punto y Coma Minimarketet. Miután elhaladt mellette, menjen fel a bal oldali lépcsőn."
+          "caption": "Keresd meg a Punto y Coma Minimarketet. Miután elhaladtál mellette, menj fel a bal oldali lépcsőn."
         },
         {
-          "caption": "Keresse meg a bal oldali lépcsőt, körülbelül 20 méterrel a minimarket után."
+          "caption": "Keresd meg a bal oldali lépcsőt, körülbelül 20 méterrel a minimarket után."
         },
         {
-          "caption": "5-10 perc kapaszkodás után (az ambícióitól függően!) meglátja a házat."
+          "caption": "5-10 perc kapaszkodás után (az ambíciódtól függően!) meglátod a házat."
         },
         {
-          "caption": "Ez a ház alsó része. Keresse meg a fehér ajtót, amely az oldalsó lépcsőről nyílik, mellette egy kulcsdobozzal. Kód: 6015"
+          "caption": "Ez a ház alsó része. Keresd meg a fehér ajtót, amely az oldalsó lépcsőről nyílik, mellette egy kulcsdobozzal. Kód: 6015"
         }
       ]
     },
     "houseRules": [
-      "Kérem, csak a kültéren dohányozzon. A kültéri területek teljesen az Öné, de kérem, tartsa a ház belsejét füstmentesen. Köszönöm!",
-      "Kérem, tartsa meg a nyugalmat. A csendes órák 23:00-tól 8:00-ig tartanak. Bulik és rendezvények nem megengedettek",
-      "Kérem, kezelje az apartmant úgy, mintha a saját otthona lenne, és azonnal jelezze felém, ha valami megsérül. Megértem, hogy előfordulnak balesetek"
+      "Kérlek, csak a kültéren dohányozz. A kültéri területek teljesen a tieid, de kérlek, tartsd a ház belsejét füstmentesen. Köszönöm!",
+      "Kérlek, tartsd meg a nyugalmat. A csendes órák 23:00-tól 8:00-ig tartanak. Bulik és rendezvények nem megengedettek",
+      "Kérlek, kezeld az apartmant úgy, mintha a saját otthonod lenne, és azonnal jelezd felém, ha valami megsérül. Megértem, hogy előfordulnak balesetek"
     ],
     "appliances": [
       {
         "name": "Elektromos áram",
-        "instructions": "A ház elektromos rendszere kicsit régi, így nem bír el több nagy teljesítményű készüléket egyszerre: például egy hajszárítót, a sütőt és a tűzhelyet. A biztonság kedvéért kérem, egyszerre csak egyet használjon ezek közül. Ha egyszer mégis kimenne az áram, semmi gond, csak kapcsolja ki az összes készüléket, és kapcsolja vissza a fő biztosítót (a bejárati ajtó mellett)!"
+        "instructions": "A ház elektromos rendszere kicsit régi, így nem bír el több nagy teljesítményű készüléket egyszerre: például egy hajszárítót, a sütőt és a tűzhelyet. A biztonság kedvéért kérlek, egyszerre csak egyet használj ezek közül. Ha egyszer mégis kimenne az áram, semmi gond, csak kapcsold ki az összes készüléket, és kapcsold vissza a fő biztosítót (a bejárati ajtó mellett)!"
       },
       {
         "name": "Konyha",
-        "instructions": "A konyharész elektromos tűzhellyel, mini sütővel, hűtővel, valamint a szükséges hagyományos konyhai eszközökkel van felszerelve. ⚠️ Fontos: mivel Tenerifén mindig nyár van, a bogarak és rovarok sosem alszanak. Kérem, ügyeljen arra, hogy minden maradék ételt eltávolítson, és rögtön a kukába dobja, valamint javaslom, hogy étkezés után azonnal mossa el az edényeket, hogy elkerülje a legyek és más rovarok megjelenését a konyhában."
+        "instructions": "A konyharész elektromos tűzhellyel, mini sütővel, hűtővel, valamint a szükséges hagyományos konyhai eszközökkel van felszerelve. ⚠️ Fontos: mivel Tenerifén mindig nyár van, a bogarak és rovarok sosem alszanak. Kérlek, ügyelj arra, hogy minden maradék ételt eltávolíts, és rögtön a kukába dobd, valamint javaslom, hogy étkezés után azonnal mosd el az edényeket, hogy elkerüld a legyek és más rovarok megjelenését a konyhában."
       },
       {
         "name": "Mosógép",
-        "instructions": "A mosógépet az előtér részben találja, nyugodtan használja! Az általában elegendő gyors program neve \"Rapido\". Ha kérdése van, csak jelezze felém."
+        "instructions": "A mosógépet az előtér részben találod, nyugodtan használd! Az általában elegendő gyors program neve \"Rapido\". Ha kérdésed van, csak jelezd felém."
       },
       {
         "name": "Ivóvíz",
-        "instructions": "A csapvíz Tenerifén az állítások szerint biztonságos és tiszta, bár a legtöbben inkább palackozott vizet választanak, amelyet bármely szupermarketben vagy kioszkban megtalál. Az olcsóbb és praktikusabb megoldás egy 5, 8 literes vagy nagyobb palack beszerzése."
+        "instructions": "A csapvíz Tenerifén az állítások szerint biztonságos és tiszta, bár a legtöbben inkább palackozott vizet választanak, amelyet bármely szupermarketben vagy kioszkban megtalálsz. Az olcsóbb és praktikusabb megoldás egy 5, 8 literes vagy nagyobb palack beszerzése."
       },
       {
         "name": "Fürdőszoba",
-        "instructions": "Friss törülközőket, hajszárítót, valamint szappant és sampont talál, minden készen áll az Ön számára. Ha valami más hiányzik, csak jelezze felém, és megoldom."
+        "instructions": "Friss törülközőket, hajszárítót, valamint szappant és sampont találsz, minden készen áll számodra. Ha valami más hiányzik, csak jelezd felém, és megoldom."
       },
       {
         "name": "Fürdőszoba szellőztetése",
-        "instructions": "⚠️ FONTOS: Mivel a fürdőszobának nincs ablaka, fontos a gőz eltávolítása. Van egy szellőztető rendszer, amelynek ideális esetben naponta 20 percig kellene működnie. A fürdőszoba lámpájával együtt működik, ezért kérem, hagyja égve egy ideig a fürdőszoba használata után, különösen, ha zuhanyzott. Továbbá kérem, hagyja nyitva az ajtót, amikor nem használja a fürdőszobát."
+        "instructions": "⚠️ FONTOS: Mivel a fürdőszobának nincs ablaka, fontos a gőz eltávolítása. Van egy szellőztető rendszer, amelynek ideális esetben naponta 20 percig kellene működnie. A fürdőszoba lámpájával együtt működik, ezért kérlek, hagyd égve egy ideig a fürdőszoba használata után, különösen, ha zuhanyoztál. Továbbá kérlek, hagyd nyitva az ajtót, amikor nem használod a fürdőszobát."
       },
       {
         "name": "Növények",
-        "instructions": "Ha néhány napig itt marad, a növények szívesen fogadnának egy kis vizet minden 3-4 napban. Nagyon hálásak lennének érte!"
+        "instructions": "Ha néhány napig itt maradsz, a növények szívesen fogadnának egy kis vizet minden 3-4 napban. Nagyon hálásak lennének érte!"
       },
       {
         "name": "Mari, a kedves szomszéd",
-        "instructions": "A jobb kezem és legnagyobb segítségem a kedves Mari, aki közvetlenül a szomszédban él. Ha bármi felmerül (mondjuk egy extra törülközőre lenne szüksége), mindig szívesen segít. Ha van ideje, akár még házi készítésű süteményt is hozhat! Mari csak spanyolul beszél, de ne aggódjon, ha Önök nem, valahogy mindig gyönyörűen megoldódik. 🙂"
+        "instructions": "A jobb kezem és legnagyobb segítségem a kedves Mari, aki közvetlenül a szomszédban él. Ha bármi felmerül (mondjuk egy extra törülközőre lenne szükséged), mindig szívesen segít. Ha van ideje, akár még házi készítésű süteményt is hozhat! Mari csak spanyolul beszél, de ne aggódj, ha te nem, valahogy mindig gyönyörűen megoldódik. 🙂"
       }
     ],
     "thingsToDo": [
@@ -697,7 +697,7 @@
           {
             "name": "Masca",
             "distance": "Autó vagy busz",
-            "tip": "Masca a sziget egyik legszebb faluja, talán még a Kanári-szigetek egyik legszebbike is. Menjen el, sétáljon egy kicsit, egyen egy mandulasüteményt, kóstolja meg a trópusi gyümölcslevet, és esetleg induljon egy túrára. Ha van rá lehetősége, maradjon a naplementéig."
+            "tip": "Masca a sziget egyik legszebb faluja, talán még a Kanári-szigetek egyik legszebbike is. Menj el, sétálj egy kicsit, egyél egy mandulasüteményt, kóstold meg a trópusi gyümölcslevet, és esetleg indulj egy túrára. Ha van rá lehetőséged, maradj a naplementéig."
           }
         ]
       },
@@ -727,12 +727,12 @@
           {
             "name": "Barranco de Masca",
             "distance": "Autó vagy busz",
-            "tip": "Ha ellátogat Mascába és szereti a túrázást, a Barranco de Masca egy remek lehetőség, amit érdemes megfontolni."
+            "tip": "Ha ellátogatsz Mascába és szereted a túrázást, a Barranco de Masca egy remek lehetőség, amit érdemes megfontolni."
           },
           {
             "name": "Komoot alkalmazás",
             "distance": "Tipp",
-            "tip": "Tipp: Használja a Komoot alkalmazást. Nagyon pontos, és sok Tenerifén rögzített túraútvonalat tartalmaz."
+            "tip": "Tipp: Használd a Komoot alkalmazást. Nagyon pontos, és sok Tenerifén rögzített túraútvonalat tartalmaz."
           }
         ]
       },
@@ -788,12 +788,12 @@
           {
             "name": "Mini szupermarketek Vallesecóban",
             "distance": "Gyalog",
-            "tip": "A faluban két kis mini szupermarket található, ahol alapvető dolgokat vásárolhat, mint víz és egyszerű élelmiszerek."
+            "tip": "A faluban két kis mini szupermarket található, ahol alapvető dolgokat vásárolhatsz, mint víz és egyszerű élelmiszerek."
           },
           {
             "name": "Gyógyszertár",
             "distance": "Gyalog",
-            "tip": "Van egy gyógyszertár is nagyon közel a főúthoz. Kérem, nézze meg a Google Mapsen a jelenlegi nyitvatartási időt."
+            "tip": "Van egy gyógyszertár is nagyon közel a főúthoz. Kérlek, nézd meg a Google Mapsen a jelenlegi nyitvatartási időt."
           },
           {
             "name": "HiperDino",
@@ -821,7 +821,7 @@
     "gettingAround": [
       {
         "name": "Busz",
-        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdje azzal, hogy megnézi a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazik, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehet a városközpontba, villamossal La Lagunába mehet, vagy átszállhat más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz vegye a TITSA 910-es vonalát San Andrés / Playa de Las Teresitas irányába. A buszra felszállhat a Valleseco térségben, ha elérhető, vagy először menjen az Intercambiador Santa Cruzba, és ott szálljon át. Indulás előtt javaslom, hogy nézze meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
+        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz vedd a TITSA 910-es vonalát San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
       }
     ],
     "emergency": {
@@ -835,29 +835,29 @@
           "note": "A fő kórház Santa Cruz de Tenerifében"
         }
       ],
-      "nearestPharmacy": "Több gyógyszertár is található gyalogos távolságban a főúton. Kérdezzen tőlem, ha ajánlásra van szüksége."
+      "nearestPharmacy": "Több gyógyszertár is található gyalogos távolságban a főúton. Kérdezz tőlem, ha ajánlásra van szükséged."
     },
     "checkout": {
       "steps": [
-        "Ha gyorsan elmosná az edényeket, és hagyná őket az edényszárítón, az nagyszerű lenne!",
-        "Ha ki tudná üríteni a hűtőt, és a maradék ételt a kukába tenné, nagyon hálás lennék érte!",
-        "Nagyszerű lenne, ha kivinné a szemetet. Nagy konténereket talál rögtön a falu elhagyása előtt.",
-        "Indulás előtt kérem, zárja be az ablakokat és az ajtót.",
-        "Kérem, kapcsolja ki az összes lámpát és elektromos készüléket (sütő, tűzhely, robotgép), amikor végzett.",
-        "Amikor indulásra készen áll, kérem, zárjon be mindent, és tegye vissza az összes kulcsot a kulcsdobozba, majd állítsa vissza a kódot.",
-        "Kérem, írjon nekem egy WhatsApp vagy Airbnb üzenetet, hogy tudjam, elindult, és nagyon szeretnék egy értékelést kapni, ha élvezte a tartózkodását! 🩵"
+        "Ha gyorsan elmosnád az edényeket, és hagynád őket az edényszárítón, az nagyszerű lenne!",
+        "Ha ki tudnád üríteni a hűtőt, és a maradék ételt a kukába tennéd, nagyon hálás lennék érte!",
+        "Nagyszerű lenne, ha kivinnéd a szemetet. Nagy konténereket találsz rögtön a falu elhagyása előtt.",
+        "Indulás előtt kérlek, zárd be az ablakokat és az ajtót.",
+        "Kérlek, kapcsold ki az összes lámpát és elektromos készüléket (sütő, tűzhely, robotgép), amikor végeztél.",
+        "Amikor indulásra készen állsz, kérlek, zárj be mindent, és tedd vissza az összes kulcsot a kulcsdobozba, majd állítsd vissza a kódot.",
+        "Kérlek, írj nekem egy WhatsApp vagy Airbnb üzenetet, hogy tudjam, elindultál, és nagyon szeretnék egy értékelést kapni, ha élvezted a tartózkodásodat! 🩵"
       ]
     }
   },
   "el": {
     "ui": {
-      "welcome": "Καλώς ήρθατε!",
+      "welcome": "Καλώς ήρθες!",
       "checkIn": "Άφιξη",
       "keyLocation": "Τοποθεσία Κλειδιού",
       "accessCode": "Κωδικός Πρόσβασης",
       "stepByStep": "Βήμα-Βήμα",
       "houseRules": "Κανόνες Κατοικίας",
-      "gettingHere": "Πώς να φτάσετε",
+      "gettingHere": "Πώς να φτάσεις",
       "openGoogleMaps": "Άνοιγμα στο Google Maps",
       "byCar": "Με Αυτοκίνητο",
       "parking": "Παρκάρισμα",
@@ -888,136 +888,136 @@
       "ruleTitleLostKeys": "Χαμένα κλειδιά",
       "ruleTitleKeys": "Κλειδιά",
       "ruleTitlePropertyCare": "Φροντίδα του χώρου",
-      "stepTitleFridge": "Αδειάστε το ψυγείο",
-      "stepTitleDishes": "Πλύνετε τα πιάτα",
-      "stepTitleRubbish": "Βγάλτε τα σκουπίδια",
-      "stepTitleCushions": "Βροχή; Μαζέψτε τα μαξιλάρια",
-      "stepTitleCloseWindows": "Κλείστε παράθυρα & πόρτες",
-      "stepTitleSwitchOffAppliances": "Σβήστε φώτα & συσκευές",
-      "stepTitleSwitchOffAC": "Σβήστε φώτα & κλιματισμό",
-      "stepTitleReturnKeys": "Επιστρέψτε τα κλειδιά",
-      "stepTitleDropMeMessage": "Στείλτε μου ένα μήνυμα!",
-      "stepTitleDropUsMessage": "Στείλτε μας ένα μήνυμα!",
-      "yourHost": "Ο οικοδεσπότης σας",
+      "stepTitleFridge": "Άδειασε το ψυγείο",
+      "stepTitleDishes": "Πλύνε τα πιάτα",
+      "stepTitleRubbish": "Βγάλε τα σκουπίδια",
+      "stepTitleCushions": "Βροχή; Μάζεψε τα μαξιλάρια",
+      "stepTitleCloseWindows": "Κλείσε παράθυρα & πόρτες",
+      "stepTitleSwitchOffAppliances": "Σβήσε φώτα & συσκευές",
+      "stepTitleSwitchOffAC": "Σβήσε φώτα & κλιματισμό",
+      "stepTitleReturnKeys": "Επίστρεψε τα κλειδιά",
+      "stepTitleDropMeMessage": "Στείλε μου ένα μήνυμα!",
+      "stepTitleDropUsMessage": "Στείλε μας ένα μήνυμα!",
+      "yourHost": "Ο οικοδεσπότης σου",
       "cohost": "Συν-οικοδεσπότης",
       "call": "Κλήση",
       "whatsapp": "WhatsApp",
       "email": "Email",
-      "enjoyStay": "Απολαύστε τη διαμονή σας!",
-      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
-      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
-      "contactHostIntroSolo": "Είμαι εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσετε υπέροχα.",
-      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα.",
+      "enjoyStay": "Απόλαυσε τη διαμονή σου!",
+      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σου ακόμα καλύτερη. Αν απολαύσεις τον χρόνο σου εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει πολλά για μένα.",
+      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σου ακόμα καλύτερη. Αν απολαύσεις τον χρόνο σου εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει πολλά για εμάς.",
+      "contactHostIntroSolo": "Είμαι εδώ για εσένα καθ' όλη τη διάρκεια της διαμονής σου. Μη διστάσεις να επικοινωνήσεις μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσεις υπέροχα.",
+      "contactHostIntroCohost": "Είμαστε εδώ για εσένα καθ' όλη τη διάρκεια της διαμονής σου. Μη διστάσεις να επικοινωνήσεις μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσεις υπέροχα.",
       "atAGlance": "Με μια ματιά",
       "checkInNote": "Από αυτή την ώρα και μετά",
-      "checkoutNote": "Παρακαλούμε να έχετε αποχωρήσει μέχρι τότε",
+      "checkoutNote": "Σε παρακαλούμε να έχεις αποχωρήσει μέχρι τότε",
       "contacts": "Επικοινωνία",
-      "contactsNoteCohost": "Χρειάζεστε βοήθεια; Είμαστε πάντα διαθέσιμοι.",
-      "contactsNoteSolo": "Χρειάζεστε βοήθεια; Είμαι πάντα εδώ για εσάς! Επικοινωνήστε μαζί μου.",
-      "contactUsCohost": "Επικοινωνήστε μαζί μας",
-      "contactUsSolo": "Επικοινωνήστε μαζί μου",
+      "contactsNoteCohost": "Χρειάζεσαι βοήθεια; Είμαστε πάντα διαθέσιμοι.",
+      "contactsNoteSolo": "Χρειάζεσαι βοήθεια; Είμαι πάντα εδώ για εσένα! Επικοινώνησε μαζί μου.",
+      "contactUsCohost": "Επικοινώνησε μαζί μας",
+      "contactUsSolo": "Επικοινώνησε μαζί μου",
       "copied": "Αντιγράφηκε!",
       "contact": "Επικοινωνία"
     },
     "subtitle": "Πολύχρωμο σπίτι στους λόφους της Τενερίφης",
-    "tagline": "Το άνετο ορεινό καταφύγιό σας στο Valleseco",
-    "welcomeMessage": "Καλώς ήλθατε στο πολύχρωμο σπίτι μου στους λόφους της Τενερίφης! Φωλιασμένο στο γοητευτικό χωριό Valleseco, είναι γεμάτο χαρακτήρα και περιτριγυρισμένο από φύση. Ελπίζω να το αγαπήσετε όσο το αγαπώ κι εγώ. Επικοινωνήστε μαζί μου οποιαδήποτε στιγμή αν χρειαστείτε οτιδήποτε.",
+    "tagline": "Το άνετο ορεινό καταφύγιό σου στο Valleseco",
+    "welcomeMessage": "Καλώς ήρθες στο πολύχρωμο σπίτι μου στους λόφους της Τενερίφης! Φωλιασμένο στο γοητευτικό χωριό Valleseco, είναι γεμάτο χαρακτήρα και περιτριγυρισμένο από φύση. Ελπίζω να το αγαπήσεις όσο το αγαπώ κι εγώ. Επικοινώνησε μαζί μου οποιαδήποτε στιγμή αν χρειαστείς οτιδήποτε.",
     "address": {
-      "addressNote": "Ο Google Maps δεν είναι 100% ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ χρησιμοποιήστε τον φωτογραφικό οδηγό!"
+      "addressNote": "Ο Google Maps δεν είναι 100% ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ χρησιμοποίησε τον φωτογραφικό οδηγό!"
     },
     "wifi": {
-      "notes": "Αν αντιμετωπίσετε προβλήματα σύνδεσης, παρακαλώ ενημερώστε με ώστε να μπορέσω να βοηθήσω."
+      "notes": "Αν αντιμετωπίσεις προβλήματα σύνδεσης, παρακαλώ ενημέρωσέ με ώστε να μπορέσω να βοηθήσω."
     },
     "checkin": {
-      "keyLocation": "Αναζητήστε τη λευκή πόρτα στο κάτω μέρος του σπιτιού. Το κουτί κλειδιών είναι ακριβώς δίπλα της.",
-      "notes": "Αν έχετε δυσκολία να βρείτε το σπίτι, καλέστε με ή στείλτε μου WhatsApp οποιαδήποτε στιγμή και χαίρομαι να σας καθοδηγήσω βήμα προς βήμα. Σημείωση: Ο Google Maps δεν είναι 100% ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ ακολουθήστε τον φωτογραφικό οδηγό!"
+      "keyLocation": "Αναζήτησε τη λευκή πόρτα στο κάτω μέρος του σπιτιού. Το κουτί κλειδιών είναι ακριβώς δίπλα της.",
+      "notes": "Αν έχεις δυσκολία να βρεις το σπίτι, κάλεσέ με ή στείλε μου WhatsApp οποιαδήποτε στιγμή και χαίρομαι να σε καθοδηγήσω βήμα προς βήμα. Σημείωση: Ο Google Maps δεν είναι 100% ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ ακολούθησε τον φωτογραφικό οδηγό!"
     },
     "gettingHere": {
-      "byCar": "Το καλύτερο είναι να παρκάρετε στο προτεινόμενο σημείο (σύνδεσμος παρακάτω). Υπάρχουν πάντα διαθέσιμες θέσεις και δεν θα χρειαστεί να ανέβετε σχεδόν καθόλου σκαλοπάτια. Στη συνέχεια ακολουθήστε τις οδηγίες με τα πόδια στον φωτογραφικό οδηγό. Ο Google Maps δεν είναι 100% ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ χρησιμοποιήστε τον φωτογραφικό οδηγό!",
+      "byCar": "Το καλύτερο είναι να παρκάρεις στο προτεινόμενο σημείο (σύνδεσμος παρακάτω). Υπάρχουν πάντα διαθέσιμες θέσεις και δεν θα χρειαστεί να ανέβεις σχεδόν καθόλου σκαλοπάτια. Στη συνέχεια ακολούθησε τις οδηγίες με τα πόδια στον φωτογραφικό οδηγό. Ο Google Maps δεν είναι 100% ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ χρησιμοποίησε τον φωτογραφικό οδηγό!",
       "parking": "Υπάρχουν πάντα διαθέσιμες θέσεις στάθμευσης και είναι ένας σύντομος, επίπεδος περίπατος μέχρι την είσοδο του σπιτιού.",
-      "publicTransport": "Υπάρχουν διάφορα λεωφορεία από τη Santa Cruz de Tenerife (π.χ. Νο. 909, 910, 916). Φροντίστε να κατεβείτε στο Valleseco (είναι ένα μικρό χωριό με μόνο μία στάση). Μόλις κατεβείτε, βρείτε το μίνι μάρκετ Punto y Coma και ανεβείτε τα σκαλοπάτια στα αριστερά περίπου 20 μέτρα μετά. Είναι μια ανάβαση 5-10 λεπτών με τα πόδια μέχρι το σπίτι. Ο Google Maps δεν είναι πλήρως ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ ακολουθήστε τον φωτογραφικό οδηγό!",
-      "taxi": "Ταξί είναι διαθέσιμα από το αεροδρόμιο Tenerife North (TFN) και από τη Santa Cruz (κοστίζει περίπου 10 EUR). Το καλύτερο είναι να συμφωνήσετε την τιμή πριν ξεκινήσετε ή να βεβαιωθείτε ότι λειτουργεί το ταξίμετρο. Από το Tenerife South, προτείνω να πάρετε πρώτα το λεωφορείο μέχρι τη Santa Cruz καθώς είναι πιο μακριά. Ζητήστε από τον οδηγό του ταξί να σας αφήσει στο σημείο στάθμευσης που αναφέρεται παραπάνω στην ενότητα «Με Αυτοκίνητο», και μετά ακολουθήστε τον βήμα-προς-βήμα φωτογραφικό οδηγό από τη φωτογραφία 1.",
+      "publicTransport": "Υπάρχουν διάφορα λεωφορεία από τη Santa Cruz de Tenerife (π.χ. Νο. 909, 910, 916). Φρόντισε να κατέβεις στο Valleseco (είναι ένα μικρό χωριό με μόνο μία στάση). Μόλις κατέβεις, βρες το μίνι μάρκετ Punto y Coma και ανέβα τα σκαλοπάτια στα αριστερά περίπου 20 μέτρα μετά. Είναι μια ανάβαση 5-10 λεπτών με τα πόδια μέχρι το σπίτι. Ο Google Maps δεν είναι πλήρως ακριβής για το τελευταίο κομμάτι της διαδρομής, γι' αυτό παρακαλώ ακολούθησε τον φωτογραφικό οδηγό!",
+      "taxi": "Ταξί είναι διαθέσιμα από το αεροδρόμιο Tenerife North (TFN) και από τη Santa Cruz (κοστίζει περίπου 10 EUR). Το καλύτερο είναι να συμφωνήσεις την τιμή πριν ξεκινήσεις ή να βεβαιωθείς ότι λειτουργεί το ταξίμετρο. Από το Tenerife South, προτείνω να πάρεις πρώτα το λεωφορείο μέχρι τη Santa Cruz καθώς είναι πιο μακριά. Ζήτησε από τον οδηγό του ταξί να σε αφήσει στο σημείο στάθμευσης που αναφέρεται παραπάνω στην ενότητα «Με Αυτοκίνητο», και μετά ακολούθησε τον βήμα-προς-βήμα φωτογραφικό οδηγό από τη φωτογραφία 1.",
       "directionPhotos": [
         {
-          "caption": "Παρκάρετε εδώ. Υπάρχουν πάντα διαθέσιμες θέσεις και δεν θα χρειαστεί να ανέβετε σχεδόν καθόλου σκαλοπάτια."
+          "caption": "Παρκάρε εδώ. Υπάρχουν πάντα διαθέσιμες θέσεις και δεν θα χρειαστεί να ανέβεις σχεδόν καθόλου σκαλοπάτια."
         },
         {
-          "caption": "Ξεκινώντας από το πάρκινγκ, κινηθείτε προς αυτή την κατεύθυνση και περπατήστε μέχρι να τελειώσει ο δρόμος, μετά κατεβείτε τα σκαλοπάτια στην αριστερή πλευρά."
+          "caption": "Ξεκινώντας από το πάρκινγκ, κινήσου προς αυτή την κατεύθυνση και περπάτησε μέχρι να τελειώσει ο δρόμος, μετά κατέβα τα σκαλοπάτια στην αριστερή πλευρά."
         },
         {
-          "caption": "Κατεβείτε στον επόμενο δρόμο από κάτω και στρίψτε δεξιά. Αυτός είναι ο δρόμος του σπιτιού."
+          "caption": "Κατέβα στον επόμενο δρόμο από κάτω και στρίψε δεξιά. Αυτός είναι ο δρόμος του σπιτιού."
         },
         {
-          "caption": "Περπατήστε ευθεία και διασχίστε τον κήπο με τα κάκτους και άλλα φυτά."
+          "caption": "Περπάτησε ευθεία και διάσχισε τον κήπο με τα κάκτους και άλλα φυτά."
         },
         {
-          "caption": "Συνεχίστε ανάμεσα στα σπίτια..."
+          "caption": "Συνέχισε ανάμεσα στα σπίτια..."
         },
         {
-          "caption": "Συνεχίστε ευθεία..."
+          "caption": "Συνέχισε ευθεία..."
         },
         {
-          "caption": "Μετά από 1 λεπτό, στην αριστερή πλευρά, θα δείτε ένα λευκό σπίτι."
+          "caption": "Μετά από 1 λεπτό, στην αριστερή πλευρά, θα δεις ένα λευκό σπίτι."
         },
         {
-          "caption": "Πλησιάζετε. Το διαμέρισμά σας βρίσκεται στο κάτω μέρος του σπιτιού."
+          "caption": "Πλησιάζεις. Το διαμέρισμά σου βρίσκεται στο κάτω μέρος του σπιτιού."
         },
         {
-          "caption": "Αναζητήστε τη λευκή πόρτα που ανοίγει από τα σκαλοπάτια στο πλάι του σπιτιού, με ένα κουτί κλειδιών δίπλα της. Κωδικός: 6015"
+          "caption": "Αναζήτησε τη λευκή πόρτα που ανοίγει από τα σκαλοπάτια στο πλάι του σπιτιού, με ένα κουτί κλειδιών δίπλα της. Κωδικός: 6015"
         }
       ],
       "directionPhotosBus": [
         {
-          "caption": "Βρείτε το μίνι μάρκετ Punto y Coma. Αφού το προσπεράσετε, ανεβείτε τα σκαλοπάτια στα αριστερά."
+          "caption": "Βρες το μίνι μάρκετ Punto y Coma. Αφού το προσπεράσεις, ανέβα τα σκαλοπάτια στα αριστερά."
         },
         {
-          "caption": "Βρείτε τα σκαλοπάτια στα αριστερά, περίπου 20 μέτρα μετά το μίνι μάρκετ."
+          "caption": "Βρες τα σκαλοπάτια στα αριστερά, περίπου 20 μέτρα μετά το μίνι μάρκετ."
         },
         {
-          "caption": "Μετά από 5-10 λεπτά ανάβασης (ανάλογα με τις φιλοδοξίες σας!), θα δείτε το σπίτι."
+          "caption": "Μετά από 5-10 λεπτά ανάβασης (ανάλογα με τις φιλοδοξίες σου!), θα δεις το σπίτι."
         },
         {
-          "caption": "Είναι το κάτω μέρος του σπιτιού. Αναζητήστε τη λευκή πόρτα που ανοίγει από τα σκαλοπάτια στο πλάι, με ένα κουτί κλειδιών δίπλα της. Κωδικός: 6015"
+          "caption": "Είναι το κάτω μέρος του σπιτιού. Αναζήτησε τη λευκή πόρτα που ανοίγει από τα σκαλοπάτια στο πλάι, με ένα κουτί κλειδιών δίπλα της. Κωδικός: 6015"
         }
       ]
     },
     "houseRules": [
-      "Παρακαλώ καπνίζετε μόνο έξω. Οι εξωτερικοί χώροι είναι όλοι δικοί σας, αλλά παρακαλώ διατηρήστε το εσωτερικό του σπιτιού χωρίς καπνό. Ευχαριστώ!",
-      "Παρακαλώ διατηρήστε την ησυχία. Οι ώρες ησυχίας είναι από τις 11 το βράδυ έως τις 8 το πρωί. Χωρίς πάρτι ή εκδηλώσεις",
-      "Παρακαλώ φροντίστε το διαμέρισμα σαν δικό σας, και ενημερώστε με αμέσως αν πάθει κάποια ζημιά. Καταλαβαίνω ότι τα ατυχήματα συμβαίνουν"
+      "Παρακαλώ κάπνιζε μόνο έξω. Οι εξωτερικοί χώροι είναι όλοι δικοί σου, αλλά παρακαλώ διατήρησε το εσωτερικό του σπιτιού χωρίς καπνό. Ευχαριστώ!",
+      "Παρακαλώ διατήρησε την ησυχία. Οι ώρες ησυχίας είναι από τις 11 το βράδυ έως τις 8 το πρωί. Χωρίς πάρτι ή εκδηλώσεις",
+      "Παρακαλώ φρόντισε το διαμέρισμα σαν δικό σου, και ενημέρωσέ με αμέσως αν πάθει κάποια ζημιά. Καταλαβαίνω ότι τα ατυχήματα συμβαίνουν"
     ],
     "appliances": [
       {
         "name": "Ηλεκτρικό Ρεύμα",
-        "instructions": "Το ηλεκτρικό σύστημα του σπιτιού είναι λίγο παλιό, γι' αυτό δεν μπορεί να αντέξει πολλές συσκευές υψηλής ισχύος να λειτουργούν ταυτόχρονα: για παράδειγμα ένα πιστολάκι, τον φούρνο και την κουζίνα. Για να είστε σίγουροι, παρακαλώ χρησιμοποιείτε μόνο μία από αυτές τη φορά. Αν κοπεί ποτέ το ρεύμα, μην ανησυχείτε καθόλου, απλά κλείστε όλες τις συσκευές και ανεβάστε ξανά τη κεντρική ασφάλεια (δίπλα στην πόρτα εισόδου)!"
+        "instructions": "Το ηλεκτρικό σύστημα του σπιτιού είναι λίγο παλιό, γι' αυτό δεν μπορεί να αντέξει πολλές συσκευές υψηλής ισχύος να λειτουργούν ταυτόχρονα: για παράδειγμα ένα πιστολάκι, τον φούρνο και την κουζίνα. Για να είσαι σίγουρος/-η, παρακαλώ χρησιμοποίησε μόνο μία από αυτές τη φορά. Αν κοπεί ποτέ το ρεύμα, μην ανησυχείς καθόλου, απλά κλείσε όλες τις συσκευές και ανέβασε ξανά την κεντρική ασφάλεια (δίπλα στην πόρτα εισόδου)!"
       },
       {
         "name": "Κουζίνα",
-        "instructions": "Έχετε έναν χώρο κουζίνας εξοπλισμένο με ηλεκτρική κουζίνα, μίνι φούρνο, ψυγείο καθώς και τα κανονικά εργαλεία κουζίνας που μπορεί να χρειαστείτε. ⚠️ Σημαντικό: καθώς στην Τενερίφη είναι πάντα καλοκαίρι, τα ζωύφια και τα έντομα δεν κοιμούνται ποτέ. Παρακαλώ φροντίστε να αφαιρείτε όλα τα υπόλοιπα φαγητά και να τα πετάτε αμέσως στα σκουπίδια, και προτείνω επίσης να πλένετε τα πιάτα αμέσως μετά το φαγητό για να αποφύγετε μύγες και άλλα έντομα στην κουζίνα."
+        "instructions": "Έχεις έναν χώρο κουζίνας εξοπλισμένο με ηλεκτρική κουζίνα, μίνι φούρνο, ψυγείο καθώς και τα κανονικά εργαλεία κουζίνας που μπορεί να χρειαστείς. ⚠️ Σημαντικό: καθώς στην Τενερίφη είναι πάντα καλοκαίρι, τα ζωύφια και τα έντομα δεν κοιμούνται ποτέ. Παρακαλώ φρόντισε να αφαιρείς όλα τα υπόλοιπα φαγητά και να τα πετάς αμέσως στα σκουπίδια, και προτείνω επίσης να πλένεις τα πιάτα αμέσως μετά το φαγητό για να αποφύγεις μύγες και άλλα έντομα στην κουζίνα."
       },
       {
         "name": "Πλυντήριο Ρούχων",
-        "instructions": "Θα βρείτε το πλυντήριο στον χώρο του χολ, μη διστάσετε να το χρησιμοποιήσετε! Το γρήγορο πρόγραμμα με το όνομα \"Rapido\" είναι συνήθως το μόνο που χρειάζεστε. Αν έχετε οποιεσδήποτε ερωτήσεις, απλά ενημερώστε με."
+        "instructions": "Θα βρεις το πλυντήριο στον χώρο του χολ, μη διστάσεις να το χρησιμοποιήσεις! Το γρήγορο πρόγραμμα με το όνομα \"Rapido\" είναι συνήθως το μόνο που χρειάζεσαι. Αν έχεις οποιεσδήποτε ερωτήσεις, απλά ενημέρωσέ με."
       },
       {
         "name": "Πόσιμο Νερό",
-        "instructions": "Το νερό της βρύσης στην Τενερίφη λέγεται πως είναι ασφαλές και καθαρό, ωστόσο οι περισσότεροι προτιμούν εμφιαλωμένο νερό, το οποίο θα βρείτε σε κάθε σούπερ μάρκετ ή περίπτερο. Η πιο οικονομική και πρακτική επιλογή είναι να πάρετε ένα μπουκάλι των 5, 8 λίτρων ή μεγαλύτερο."
+        "instructions": "Το νερό της βρύσης στην Τενερίφη λέγεται πως είναι ασφαλές και καθαρό, ωστόσο οι περισσότεροι προτιμούν εμφιαλωμένο νερό, το οποίο θα βρεις σε κάθε σούπερ μάρκετ ή περίπτερο. Η πιο οικονομική και πρακτική επιλογή είναι να πάρεις ένα μπουκάλι των 5, 8 λίτρων ή μεγαλύτερο."
       },
       {
         "name": "Μπάνιο",
-        "instructions": "Θα βρείτε φρέσκες πετσέτες, πιστολάκι μαλλιών, και σαπούνι και σαμπουάν, όλα έτοιμα για εσάς. Αν λείπει κάτι άλλο, απλά ενημερώστε με και θα το τακτοποιήσω."
+        "instructions": "Θα βρεις φρέσκες πετσέτες, πιστολάκι μαλλιών, και σαπούνι και σαμπουάν, όλα έτοιμα για εσένα. Αν λείπει κάτι άλλο, απλά ενημέρωσέ με και θα το τακτοποιήσω."
       },
       {
         "name": "Εξαερισμός Μπάνιου",
-        "instructions": "⚠️ ΣΗΜΑΝΤΙΚΟ: Καθώς το μπάνιο δεν έχει παράθυρο, είναι σημαντικό να απομακρύνεται ο ατμός. Υπάρχει ένα σύστημα εξαερισμού που ιδανικά θα πρέπει να είναι αναμμένο για 20 λεπτά κάθε μέρα. Λειτουργεί μαζί με το φως του μπάνιου, γι' αυτό παρακαλώ αφήστε το αναμμένο για λίγη ώρα αφού χρησιμοποιήσετε το μπάνιο, ειδικά αν κάνετε ντους. Επίσης, παρακαλώ φροντίστε να αφήνετε την πόρτα ανοιχτή όταν δεν χρησιμοποιείτε το μπάνιο."
+        "instructions": "⚠️ ΣΗΜΑΝΤΙΚΟ: Καθώς το μπάνιο δεν έχει παράθυρο, είναι σημαντικό να απομακρύνεται ο ατμός. Υπάρχει ένα σύστημα εξαερισμού που ιδανικά θα πρέπει να είναι αναμμένο για 20 λεπτά κάθε μέρα. Λειτουργεί μαζί με το φως του μπάνιου, γι' αυτό παρακαλώ άφησέ το αναμμένο για λίγη ώρα αφού χρησιμοποιήσεις το μπάνιο, ειδικά αν κάνεις ντους. Επίσης, παρακαλώ φρόντισε να αφήνεις την πόρτα ανοιχτή όταν δεν χρησιμοποιείς το μπάνιο."
       },
       {
         "name": "Φυτά",
-        "instructions": "Αν μείνετε αρκετές μέρες, τα φυτά θα ήθελαν λίγο νερό κάθε 3-4 μέρες. Θα το εκτιμήσουν!"
+        "instructions": "Αν μείνεις αρκετές μέρες, τα φυτά θα ήθελαν λίγο νερό κάθε 3-4 μέρες. Θα το εκτιμήσουν!"
       },
       {
         "name": "Η Mari, η Αγαπημένη Γειτόνισσα",
-        "instructions": "Το δεξί μου χέρι και η μεγαλύτερή μου βοήθεια είναι η αγαπημένη Mari, που ζει ακριβώς δίπλα. Αν προκύψει οτιδήποτε (π.χ. χρειαστείτε μια επιπλέον πετσέτα), χαίρεται πάντα να βοηθήσει. Μπορεί ακόμη και να σας φέρει κάποια σπιτικά γλυκά αν έχει χρόνο! Η Mari μιλάει μόνο ισπανικά, αλλά μην ανησυχείτε αν εσείς δεν μιλάτε, κάπως πάντα βρίσκεται τρόπος όμορφα. 🙂"
+        "instructions": "Το δεξί μου χέρι και η μεγαλύτερή μου βοήθεια είναι η αγαπημένη Mari, που ζει ακριβώς δίπλα. Αν προκύψει οτιδήποτε (π.χ. χρειαστείς μια επιπλέον πετσέτα), χαίρεται πάντα να βοηθήσει. Μπορεί ακόμη και να σου φέρει κάποια σπιτικά γλυκά αν έχει χρόνο! Η Mari μιλάει μόνο ισπανικά, αλλά μην ανησυχείς αν εσύ δεν μιλάς, κάπως πάντα βρίσκεται τρόπος όμορφα. 🙂"
       }
     ],
     "thingsToDo": [
@@ -1037,7 +1037,7 @@
           {
             "name": "Boca Cangrejo",
             "distance": "Αυτοκίνητο ή λεωφορείο",
-            "tip": "Το Boca Cangrejo είναι ένα μικρό και πολύ γοητευτικό κανάριο χωριό με μια μικρή παραλία, παραδοσιακές ψαρόβαρκες, λευκά σπίτια, ωραία τοπικά μπαρ, και ένα εξαιρετικό εστιατόριο για φρέσκο ψάρι και παέγια. Αναζητήστε τον κολπίσκο που είναι διακοσμημένος με πολύχρωμες καρδιές και ζωγραφιές φτιαγμένες από έναν ντόπιο ψαρά."
+            "tip": "Το Boca Cangrejo είναι ένα μικρό και πολύ γοητευτικό κανάριο χωριό με μια μικρή παραλία, παραδοσιακές ψαρόβαρκες, λευκά σπίτια, ωραία τοπικά μπαρ, και ένα εξαιρετικό εστιατόριο για φρέσκο ψάρι και παέγια. Αναζήτησε τον κολπίσκο που είναι διακοσμημένος με πολύχρωμες καρδιές και ζωγραφιές φτιαγμένες από έναν ντόπιο ψαρά."
           },
           {
             "name": "Playa Montaña Roja",
@@ -1062,7 +1062,7 @@
           {
             "name": "Χωριό San Andrés",
             "distance": "Αυτοκίνητο ή λεωφορείο",
-            "tip": "Για φαγητό έξω κοντά στο σπίτι, πηγαίνετε στο San Andrés ή στο κέντρο της Santa Cruz. Στην Las Teresitas υπάρχουν μικρά beach bar για ποτό και tapas, αλλά για ένα κανονικό γεύμα, καλύτερα να πάτε στο χωριό San Andrés."
+            "tip": "Για φαγητό έξω κοντά στο σπίτι, πήγαινε στο San Andrés ή στο κέντρο της Santa Cruz. Στην Las Teresitas υπάρχουν μικρά beach bar για ποτό και tapas, αλλά για ένα κανονικό γεύμα, καλύτερα να πας στο χωριό San Andrés."
           },
           {
             "name": "Tasca El Asunto Los Parres",
@@ -1107,7 +1107,7 @@
           {
             "name": "Los Cristianos και Playa de las Américas",
             "distance": "Αυτοκίνητο ή λεωφορείο",
-            "tip": "Αυτά είναι τα πιο διάσημα τουριστικά σημεία στα νότια, με τον πιο σταθερό καιρό, συνήθως ηλιόλουστο και ζεστό. Είναι κινητικά και πολύ τουριστικά, με ξενοδοχεία, καταστήματα, κλαμπ, υπηρεσίες, καταδυτικά κέντρα, και όλα όσα μπορεί να χρειαστείτε."
+            "tip": "Αυτά είναι τα πιο διάσημα τουριστικά σημεία στα νότια, με τον πιο σταθερό καιρό, συνήθως ηλιόλουστο και ζεστό. Είναι κινητικά και πολύ τουριστικά, με ξενοδοχεία, καταστήματα, κλαμπ, υπηρεσίες, καταδυτικά κέντρα, και όλα όσα μπορεί να χρειαστείς."
           },
           {
             "name": "Puerto de la Cruz",
@@ -1122,7 +1122,7 @@
           {
             "name": "Masca",
             "distance": "Αυτοκίνητο ή λεωφορείο",
-            "tip": "Το Masca είναι ένα από τα πιο όμορφα χωριά του νησιού, ίσως και όλων των Κανάριων Νήσων. Πηγαίνετε εκεί, κάντε βόλτα, απολαύστε ένα αμυγδαλωτό κέικ, δοκιμάστε τους χυμούς τροπικών φρούτων, και ίσως κάνετε και μια πεζοπορία. Παραμείνετε για το ηλιοβασίλεμα αν έχετε την ευκαιρία."
+            "tip": "Το Masca είναι ένα από τα πιο όμορφα χωριά του νησιού, ίσως και όλων των Κανάριων Νήσων. Πήγαινε εκεί, κάνε βόλτα, απόλαυσε ένα αμυγδαλωτό κέικ, δοκίμασε τους χυμούς τροπικών φρούτων, και ίσως κάνεις και μια πεζοπορία. Παράμεινε για το ηλιοβασίλεμα αν έχεις την ευκαιρία."
           }
         ]
       },
@@ -1142,7 +1142,7 @@
           {
             "name": "Teide",
             "distance": "Αυτοκίνητο ή λεωφορείο",
-            "tip": "Το Teide είναι ένα ηφαίστειο και το ψηλότερο σημείο της Ισπανίας, στα 3.715 μέτρα. Μπορείτε να οδηγήσετε ή να πάρετε το λεωφορείο μέχρι περίπου τα 2.200 μέτρα, και μετά να ανεβείτε με τα πόδια ή με το τελεφερίκ. Η πεζοπορία διαρκεί περίπου 4 με 5 ώρες ανάλογα με τη φυσική σας κατάσταση. Για τα τελευταία 50 μέτρα μέχρι την κορυφή, χρειάζεται να εγγραφείτε εκ των προτέρων. Ακόμη και χωρίς αυτό το τελευταίο κομμάτι, η θέα είναι εκπληκτική και αξίζει τον κόπο. Δεν είναι εύκολη πεζοπορία και μπορεί να κάνει κρύο εκεί πάνω, αλλά αξίζει πραγματικά."
+            "tip": "Το Teide είναι ένα ηφαίστειο και το ψηλότερο σημείο της Ισπανίας, στα 3.715 μέτρα. Μπορείς να οδηγήσεις ή να πάρεις το λεωφορείο μέχρι περίπου τα 2.200 μέτρα, και μετά να ανέβεις με τα πόδια ή με το τελεφερίκ. Η πεζοπορία διαρκεί περίπου 4 με 5 ώρες ανάλογα με τη φυσική σου κατάσταση. Για τα τελευταία 50 μέτρα μέχρι την κορυφή, χρειάζεται να εγγραφείς εκ των προτέρων. Ακόμη και χωρίς αυτό το τελευταίο κομμάτι, η θέα είναι εκπληκτική και αξίζει τον κόπο. Δεν είναι εύκολη πεζοπορία και μπορεί να κάνει κρύο εκεί πάνω, αλλά αξίζει πραγματικά."
           },
           {
             "name": "Περιοχή Orotava",
@@ -1152,12 +1152,12 @@
           {
             "name": "Barranco de Masca",
             "distance": "Αυτοκίνητο ή λεωφορείο",
-            "tip": "Αν επισκεφθείτε το Masca και σας αρέσει η πεζοπορία, το Barranco de Masca είναι μια εξαιρετική επιλογή να εξετάσετε."
+            "tip": "Αν επισκεφθείς το Masca και σου αρέσει η πεζοπορία, το Barranco de Masca είναι μια εξαιρετική επιλογή να εξετάσεις."
           },
           {
             "name": "Εφαρμογή Komoot",
             "distance": "Συμβουλή",
-            "tip": "Συμβουλή: Χρησιμοποιήστε την εφαρμογή Komoot. Είναι πολύ ακριβής και έχει πολλές καταγεγραμμένες πεζοπορίες για την Τενερίφη."
+            "tip": "Συμβουλή: Χρησιμοποίησε την εφαρμογή Komoot. Είναι πολύ ακριβής και έχει πολλές καταγεγραμμένες πεζοπορίες για την Τενερίφη."
           }
         ]
       },
@@ -1213,12 +1213,12 @@
           {
             "name": "Μίνι σούπερ μάρκετ στο Valleseco",
             "distance": "Με τα πόδια",
-            "tip": "Υπάρχουν δύο μικρά μίνι σούπερ μάρκετ στο χωριό όπου μπορείτε να αγοράσετε βασικά πράγματα όπως νερό και απλά ψώνια."
+            "tip": "Υπάρχουν δύο μικρά μίνι σούπερ μάρκετ στο χωριό όπου μπορείς να αγοράσεις βασικά πράγματα όπως νερό και απλά ψώνια."
           },
           {
             "name": "Φαρμακείο",
             "distance": "Με τα πόδια",
-            "tip": "Υπάρχει επίσης ένα φαρμακείο πολύ κοντά στον κεντρικό δρόμο. Παρακαλώ ελέγξτε τον Google Maps για τις τρέχουσες ώρες λειτουργίας."
+            "tip": "Υπάρχει επίσης ένα φαρμακείο πολύ κοντά στον κεντρικό δρόμο. Παρακαλώ έλεγξε τον Google Maps για τις τρέχουσες ώρες λειτουργίας."
           },
           {
             "name": "HiperDino",
@@ -1246,7 +1246,7 @@
     "gettingAround": [
       {
         "name": "Λεωφορείο",
-        "info": "Για να εξερευνήσετε την Τενερίφη με μέσα μαζικής μεταφοράς, ξεκινήστε ελέγχοντας τον ιστότοπο της TITSA ή την εφαρμογή TITSA. Από το Valleseco, η ευκολότερη επιλογή είναι συνήθως να ταξιδέψετε πρώτα στο Intercambiador Santa Cruz, τον κεντρικό σταθμό λεωφορείων στη Santa Cruz. Από εκεί, μπορείτε να περπατήσετε στο κέντρο της πόλης, να πάρετε το τραμ για τη La Laguna, ή να αλλάξετε σε λεωφορεία που πηγαίνουν σε άλλες πόλεις, αεροδρόμια, παραλίες, και το νότο του νησιού. Για την Playa de Las Teresitas, πάρτε τη γραμμή TITSA 910 προς San Andrés / Playa de Las Teresitas. Μπορείτε είτε να πιάσετε το λεωφορείο από την περιοχή Valleseco όταν είναι διαθέσιμο, είτε να πάτε πρώτα στο Intercambiador Santa Cruz και να αλλάξετε εκεί. Πριν φύγετε, προτείνω να ελέγξετε την ακριβή διαδρομή στον Google Maps, στην TITSA, ή στην εφαρμογή TITSA, καθώς οι ώρες των λεωφορείων μπορεί να αλλάζουν ανάλογα με την ημέρα, την εποχή, και τις αργίες."
+        "info": "Για να εξερευνήσεις την Τενερίφη με μέσα μαζικής μεταφοράς, ξεκίνησε ελέγχοντας τον ιστότοπο της TITSA ή την εφαρμογή TITSA. Από το Valleseco, η ευκολότερη επιλογή είναι συνήθως να ταξιδέψεις πρώτα στο Intercambiador Santa Cruz, τον κεντρικό σταθμό λεωφορείων στη Santa Cruz. Από εκεί, μπορείς να περπατήσεις στο κέντρο της πόλης, να πάρεις το τραμ για τη La Laguna, ή να αλλάξεις σε λεωφορεία που πηγαίνουν σε άλλες πόλεις, αεροδρόμια, παραλίες, και το νότο του νησιού. Για την Playa de Las Teresitas, πάρε τη γραμμή TITSA 910 προς San Andrés / Playa de Las Teresitas. Μπορείς είτε να πιάσεις το λεωφορείο από την περιοχή Valleseco όταν είναι διαθέσιμο, είτε να πας πρώτα στο Intercambiador Santa Cruz και να αλλάξεις εκεί. Πριν φύγεις, προτείνω να ελέγξεις την ακριβή διαδρομή στον Google Maps, στην TITSA, ή στην εφαρμογή TITSA, καθώς οι ώρες των λεωφορείων μπορεί να αλλάζουν ανάλογα με την ημέρα, την εποχή, και τις αργίες."
       }
     ],
     "emergency": {
@@ -1260,17 +1260,17 @@
           "note": "Κύριο νοσοκομείο στη Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Αρκετά φαρμακεία σε κοντινή απόσταση με τα πόδια στον κεντρικό δρόμο. Ρωτήστε με αν χρειάζεστε πρόταση."
+      "nearestPharmacy": "Αρκετά φαρμακεία σε κοντινή απόσταση με τα πόδια στον κεντρικό δρόμο. Ρώτησέ με αν χρειάζεσαι πρόταση."
     },
     "checkout": {
       "steps": [
-        "Θα ήταν υπέροχο αν πλένατε γρήγορα τα πιάτα και τα αφήνατε στο πιατοθήκη!",
-        "Θα το εκτιμούσα αν αδειάσετε το ψυγείο και ρίξετε τα υπόλοιπα φαγητά στα σκουπίδια!",
-        "Θα ήταν υπέροχο αν πετούσατε τα σκουπίδια. Θα βρείτε μεγάλους κάδους λίγο πριν φύγετε από το χωριό.",
-        "Πριν φύγετε, παρακαλώ κλειδώστε τα παράθυρα και την πόρτα.",
-        "Παρακαλώ σβήστε όλα τα φωτά και τις ηλεκτρικές συσκευές (φούρνο, κουζίνα, μπλέντερ) όταν τελειώσετε.",
-        "Όταν είστε έτοιμοι να φύγετε, παρακαλώ κλειδώστε και επιστρέψτε όλα τα κλειδιά στο κουτί κλειδιών, επαναφέροντας τον κωδικό μετά.",
-        "Παρακαλώ στείλτε μου ένα μήνυμα στο WhatsApp ή στο Airbnb για να με ενημερώσετε ότι φύγατε, και θα χαρώ πραγματικά μια αξιολόγηση αν απολαύσατε τη διαμονή σας! 🩵"
+        "Θα ήταν υπέροχο αν έπλενες γρήγορα τα πιάτα και τα άφηνες στο πιατοθήκη!",
+        "Θα το εκτιμούσα αν αδειάσεις το ψυγείο και ρίξεις τα υπόλοιπα φαγητά στα σκουπίδια!",
+        "Θα ήταν υπέροχο αν πέταγες τα σκουπίδια. Θα βρεις μεγάλους κάδους λίγο πριν φύγεις από το χωριό.",
+        "Πριν φύγεις, παρακαλώ κλείδωσε τα παράθυρα και την πόρτα.",
+        "Παρακαλώ σβήσε όλα τα φωτά και τις ηλεκτρικές συσκευές (φούρνο, κουζίνα, μπλέντερ) όταν τελειώσεις.",
+        "Όταν είσαι έτοιμος/-η να φύγεις, παρακαλώ κλείδωσε και επίστρεψε όλα τα κλειδιά στο κουτί κλειδιών, επαναφέροντας τον κωδικό μετά.",
+        "Παρακαλώ στείλε μου ένα μήνυμα στο WhatsApp ή στο Airbnb για να με ενημερώσεις ότι έφυγες, και θα χαρώ πραγματικά μια αξιολόγηση αν απόλαυσες τη διαμονή σου! 🩵"
       ]
     }
   },
@@ -1316,133 +1316,133 @@
       "stepTitleFridge": "Vider le réfrigérateur",
       "stepTitleDishes": "Faire la vaisselle",
       "stepTitleRubbish": "Sortir les poubelles",
-      "stepTitleCushions": "Pluie ? Rentrez les coussins",
+      "stepTitleCushions": "Pluie ? Rentre les coussins",
       "stepTitleCloseWindows": "Fermer les fenêtres et les portes",
       "stepTitleSwitchOffAppliances": "Éteindre les lumières et les appareils",
       "stepTitleSwitchOffAC": "Éteindre les lumières et la climatisation",
       "stepTitleReturnKeys": "Rendre les clés",
-      "stepTitleDropMeMessage": "Envoyez-moi un message !",
-      "stepTitleDropUsMessage": "Envoyez-nous un message !",
-      "yourHost": "Votre hôte",
+      "stepTitleDropMeMessage": "Envoie-moi un message !",
+      "stepTitleDropUsMessage": "Envoie-nous un message !",
+      "yourHost": "Ton hôte",
       "cohost": "Co-hôte",
       "call": "Appeler",
       "whatsapp": "WhatsApp",
       "email": "E-mail",
-      "enjoyStay": "Profitez bien de votre séjour !",
-      "enjoyStayMessageSolo": "J'espère que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, je vous serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
-      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, nous vous serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
-      "contactHostIntroSolo": "Je suis disponible pour vous tout au long de votre séjour. N'hésitez pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que vous passiez un merveilleux moment.",
-      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment.",
+      "enjoyStay": "Profite bien de ton séjour !",
+      "enjoyStayMessageSolo": "J'espère que ce guide rendra ton séjour encore meilleur. Si tu passes un bon moment ici, je te serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
+      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra ton séjour encore meilleur. Si tu passes un bon moment ici, nous te serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
+      "contactHostIntroSolo": "Je suis disponible pour toi tout au long de ton séjour. N'hésite pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que tu passes un merveilleux moment.",
+      "contactHostIntroCohost": "Nous sommes disponibles pour toi tout au long de ton séjour. N'hésite pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que tu passes un merveilleux moment.",
       "atAGlance": "En un coup d'œil",
       "checkInNote": "À partir de cette heure",
-      "checkoutNote": "Veuillez partir avant cette heure",
+      "checkoutNote": "Merci de partir avant cette heure",
       "contacts": "Contacts",
       "contactsNoteCohost": "Besoin d'aide ? Nous sommes toujours disponibles.",
-      "contactsNoteSolo": "Besoin d'aide ? Je suis toujours disponible ! Contactez-moi.",
+      "contactsNoteSolo": "Besoin d'aide ? Je suis toujours disponible ! Contacte-moi.",
       "contactUsCohost": "Nous contacter",
       "contactUsSolo": "Me contacter",
       "copied": "Copié !",
       "contact": "Contact"
     },
     "subtitle": "Maison colorée dans les collines de Tenerife",
-    "tagline": "Votre refuge montagnard douillet à Valleseco",
-    "welcomeMessage": "Bienvenue dans ma maison colorée, dans les collines de Tenerife ! Nichée dans le charmant village de Valleseco, elle a beaucoup de caractère et est entourée de nature. J'espère que vous l'aimerez autant que moi. Contactez-moi à tout moment si vous avez besoin de quoi que ce soit.",
+    "tagline": "Ton refuge montagnard douillet à Valleseco",
+    "welcomeMessage": "Bienvenue dans ma maison colorée, dans les collines de Tenerife ! Nichée dans le charmant village de Valleseco, elle a beaucoup de caractère et est entourée de nature. J'espère que tu l'aimeras autant que moi. Contacte-moi à tout moment si tu as besoin de quoi que ce soit.",
     "address": {
       "addressNote": "Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc d'utiliser le guide photo !"
     },
     "wifi": {
-      "notes": "Si vous rencontrez des problèmes de connexion, merci de me le faire savoir afin que je puisse vous aider."
+      "notes": "Si tu rencontres des problèmes de connexion, merci de me le faire savoir afin que je puisse t'aider."
     },
     "checkin": {
-      "keyLocation": "Cherchez la porte blanche dans la partie basse de la maison. Le boîtier à clés se trouve juste à côté.",
-      "notes": "Si vous avez du mal à trouver la maison, appelez-moi ou envoyez-moi un message WhatsApp à tout moment et je serai ravie de vous guider pas à pas. Remarque : Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc de suivre le guide photo !"
+      "keyLocation": "Cherche la porte blanche dans la partie basse de la maison. Le boîtier à clés se trouve juste à côté.",
+      "notes": "Si tu as du mal à trouver la maison, appelle-moi ou envoie-moi un message WhatsApp à tout moment et je serai ravie de te guider pas à pas. Remarque : Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc de suivre le guide photo !"
     },
     "gettingHere": {
-      "byCar": "L'idéal est de vous garer à l'emplacement recommandé (lien ci-dessous). Il y a toujours des places disponibles et vous n'aurez presque pas d'escaliers à monter. Suivez ensuite les indications à pied dans le guide photo. Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc d'utiliser le guide photo !",
+      "byCar": "L'idéal est de te garer à l'emplacement recommandé (lien ci-dessous). Il y a toujours des places disponibles et tu n'auras presque pas d'escaliers à monter. Suis ensuite les indications à pied dans le guide photo. Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc d'utiliser le guide photo !",
       "parking": "Il y a toujours des places de stationnement disponibles et c'est une courte marche plate jusqu'à l'entrée de la maison.",
-      "publicTransport": "Plusieurs bus partent de Santa Cruz de Tenerife (par exemple les lignes 909, 910, 916). Veillez à descendre à Valleseco (c'est un petit village avec un seul arrêt). Une fois descendu(e), trouvez le minimarché Punto y Coma et prenez l'escalier sur la gauche environ 20 mètres après l'avoir dépassé. C'est une montée à pied de 5 à 10 minutes jusqu'à la maison. Google Maps n'est pas totalement fiable pour le dernier tronçon, merci donc de suivre le guide photo !",
-      "taxi": "Des taxis sont disponibles depuis l'aéroport de Tenerife Nord (TFN) et depuis Santa Cruz (coûte environ 10 EUR). Il est préférable de convenir du tarif avant le départ ou de vérifier que le compteur fonctionne. Depuis Tenerife Sud, je recommande de prendre d'abord le bus jusqu'à Santa Cruz, car c'est plus loin. Demandez au chauffeur de taxi de vous déposer à l'emplacement de stationnement indiqué ci-dessus dans la section \"By Car\", puis suivez le guide photo pas à pas à partir de la photo 1.",
+      "publicTransport": "Plusieurs bus partent de Santa Cruz de Tenerife (par exemple les lignes 909, 910, 916). Veille à descendre à Valleseco (c'est un petit village avec un seul arrêt). Une fois descendu(e), trouve le minimarché Punto y Coma et prends l'escalier sur la gauche environ 20 mètres après l'avoir dépassé. C'est une montée à pied de 5 à 10 minutes jusqu'à la maison. Google Maps n'est pas totalement fiable pour le dernier tronçon, merci donc de suivre le guide photo !",
+      "taxi": "Des taxis sont disponibles depuis l'aéroport de Tenerife Nord (TFN) et depuis Santa Cruz (coûte environ 10 EUR). Il est préférable de convenir du tarif avant le départ ou de vérifier que le compteur fonctionne. Depuis Tenerife Sud, je recommande de prendre d'abord le bus jusqu'à Santa Cruz, car c'est plus loin. Demande au chauffeur de taxi de te déposer à l'emplacement de stationnement indiqué ci-dessus dans la section \"By Car\", puis suis le guide photo pas à pas à partir de la photo 1.",
       "directionPhotos": [
         {
-          "caption": "Garez-vous ici. Il y a toujours des places disponibles et vous n'aurez presque pas d'escaliers à monter."
+          "caption": "Gare-toi ici. Il y a toujours des places disponibles et tu n'auras presque pas d'escaliers à monter."
         },
         {
-          "caption": "En partant du parking, avancez dans cette direction et marchez jusqu'à la fin de la rue, puis descendez l'escalier sur la gauche."
+          "caption": "En partant du parking, avance dans cette direction et marche jusqu'à la fin de la rue, puis descends l'escalier sur la gauche."
         },
         {
-          "caption": "Descendez jusqu'à la rue suivante en bas et tournez à droite. C'est la rue de la maison."
+          "caption": "Descends jusqu'à la rue suivante en bas et tourne à droite. C'est la rue de la maison."
         },
         {
-          "caption": "Marchez tout droit et traversez le jardin avec des cactus et d'autres plantes."
+          "caption": "Marche tout droit et traverse le jardin avec des cactus et d'autres plantes."
         },
         {
-          "caption": "Continuez entre les maisons..."
+          "caption": "Continue entre les maisons..."
         },
         {
-          "caption": "Continuez tout droit..."
+          "caption": "Continue tout droit..."
         },
         {
-          "caption": "Après 1 min, sur votre gauche, vous verrez une maison blanche."
+          "caption": "Après 1 min, sur ta gauche, tu verras une maison blanche."
         },
         {
-          "caption": "Vous approchez. Votre appartement se trouve dans la partie basse de la maison."
+          "caption": "Tu approches. Ton appartement se trouve dans la partie basse de la maison."
         },
         {
-          "caption": "Repérez la porte blanche qui donne sur l'escalier situé sur le côté de la maison, avec une boîte à clés à proximité. Code : 6015"
+          "caption": "Repère la porte blanche qui donne sur l'escalier situé sur le côté de la maison, avec une boîte à clés à proximité. Code : 6015"
         }
       ],
       "directionPhotosBus": [
         {
-          "caption": "Trouvez le minimarché Punto y Coma. Après l'avoir dépassé, prenez l'escalier sur la gauche pour monter."
+          "caption": "Trouve le minimarché Punto y Coma. Après l'avoir dépassé, prends l'escalier sur la gauche pour monter."
         },
         {
-          "caption": "Trouvez l'escalier sur la gauche, environ 20 mètres après le minimarché."
+          "caption": "Trouve l'escalier sur la gauche, environ 20 mètres après le minimarché."
         },
         {
-          "caption": "Après 5 à 10 minutes de montée (selon votre ambition !), vous verrez la maison."
+          "caption": "Après 5 à 10 minutes de montée (selon ton ambition !), tu verras la maison."
         },
         {
-          "caption": "C'est la partie basse de la maison. Repérez la porte blanche qui donne sur l'escalier situé sur le côté, avec une boîte à clés à proximité. Code : 6015"
+          "caption": "C'est la partie basse de la maison. Repère la porte blanche qui donne sur l'escalier situé sur le côté, avec une boîte à clés à proximité. Code : 6015"
         }
       ]
     },
     "houseRules": [
-      "Merci de fumer uniquement à l'extérieur. Les espaces extérieurs sont entièrement à vous, mais merci de garder l'intérieur de la maison non-fumeur. Merci beaucoup !",
+      "Merci de fumer uniquement à l'extérieur. Les espaces extérieurs sont entièrement à toi, mais merci de garder l'intérieur de la maison non-fumeur. Merci beaucoup !",
       "Merci de rester discret. Les heures de calme sont de 23h à 8h. Pas de fêtes ni d'événements",
-      "Merci de considérer l'appartement comme le vôtre, et faites-le-moi savoir immédiatement si quelque chose est endommagé. Je comprends que les accidents arrivent"
+      "Merci de considérer l'appartement comme le tien, et fais-le-moi savoir immédiatement si quelque chose est endommagé. Je comprends que les accidents arrivent"
     ],
     "appliances": [
       {
         "name": "Électricité",
-        "instructions": "Le système électrique de la maison est un peu ancien, il ne peut donc pas supporter plusieurs appareils de forte puissance en même temps : par exemple un sèche-cheveux, le four et la plaque de cuisson. Par précaution, merci d'utiliser un seul de ces appareils à la fois. Si l'électricité venait à se couper, ne vous inquiétez surtout pas, éteignez simplement tous les appareils et réarmez le fusible électrique principal (à côté de la porte d'entrée) !"
+        "instructions": "Le système électrique de la maison est un peu ancien, il ne peut donc pas supporter plusieurs appareils de forte puissance en même temps : par exemple un sèche-cheveux, le four et la plaque de cuisson. Par précaution, merci d'utiliser un seul de ces appareils à la fois. Si l'électricité venait à se couper, ne t'inquiète surtout pas, éteins simplement tous les appareils et réarme le fusible électrique principal (à côté de la porte d'entrée) !"
       },
       {
         "name": "Cuisine",
-        "instructions": "Vous avez un coin cuisine équipé d'une plaque de cuisson électrique, d'un mini four, d'un réfrigérateur ainsi que des ustensiles de cuisine habituels dont vous pourriez avoir besoin. ⚠️ Important : comme c'est toujours l'été à Tenerife, les insectes ne dorment jamais. Merci de bien retirer tous les restes de nourriture et de les jeter à la poubelle immédiatement, et je vous recommande aussi de laver la vaisselle juste après avoir mangé pour éviter l'apparition de mouches et d'autres insectes dans la cuisine."
+        "instructions": "Tu as un coin cuisine équipé d'une plaque de cuisson électrique, d'un mini four, d'un réfrigérateur ainsi que des ustensiles de cuisine habituels dont tu pourrais avoir besoin. ⚠️ Important : comme c'est toujours l'été à Tenerife, les insectes ne dorment jamais. Merci de bien retirer tous les restes de nourriture et de les jeter à la poubelle immédiatement, et je te recommande aussi de laver la vaisselle juste après avoir mangé pour éviter l'apparition de mouches et d'autres insectes dans la cuisine."
       },
       {
         "name": "Machine à laver",
-        "instructions": "Vous trouverez la machine à laver dans le couloir, n'hésitez pas à l'utiliser ! Le programme rapide appelé \"Rapido\" suffit généralement. Si vous avez des questions, faites-le-moi simplement savoir."
+        "instructions": "Tu trouveras la machine à laver dans le couloir, n'hésite pas à l'utiliser ! Le programme rapide appelé \"Rapido\" suffit généralement. Si tu as des questions, fais-le-moi simplement savoir."
       },
       {
         "name": "Eau potable",
-        "instructions": "L'eau du robinet à Tenerife est réputée sûre et propre, mais la plupart des gens préfèrent l'eau en bouteille, que vous trouverez dans n'importe quel supermarché ou kiosque. L'option la moins chère et la plus pratique est de prendre un bidon de 5L, 8L ou plus."
+        "instructions": "L'eau du robinet à Tenerife est réputée sûre et propre, mais la plupart des gens préfèrent l'eau en bouteille, que tu trouveras dans n'importe quel supermarché ou kiosque. L'option la moins chère et la plus pratique est de prendre un bidon de 5L, 8L ou plus."
       },
       {
         "name": "Salle de bain",
-        "instructions": "Vous trouverez des serviettes propres, un sèche-cheveux, ainsi que du savon et du shampoing, tout prêts pour vous. S'il manque autre chose, faites-le-moi simplement savoir et je m'en occuperai."
+        "instructions": "Tu trouveras des serviettes propres, un sèche-cheveux, ainsi que du savon et du shampoing, tout prêts pour toi. S'il manque autre chose, fais-le-moi simplement savoir et je m'en occuperai."
       },
       {
         "name": "Ventilation de la salle de bain",
-        "instructions": "⚠️ IMPORTANT : comme la salle de bain n'a pas de fenêtre, il est important d'évacuer la vapeur. Il y a un système de ventilation qui devrait idéalement fonctionner 20 minutes par jour. Il est couplé à la lumière de la salle de bain, merci donc de le laisser allumé un moment après avoir utilisé la salle de bain, surtout après une douche. Merci aussi de veiller à laisser la porte ouverte lorsque vous n'utilisez pas la salle de bain."
+        "instructions": "⚠️ IMPORTANT : comme la salle de bain n'a pas de fenêtre, il est important d'évacuer la vapeur. Il y a un système de ventilation qui devrait idéalement fonctionner 20 minutes par jour. Il est couplé à la lumière de la salle de bain, merci donc de le laisser allumé un moment après avoir utilisé la salle de bain, surtout après une douche. Merci aussi de veiller à laisser la porte ouverte lorsque tu n'utilises pas la salle de bain."
       },
       {
         "name": "Plantes",
-        "instructions": "Si vous restez plusieurs jours, les plantes adoreraient un peu d'eau tous les 3-4 jours. Elles vous en seront reconnaissantes !"
+        "instructions": "Si tu restes plusieurs jours, les plantes adoreraient un peu d'eau tous les 3-4 jours. Elles t'en seront reconnaissantes !"
       },
       {
         "name": "Mari, la charmante voisine",
-        "instructions": "Mon bras droit et ma plus grande aide, c'est la charmante Mari, qui habite juste à côté. S'il y a le moindre besoin (disons que vous avez besoin d'une serviette supplémentaire), elle est toujours ravie d'aider. Elle pourrait même passer avec quelques douceurs faites maison si elle a le temps ! Mari ne parle que l'espagnol, mais ne vous inquiétez pas si ce n'est pas votre cas, cela se passe toujours à merveille d'une manière ou d'une autre. 🙂"
+        "instructions": "Mon bras droit et ma plus grande aide, c'est la charmante Mari, qui habite juste à côté. S'il y a le moindre besoin (disons que tu as besoin d'une serviette supplémentaire), elle est toujours ravie d'aider. Elle pourrait même passer avec quelques douceurs faites maison si elle a le temps ! Mari ne parle que l'espagnol, mais ne t'inquiète pas si ce n'est pas ton cas, cela se passe toujours à merveille d'une manière ou d'une autre. 🙂"
       }
     ],
     "thingsToDo": [
@@ -1532,7 +1532,7 @@
           {
             "name": "Los Cristianos and Playa de las Américas",
             "distance": "Voiture ou bus",
-            "tip": "Ce sont les endroits touristiques les plus célèbres du sud, avec la météo la plus sûre, généralement ensoleillée et chaude. Ils sont animés et très touristiques, avec des hôtels, des boutiques, des clubs, des services, des clubs de plongée, et tout ce dont vous pourriez avoir besoin."
+            "tip": "Ce sont les endroits touristiques les plus célèbres du sud, avec la météo la plus sûre, généralement ensoleillée et chaude. Ils sont animés et très touristiques, avec des hôtels, des boutiques, des clubs, des services, des clubs de plongée, et tout ce dont tu pourrais avoir besoin."
           },
           {
             "name": "Puerto de la Cruz",
@@ -1547,7 +1547,7 @@
           {
             "name": "Masca",
             "distance": "Voiture ou bus",
-            "tip": "Masca est l'un des plus beaux villages de l'île, et peut-être même des îles Canaries. Allez-y, promenez-vous, dégustez un gâteau aux amandes, essayez les jus de fruits tropicaux, et pourquoi pas une randonnée. Restez pour le coucher du soleil si vous en avez l'occasion."
+            "tip": "Masca est l'un des plus beaux villages de l'île, et peut-être même des îles Canaries. Vas-y, promène-toi, déguste un gâteau aux amandes, essaie les jus de fruits tropicaux, et pourquoi pas une randonnée. Reste pour le coucher du soleil si tu en as l'occasion."
           }
         ]
       },
@@ -1567,7 +1567,7 @@
           {
             "name": "Mount Teide",
             "distance": "Voiture ou bus",
-            "tip": "Mount Teide est un volcan et le point le plus élevé d'Espagne, à 3 715 mètres. Vous pouvez y monter en voiture ou en bus jusqu'à environ 2 200 mètres, puis continuer à pied ou prendre le téléphérique. La randonnée dure environ 4 à 5 heures selon votre condition physique. Pour les derniers 50 mètres jusqu'au sommet, il faut s'inscrire à l'avance. Même sans cette dernière partie, la vue est magnifique et gratifiante. Ce n'est pas une randonnée facile et il peut faire froid là-haut, mais cela en vaut vraiment la peine."
+            "tip": "Mount Teide est un volcan et le point le plus élevé d'Espagne, à 3 715 mètres. Tu peux y monter en voiture ou en bus jusqu'à environ 2 200 mètres, puis continuer à pied ou prendre le téléphérique. La randonnée dure environ 4 à 5 heures selon ta condition physique. Pour les derniers 50 mètres jusqu'au sommet, il faut s'inscrire à l'avance. Même sans cette dernière partie, la vue est magnifique et gratifiante. Ce n'est pas une randonnée facile et il peut faire froid là-haut, mais cela en vaut vraiment la peine."
           },
           {
             "name": "Région d'Orotava",
@@ -1577,7 +1577,7 @@
           {
             "name": "Barranco de Masca",
             "distance": "Voiture ou bus",
-            "tip": "Si vous visitez Masca et aimez la randonnée, le Barranco de Masca est une excellente option à envisager."
+            "tip": "Si tu visites Masca et aimes la randonnée, le Barranco de Masca est une excellente option à envisager."
           },
           {
             "name": "Application Komoot",
@@ -1638,7 +1638,7 @@
           {
             "name": "Mini supermarchés à Valleseco",
             "distance": "À pied",
-            "tip": "Il y a deux petits mini supermarchés dans le village où vous pouvez acheter des produits de base comme de l'eau et quelques courses simples."
+            "tip": "Il y a deux petits mini supermarchés dans le village où tu peux acheter des produits de base comme de l'eau et quelques courses simples."
           },
           {
             "name": "Pharmacie",
@@ -1671,7 +1671,7 @@
     "gettingAround": [
       {
         "name": "Bus",
-        "info": "Pour explorer Tenerife en transports en commun, commencez par consulter le site web de TITSA ou l'application TITSA. Depuis Valleseco, l'option la plus simple est généralement de se rendre d'abord à Intercambiador Santa Cruz, la principale gare routière de Santa Cruz. De là, vous pouvez marcher jusqu'au centre-ville, prendre le tram vers La Laguna, ou changer pour des bus allant vers d'autres villes, aéroports, plages, et le sud de l'île. Pour Playa de Las Teresitas, prenez la ligne TITSA 910 en direction de San Andrés / Playa de Las Teresitas. Vous pouvez soit prendre le bus depuis la zone de Valleseco quand il est disponible, soit vous rendre d'abord à Intercambiador Santa Cruz et y changer. Avant de partir, je vous recommande de vérifier l'itinéraire exact sur Google Maps, TITSA, ou l'application TITSA, car les horaires de bus peuvent varier selon le jour, la saison, et les jours fériés."
+        "info": "Pour explorer Tenerife en transports en commun, commence par consulter le site web de TITSA ou l'application TITSA. Depuis Valleseco, l'option la plus simple est généralement de se rendre d'abord à Intercambiador Santa Cruz, la principale gare routière de Santa Cruz. De là, tu peux marcher jusqu'au centre-ville, prendre le tram vers La Laguna, ou changer pour des bus allant vers d'autres villes, aéroports, plages, et le sud de l'île. Pour Playa de Las Teresitas, prends la ligne TITSA 910 en direction de San Andrés / Playa de Las Teresitas. Tu peux soit prendre le bus depuis la zone de Valleseco quand il est disponible, soit te rendre d'abord à Intercambiador Santa Cruz et y changer. Avant de partir, je te recommande de vérifier l'itinéraire exact sur Google Maps, TITSA, ou l'application TITSA, car les horaires de bus peuvent varier selon le jour, la saison, et les jours fériés."
       }
     ],
     "emergency": {
@@ -1685,17 +1685,17 @@
           "note": "Principal hôpital de Santa Cruz de Tenerife"
         }
       ],
-      "nearestPharmacy": "Plusieurs pharmacies sont à distance de marche sur la route principale. Demandez-moi si vous avez besoin d'une recommandation."
+      "nearestPharmacy": "Plusieurs pharmacies sont à distance de marche sur la route principale. Demande-moi si tu as besoin d'une recommandation."
     },
     "checkout": {
       "steps": [
-        "Si vous pouviez laver rapidement la vaisselle et la laisser sur l'égouttoir, ce serait super !",
-        "Si vous pouviez vider le réfrigérateur et jeter les restes de nourriture à la poubelle, je vous en serais reconnaissante !",
-        "Ce serait super si vous pouviez vous débarrasser des poubelles. Vous trouverez de grands conteneurs juste avant de sortir du village.",
+        "Si tu pouvais laver rapidement la vaisselle et la laisser sur l'égouttoir, ce serait super !",
+        "Si tu pouvais vider le réfrigérateur et jeter les restes de nourriture à la poubelle, je t'en serais reconnaissante !",
+        "Ce serait super si tu pouvais te débarrasser des poubelles. Tu trouveras de grands conteneurs juste avant de sortir du village.",
         "Avant de partir, merci de fermer les fenêtres et la porte à clé.",
         "Merci d'éteindre toutes les lumières et tous les appareils électriques (four, plaque de cuisson, mixeur) une fois terminé.",
-        "Lorsque vous êtes prêt(e) à partir, merci de tout fermer à clé et de remettre toutes les clés dans la boîte à clés, en réinitialisant le code ensuite.",
-        "Merci de m'envoyer un message WhatsApp ou Airbnb pour me faire savoir que vous êtes parti(e), et j'apprécierais vraiment un avis si vous avez passé un bon séjour ! 🩵"
+        "Lorsque tu es prêt(e) à partir, merci de tout fermer à clé et de remettre toutes les clés dans la boîte à clés, en réinitialisant le code ensuite.",
+        "Merci de m'envoyer un message WhatsApp ou Airbnb pour me faire savoir que tu es parti(e), et j'apprécierais vraiment un avis si tu as passé un bon séjour ! 🩵"
       ]
     }
   },
@@ -1762,10 +1762,10 @@
       "checkInNote": "A partir de esta hora",
       "checkoutNote": "Por favor, salga antes de esta hora",
       "contacts": "Contactos",
-      "contactsNoteCohost": "¿Necesita ayuda? Siempre estamos disponibles.",
-      "contactsNoteSolo": "¿Necesita ayuda? Siempre estoy disponible. ¡Contácteme!",
-      "contactUsCohost": "Contáctenos",
-      "contactUsSolo": "Contácteme",
+      "contactsNoteCohost": "¿Necesitas ayuda? Siempre estamos disponibles.",
+      "contactsNoteSolo": "¿Necesitas ayuda? Siempre estoy disponible. ¡Contáctame!",
+      "contactUsCohost": "Contáctanos",
+      "contactUsSolo": "Contáctame",
       "copied": "¡Copiado!",
       "contact": "Contacto"
     },
@@ -2598,7 +2598,7 @@
       "stepTitleReturnKeys": "Верните ключи",
       "stepTitleDropMeMessage": "Напишите мне сообщение!",
       "stepTitleDropUsMessage": "Напишите нам сообщение!",
-      "yourHost": "Ваш хозяин",
+      "yourHost": "Твой хозяин",
       "cohost": "Со-хозяйка",
       "call": "Позвонить",
       "whatsapp": "WhatsApp",
@@ -2620,7 +2620,7 @@
       "contact": "Контакт"
     },
     "subtitle": "Разноцветный дом в холмах Тенерифе",
-    "tagline": "Ваш уютный горный уголок в Valleseco",
+    "tagline": "Твой уютный горный уголок в Valleseco",
     "welcomeMessage": "Добро пожаловать в мой разноцветный дом в холмах Тенерифе! Он расположен в очаровательной деревне Valleseco, полон характера и окружен природой. Надеюсь, вам понравится здесь так же, как и мне. Обращайтесь в любое время, если вам что-то понадобится.",
     "address": {
       "addressNote": "Google Maps не на 100% точен на последнем отрезке пути, поэтому, пожалуйста, используйте фотогид!"
@@ -2660,7 +2660,7 @@
           "caption": "Через 1 минуту слева вы увидите белый дом."
         },
         {
-          "caption": "Уже почти на месте. Ваша квартира находится в нижней части дома."
+          "caption": "Уже почти на месте. Твоя квартира находится в нижней части дома."
         },
         {
           "caption": "Ищите белую дверь, к которой ведет лестница с боковой стороны дома, рядом с ней сейф для ключей. Код: 6015"
@@ -2705,7 +2705,7 @@
       },
       {
         "name": "Ванная комната",
-        "instructions": "Вас ждут свежие полотенца, фен, мыло и шампунь. Если чего-то еще не хватает, просто дайте мне знать, и я всё улажу."
+        "instructions": "Тебя ждут свежие полотенца, фен, мыло и шампунь. Если чего-то еще не хватает, просто дай мне знать, и я всё улажу."
       },
       {
         "name": "Вентиляция в ванной",

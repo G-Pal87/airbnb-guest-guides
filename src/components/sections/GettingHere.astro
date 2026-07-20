@@ -28,6 +28,7 @@ interface Props {
       publicTransport: string;
       busStationUrl?: string;
       puntoYComaUrl?: string;
+      publicTransportPhotoStart?: number;
       taxi?: string;
       taxiParkingUrl?: string;
       directionPhotos?: DirectionPhoto[];
@@ -188,6 +189,14 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
                 Punto y Coma Minimarket →
+              </a>
+            )}
+            {property.gettingHere.publicTransportPhotoStart && photos.length > 0 && (
+              <a
+                href={`#direction-photo-${property.gettingHere.publicTransportPhotoStart}`}
+                class="inline-flex items-center gap-1.5 bg-amber-50 text-amber-700 border border-amber-200 text-xs font-semibold px-3 py-1.5 rounded-full hover:bg-amber-100 transition-colors"
+              >
+                📸 See By Car & Parking photo guide from photo {property.gettingHere.publicTransportPhotoStart} above
               </a>
             )}
             {photosBus.length > 0 && (

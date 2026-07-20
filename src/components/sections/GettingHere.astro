@@ -293,7 +293,27 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
       el = el.parentElement;
     }
 
-    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    const scrollToTarget = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    scrollToTarget();
+
+    // Photos above the target use loading="lazy" and only start fetching once
+    // the accordion opens. As each one loads, the page grows and the initial
+    // scroll position drifts upward relative to the target — re-scroll as
+    // they settle so we still land on the right photo.
+    const container = target.closest('details');
+    const pendingImages = container
+      ? Array.from(container.querySelectorAll('img')).filter((img) => !img.complete)
+      : [];
+    pendingImages.forEach((img) => {
+      const onSettle = () => {
+        img.removeEventListener('load', onSettle);
+        img.removeEventListener('error', onSettle);
+        scrollToTarget();
+      };
+      img.addEventListener('load', onSettle);
+      img.addEventListener('error', onSettle);
+    });
+
     history.replaceState(null, '', href);
   });
 </script>

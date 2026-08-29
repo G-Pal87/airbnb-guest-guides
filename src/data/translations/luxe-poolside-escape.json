@@ -163,7 +163,7 @@
       },
       {
         "name": "Terrassen & Sonnenschirm",
-        "instructions": "Zwei Terrassen stehen zur Verfügung! Außenkissen sind drinnen gelagert, wenn sie nicht genutzt werden. Bitte den Sonnenschirm bei Wind, nachts und vor dem Auschecken geschlossen lassen."
+        "instructions": "Zwei Terrassen stehen zur Verfügung! Außenkissen sind drinnen gelagert, wenn sie nicht genutzt werden. Bitte den Sonnenschirm bei Wind, nachts und vor dem Auschecken geschlossen lassen. <strong>Der Sonnenschirm muss immer geschlossen sein, wenn er nicht benutzt wird.</strong>"
       },
       {
         "name": "Poolzugang",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Teraszok & Napernyő",
-        "instructions": "Két terasz áll rendelkezésre! A kültéri párnákat belül tárolják, amikor nincsenek használatban. Kérjük, tartsd csukva a terasz napernyőt szeles időben, éjjel és kijelentkezés előtt."
+        "instructions": "Két terasz áll rendelkezésre! A kültéri párnákat belül tárolják, amikor nincsenek használatban. Kérjük, tartsd csukva a terasz napernyőt szeles időben, éjjel és kijelentkezés előtt. <strong>A napernyőt mindig csukva kell tartani, amikor nincs használatban.</strong>"
       },
       {
         "name": "Medencehasználat",
@@ -1159,7 +1159,7 @@
       },
       {
         "name": "Βεράντες & Ομπρέλα",
-        "instructions": "Δύο βεράντες για να απολαύσεις! Τα υπαίθρια μαξιλάρια φυλάσσονται μέσα όταν δεν χρησιμοποιούνται. Παρακαλούμε κράτα την ομπρέλα κλειστή σε ανεμώδεις συνθήκες, τη νύχτα και πριν αναχωρήσεις."
+        "instructions": "Δύο βεράντες για να απολαύσεις! Τα υπαίθρια μαξιλάρια φυλάσσονται μέσα όταν δεν χρησιμοποιούνται. Παρακαλούμε κράτα την ομπρέλα κλειστή σε ανεμώδεις συνθήκες, τη νύχτα και πριν αναχωρήσεις. <strong>Η ομπρέλα πρέπει πάντα να είναι κλειστή όταν δεν χρησιμοποιείται.</strong>"
       },
       {
         "name": "Πρόσβαση στην Πισίνα",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "Terrasses & Parasol",
-        "instructions": "Deux terrasses pour toi ! Les coussins extérieurs sont rangés à l'intérieur quand ils ne sont pas utilisés. Merci de garder le parasol fermé par temps venteux, la nuit et avant ton départ."
+        "instructions": "Deux terrasses pour toi ! Les coussins extérieurs sont rangés à l'intérieur quand ils ne sont pas utilisés. Merci de garder le parasol fermé par temps venteux, la nuit et avant ton départ. <strong>Le parasol doit toujours être fermé lorsqu'il n'est pas utilisé.</strong>"
       },
       {
         "name": "Accès piscine",
@@ -2155,7 +2155,7 @@
       },
       {
         "name": "Terrazas y sombrilla",
-        "instructions": "¡Dos terrazas para disfrutar! Los cojines exteriores se guardan dentro cuando no están en uso. Por favor, mantén la sombrilla cerrada en condiciones de viento, por la noche y antes de la salida."
+        "instructions": "¡Dos terrazas para disfrutar! Los cojines exteriores se guardan dentro cuando no están en uso. Por favor, mantén la sombrilla cerrada en condiciones de viento, por la noche y antes de la salida. <strong>La sombrilla siempre debe estar cerrada cuando no esté en uso.</strong>"
       },
       {
         "name": "Acceso a la piscina",
@@ -2653,7 +2653,7 @@
       },
       {
         "name": "Tarasy i parasol",
-        "instructions": "Dwa tarasy do Waszej dyspozycji! Poduszki zewnętrzne są przechowywane w środku, gdy nie są używane. Prosimy trzymać parasol tarasowy zamknięty w wietrznych warunkach, w nocy i przed wymeldowaniem."
+        "instructions": "Dwa tarasy do Waszej dyspozycji! Poduszki zewnętrzne są przechowywane w środku, gdy nie są używane. Prosimy trzymać parasol tarasowy zamknięty w wietrznych warunkach, w nocy i przed wymeldowaniem. <strong>Parasol musi być zawsze zamknięty, gdy nie jest używany.</strong>"
       },
       {
         "name": "Dostęp do basenu",
@@ -3151,7 +3151,7 @@
       },
       {
         "name": "Террасы и зонт",
-        "instructions": "В вашем распоряжении две террасы! Уличные подушки хранятся внутри, когда не используются. Просим держать террасный зонт закрытым в ветреную погоду, ночью и перед выездом."
+        "instructions": "В вашем распоряжении две террасы! Уличные подушки хранятся внутри, когда не используются. Просим держать террасный зонт закрытым в ветреную погоду, ночью и перед выездом. <strong>Зонт всегда должен быть закрыт, когда он не используется.</strong>"
       },
       {
         "name": "Доступ к бассейну",

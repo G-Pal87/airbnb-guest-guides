@@ -389,8 +389,17 @@ html[data-theme="tenerife"] details[open] p{
         }, obj);
       }
 
+      var RTL_LANGS = ['he'];
+
+      function applyDirection(lang) {
+        var isRtl = RTL_LANGS.indexOf(lang) !== -1;
+        document.documentElement.setAttribute('dir', isRtl ? 'rtl' : 'ltr');
+        document.documentElement.setAttribute('lang', lang);
+      }
+
       function applyLanguage(lang) {
         var translations = window.__i18n__;
+        applyDirection(lang);
         if (!translations) return;
 
         if (lang === 'en' || !translations[lang]) {

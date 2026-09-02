@@ -569,12 +569,12 @@
       "copied": "Másolva!",
       "contact": "Kapcsolat"
     },
-    "welcomeMessage": "Privát mediterrán menedékünk – medence, két terasz és minden előkészítve. Pihenj és élvezd a szigetet. Írj bármikor.",
+    "welcomeMessage": "Privát mediterrán menedékünk – medence, két terasz és minden előkészítve. Pihenjetek és élvezzétek a szigetet. Írjatok bármikor.",
     "gettingHere": {
-      "byCar": "Kövesd a Google Maps-linket – közvetlenül a komplexumba, a medenceterületig navigál. Bárhol lehet parkolni, majd kövesd az alábbi fotóútmutatót a lakáshoz.",
-      "parking": "Ingyenes parkolás a medenceterületnél, helyek szabadon elérhetők. A lakás bejárata 1 perc sétára van. Szeles napokon kerüld a fák alatti parkolást.",
-      "publicTransport": "A páfoszi repülőtérről vedd a 612-es buszt (~35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézheted az időpontokat. A megállótól két lehetőség: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót, majd gyalog (~4 perc). Gyalog: az AVLIDA Hotel felé, mellette elhaladni, az Esso benzinkútnál jobbra fordulni – a King's Park komplexum bejárata rögtön mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be téged. ⚠️ A buszok csak készpénzt fogadnak el. 2,50 € személyenként és útonként.",
-      "taxi": "Taxik várakoznak a páfoszi repülőtér érkezési csarnoka előtt. Tarifa: 40–45 € (nappal), 45–50 € (éjjel), kb. 20–25 perc. Valamivel olcsóbb lehet egy Bolt-fuvar rendelése. Ha megmutatod a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be téged.",
+      "byCar": "Kövessétek a Google Maps-linket – közvetlenül a komplexumba, a medenceterületig navigál. Bárhol lehet parkolni, majd kövessétek az alábbi fotóútmutatót a lakáshoz.",
+      "parking": "Ingyenes parkolás a medenceterületnél, helyek szabadon elérhetők. A lakás bejárata 1 perc sétára van. Szeles napokon kerüljétek a fák alatti parkolást.",
+      "publicTransport": "A páfoszi repülőtérről vegyétek a 612-es buszt (~35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézhetitek az időpontokat. A megállótól két lehetőség: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót, majd gyalog (~4 perc). Gyalog: az AVLIDA Hotel felé, mellette elhaladni, az Esso benzinkútnál jobbra fordulni – a King's Park komplexum bejárata rögtön mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be titeket. ⚠️ A buszok csak készpénzt fogadnak el. 2,50 € személyenként és útonként.",
+      "taxi": "Taxik várakoznak a páfoszi repülőtér érkezési csarnoka előtt. Tarifa: 40–45 € (nappal), 45–50 € (éjjel), kb. 20–25 perc. Valamivel olcsóbb lehet egy Bolt-fuvar rendelése. Ha megmutatjátok a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be titeket.",
       "directionPhotos": [
         {
           "caption": "Az Esso benzinkútnál fordulj jobbra (a Morphou utcába)"
@@ -614,44 +614,44 @@
     "checkin": {
       "keyLocation": "Két kulcsszekrény a bal oldali falon, a 'D6' postaláda alatt. A jobb oldalit nyisd ki",
       "steps": [
-        "Menj a medence területéhez a King's Park komplexum hátsó részében",
-        "Haladj el a medence mellett és fordulj jobbra a medence kerítése mentén",
-        "Az első kőboltíves átjárónál fordulj balra",
-        "Keresd meg a két kulcsszekrényt a bal oldali falon a 'D6' postaláda alatt",
-        "Nyisd ki a jobb oldali kulcsszekrényt a 9006 kóddal",
-        "Menj át a folyosón. A lakás az első ajtó balra (földszint)",
+        "Menjetek a medence területéhez a King's Park komplexum hátsó részében",
+        "Haladjatok el a medence mellett és forduljatok jobbra a medence kerítése mentén",
+        "Az első kőboltíves átjárónál forduljatok balra",
+        "Keressétek meg a két kulcsszekrényt a bal oldali falon a 'D6' postaláda alatt",
+        "Nyissátok ki a jobb oldali kulcsszekrényt a 9006 kóddal",
+        "Menjetek át a folyosón. A lakás az első ajtó balra (földszint)",
         "A bejárati ajtó fehér",
-        "Belépés után tedd a fémkulcsot a kulcskapcsolóba az ajtó mellett, hogy bekapcsolja az áramot (akárcsak a szállodákban)",
-        "Kijelentkezéskor tedd vissza a kulcsot a szekrénybe és állítsd vissza a kódot"
+        "Belépés után tegyétek a fémkulcsot a kulcskapcsolóba az ajtó mellett, hogy bekapcsolja az áramot (akárcsak a szállodákban)",
+        "Kijelentkezéskor tegyétek vissza a kulcsot a szekrénybe és állítsátok vissza a kódot"
       ],
-      "notes": "Ha bármilyen gondod van megtalálni minket, hívj vagy írj WhatsApp-on bármikor, szívesen segítünk lépésről lépésre."
+      "notes": "Ha bármilyen gondotok van megtalálni minket, hívjatok vagy írjatok WhatsApp-on bármikor, szívesen segítünk lépésről lépésre."
     },
     "houseRules": [
-      "Kérjük, csak az erkélyeken és teraszokon dohányozz",
-      "Kérjük, légy csöndes. Csöndes időszak 23:00–8:00. Sem bulira, sem rendezvényre nincs lehetőség",
+      "Kérjük, csak az erkélyeken és teraszokon dohányozzatok",
+      "Kérjük, legyetek csöndesek. Csöndes időszak 23:00–8:00. Sem bulira, sem rendezvényre nincs lehetőség",
       "Az állatokat szeretjük, de sajnos nem tudjuk fogadni őket. Elnézést!",
-      "Kérjük, a vécé melletti szemétládát használd a papírnak, ne öblítsd le – a ciprusi csatorna valóban nem bírja el",
-      "Tedd a fémkulcsot az áramkapcsolóba az ajtó mellett, amikor belépsz, és vidd magaddal, amikor elmész",
-      "Zárd be az erkély- és teraszajtókat, valamint ablakokat, amikor a légkondicionáló működik",
-      "Kérjük, kijelentkezéskor tedd vissza a kulcsokat a szekrénybe és állítsd vissza a kódot. Ha elvesznek vagy bezárják magukat, a záros költsége téged terhel",
-      "Kérjük, úgy bánj a lakással, mint a sajátoddal, és azonnal jelezd, ha valami megsérül. Értjük, hogy a balesetek megtörténnek"
+      "Kérjük, a vécé melletti szemétládát használjátok a papírnak, ne öblítsétek le – a ciprusi csatorna valóban nem bírja el",
+      "Tegyétek a fémkulcsot az áramkapcsolóba az ajtó mellett, amikor beléptek, és vigyétek magatokkal, amikor elmentek",
+      "Zárjátok be az erkély- és teraszajtókat, valamint ablakokat, amikor a légkondicionáló működik",
+      "Kérjük, kijelentkezéskor tegyétek vissza a kulcsokat a szekrénybe és állítsátok vissza a kódot. Ha elvesznek vagy bezárják magukat, a záros költsége titeket terhel",
+      "Kérjük, úgy bánjatok a lakással, mint a sajátotokkal, és azonnal jelezzétek, ha valami megsérül. Értjük, hogy a balesetek megtörténnek"
     ],
     "appliances": [
       {
         "name": "Áram",
-        "instructions": "Tedd a fémkulcsot az ajtó melletti dugóba, hogy áramot kapj – és ne felejtsd el kivenni és magaddal vinni, amikor elmész. Minden aljzatnak van saját fali kapcsolója: ha valami nem kapcsol be, általában ez az ok. EU-adapter szükség esetén elérhető."
+        "instructions": "Tegyétek a fémkulcsot az ajtó melletti dugóba, hogy áramot kapjatok – és ne felejtsétek el kivenni és magatokkal vinni, amikor elmentek. Minden aljzatnak van saját fali kapcsolója: ha valami nem kapcsol be, általában ez az ok. EU-adapter szükség esetén elérhető."
       },
       {
         "name": "Konyha",
-        "instructions": "Minden megtalálható: elektromos tűzhely, sütő, forrólevegős sütő, kávéfőző és kávédaráló. Só, bors, olívaolaj és kávébab szabadon használható. Egy tipp: kérjük, azonnal mosd el az edényeket és tartsd tisztán a pultot – a meleg időjárás rovarokat vonzhat."
+        "instructions": "Minden megtalálható: elektromos tűzhely, sütő, forrólevegős sütő, kávéfőző és kávédaráló. Só, bors, olívaolaj és kávébab szabadon használható. Egy tipp: kérjük, azonnal mossátok el az edényeket és tartsátok tisztán a pultot – a meleg időjárás rovarokat vonzhat."
       },
       {
         "name": "Légkondicionáló",
-        "instructions": "A távirányító az éjjeliszekrényen van. Nyomd meg a POWER gombot, válaszd a COOL lehetőséget, állítsd 22–24 fokra. Működés közben tartsd csukva az ablakokat. A kikapcsoláshoz tartsd nyomva a power gombot egy pillanatra – ne csak érintsd meg –, és kérjük, kapcsold ki, mielőtt elmész."
+        "instructions": "A távirányító az éjjeliszekrényen van. Nyomjátok meg a POWER gombot, válasszátok a COOL lehetőséget, állítsátok 22–24 fokra. Működés közben tartsátok csukva az ablakokat. A kikapcsoláshoz tartsátok nyomva a power gombot egy pillanatra – ne csak érintsétek meg –, és kérjük, kapcsoljátok ki, mielőtt elmentek."
       },
       {
         "name": "Mosógép",
-        "instructions": "A gyorsmosó program a legtöbb mosáshoz jól működik. A konyhában találod."
+        "instructions": "A gyorsmosó program a legtöbb mosáshoz jól működik. A konyhában találjátok."
       },
       {
         "name": "Mosogatógép",
@@ -659,23 +659,23 @@
       },
       {
         "name": "Zuhany & Melegvíz",
-        "instructions": "A vizet a tetőn lévő napelemek melegítik – meleg és környezetbarát! Várj 2–3 percet, amíg lejön a víz. Borús napokon a napenergia nem biztos, hogy elegendő: nyomd meg a bojler gombját a fürdőszobaajtó mellett, és várj 20–30 percet személyenként, mielőtt zuhanyozol. ⚠️ A bojlert mindig kapcsold ki, mielőtt belépsz a zuhany alá."
+        "instructions": "A vizet a tetőn lévő napelemek melegítik – meleg és környezetbarát! Várjatok 2–3 percet, amíg lejön a víz. Borús napokon a napenergia nem biztos, hogy elegendő: nyomjátok meg a bojler gombját a fürdőszobaajtó mellett, és várjatok 20–30 percet személyenként, mielőtt zuhanyoztok. ⚠️ A bojlert mindig kapcsoljátok ki, mielőtt beléptek a zuhany alá."
       },
       {
         "name": "Teraszok & Napernyő",
-        "instructions": "Két terasz áll rendelkezésre! A kültéri párnákat belül tárolják, amikor nincsenek használatban. Kérjük, tartsd csukva a terasz napernyőt szeles időben, éjjel és kijelentkezés előtt. <strong>A napernyőt mindig csukva kell tartani, amikor nincs használatban.</strong>"
+        "instructions": "Két terasz áll rendelkezésre! A kültéri párnákat belül tárolják, amikor nincsenek használatban. Kérjük, tartsátok csukva a terasz napernyőt szeles időben, éjjel és kijelentkezés előtt. <strong>A napernyőt mindig csukva kell tartani, amikor nincs használatban.</strong>"
       },
       {
         "name": "Medencehasználat",
-        "instructions": "A kulcstartón megtalálható a medencekulcs. Kérjük, a napozóágy kosarában lévő medencetörölközőket használd, ne a fürdőszobaiakat. Üveg és az uszodamedence szélétől való ugrás tilos, és kérjük, ne vigyél háziállatot a medencébe."
+        "instructions": "A kulcstartón megtalálható a medencekulcs. Kérjük, a napozóágy kosarában lévő medencetörölközőket használjátok, ne a fürdőszobaiakat. Üveg és az uszodamedence szélétől való ugrás tilos, és kérjük, ne vigyetek háziállatot a medencébe."
       },
       {
         "name": "Fürdőszoba",
-        "instructions": "Törölközők, hajszárító és alapvető tisztálkodószerek rendelkezésre állnak. Kérjük, a vécé melletti szemétládát használd a papírnak, ne öblítsd le – a ciprusi csatorna erre valóban nem alkalmas!"
+        "instructions": "Törölközők, hajszárító és alapvető tisztálkodószerek rendelkezésre állnak. Kérjük, a vécé melletti szemétládát használjátok a papírnak, ne öblítsétek le – a ciprusi csatorna erre valóban nem alkalmas!"
       },
       {
         "name": "Szemét",
-        "instructions": "A szeméttárolók a parkolóterületen vannak, a medencén túl jobbra, amikor kimész."
+        "instructions": "A szeméttárolók a parkolóterületen vannak, a medencén túl jobbra, amikor kimentek."
       },
       {
         "name": "Ivóvíz",
@@ -683,7 +683,7 @@
       },
       {
         "name": "Növények",
-        "instructions": "Ha néhány napot töltesz nálunk, a növények hálásak lennének egy kis vízért 3–4 naponta. Meghálálja!"
+        "instructions": "Ha néhány napot töltötök nálunk, a növények hálásak lennének egy kis vízért 3–4 naponta. Meghálálja!"
       }
     ],
     "thingsToDo": [
@@ -960,13 +960,13 @@
         "info": "A központi buszállomás (Tombs of the Kings) 18 perces sétára (~1,3 km) található, közvetlen összeköttetéssel a főbb látnivalókhoz, a repülőtérhez és a közeli városokhoz. A megállók mostanra a Google Térképen is megjelentek, de az aktuális menetrendhez érdemes az hivatalos weboldalt is ellenőrizni."
       },
       {
-        "info": "Autómegosztó alkalmazás, amely jól működik Páfosz környékén. Néhány percen belül regisztrálhatsz. Az autók általában 5–10 perces sétán belül elérhetők."
+        "info": "Autómegosztó alkalmazás, amely jól működik Páfosz környékén. Néhány percen belül regisztrálhattok. Az autók általában 5–10 perces sétán belül elérhetők."
       },
       {
         "info": "Kedvező árú taxialkalmazás. Jó alternatíva a taxiórás fuvarokhoz képest Páfosz körül."
       },
       {
-        "info": "Különböző taxiszolgáltatások érhetők el online. Egy megbízható lehetőség a Paphos Taxi Airport, ahol WhatsApp-on is megrendelhetsz fuvart: +357 99 460 829."
+        "info": "Különböző taxiszolgáltatások érhetők el online. Egy megbízható lehetőség a Paphos Taxi Airport, ahol WhatsApp-on is megrendelhettek fuvart: +357 99 460 829."
       }
     ],
     "emergency": {
@@ -981,7 +981,7 @@
           "note": "Páphai rendőrség"
         }
       ],
-      "nearestPharmacy": "Több gyógyszertár is sétálótávolságra van a főúton. Kérdezz minket, ha segítségre van szükséged."
+      "nearestPharmacy": "Több gyógyszertár is sétálótávolságra van a főúton. Kérdezzetek minket, ha segítségre van szükségetek."
     },
     "checkout": {
       "steps": [
@@ -1068,12 +1068,12 @@
       "copied": "Αντιγράφηκε!",
       "contact": "Επικοινωνία"
     },
-    "welcomeMessage": "Το ιδιωτικό σου μεσογειακό καταφύγιο – πισίνα, δύο βεράντες και όλα έτοιμα. Χαλάρωσε και απόλαυσε το νησί. Γράψε μας οποιαδήποτε στιγμή.",
+    "welcomeMessage": "Το ιδιωτικό σας μεσογειακό καταφύγιο – πισίνα, δύο βεράντες και όλα έτοιμα. Χαλαρώστε και απολαύστε το νησί. Γράψτε μας οποιαδήποτε στιγμή.",
     "gettingHere": {
-      "byCar": "Ακολούθησε τον σύνδεσμο Google Maps – πλοηγεί απευθείας μέσα στο συγκρότημα έως την περιοχή της πισίνας. Παρκάρισε οπουδήποτε και ακολούθησε τον φωτογραφικό οδηγό παρακάτω για να φτάσεις στο διαμέρισμα.",
-      "parking": "Δωρεάν πάρκινγκ στην περιοχή της πισίνας, θέσεις ελεύθερες. Η είσοδος του διαμερίσματος είναι 1 λεπτό με τα πόδια. Σε ανεμώδεις μέρες απόφυγε να παρκάρεις κάτω από δέντρα.",
-      "publicTransport": "Από το αεροδρόμιο Πάφου πάρε το λεωφορείο 612 (~35 λεπτά, ανάλογα με την εποχή και τις στάσεις). Τα δρομολόγια στο Google Maps είναι ακριβή, οπότε μπορείς να τα ελέγξεις εκεί. Από τη στάση δύο επιλογές: με τα πόδια (~18 λεπτά, 1,3 χλμ) ή λεωφορείο 615 για μία στάση και μετά λίγο πεζή (~4 λεπτά). Με τα πόδια: κατευθύνσου στο ξενοδοχείο AVLIDA, πέρασε δίπλα του, στρίψε δεξιά στο πρατήριο Esso – η είσοδος του King's Park βρίσκεται ακριβώς πίσω. Η τοποθεσία στο Google Maps που σου δώσαμε θα σε φέρει κατευθείαν μέσα στο συγκρότημα. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. 2,50 € ανά άτομο ανά διαδρομή.",
-      "taxi": "Τα ταξί περιμένουν έξω από τον χώρο αφίξεων στο αεροδρόμιο Πάφου. Κόμιστρο: 40–45 € (ημέρα), 45–50 € (νύχτα), περίπου 20–25 λεπτά. Λίγο πιο οικονομική επιλογή είναι να παραγγείλεις Bolt. Αν δείξεις στον οδηγό την τοποθεσία στο Google Maps που σου δώσαμε, θα σε αφήσει ακριβώς μέσα στο συγκρότημα, μπροστά στην πισίνα.",
+      "byCar": "Ακολουθήστε τον σύνδεσμο Google Maps – πλοηγεί απευθείας μέσα στο συγκρότημα έως την περιοχή της πισίνας. Παρκάρετε οπουδήποτε και ακολουθήστε τον φωτογραφικό οδηγό παρακάτω για να φτάσετε στο διαμέρισμα.",
+      "parking": "Δωρεάν πάρκινγκ στην περιοχή της πισίνας, θέσεις ελεύθερες. Η είσοδος του διαμερίσματος είναι 1 λεπτό με τα πόδια. Σε ανεμώδεις μέρες αποφύγετε να παρκάρετε κάτω από δέντρα.",
+      "publicTransport": "Από το αεροδρόμιο Πάφου πάρτε το λεωφορείο 612 (~35 λεπτά, ανάλογα με την εποχή και τις στάσεις). Τα δρομολόγια στο Google Maps είναι ακριβή, οπότε μπορείτε να τα ελέγξετε εκεί. Από τη στάση δύο επιλογές: με τα πόδια (~18 λεπτά, 1,3 χλμ) ή λεωφορείο 615 για μία στάση και μετά λίγο πεζή (~4 λεπτά). Με τα πόδια: κατευθυνθείτε στο ξενοδοχείο AVLIDA, περάστε δίπλα του, στρίψτε δεξιά στο πρατήριο Esso – η είσοδος του King's Park βρίσκεται ακριβώς πίσω. Η τοποθεσία στο Google Maps που σας δώσαμε θα σας φέρει κατευθείαν μέσα στο συγκρότημα. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. 2,50 € ανά άτομο ανά διαδρομή.",
+      "taxi": "Τα ταξί περιμένουν έξω από τον χώρο αφίξεων στο αεροδρόμιο Πάφου. Κόμιστρο: 40–45 € (ημέρα), 45–50 € (νύχτα), περίπου 20–25 λεπτά. Λίγο πιο οικονομική επιλογή είναι να παραγγείλετε Bolt. Αν δείξετε στον οδηγό την τοποθεσία στο Google Maps που σας δώσαμε, θα σας αφήσει ακριβώς μέσα στο συγκρότημα, μπροστά στην πισίνα.",
       "directionPhotos": [
         {
           "caption": "Στο πρατήριο Esso στρίψε δεξιά (στην οδό Μόρφου)"
@@ -1113,44 +1113,44 @@
     "checkin": {
       "keyLocation": "Δύο κουτιά κλειδιών στον αριστερό τοίχο, κάτω από το γραμματοκιβώτιο 'D6'. Άνοιξε το δεξί",
       "steps": [
-        "Πήγαινε στην περιοχή της πισίνας στο πίσω μέρος του συγκροτήματος King's Park",
-        "Προσπέρασε την πισίνα και στρίψε δεξιά κατά μήκος του φράχτη της πισίνας",
-        "Στην πρώτη πέτρινη καμάρα στρίψε αριστερά",
-        "Βρες τα δύο κουτιά κλειδιών στον αριστερό τοίχο κάτω από το γραμματοκιβώτιο 'D6'",
-        "Άνοιξε το δεξί κουτί κλειδιών με κωδικό 9006",
-        "Πέρασε μέσα από τον διάδρομο. Το διαμέρισμα είναι η πρώτη πόρτα αριστερά (ισόγειο)",
+        "Πηγαίνετε στην περιοχή της πισίνας στο πίσω μέρος του συγκροτήματος King's Park",
+        "Προσπεράστε την πισίνα και στρίψτε δεξιά κατά μήκος του φράχτη της πισίνας",
+        "Στην πρώτη πέτρινη καμάρα στρίψτε αριστερά",
+        "Βρείτε τα δύο κουτιά κλειδιών στον αριστερό τοίχο κάτω από το γραμματοκιβώτιο 'D6'",
+        "Ανοίξτε το δεξί κουτί κλειδιών με κωδικό 9006",
+        "Περάστε μέσα από τον διάδρομο. Το διαμέρισμα είναι η πρώτη πόρτα αριστερά (ισόγειο)",
         "Η εξώπορτα είναι λευκή",
-        "Αφού μπεις, βάλε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να ενεργοποιήσεις το ρεύμα (όπως ακριβώς στα ξενοδοχεία)",
-        "Επίστρεψε το κλειδί στο κουτί κατά την αναχώρηση και επανάφερε τον κωδικό"
+        "Αφού μπείτε, βάλτε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να ενεργοποιήσετε το ρεύμα (όπως ακριβώς στα ξενοδοχεία)",
+        "Επιστρέψτε το κλειδί στο κουτί κατά την αναχώρηση και επαναφέρετε τον κωδικό"
       ],
-      "notes": "Αν δεν μας βρεις, κάλεσέ μας ή στείλε WhatsApp οποιαδήποτε στιγμή – θα σε καθοδηγήσουμε με χαρά βήμα-βήμα."
+      "notes": "Αν δεν μας βρείτε, καλέστε μας ή στείλτε WhatsApp οποιαδήποτε στιγμή – θα σας καθοδηγήσουμε με χαρά βήμα-βήμα."
     },
     "houseRules": [
-      "Παρακαλούμε περιόρισε το κάπνισμα στα μπαλκόνια και τις βεράντες",
-      "Παρακαλούμε τήρησε την ησυχία. Ώρες κοινής ησυχίας 23:00–8:00. Απαγορεύονται πάρτι και εκδηλώσεις",
+      "Παρακαλούμε περιορίστε το κάπνισμα στα μπαλκόνια και τις βεράντες",
+      "Παρακαλούμε τηρήστε την ησυχία. Ώρες κοινής ησυχίας 23:00–8:00. Απαγορεύονται πάρτι και εκδηλώσεις",
       "Αγαπάμε τα ζώα, αλλά δυστυχώς δεν μπορούμε να φιλοξενήσουμε κατοικίδια. Συγγνώμη!",
-      "Παρακαλούμε χρησιμοποίησε τον κάδο δίπλα στην τουαλέτα αντί να ξεπλένεις χαρτί – η κυπριακή υδραυλική εγκατάσταση δεν αντέχει",
-      "Βάλε το μεταλλικό κλειδί στην υποδοχή ρεύματος δίπλα στην πόρτα όταν είσαι μέσα και πάρε το μαζί σου όταν φεύγεις",
-      "Κλείνεις τις πόρτες και τα παράθυρα βεράντας-μπαλκονιών όταν λειτουργεί το κλιματιστικό",
-      "Παρακαλούμε επίστρεψε τα κλειδιά στο κουτί κατά την αναχώρηση και επανάφερε τον κωδικό. Σε περίπτωση απώλειας ή κλειδώματος, ο κλειδαράς χρεώνεται στους διαμένοντες",
-      "Παρακαλούμε φέρσου στο διαμέρισμα σαν δικό σου και ενημέρωσέ μας αμέσως αν κάτι πάθει ζημιά. Καταλαβαίνουμε ότι τα ατυχήματα γίνονται"
+      "Παρακαλούμε χρησιμοποιείτε τον κάδο δίπλα στην τουαλέτα αντί να ξεπλένετε χαρτί – η κυπριακή υδραυλική εγκατάσταση δεν αντέχει",
+      "Βάλτε το μεταλλικό κλειδί στην υποδοχή ρεύματος δίπλα στην πόρτα όταν είστε μέσα και πάρτε το μαζί σας όταν φεύγετε",
+      "Κλείνετε τις πόρτες και τα παράθυρα βεράντας-μπαλκονιών όταν λειτουργεί το κλιματιστικό",
+      "Παρακαλούμε επιστρέψτε τα κλειδιά στο κουτί κατά την αναχώρηση και επαναφέρετε τον κωδικό. Σε περίπτωση απώλειας ή κλειδώματος, ο κλειδαράς χρεώνεται στους διαμένοντες",
+      "Παρακαλούμε φερθείτε στο διαμέρισμα σαν δικό σας και ενημερώστε μας αμέσως αν κάτι πάθει ζημιά. Καταλαβαίνουμε ότι τα ατυχήματα γίνονται"
     ],
     "appliances": [
       {
         "name": "Ρεύμα",
-        "instructions": "Βάλε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να έχεις ρεύμα – και θυμήσου να το παίρνεις μαζί σου όταν φεύγεις. Κάθε πρίζα έχει επίσης τον δικό της διακόπτη στον τοίχο: αν κάτι δεν ανάβει, συνήθως αυτός είναι ο λόγος. Διαθέσιμοι αντάπτορες EU αν χρειαστεί."
+        "instructions": "Βάλτε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να έχετε ρεύμα – και θυμηθείτε να το παίρνετε μαζί σας όταν φεύγετε. Κάθε πρίζα έχει επίσης τον δικό της διακόπτη στον τοίχο: αν κάτι δεν ανάβει, συνήθως αυτός είναι ο λόγος. Διαθέσιμοι αντάπτορες EU αν χρειαστεί."
       },
       {
         "name": "Κουζίνα",
-        "instructions": "Υπάρχουν όλα: ηλεκτρική εστία, φούρνος, φριτέζα αέρος, καφετιέρα και μύλος καφέ. Αλάτι, πιπέρι, ελαιόλαδο και κόκκοι καφέ είναι στη διάθεσή σου. Μια συμβουλή: παρακαλούμε πλένε τα πιάτα αμέσως και κράτα τους πάγκους καθαρούς – ο ζεστός καιρός μπορεί να προσελκύσει έντομα."
+        "instructions": "Υπάρχουν όλα: ηλεκτρική εστία, φούρνος, φριτέζα αέρος, καφετιέρα και μύλος καφέ. Αλάτι, πιπέρι, ελαιόλαδο και κόκκοι καφέ είναι στη διάθεσή σας. Μια συμβουλή: παρακαλούμε πλύνετε τα πιάτα αμέσως και κρατήστε τους πάγκους καθαρούς – ο ζεστός καιρός μπορεί να προσελκύσει έντομα."
       },
       {
         "name": "Κλιματισμός",
-        "instructions": "Το τηλεχειριστήριο είναι στο κομοδίνο. Πάτησε POWER, επίλεξε COOL και ρύθμισε στους 22–24 βαθμούς. Κράτα τα παράθυρα κλειστά κατά τη λειτουργία. Για να το απενεργοποιήσεις, κράτησε το κουμπί λίγο πιο πολύ αντί να το πατήσεις γρήγορα, και παρακαλούμε κλείσε το πριν φύγεις."
+        "instructions": "Το τηλεχειριστήριο είναι στο κομοδίνο. Πατήστε POWER, επιλέξτε COOL και ρυθμίστε στους 22–24 βαθμούς. Κρατήστε τα παράθυρα κλειστά κατά τη λειτουργία. Για να το απενεργοποιήσετε, κρατήστε το κουμπί λίγο πιο πολύ αντί να το πατήσετε γρήγορα, και παρακαλούμε κλείστε το πριν φύγετε."
       },
       {
         "name": "Πλυντήριο",
-        "instructions": "Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα φορτία. Θα το βρεις στην κουζίνα."
+        "instructions": "Το πρόγραμμα γρήγορου πλυσίματος λειτουργεί καλά για τα περισσότερα φορτία. Θα το βρείτε στην κουζίνα."
       },
       {
         "name": "Πλυντήριο Πιάτων",
@@ -1158,23 +1158,23 @@
       },
       {
         "name": "Ντους & Ζεστό Νερό",
-        "instructions": "Το νερό θερμαίνεται από ηλιακούς συλλέκτες στη στέγη – ζεστό και φιλικό προς το περιβάλλον! Δώσε 2–3 λεπτά για να κατεβεί. Σε συννεφιασμένες μέρες η ηλιακή ενέργεια μπορεί να μην αρκεί: πάτησε τον διακόπτη του μπόιλερ δίπλα στην πόρτα του μπάνιου και περίμενε 20–30 λεπτά ανά άτομο. ⚠️ Πάντα σβήνε το μπόιλερ πριν μπεις στο ντους."
+        "instructions": "Το νερό θερμαίνεται από ηλιακούς συλλέκτες στη στέγη – ζεστό και φιλικό προς το περιβάλλον! Δώστε 2–3 λεπτά για να κατεβεί. Σε συννεφιασμένες μέρες η ηλιακή ενέργεια μπορεί να μην αρκεί: πατήστε τον διακόπτη του μπόιλερ δίπλα στην πόρτα του μπάνιου και περιμένετε 20–30 λεπτά ανά άτομο. ⚠️ Πάντα σβήνετε το μπόιλερ πριν μπείτε στο ντους."
       },
       {
         "name": "Βεράντες & Ομπρέλα",
-        "instructions": "Δύο βεράντες για να απολαύσεις! Τα υπαίθρια μαξιλάρια φυλάσσονται μέσα όταν δεν χρησιμοποιούνται. Παρακαλούμε κράτα την ομπρέλα κλειστή σε ανεμώδεις συνθήκες, τη νύχτα και πριν αναχωρήσεις. <strong>Η ομπρέλα πρέπει πάντα να είναι κλειστή όταν δεν χρησιμοποιείται.</strong>"
+        "instructions": "Δύο βεράντες για να απολαύσετε! Τα υπαίθρια μαξιλάρια φυλάσσονται μέσα όταν δεν χρησιμοποιούνται. Παρακαλούμε κρατήστε την ομπρέλα κλειστή σε ανεμώδεις συνθήκες, τη νύχτα και πριν αναχωρήσετε. <strong>Η ομπρέλα πρέπει πάντα να είναι κλειστή όταν δεν χρησιμοποιείται.</strong>"
       },
       {
         "name": "Πρόσβαση στην Πισίνα",
-        "instructions": "Το μπρελόκ σου περιλαμβάνει το κλειδί της πισίνας. Παρακαλούμε χρησιμοποίησε τις πετσέτες πισίνας από το καλάθι της ξαπλώστρας και όχι τις πετσέτες μπάνιου. Απαγορεύεται το γυαλί και η βουτιά από την άκρη, καθώς και τα κατοικίδια στην πισίνα."
+        "instructions": "Το μπρελόκ σας περιλαμβάνει το κλειδί της πισίνας. Παρακαλούμε χρησιμοποιείτε τις πετσέτες πισίνας από το καλάθι της ξαπλώστρας και όχι τις πετσέτες μπάνιου. Απαγορεύεται το γυαλί και η βουτιά από την άκρη, καθώς και τα κατοικίδια στην πισίνα."
       },
       {
         "name": "Μπάνιο",
-        "instructions": "Παρέχονται πετσέτες, πιστολάκι μαλλιών και βασικά είδη τουαλέτας. Παρακαλούμε χρησιμοποίησε τον κάδο δίπλα στην τουαλέτα και μην ξεπλένεις χαρτί – η κυπριακή υδραυλική εγκατάσταση δεν είναι φτιαγμένη γι' αυτό!"
+        "instructions": "Παρέχονται πετσέτες, πιστολάκι μαλλιών και βασικά είδη τουαλέτας. Παρακαλούμε χρησιμοποιείτε τον κάδο δίπλα στην τουαλέτα και μην ξεπλένετε χαρτί – η κυπριακή υδραυλική εγκατάσταση δεν είναι φτιαγμένη γι' αυτό!"
       },
       {
         "name": "Σκουπίδια",
-        "instructions": "Οι κάδοι σκουπιδιών βρίσκονται στον χώρο πάρκινγκ, δεξιά καθώς βγαίνεις περνώντας την πισίνα."
+        "instructions": "Οι κάδοι σκουπιδιών βρίσκονται στον χώρο πάρκινγκ, δεξιά καθώς βγαίνετε περνώντας την πισίνα."
       },
       {
         "name": "Πόσιμο Νερό",
@@ -1182,7 +1182,7 @@
       },
       {
         "name": "Φυτά",
-        "instructions": "Αν μείνεις μερικές μέρες, τα φυτά θα χαρούν λίγο νερό κάθε 3–4 μέρες. Θα σου το ανταποδώσουν!"
+        "instructions": "Αν μείνετε μερικές μέρες, τα φυτά θα χαρούν λίγο νερό κάθε 3–4 μέρες. Θα σας το ανταποδώσουν!"
       }
     ],
     "thingsToDo": [
@@ -1456,7 +1456,7 @@
     ],
     "gettingAround": [
       {
-        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις. Οι στάσεις έχουν πλέον προστεθεί και στο Google Maps, αλλά αξίζει πάντα να ελέγχεις και την επίσημη ιστοσελίδα για τα τελευταία δρομολόγια."
+        "info": "Ο κεντρικός σταθμός λεωφορείων (Τάφοι των Βασιλέων) απέχει 18 λεπτά με τα πόδια (~1,3 χλμ), με απευθείας συνδέσεις σε κύρια αξιοθέατα, το αεροδρόμιο και γειτονικές πόλεις. Οι στάσεις έχουν πλέον προστεθεί και στο Google Maps, αλλά αξίζει πάντα να ελέγχετε και την επίσημη ιστοσελίδα για τα τελευταία δρομολόγια."
       },
       {
         "info": "Εφαρμογή κοινής χρήσης αυτοκινήτου που λειτουργεί καλά στην Πάφο. Εγγραφή σε λίγα λεπτά. Αυτοκίνητα συνήθως σε 5–10 λεπτά με τα πόδια."
@@ -1465,7 +1465,7 @@
         "info": "Οικονομική εφαρμογή ταξί. Καλή εναλλακτική στα κλασικά ταξί με ταξίμετρο στην Πάφο."
       },
       {
-        "info": "Διάφορες υπηρεσίες ταξί διαθέσιμες online. Αξιόπιστη επιλογή είναι το Paphos Taxi Airport, όπου μπορείς να κανονίσεις παραλαβή και μέσω WhatsApp: +357 99 460 829."
+        "info": "Διάφορες υπηρεσίες ταξί διαθέσιμες online. Αξιόπιστη επιλογή είναι το Paphos Taxi Airport, όπου μπορείτε να κανονίσετε παραλαβή και μέσω WhatsApp: +357 99 460 829."
       }
     ],
     "emergency": {
@@ -1480,7 +1480,7 @@
           "note": "Αστυνομικό τμήμα Πάφου"
         }
       ],
-      "nearestPharmacy": "Αρκετά φαρμακεία σε κοντινή απόσταση στον κεντρικό δρόμο. Ρώτησέ μας αν χρειαστείς βοήθεια."
+      "nearestPharmacy": "Αρκετά φαρμακεία σε κοντινή απόσταση στον κεντρικό δρόμο. Ρωτήστε μας αν χρειαστείτε βοήθεια."
     },
     "checkout": {
       "steps": [

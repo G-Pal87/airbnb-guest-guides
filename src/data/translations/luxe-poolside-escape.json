@@ -49,22 +49,22 @@
       "stepTitleReturnKeys": "Schlüssel zurückgeben",
       "stepTitleDropMeMessage": "Schreib mir kurz!",
       "stepTitleDropUsMessage": "Schreib uns kurz!",
-      "yourHost": "Dein Gastgeber",
+      "yourHost": "Euer Gastgeber",
       "cohost": "Mitgastgeber",
       "call": "Anrufen",
       "whatsapp": "WhatsApp",
       "email": "E-Mail",
-      "enjoyStay": "Genieß deinen Aufenthalt!",
-      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht deinen Aufenthalt noch angenehmer. Wenn du deine Zeit hier genießt, wäre ich dir sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
-      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden deinen Aufenthalt noch angenehmer macht. Wenn du deine Zeit hier genießt, wären wir dir sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
-      "contactHostIntroSolo": "Ich bin während deines gesamten Aufenthalts für dich da. Zögere nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass du eine wunderbare Zeit hast.",
-      "contactHostIntroCohost": "Wir sind während deines gesamten Aufenthalts für dich da. Zögere nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass du eine wunderbare Zeit hast.",
+      "enjoyStay": "Genießt euren Aufenthalt!",
+      "enjoyStayMessageSolo": "Ich hoffe, dieser Leitfaden macht euren Aufenthalt noch angenehmer. Wenn ihr eure Zeit hier genießt, wäre ich euch sehr dankbar für eine Bewertung auf Airbnb – das bedeutet mir wirklich alles.",
+      "enjoyStayMessageCohost": "Wir hoffen, dass dieser Leitfaden euren Aufenthalt noch angenehmer macht. Wenn ihr eure Zeit hier genießt, wären wir euch sehr dankbar für eine Bewertung auf Airbnb – das bedeutet uns wirklich alles.",
+      "contactHostIntroSolo": "Ich bin während eures gesamten Aufenthalts für euch da. Zögert nicht, mich bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – ich möchte wirklich, dass ihr eine wunderbare Zeit habt.",
+      "contactHostIntroCohost": "Wir sind während eures gesamten Aufenthalts für euch da. Zögert nicht, uns bei Fragen, Wünschen oder wenn etwas Aufmerksamkeit benötigt zu kontaktieren – wir möchten wirklich, dass ihr eine wunderbare Zeit habt.",
       "atAGlance": "Auf einen Blick",
       "checkInNote": "Ab diesem Zeitpunkt",
       "checkoutNote": "Bitte bis zu dieser Zeit abreisen",
       "contacts": "Kontakte",
-      "contactsNoteCohost": "Brauchst du Hilfe? Wir sind immer für dich da.",
-      "contactsNoteSolo": "Brauchst du Hilfe? Ich bin immer für dich da! Kontaktier mich.",
+      "contactsNoteCohost": "Braucht ihr Hilfe? Wir sind immer für euch da.",
+      "contactsNoteSolo": "Braucht ihr Hilfe? Ich bin immer für euch da! Kontaktiert mich.",
       "contactUsCohost": "Kontakt aufnehmen",
       "contactUsSolo": "Mich kontaktieren",
       "copied": "Kopiert!",
@@ -108,7 +108,7 @@
           "caption": "Durch den Korridor gehen"
         },
         {
-          "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört dir!"
+          "caption": "Erste Tür links (Erdgeschoss). Die weiße Tür gehört euch!"
         }
       ]
     },
@@ -486,15 +486,15 @@
     },
     "checkout": {
       "steps": [
-        "Falls du noch das Geschirr abwaschen oder die Spülmaschine ein letztes Mal einschalten könntest – das wäre toll!",
-        "Falls du den Kühlschrank leeren und Essensreste in den Müll werfen könntest – vielen Dank!",
-        "Falls du die Müllbeutel zu den Mülltonnen auf dem Parkplatz bringen könntest (rechts, wenn man am Pool vorbeigeht) – das wäre eine große Hilfe!",
-        "Bitte daran denken, den Sonnenschirm zu schließen und sicher zu befestigen, bevor du gehst.",
+        "Falls ihr noch das Geschirr abwaschen oder die Spülmaschine ein letztes Mal einschalten könntet – das wäre toll!",
+        "Falls ihr den Kühlschrank leeren und Essensreste in den Müll werfen könntet – vielen Dank!",
+        "Falls ihr die Müllbeutel zu den Mülltonnen auf dem Parkplatz bringen könntet (rechts, wenn man am Pool vorbeigeht) – das wäre eine große Hilfe!",
+        "Bitte daran denken, den Sonnenschirm zu schließen und sicher zu befestigen, bevor ihr geht.",
         "Falls es regnet oder Regen aufzieht, bitte die Außensofa-Kissen nach drinnen bringen, damit sie trocken bleiben. Danke!",
         "Vor dem Aufbruch bitte alle Fenster, Balkontüren und Rollläden schließen.",
         "Bitte alle Lichter, die Klimaanlage und den Fernseher ausschalten.",
-        "Wenn du bereit bist zu gehen, bitte abschließen und alle Schlüssel in die Schlüsselbox zurücklegen und den Code danach zurücksetzen.",
-        "Schick uns eine WhatsApp, dass du abgereist bist – und über eine Bewertung würden wir uns sehr freuen, wenn dir der Aufenthalt gefallen hat!"
+        "Wenn ihr bereit seid zu gehen, bitte abschließen und alle Schlüssel in die Schlüsselbox zurücklegen und den Code danach zurücksetzen.",
+        "Schickt uns eine WhatsApp, dass ihr abgereist seid – und über eine Bewertung würden wir uns sehr freuen, wenn euch der Aufenthalt gefallen hat!"
       ]
     }
   },
@@ -548,22 +548,22 @@
       "stepTitleReturnKeys": "Add vissza a kulcsokat",
       "stepTitleDropMeMessage": "Írj nekem egy üzenetet!",
       "stepTitleDropUsMessage": "Írj nekünk egy üzenetet!",
-      "yourHost": "A házigazdád",
+      "yourHost": "A házigazdátok",
       "cohost": "Társ-házigazda",
       "call": "Hívás",
       "whatsapp": "WhatsApp",
       "email": "E-mail",
       "enjoyStay": "Kellemes tartózkodást kívánunk!",
-      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodásodat. Ha jól érzed magad nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
-      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodásodat. Ha jól érzed magad nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
-      "contactHostIntroSolo": "Egész tartózkodásod alatt elérhető vagyok. Ne habozz felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt tölts itt.",
-      "contactHostIntroCohost": "Egész tartózkodásod alatt elérhetők vagyunk. Ne habozz felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt tölts itt.",
+      "enjoyStayMessageSolo": "Remélem, ez az útmutató még jobbá teszi a tartózkodásotokat. Ha jól érzitek magatokat nálunk, rendkívül hálás lennék egy értékelésért az Airbnb-n – ez számomra mindennél többet jelent.",
+      "enjoyStayMessageCohost": "Reméljük, ez az útmutató még jobbá teszi a tartózkodásotokat. Ha jól érzitek magatokat nálunk, rendkívül hálásak lennénk egy értékelésért az Airbnb-n – ez számunkra mindennél többet jelent.",
+      "contactHostIntroSolo": "Egész tartózkodásotok alatt elérhető vagyok. Ne habozzatok felvenni velem a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretném, hogy csodálatos időt töltsetek itt.",
+      "contactHostIntroCohost": "Egész tartózkodásotok alatt elérhetők vagyunk. Ne habozzatok felvenni velünk a kapcsolatot bármilyen kérdéssel, kéréssel, vagy ha bármi figyelmet igényel – őszintén szeretnénk, hogy csodálatos időt töltsetek itt.",
       "atAGlance": "Gyors áttekintés",
       "checkInNote": "Ettől az időponttól",
       "checkoutNote": "Kérjük, eddig az időpontig hagyd el a szállást",
       "contacts": "Kapcsolatok",
-      "contactsNoteCohost": "Segítségre van szükséged? Mindig elérhetők vagyunk.",
-      "contactsNoteSolo": "Segítségre van szükséged? Mindig elérhető vagyok! Vedd fel velem a kapcsolatot.",
+      "contactsNoteCohost": "Segítségre van szükségetek? Mindig elérhetők vagyunk.",
+      "contactsNoteSolo": "Segítségre van szükségetek? Mindig elérhető vagyok! Vegyétek fel velem a kapcsolatot.",
       "contactUsCohost": "Lépj kapcsolatba velünk",
       "contactUsSolo": "Kapcsolatba velem",
       "copied": "Másolva!",
@@ -607,12 +607,12 @@
           "caption": "Menj át a folyosón"
         },
         {
-          "caption": "Első ajtó balra (földszint). A fehér ajtó a tiéd!"
+          "caption": "Első ajtó balra (földszint). A fehér ajtó a tiétek!"
         }
       ]
     },
     "checkin": {
-      "keyLocation": "Két kulcsszekrény a bal oldali falon, a 'D6' postaláda alatt. A jobb oldalit nyisd ki",
+      "keyLocation": "Két kulcsszekrény a bal oldali falon, a 'D6' postaláda alatt. A jobb oldalit nyissátok ki",
       "steps": [
         "Menjetek a medence területéhez a King's Park komplexum hátsó részében",
         "Haladjatok el a medence mellett és forduljatok jobbra a medence kerítése mentén",
@@ -985,15 +985,15 @@
     },
     "checkout": {
       "steps": [
-        "Ha megmosnád az edényeket vagy utoljára beindítanád a mosogatógépet, nagyon megköszönnénk!",
-        "Ha kiürítenéd a hűtőt és a maradék ételeket a kukába dobnád, az nagyszerű lenne!",
-        "Ha a szemetes zsákokat a parkolóban lévő kukákhoz vinnéd (jobbra, a medencén túl), az nagy segítség lenne!",
-        "Kérjük, csukd be és rögzítsd a terasz napernyőt, mielőtt elmész.",
-        "Ha esik vagy esőre áll az idő, kérjük, vidd be a kültéri ülőpárna huzatokat, hogy szárazak maradjanak. Köszönjük!",
-        "Indulás előtt kérjük, zárj be minden ablakot, erkélyajtót és redőnyt.",
-        "Kérjük, kapcsolj ki minden lámpát, a légkondicionálót és a televíziót.",
-        "Amikor készen állsz az indulásra, kérjük, zárd be a lakást, és tedd vissza az összes kulcsot a szekrénybe, majd állítsd vissza a kódot.",
-        "Küldj nekünk egy WhatsApp-üzenetet, hogy elindultál – és nagyon örülnénk egy értékelésnek, ha jól érezted magad!"
+        "Ha megmosnátok az edényeket vagy utoljára beindítanátok a mosogatógépet, nagyon megköszönnénk!",
+        "Ha kiürítenétek a hűtőt és a maradék ételeket a kukába dobnátok, az nagyszerű lenne!",
+        "Ha a szemetes zsákokat a parkolóban lévő kukákhoz vinnétek (jobbra, a medencén túl), az nagy segítség lenne!",
+        "Kérjük, csukjátok be és rögzítsétek a terasz napernyőt, mielőtt elmentek.",
+        "Ha esik vagy esőre áll az idő, kérjük, vigyétek be a kültéri ülőpárna huzatokat, hogy szárazak maradjanak. Köszönjük!",
+        "Indulás előtt kérjük, zárjatok be minden ablakot, erkélyajtót és redőnyt.",
+        "Kérjük, kapcsoljatok ki minden lámpát, a légkondicionálót és a televíziót.",
+        "Amikor készen álltok az indulásra, kérjük, zárjátok be a lakást, és tegyétek vissza az összes kulcsot a szekrénybe, majd állítsátok vissza a kódot.",
+        "Küldjetek nekünk egy WhatsApp-üzenetet, hogy elindultatok – és nagyon örülnénk egy értékelésnek, ha jól éreztétek magatokat!"
       ]
     }
   },
@@ -1047,22 +1047,22 @@
       "stepTitleReturnKeys": "Επίστρεψε τα κλειδιά",
       "stepTitleDropMeMessage": "Στείλε μου ένα μήνυμα!",
       "stepTitleDropUsMessage": "Στείλε μας ένα μήνυμα!",
-      "yourHost": "Ο οικοδεσπότης σου",
+      "yourHost": "Ο οικοδεσπότης σας",
       "cohost": "Συν-οικοδεσπότης",
       "call": "Κλήση",
       "whatsapp": "WhatsApp",
       "email": "Email",
-      "enjoyStay": "Απόλαυσε τη διαμονή σου!",
-      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σου ακόμα καλύτερη. Αν απολαύσεις τον χρόνο σου εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
-      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σου ακόμα καλύτερη. Αν απολαύσεις τον χρόνο σου εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
-      "contactHostIntroSolo": "Είμαι εδώ για εσένα καθ' όλη τη διάρκεια της διαμονής σου. Μη διστάσεις να επικοινωνήσεις μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσεις υπέροχα.",
-      "contactHostIntroCohost": "Είμαστε εδώ για εσένα καθ' όλη τη διάρκεια της διαμονής σου. Μη διστάσεις να επικοινωνήσεις μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσεις υπέροχα.",
+      "enjoyStay": "Απολαύστε τη διαμονή σας!",
+      "enjoyStayMessageSolo": "Ελπίζω αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμουν πολύ ευγνώμων για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για μένα.",
+      "enjoyStayMessageCohost": "Ελπίζουμε αυτός ο οδηγός να κάνει τη διαμονή σας ακόμα καλύτερη. Αν απολαύσετε τον χρόνο σας εδώ, θα ήμασταν πολύ ευγνώμονες για μια αξιολόγηση στο Airbnb – σημαίνει τα πάντα για εμάς.",
+      "contactHostIntroSolo": "Είμαι εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μου για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλω πραγματικά να περάσετε υπέροχα.",
+      "contactHostIntroCohost": "Είμαστε εδώ για εσάς καθ' όλη τη διάρκεια της διαμονής σας. Μη διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε απορία, αίτημα ή αν χρειαστεί κάτι – θέλουμε πραγματικά να περάσετε υπέροχα.",
       "atAGlance": "Με μια ματιά",
       "checkInNote": "Από αυτή την ώρα και μετά",
       "checkoutNote": "Παρακαλούμε να έχεις αποχωρήσει μέχρι τότε",
       "contacts": "Επικοινωνία",
-      "contactsNoteCohost": "Χρειάζεσαι βοήθεια; Είμαστε πάντα διαθέσιμοι.",
-      "contactsNoteSolo": "Χρειάζεσαι βοήθεια; Είμαι πάντα εδώ για εσένα! Επικοινώνησε μαζί μου.",
+      "contactsNoteCohost": "Χρειάζεστε βοήθεια; Είμαστε πάντα διαθέσιμοι.",
+      "contactsNoteSolo": "Χρειάζεστε βοήθεια; Είμαι πάντα εδώ για εσάς! Επικοινωνήστε μαζί μου.",
       "contactUsCohost": "Επικοινώνησε μαζί μας",
       "contactUsSolo": "Επικοινώνησε μαζί μου",
       "copied": "Αντιγράφηκε!",
@@ -1106,12 +1106,12 @@
           "caption": "Πέρασε μέσα από τον διάδρομο"
         },
         {
-          "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σου!"
+          "caption": "Πρώτη πόρτα αριστερά (ισόγειο). Η λευκή πόρτα είναι η δική σας!"
         }
       ]
     },
     "checkin": {
-      "keyLocation": "Δύο κουτιά κλειδιών στον αριστερό τοίχο, κάτω από το γραμματοκιβώτιο 'D6'. Άνοιξε το δεξί",
+      "keyLocation": "Δύο κουτιά κλειδιών στον αριστερό τοίχο, κάτω από το γραμματοκιβώτιο 'D6'. Ανοίξτε το δεξί",
       "steps": [
         "Πηγαίνετε στην περιοχή της πισίνας στο πίσω μέρος του συγκροτήματος King's Park",
         "Προσπεράστε την πισίνα και στρίψτε δεξιά κατά μήκος του φράχτη της πισίνας",
@@ -1261,7 +1261,7 @@
             "tip": "Γραφική ακτή, ιδανική για φωτογραφίες και ηλιοβασίλεμα. Συνδύασε με Oniro by the Sea και Άγιο Γεώργιο."
           },
           {
-            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεσαι ήδη προς τα Sea Caves ή τη Λάρα."
+            "tip": "Ήσυχα ερείπια με θέα στη θάλασσα, μακριά από τα τουριστικά μονοπάτια. Ιδανικό αν κατευθύνεστε ήδη προς τα Sea Caves ή τη Λάρα."
           },
           {
             "tip": "Η πιο εμβληματική γραφική στάση στην Κύπρο. Καλύτερη για τη θέα και τη μυθολογία παρά για κολύμπι."
@@ -1484,15 +1484,15 @@
     },
     "checkout": {
       "steps": [
-        "Αν μπορούσες να πλύνεις τα πιάτα ή να βάλεις τελευταία φορά το πλυντήριο, θα το εκτιμούσαμε πολύ!",
-        "Αν μπορούσες να αδειάσεις το ψυγείο και να πετάξεις τα υπολείμματα φαγητού, θα ήταν υπέροχο!",
-        "Αν μπορούσες να μεταφέρεις τους σάκους σκουπιδιών στους κάδους στο πάρκινγκ (δεξιά καθώς βγαίνεις από την πισίνα), θα βοηθούσες πάρα πολύ!",
-        "Παρακαλούμε θυμήσου να κλείσεις και να στερεώσεις καλά την ομπρέλα πριν φύγεις.",
-        "Αν βρέχει ή φαίνεται ότι θα βρέξει, παρακαλούμε μάζεψε τα μαξιλάρια του εξωτερικού καναπέ μέσα. Ευχαριστούμε!",
-        "Πριν φύγεις, παρακαλούμε κλείσε όλα τα παράθυρα, τις πόρτες βεράντας και τα ρολά.",
-        "Παρακαλούμε σβήσε όλα τα φώτα, το κλιματιστικό και την τηλεόραση.",
-        "Όταν ετοιμαστείς να φύγεις, κλείδωσε και επίστρεψε όλα τα κλειδιά στο κουτί, επαναφέροντας τον κωδικό.",
-        "Στείλε μας ένα WhatsApp για να μας ενημερώσεις ότε έφυγες – και θα χαρούμε πολύ για μια αξιολόγηση αν σου άρεσε η διαμονή!"
+        "Αν μπορούσατε να πλύνετε τα πιάτα ή να βάλετε τελευταία φορά το πλυντήριο, θα το εκτιμούσαμε πολύ!",
+        "Αν μπορούσατε να αδειάσετε το ψυγείο και να πετάξετε τα υπολείμματα φαγητού, θα ήταν υπέροχο!",
+        "Αν μπορούσατε να μεταφέρετε τους σάκους σκουπιδιών στους κάδους στο πάρκινγκ (δεξιά καθώς βγαίνετε από την πισίνα), θα βοηθούσατε πάρα πολύ!",
+        "Παρακαλούμε θυμηθείτε να κλείσετε και να στερεώσετε καλά την ομπρέλα πριν φύγετε.",
+        "Αν βρέχει ή φαίνεται ότι θα βρέξει, παρακαλούμε μαζέψτε τα μαξιλάρια του εξωτερικού καναπέ μέσα. Ευχαριστούμε!",
+        "Πριν φύγετε, παρακαλούμε κλείστε όλα τα παράθυρα, τις πόρτες βεράντας και τα ρολά.",
+        "Παρακαλούμε σβήστε όλα τα φώτα, το κλιματιστικό και την τηλεόραση.",
+        "Όταν ετοιμαστείτε να φύγετε, κλειδώστε και επιστρέψτε όλα τα κλειδιά στο κουτί, επαναφέροντας τον κωδικό.",
+        "Στείλτε μας ένα WhatsApp για να μας ενημερώσετε ότι φύγατε – και θα χαρούμε πολύ για μια αξιολόγηση αν σας άρεσε η διαμονή!"
       ]
     }
   },
@@ -1546,22 +1546,22 @@
       "stepTitleReturnKeys": "Rendre les clés",
       "stepTitleDropMeMessage": "Envoie-moi un message !",
       "stepTitleDropUsMessage": "Envoie-nous un message !",
-      "yourHost": "Ton hôte",
+      "yourHost": "Votre hôte",
       "cohost": "Co-hôte",
       "call": "Appeler",
       "whatsapp": "WhatsApp",
       "email": "E-mail",
-      "enjoyStay": "Profite bien de ton séjour !",
-      "enjoyStayMessageSolo": "J'espère que ce guide rendra ton séjour encore meilleur. Si tu passes un bon moment ici, je te serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
-      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra ton séjour encore meilleur. Si tu passes un bon moment ici, nous te serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
-      "contactHostIntroSolo": "Je suis disponible pour toi tout au long de ton séjour. N'hésite pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que tu passes un merveilleux moment.",
-      "contactHostIntroCohost": "Nous sommes disponibles pour toi tout au long de ton séjour. N'hésite pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que tu passes un merveilleux moment.",
+      "enjoyStay": "Profitez bien de votre séjour !",
+      "enjoyStayMessageSolo": "J'espère que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, je vous serais infiniment reconnaissant(e) de laisser un avis sur Airbnb – cela compte énormément pour moi.",
+      "enjoyStayMessageCohost": "Nous espérons que ce guide rendra votre séjour encore meilleur. Si vous passez un bon moment ici, nous vous serions infiniment reconnaissants de laisser un avis sur Airbnb – cela compte énormément pour nous.",
+      "contactHostIntroSolo": "Je suis disponible pour vous tout au long de votre séjour. N'hésitez pas à me contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – je veux sincèrement que vous passiez un merveilleux moment.",
+      "contactHostIntroCohost": "Nous sommes disponibles pour vous tout au long de votre séjour. N'hésitez pas à nous contacter pour toute question, demande, ou si quelque chose nécessite de l'attention – nous voulons sincèrement que vous passiez un merveilleux moment.",
       "atAGlance": "En un coup d'œil",
       "checkInNote": "À partir de cette heure",
       "checkoutNote": "Merci de partir avant cette heure",
       "contacts": "Contacts",
       "contactsNoteCohost": "Besoin d'aide ? Nous sommes toujours disponibles.",
-      "contactsNoteSolo": "Besoin d'aide ? Je suis toujours disponible ! Contacte-moi.",
+      "contactsNoteSolo": "Besoin d'aide ? Je suis toujours disponible ! Contactez-moi.",
       "contactUsCohost": "Nous contacter",
       "contactUsSolo": "Me contacter",
       "copied": "Copié !",
@@ -1610,7 +1610,7 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Deux boîtes à clés sur le mur gauche, sous la boîte aux lettres 'D6'. Ouvre celle de droite",
+      "keyLocation": "Deux boîtes à clés sur le mur gauche, sous la boîte aux lettres 'D6'. Ouvrez celle de droite",
       "steps": [
         "Marchez jusqu'à la zone de la piscine à l'arrière du complexe King's Park",
         "Dépassez la piscine et tournez à droite le long de la clôture",
@@ -1760,7 +1760,7 @@
             "tip": "Côte pittoresque, idéale pour les photos et le coucher de soleil. À combiner avec Oniro by the Sea et Agios Georgios."
           },
           {
-            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des sentiers touristiques. Idéal si tu te diriges déjà vers Sea Caves ou Lara."
+            "tip": "Ruines tranquilles avec vue sur la mer, à l'écart des sentiers touristiques. Idéal si vous vous dirigez déjà vers Sea Caves ou Lara."
           },
           {
             "tip": "L'arrêt panoramique le plus emblématique de Chypre. Mieux pour les vues et la mythologie que pour la baignade."
@@ -1983,15 +1983,15 @@
     },
     "checkout": {
       "steps": [
-        "Si tu pouvais faire la vaisselle ou lancer le lave-vaisselle une dernière fois, nous t'en serions très reconnaissants !",
-        "Si tu pouvais vider le réfrigérateur et jeter les restes de nourriture, ce serait parfait !",
-        "Si tu pouvais apporter les sacs poubelle aux bacs dans le parking (sur ta droite en sortant par la piscine), ce serait une grande aide !",
+        "Si vous pouviez faire la vaisselle ou lancer le lave-vaisselle une dernière fois, nous vous en serions très reconnaissants !",
+        "Si vous pouviez vider le réfrigérateur et jeter les restes de nourriture, ce serait parfait !",
+        "Si vous pouviez apporter les sacs poubelle aux bacs dans le parking (sur votre droite en sortant par la piscine), ce serait une grande aide !",
         "Merci de penser à fermer et attacher solidement le parasol avant de partir.",
         "S'il pleut ou si la pluie menace, merci de rentrer les coussins du canapé extérieur pour qu'ils restent au sec. Merci !",
         "Avant de partir, merci de fermer toutes les fenêtres, portes de balcon et volets.",
         "Merci d'éteindre toutes les lumières, la climatisation et la télévision.",
-        "Quand tu es prêt(e) à partir, merci de fermer à clé et de remettre toutes les clés dans la boîte en réinitialisant le code.",
-        "Envoie-nous un WhatsApp pour nous dire que tu es parti(e) – et nous serions vraiment ravis d'avoir un avis si tu as apprécié ton séjour !"
+        "Quand vous êtes prêt(e)s à partir, merci de fermer à clé et de remettre toutes les clés dans la boîte en réinitialisant le code.",
+        "Envoyez-nous un WhatsApp pour nous dire que vous êtes parti(e)s – et nous serions vraiment ravis d'avoir un avis si vous avez apprécié votre séjour !"
       ]
     }
   },
@@ -2045,22 +2045,22 @@
       "stepTitleReturnKeys": "Devuelve las llaves",
       "stepTitleDropMeMessage": "¡Envíame un mensaje!",
       "stepTitleDropUsMessage": "¡Envíanos un mensaje!",
-      "yourHost": "Tu anfitrión",
+      "yourHost": "Vuestro anfitrión",
       "cohost": "Co-anfitrión",
       "call": "Llamar",
       "whatsapp": "WhatsApp",
       "email": "Correo electrónico",
-      "enjoyStay": "¡Disfruta tu estancia!",
-      "enjoyStayMessageSolo": "Espero que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradecería muchísimo que dejaras una reseña en Airbnb – significa todo para mí.",
-      "enjoyStayMessageCohost": "Esperamos que esta guía haga tu estancia aún mejor. Si disfrutas tu tiempo aquí, te agradeceríamos muchísimo que dejaras una reseña en Airbnb – significa todo para nosotros.",
-      "contactHostIntroSolo": "Estoy aquí para ti durante toda tu estancia. No dudes en contactarme con cualquier pregunta, solicitud o si algo necesita atención – de verdad quiero que tengas un tiempo maravilloso.",
-      "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso.",
+      "enjoyStay": "¡Disfrutad vuestra estancia!",
+      "enjoyStayMessageSolo": "Espero que esta guía haga vuestra estancia aún mejor. Si disfrutáis vuestro tiempo aquí, os agradecería muchísimo que dejarais una reseña en Airbnb – significa todo para mí.",
+      "enjoyStayMessageCohost": "Esperamos que esta guía haga vuestra estancia aún mejor. Si disfrutáis vuestro tiempo aquí, os agradeceríamos muchísimo que dejarais una reseña en Airbnb – significa todo para nosotros.",
+      "contactHostIntroSolo": "Estoy aquí para vosotros durante toda vuestra estancia. No dudéis en contactarme con cualquier pregunta, solicitud o si algo necesita atención – de verdad quiero que tengáis un tiempo maravilloso.",
+      "contactHostIntroCohost": "Estamos aquí para vosotros durante toda vuestra estancia. No dudéis en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengáis un tiempo maravilloso.",
       "atAGlance": "De un vistazo",
       "checkInNote": "A partir de esta hora",
       "checkoutNote": "Por favor, sal antes de esta hora",
       "contacts": "Contactos",
-      "contactsNoteCohost": "¿Necesitas ayuda? Siempre estamos disponibles.",
-      "contactsNoteSolo": "¿Necesitas ayuda? Siempre estoy disponible. ¡Contáctame!",
+      "contactsNoteCohost": "¿Necesitáis ayuda? Siempre estamos disponibles.",
+      "contactsNoteSolo": "¿Necesitáis ayuda? Siempre estoy disponible. ¡Contactadme!",
       "contactUsCohost": "Contáctanos",
       "contactUsSolo": "Contáctame",
       "copied": "¡Copiado!",
@@ -2109,7 +2109,7 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Dos cajas de llaves en la pared izquierda, debajo del buzón 'D6'. Abre la de la derecha",
+      "keyLocation": "Dos cajas de llaves en la pared izquierda, debajo del buzón 'D6'. Abrid la de la derecha",
       "steps": [
         "Caminad hasta la zona de la piscina en la parte trasera del complejo King's Park",
         "Pasad la piscina y girad a la derecha a lo largo de la valla",
@@ -2259,7 +2259,7 @@
             "tip": "Costa pintoresca, ideal para fotos y para ver el atardecer. Combinar con Oniro by the Sea y Agios Georgios."
           },
           {
-            "tip": "Ruinas tranquilas con vistas al mar, alejadas de la ruta turística. Recomendable si ya vas hacia Sea Caves o Lara."
+            "tip": "Ruinas tranquilas con vistas al mar, alejadas de la ruta turística. Recomendable si ya vais hacia Sea Caves o Lara."
           },
           {
             "tip": "La parada paisajística más icónica de Chipre. Mejor para las vistas y la mitología que para bañarse."
@@ -2482,15 +2482,15 @@
     },
     "checkout": {
       "steps": [
-        "Si pudieras fregar los platos o poner el lavavajillas por última vez, ¡lo agradeceríamos muchísimo!",
-        "Si pudieras vaciar la nevera y tirar los restos de comida, ¡sería genial!",
-        "Si pudieras llevar las bolsas de basura a los contenedores del aparcamiento (a la derecha al salir por la piscina), ¡sería de gran ayuda!",
-        "Por favor, recuerda cerrar y atar bien la sombrilla antes de irte.",
-        "Si llueve o parece que va a llover, por favor mete los cojines del sofá exterior para que no se mojen. ¡Gracias!",
-        "Antes de salir, por favor cierra todas las ventanas, puertas de balcón y persianas.",
-        "Por favor, apaga todas las luces, el aire acondicionado y el televisor.",
-        "Cuando estés listo/a para irte, cierra con llave y devuelve todas las llaves a la caja restableciendo el código.",
-        "Envíanos un WhatsApp para avisarnos de que te has ido – ¡y nos encantaría una reseña si disfrutaste de tu estancia!"
+        "Si pudierais fregar los platos o poner el lavavajillas por última vez, ¡lo agradeceríamos muchísimo!",
+        "Si pudierais vaciar la nevera y tirar los restos de comida, ¡sería genial!",
+        "Si pudierais llevar las bolsas de basura a los contenedores del aparcamiento (a la derecha al salir por la piscina), ¡sería de gran ayuda!",
+        "Por favor, recordad cerrar y atar bien la sombrilla antes de iros.",
+        "Si llueve o parece que va a llover, por favor meted los cojines del sofá exterior para que no se mojen. ¡Gracias!",
+        "Antes de salir, por favor cerrad todas las ventanas, puertas de balcón y persianas.",
+        "Por favor, apagad todas las luces, el aire acondicionado y el televisor.",
+        "Cuando estéis listos/as para iros, cerrad con llave y devolved todas las llaves a la caja restableciendo el código.",
+        "Enviadnos un WhatsApp para avisarnos de que os habéis ido – ¡y nos encantaría una reseña si disfrutasteis de vuestra estancia!"
       ]
     }
   },

@@ -102,7 +102,7 @@
           "caption": "Einfach weitergehen..."
         },
         {
-          "caption": "Zwei Schlüsselboxen unter Postfach 'D7'. Die rechte öffnen. Code: 9907"
+          "caption": "Zwei Schlüsselboxen unter Postfach 'D7'. Die rechte öffnen. Code: 9007"
         },
         {
           "caption": "Nach dem Abholen der Schlüssel durch den Gang gehen und rechts abbiegen"
@@ -113,13 +113,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Zwei Schlüsselboxen an der linken Wand, unter Postfach 'D7'. Die rechte öffnen.",
+      "keyLocation": "Zwei Schlüsselboxen an der rechten Wand, unter Postfach 'D7'. Die rechte öffnen.",
       "steps": [
         "Zum Poolbereich im hinteren Teil des King's Park Komplexes gehen",
         "Am Pool vorbeigehen und rechts am Zaun des Pools entlanggehen",
         "Am ersten Steinbogengang links abbiegen",
-        "Die beiden Schlüsselboxen an der linken Wand unter dem mit 'D7' beschrifteten Postfach finden",
-        "Die rechte Schlüsselbox mit dem Code 9907 öffnen",
+        "Die beiden Schlüsselboxen an der rechten Wand unter dem mit 'D7' beschrifteten Postfach finden",
+        "Die rechte Schlüsselbox mit dem Code 9007 öffnen",
         "Durch den Gang gehen. Die Wohnung ist die erste Tür rechts (Erdgeschoss)",
         "Die Eingangstür ist braun",
         "Nach dem Eintreten den Metallschlüssel in den Schlüsselstecker neben der Tür stecken, um den Strom einzuschalten (wie in Hotels)",
@@ -592,7 +592,7 @@
           "caption": "Folytatni az utat..."
         },
         {
-          "caption": "Két kulcsszekrény a 'D7' postafiók alatt. Nyissátok a jobb oldalit. Kód: 9907"
+          "caption": "Két kulcsszekrény a 'D7' postafiók alatt. Nyissátok a jobb oldalit. Kód: 9007"
         },
         {
           "caption": "A kulcsok átvétele után menjetek át az átjárón és forduljatok jobbra"
@@ -603,13 +603,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Két kulcsszekrény a bal oldali falon, a 'D7' postafiók alatt. A jobb oldalit nyissátok ki.",
+      "keyLocation": "Két kulcsszekrény a jobb oldali falon, a 'D7' postafiók alatt. A jobb oldalit nyissátok ki.",
       "steps": [
         "Menjetek a medence területéhez a King's Park komplexum hátsó részén",
         "Menjetek el a medence mellett, és forduljatok jobbra a medence kerítésénél",
         "Az első kőíves átjárónál forduljatok balra",
-        "Találjátok meg a két kulcsszekrényt a bal oldali falon, a 'D7' feliratú postafiók alatt",
-        "Nyissátok ki a jobb oldali kulcsszekrényt a 9907 kóddal",
+        "Találjátok meg a két kulcsszekrényt a jobb oldali falon, a 'D7' feliratú postafiók alatt",
+        "Nyissátok ki a jobb oldali kulcsszekrényt a 9007 kóddal",
         "Menjetek végig a folyosón. A lakás az első ajtó a jobb oldalon (földszint)",
         "A bejárati ajtó barna",
         "Bent lévén helyezzétek a fémkulcsot az ajtó melletti kulcsdugóba az elektromosság bekapcsolásához (ugyanúgy, mint a szállodákban)",
@@ -1082,7 +1082,7 @@
           "caption": "Συνεχίστε..."
         },
         {
-          "caption": "Δύο κουτιά κλειδιών κάτω από την ταχυδρομική θυρίδα 'D7'. Ανοίξτε το δεξί. Κωδικός: 9907"
+          "caption": "Δύο κουτιά κλειδιών κάτω από την ταχυδρομική θυρίδα 'D7'. Ανοίξτε το δεξί. Κωδικός: 9007"
         },
         {
           "caption": "Αφού πάρετε τα κλειδιά, περάστε από το διάδρομο και στρίψτε δεξιά"
@@ -1093,13 +1093,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Δύο κουτιά κλειδιών στον αριστερό τοίχο, κάτω από την ταχυδρομική θυρίδα 'D7'. Ανοίξτε το δεξί.",
+      "keyLocation": "Δύο κουτιά κλειδιών στον δεξί τοίχο, κάτω από την ταχυδρομική θυρίδα 'D7'. Ανοίξτε το δεξί.",
       "steps": [
         "Πηγαίνετε στην περιοχή της πισίνας στο πίσω μέρος του συγκροτήματος King's Park",
         "Περάστε από την πισίνα και στρίψτε δεξιά κατά μήκος της περίφραξης",
         "Στρίψτε αριστερά στο πρώτο πέτρινο τοξωτό πέρασμα",
-        "Βρείτε τα δύο κουτιά κλειδιών στον αριστερό τοίχο, κάτω από την ταχυδρομική θυρίδα 'D7'",
-        "Ανοίξτε το δεξί κουτί κλειδιών με τον κωδικό 9907",
+        "Βρείτε τα δύο κουτιά κλειδιών στον δεξί τοίχο, κάτω από την ταχυδρομική θυρίδα 'D7'",
+        "Ανοίξτε το δεξί κουτί κλειδιών με τον κωδικό 9007",
         "Περάστε από τον διάδρομο. Το διαμέρισμα είναι η πρώτη πόρτα στα δεξιά (ισόγειο)",
         "Η εξώπορτα είναι καφέ",
         "Μόλις μπείτε, τοποθετήστε το μεταλλικό κλειδί στην υποδοχή δίπλα στην πόρτα για να ανάψετε το ρεύμα (ακριβώς όπως στα ξενοδοχεία)",
@@ -1572,7 +1572,7 @@
           "caption": "Continuer..."
         },
         {
-          "caption": "Deux boîtes à clés sous la boîte aux lettres 'D7'. Ouvrir celle de droite. Code : 9907"
+          "caption": "Deux boîtes à clés sous la boîte aux lettres 'D7'. Ouvrir celle de droite. Code : 9007"
         },
         {
           "caption": "Après avoir récupéré les clés, traverser le couloir et tourner à droite"
@@ -1583,13 +1583,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Deux boîtes à clés sur le mur gauche, sous la boîte aux lettres 'D7'. Ouvrir celle de droite.",
+      "keyLocation": "Deux boîtes à clés sur le mur droit, sous la boîte aux lettres 'D7'. Ouvrir celle de droite.",
       "steps": [
         "Se diriger vers la zone de la piscine à l'arrière du complexe King's Park",
         "Passer devant la piscine et tourner à droite le long de la clôture",
         "Tourner à gauche au premier passage voûté en pierre",
-        "Trouver les deux boîtes à clés sur le mur gauche, sous la boîte aux lettres 'D7'",
-        "Ouvrir la boîte à clés de droite avec le code 9907",
+        "Trouver les deux boîtes à clés sur le mur droit, sous la boîte aux lettres 'D7'",
+        "Ouvrir la boîte à clés de droite avec le code 9007",
         "Traverser le couloir. L'appartement est la première porte à droite (rez-de-chaussée)",
         "La porte d'entrée est marron",
         "Une fois à l'intérieur, insérer la clé métallique dans la prise à côté de la porte pour activer l'électricité (comme dans les hôtels)",
@@ -2062,7 +2062,7 @@
           "caption": "Seguir avanzando..."
         },
         {
-          "caption": "Dos cajas de llaves bajo el buzón 'D7'. Abrir la de la derecha. Código: 9907"
+          "caption": "Dos cajas de llaves bajo el buzón 'D7'. Abrir la de la derecha. Código: 9007"
         },
         {
           "caption": "Tras coger las llaves, cruzar el pasillo y girar a la derecha"
@@ -2073,13 +2073,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Dos cajas de llaves en la pared izquierda, bajo el buzón 'D7'. Abrir la de la derecha.",
+      "keyLocation": "Dos cajas de llaves en la pared derecha, bajo el buzón 'D7'. Abrir la de la derecha.",
       "steps": [
         "Dirigirse a la zona de la piscina en la parte trasera del complejo King's Park",
         "Pasar la piscina y girar a la derecha a lo largo de la valla",
         "Girar a la izquierda en el primer pasaje de arco de piedra",
-        "Encontrar las dos cajas de llaves en la pared izquierda, bajo el buzón marcado 'D7'",
-        "Abrir la caja de llaves de la derecha con el código 9907",
+        "Encontrar las dos cajas de llaves en la pared derecha, bajo el buzón marcado 'D7'",
+        "Abrir la caja de llaves de la derecha con el código 9007",
         "Atravesar el pasillo. El apartamento es la primera puerta a la derecha (planta baja)",
         "La puerta de entrada es marrón",
         "Una vez dentro, poner la llave metálica en el enchufe de llave junto a la puerta para encender la electricidad (igual que en los hoteles)",
@@ -2552,7 +2552,7 @@
           "caption": "Idźcie dalej..."
         },
         {
-          "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D7'. Otwórzcie tę po prawej. Kod: 9907"
+          "caption": "Dwie skrzynki na klucze pod skrzynką pocztową 'D7'. Otwórzcie tę po prawej. Kod: 9007"
         },
         {
           "caption": "Po odebraniu kluczy przejdźcie przez korytarz i skręćcie w prawo"
@@ -2563,13 +2563,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Dwie skrzynki na klucze na lewej ścianie, pod skrzynką pocztową 'D7'. Otwórzcie tę po prawej.",
+      "keyLocation": "Dwie skrzynki na klucze na prawej ścianie, pod skrzynką pocztową 'D7'. Otwórzcie tę po prawej.",
       "steps": [
         "Idźcie do strefy basenowej z tyłu kompleksu King's Park",
         "Przejdźcie obok basenu i skręćcie w prawo wzdłuż ogrodzenia",
         "Skręćcie w lewo przy pierwszym kamiennym łukowatym przejściu",
-        "Znajdźcie dwie skrzynki na klucze na lewej ścianie, pod skrzynką pocztową oznaczoną 'D7'",
-        "Otwórzcie prawą skrzynkę kodem 9907",
+        "Znajdźcie dwie skrzynki na klucze na prawej ścianie, pod skrzynką pocztową oznaczoną 'D7'",
+        "Otwórzcie prawą skrzynkę kodem 9007",
         "Przejdźcie przez korytarz. Apartament to pierwsze drzwi po prawej (parter)",
         "Drzwi wejściowe są brązowe",
         "Po wejściu włóżcie metalowy klucz do gniazda klucza obok drzwi, aby włączyć prąd (tak jak w hotelach)",
@@ -3042,7 +3042,7 @@
           "caption": "Продолжать идти..."
         },
         {
-          "caption": "Два ключевых бокса под почтовым ящиком 'D7'. Откройте правый. Код: 9907"
+          "caption": "Два ключевых бокса под почтовым ящиком 'D7'. Откройте правый. Код: 9007"
         },
         {
           "caption": "Забрав ключи, пройдите через коридор и поверните направо"
@@ -3053,13 +3053,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "Два ключевых бокса на левой стене, под почтовым ящиком 'D7'. Откройте правый.",
+      "keyLocation": "Два ключевых бокса на правой стене, под почтовым ящиком 'D7'. Откройте правый.",
       "steps": [
         "Пройдите к зоне бассейна в задней части комплекса King's Park",
         "Пройдите мимо бассейна и поверните направо вдоль ограждения",
         "Поверните налево на первой каменной арке",
-        "Найдите два ключевых бокса на левой стене, под почтовым ящиком с надписью 'D7'",
-        "Откройте правый ключевой бокс кодом 9907",
+        "Найдите два ключевых бокса на правой стене, под почтовым ящиком с надписью 'D7'",
+        "Откройте правый ключевой бокс кодом 9007",
         "Пройдите по коридору. Апартаменты — первая дверь справа (первый этаж)",
         "Входная дверь коричневого цвета",
         "Войдя, вставьте металлический ключ в разъём рядом с дверью, чтобы включить электричество (как в отеле)",
@@ -3532,7 +3532,7 @@
           "caption": "המשיכו הלאה..."
         },
         {
-          "caption": "שתי תיבות מפתחות מתחת לתיבת דואר 'D7'. פתחו את זו שמימין. קוד: 9907"
+          "caption": "שתי תיבות מפתחות מתחת לתיבת דואר 'D7'. פתחו את זו שמימין. קוד: 9007"
         },
         {
           "caption": "אחרי לקיחת המפתחות, עברו דרך המעבר ופנו ימינה"
@@ -3543,13 +3543,13 @@
       ]
     },
     "checkin": {
-      "keyLocation": "שתי תיבות מפתחות על הקיר השמאלי, מתחת לתיבת דואר 'D7'. פתחו את זו שמימין.",
+      "keyLocation": "שתי תיבות מפתחות על הקיר הימני, מתחת לתיבת דואר 'D7'. פתחו את זו שמימין.",
       "steps": [
         "הליכה לאזור הבריכה בחלק האחורי של קומפלקס King's Park",
         "לעבור את הבריכה ולפנות ימינה לאורך הגדר שלה",
         "לפנות שמאלה במעבר הקשת הראשון מאבן",
-        "למצוא את שתי תיבות המפתחות בקיר השמאלי, מתחת לתיבת הדואר עם הכיתוב 'D7'",
-        "לפתוח את תיבת המפתחות הימנית עם הקוד 9907",
+        "למצוא את שתי תיבות המפתחות בקיר הימני, מתחת לתיבת הדואר עם הכיתוב 'D7'",
+        "לפתוח את תיבת המפתחות הימנית עם הקוד 9007",
         "לעבור דרך המסדרון. הדירה היא הדלת הראשונה מימין (קומת קרקע)",
         "דלת הכניסה חומה",
         "אחרי הכניסה, להכניס את המפתח המתכתי לשקע המפתח ליד הדלת כדי להפעיל את החשמל (בדיוק כמו במלונות)",

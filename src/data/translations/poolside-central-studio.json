@@ -70,10 +70,10 @@
       "copied": "Kopiert!",
       "contact": "Kontakt"
     },
-    "welcomeMessage": "Willkommen! Du bist mitten im Herzen von Paphos, nur wenige Schritte vom historischen Hafen entfernt. Eine voll ausgestattete Küche, ein sonniger Balkon und ein Gemeinschaftspool stehen dir zur Verfügung. Fühl dich wie zu Hause – meld dich jederzeit, wenn du etwas brauchst!",
+    "welcomeMessage": "Willkommen! Ihr seid mitten im Herzen von Paphos, nur wenige Schritte vom historischen Hafen entfernt. Eine voll ausgestattete Küche, ein sonniger Balkon und ein Gemeinschaftspool stehen euch zur Verfügung. Fühlt euch wie zu Hause – meldet euch jederzeit, wenn ihr etwas braucht!",
     "gettingHere": {
-      "byCar": "Fahr zum Kings Avenue Mall in Paphos. Der Byzantium Gardens-Komplex liegt direkt nebenan. ⚠️ Google Maps kann auf den letzten Metern irreführend sein und dich durch eine Fußgängerpromenade leiten – fahr stattdessen um den Block, um zur Haupteinfahrt zu gelangen. Weitere Details in der Fotoanleitung unten.",
-      "parking": "Parken ist kostenlos überall im Komplex. Benutz den Chip am Schlüsselbund, um das Haupttor zu öffnen. Zum Ausfahren mit dem Auto einfach vor dem STOP/WARTEN-Schild anhalten – das Tor öffnet sich automatisch.",
+      "byCar": "Fahrt zum Kings Avenue Mall in Paphos. Der Byzantium Gardens-Komplex liegt direkt nebenan. ⚠️ Google Maps kann auf den letzten Metern irreführend sein und euch durch eine Fußgängerpromenade leiten – fahrt stattdessen um den Block, um zur Haupteinfahrt zu gelangen. Weitere Details in der Fotoanleitung unten.",
+      "parking": "Parken ist kostenlos überall im Komplex. Benutzt den Chip am Schlüsselbund, um das Haupttor zu öffnen. Zum Ausfahren mit dem Auto einfach vor dem STOP/WARTEN-Schild anhalten – das Tor öffnet sich automatisch.",
       "publicTransport": "Bus 612 vom Flughafen Paphos (~35 Min. Fahrtzeit je nach Saison und Haltestellen), aussteigen an der Haltestelle Kings Avenue Mall (3 Min. Fußweg zur Wohnung). Haltestelle verpasst? Die nächste ist nur 10 Min. Fußweg entfernt. ⚠️ Nur Bargeld. 2,50 € pro Fahrt.",
       "taxi": "Taxis stehen vor dem Ankunftsbereich des Flughafens Paphos bereit. Preis: 40–45 € (tagsüber), 45–50 € (nachts). ~20–25 Min. Fahrtzeit. Eine etwas günstigere Alternative ist Bolt.",
       "directionPhotos": [
@@ -109,55 +109,55 @@
     "checkin": {
       "keyLocation": "Die Schlüsselbox befindet sich an der linken Seite der Wand, wenn du dem Haupttor gegenüberstehst.",
       "steps": [
-        "Fahr zu den Byzantium Gardens. Der Komplex liegt direkt neben dem Kings Avenue Mall (siehe Foto 1 für Kartenübersicht)",
-        "Find am Eingang die Schlüsselboxen an der linken Wand (Foto 2)",
-        "Halt den Chip/Transponder an das Lesegerät, um die Eingangstür zu öffnen (Foto 3)",
-        "Öffne die linke Box in der 2. Reihe mit Code: 9900, um deine Schlüssel zu entnehmen (Foto 4)",
-        "Bei Anreise mit dem Auto: nutz das Gerät auf der rechten Seite, wenn du dem Haupttor gegenüberstehst (Foto 5)",
+        "Fahrt zu den Byzantium Gardens. Der Komplex liegt direkt neben dem Kings Avenue Mall (siehe Foto 1 für Kartenübersicht)",
+        "Findet am Eingang die Schlüsselboxen an der linken Wand (Foto 2)",
+        "Haltet den Chip/Transponder an das Lesegerät, um die Eingangstür zu öffnen (Foto 3)",
+        "Öffnet die linke Box in der 2. Reihe mit Code: 9900, um eure Schlüssel zu entnehmen (Foto 4)",
+        "Bei Anreise mit dem Auto: nutzt das Gerät auf der rechten Seite, wenn ihr dem Haupttor gegenübersteht (Foto 5)",
         "Einfahren, Block B passieren. Block C und Parkplatz liegen direkt dahinter (Foto 6)",
         "Bei Block C: Eingang links nehmen und ins 1. Obergeschoss. Aufzug vorhanden (Foto 7)",
-        "Deine Wohnung ist Tür Nr. 106, direkt neben dem Aufzug (Foto 8)"
+        "Eure Wohnung ist Tür Nr. 106, direkt neben dem Aufzug (Foto 8)"
       ],
-      "notes": "Falls du Schwierigkeiten hast, uns zu finden, ruf uns einfach an oder schreib uns per WhatsApp – wir führen dich gerne Schritt für Schritt."
+      "notes": "Falls ihr Schwierigkeiten habt, uns zu finden, ruft uns einfach an oder schreibt uns per WhatsApp – wir führen euch gerne Schritt für Schritt."
     },
     "houseRules": [
-      "Bitte rauch nur auf dem Balkon oder der Terrasse, nicht drinnen",
-      "Bitte sei rücksichtsvoll. Ruhezeiten sind von 23:00 bis 8:00 Uhr. Keine Partys oder Veranstaltungen",
+      "Bitte raucht nur auf dem Balkon oder der Terrasse, nicht drinnen",
+      "Bitte seid rücksichtsvoll. Ruhezeiten sind von 23:00 bis 8:00 Uhr. Keine Partys oder Veranstaltungen",
       "Wir lieben Tiere, können aber leider keine Haustiere aufnehmen. Tut uns leid!",
-      "Benutz bitte den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation kann das wirklich nicht verarbeiten",
-      "Steck den Metallschlüssel in den Stromanschluss neben der Tür, wenn du drinnen bist, und nimm ihn mit, wenn du gehst",
-      "Schließ Balkon- und Terrassentüren sowie Fenster, wenn die Klimaanlage läuft, um die Wohnung kühl zu halten und Energie zu sparen",
-      "Bitte leg die Schlüssel bei der Abreise in die Schlüsselbox zurück und setz den Code zurück. Bei verlorenen oder eingeschlossenen Schlüsseln trägst du die Kosten für den Schlüsseldienst – also gib gut auf sie acht!",
-      "Behandle die Wohnung bitte wie deine eigene und sag uns sofort Bescheid, wenn etwas kaputt geht. Wir wissen, dass Unfälle passieren"
+      "Benutzt bitte den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation kann das wirklich nicht verarbeiten",
+      "Steckt den Metallschlüssel in den Stromanschluss neben der Tür, wenn ihr drinnen seid, und nehmt ihn mit, wenn ihr geht",
+      "Schließt Balkon- und Terrassentüren sowie Fenster, wenn die Klimaanlage läuft, um die Wohnung kühl zu halten und Energie zu sparen",
+      "Bitte legt die Schlüssel bei der Abreise in die Schlüsselbox zurück und setzt den Code zurück. Bei verlorenen oder eingeschlossenen Schlüsseln tragt ihr die Kosten für den Schlüsseldienst – also gebt gut auf sie acht!",
+      "Behandelt die Wohnung bitte wie eure eigene und sagt uns sofort Bescheid, wenn etwas kaputt geht. Wir wissen, dass Unfälle passieren"
     ],
     "appliances": [
       {
         "name": "Strom",
-        "instructions": "Jede Steckdose hat einen eigenen Wandschalter – wenn etwas nicht funktioniert, ist der Schalter meist der Grund. EU-Adapter sind vorhanden, falls du sie brauchst."
+        "instructions": "Jede Steckdose hat einen eigenen Wandschalter – wenn etwas nicht funktioniert, ist der Schalter meist der Grund. EU-Adapter sind vorhanden, falls ihr sie braucht."
       },
       {
         "name": "Küche",
-        "instructions": "Alles, was du brauchst, ist da: Elektroherd, Backofen, Heißluftfritteuse, Kaffeemaschine und Mühle. Salz, Pfeffer, Olivenöl und Kaffeebohnen sind für dich da. Tipp: Bitte spül das Geschirr zeitnah und halt die Arbeitsflächen frei – warmes Wetter kann Insekten anlocken."
+        "instructions": "Alles, was ihr braucht, ist da: Elektroherd, Backofen, Heißluftfritteuse, Kaffeemaschine und Mühle. Salz, Pfeffer, Olivenöl und Kaffeebohnen sind für euch da. Tipp: Bitte spült das Geschirr zeitnah und haltet die Arbeitsflächen frei – warmes Wetter kann Insekten anlocken."
       },
       {
         "name": "Waschmaschine",
-        "instructions": "Das Schnellwaschprogramm funktioniert für die meisten Wäscheladungen gut. Du findest sie in der Küche."
+        "instructions": "Das Schnellwaschprogramm funktioniert für die meisten Wäscheladungen gut. Ihr findet sie in der Küche."
       },
       {
         "name": "Dusche & Warmwasser",
-        "instructions": "Das Wasser wird durch Solarpanele auf dem Dach erhitzt – daher ist es warm und umweltfreundlich! Gib dem Wasser 2–3 Minuten Zeit, anzukommen – es muss den Weg von den Paneelen herunter nehmen. An bewölkten Tagen reicht die Sonne möglicherweise nicht aus: Drück den Boiler-Knopf neben der Badezimmertür und warte 20–30 Minuten pro Person vor dem Duschen. ⚠️ Schalt den Boiler immer aus, bevor du unter die Dusche gehst."
+        "instructions": "Das Wasser wird durch Solarpanele auf dem Dach erhitzt – daher ist es warm und umweltfreundlich! Gebt dem Wasser 2–3 Minuten Zeit, anzukommen – es muss den Weg von den Paneelen herunter nehmen. An bewölkten Tagen reicht die Sonne möglicherweise nicht aus: Drückt den Boiler-Knopf neben der Badezimmertür und wartet 20–30 Minuten pro Person vor dem Duschen. ⚠️ Schaltet den Boiler immer aus, bevor ihr unter die Dusche geht."
       },
       {
         "name": "Poolzugang",
-        "instructions": "Der Pool steht allen Gästen offen – kein Schlüssel nötig, einfach jederzeit hinuntergehen! Bitte benutz die mitgebrachten Strandtücher statt der Badezimmertücher und halt Glas und Springen aus dem Poolbereich heraus. Sei auch rücksichtsvoll gegenüber anderen Gästen."
+        "instructions": "Der Pool steht allen Gästen offen – kein Schlüssel nötig, einfach jederzeit hinuntergehen! Bitte benutzt die mitgebrachten Strandtücher statt der Badezimmertücher und haltet Glas und Springen aus dem Poolbereich heraus. Seid auch rücksichtsvoll gegenüber anderen Gästen."
       },
       {
         "name": "Badezimmer",
-        "instructions": "Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Bitte benutz den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation ist wirklich nicht dafür ausgelegt!"
+        "instructions": "Handtücher, ein Haartrockner und grundlegende Toilettenartikel sind vorhanden. Bitte benutzt den Mülleimer neben der Toilette statt Papier zu spülen – die zyprische Kanalisation ist wirklich nicht dafür ausgelegt!"
       },
       {
         "name": "Trinkwasser",
-        "instructions": "Leitungswasser ist sicher zu trinken, obwohl viele Gäste Flaschenwasser bevorzugen. Du findest es in den nahegelegenen Supermärkten."
+        "instructions": "Leitungswasser ist sicher zu trinken, obwohl viele Gäste Flaschenwasser bevorzugen. Ihr findet es in den nahegelegenen Supermärkten."
       }
     ],
     "thingsToDo": [
@@ -440,7 +440,7 @@
         "info": "Bolt ist eine günstige Taxi-App – eine gute Alternative zu herkömmlichen Taxis in Paphos."
       },
       {
-        "info": "Verschiedene Taxidienste sind online verfügbar. Eine zuverlässige Option ist Paphos Taxi Airport, wo du auch direkt per WhatsApp einen Abholtermin vereinbaren kannst: +357 99 460 829."
+        "info": "Verschiedene Taxidienste sind online verfügbar. Eine zuverlässige Option ist Paphos Taxi Airport, wo ihr auch direkt per WhatsApp einen Abholtermin vereinbaren könnt: +357 99 460 829."
       }
     ],
     "emergency": {
@@ -455,7 +455,7 @@
           "note": "Polizeiwache Paphos"
         }
       ],
-      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Frag uns, wenn du eine Empfehlung brauchst."
+      "nearestPharmacy": "Mehrere Apotheken in Gehweite auf der Hauptstraße. Fragt uns, wenn ihr eine Empfehlung braucht."
     },
     "checkout": {
       "steps": [
@@ -1480,11 +1480,11 @@
       "copied": "Copié !",
       "contact": "Contact"
     },
-    "welcomeMessage": "Bienvenue ! Tu es en plein cœur de Paphos, à deux pas du port historique. Une cuisine complète, un balcon ensoleillé et une piscine commune sont à ta disposition. Fais comme chez toi – n'hésite pas à nous contacter à tout moment si tu as besoin de quoi que ce soit !",
+    "welcomeMessage": "Bienvenue ! Vous êtes en plein cœur de Paphos, à deux pas du port historique. Une cuisine complète, un balcon ensoleillé et une piscine commune sont à votre disposition. Faites comme chez vous – n'hésitez pas à nous contacter à tout moment si vous avez besoin de quoi que ce soit !",
     "gettingHere": {
-      "byCar": "Dirige-toi vers le Kings Avenue Mall à Paphos. Le complexe Byzantium Gardens se trouve juste à côté. ⚠️ Google Maps peut t'induire en erreur sur le dernier tronçon en te faisant passer par une promenade piétonne – contourne le pâté de maisons pour atteindre l'entrée principale. Consulte le guide photo ci-dessous pour plus de détails.",
-      "parking": "Le stationnement est gratuit partout dans le complexe. Utilise la puce sur le trousseau pour ouvrir le portail principal. Pour sortir en voiture, avance devant le panneau STOP / ATTENDRE – le portail s'ouvre automatiquement.",
-      "publicTransport": "Bus 612 depuis l'aéroport de Paphos (~35 min selon la saison et les arrêts), descends à l'arrêt Kings Avenue Mall (3 min à pied). Tu as raté l'arrêt ? Le suivant est à seulement 10 min à pied. ⚠️ Espèces uniquement. 2,50 € par trajet.",
+      "byCar": "Dirigez-vous vers le Kings Avenue Mall à Paphos. Le complexe Byzantium Gardens se trouve juste à côté. ⚠️ Google Maps peut vous induire en erreur sur le dernier tronçon en vous faisant passer par une promenade piétonne – contournez le pâté de maisons pour atteindre l'entrée principale. Consultez le guide photo ci-dessous pour plus de détails.",
+      "parking": "Le stationnement est gratuit partout dans le complexe. Utilisez la puce sur le trousseau pour ouvrir le portail principal. Pour sortir en voiture, avancez devant le panneau STOP / ATTENDRE – le portail s'ouvre automatiquement.",
+      "publicTransport": "Bus 612 depuis l'aéroport de Paphos (~35 min selon la saison et les arrêts), descendez à l'arrêt Kings Avenue Mall (3 min à pied). Vous avez raté l'arrêt ? Le suivant est à seulement 10 min à pied. ⚠️ Espèces uniquement. 2,50 € par trajet.",
       "taxi": "Des taxis attendent devant les arrivées de l'aéroport de Paphos. Tarif : 40–45 € (de jour), 45–50 € (en dehors des heures normales). ~20–25 min. Une option légèrement moins chère est Bolt.",
       "directionPhotos": [
         {
@@ -1519,47 +1519,47 @@
     "checkin": {
       "keyLocation": "La boîte à clés se trouve sur le côté gauche du mur face au portail principal.",
       "steps": [
-        "Rends-toi aux Byzantium Gardens. Le complexe se trouve juste à côté du Kings Avenue Mall (voir photo 1 pour la vue d'ensemble)",
-        "À l'entrée, trouve les boîtes à clés sur le mur de gauche (photo 2)",
-        "Pose la puce/le badge sur le lecteur pour ouvrir la porte d'entrée (photo 3)",
-        "Ouvre la boîte de gauche de la 2e rangée avec le code : 9900 pour récupérer tes clés (photo 4)",
-        "Si tu arrives en voiture, utilise la machine sur ta droite face au portail principal pour l'ouvrir (photo 5)",
-        "Entre, dépasse le Bloc B. Le Bloc C et le parking sont juste devant (photo 6)",
-        "Au Bloc C, prends l'entrée à gauche et monte au 1er étage. Ascenseur disponible (photo 7)",
-        "Ton appartement est la porte n° 106, juste à côté de l'ascenseur (photo 8)"
+        "Rendez-vous aux Byzantium Gardens. Le complexe se trouve juste à côté du Kings Avenue Mall (voir photo 1 pour la vue d'ensemble)",
+        "À l'entrée, trouvez les boîtes à clés sur le mur de gauche (photo 2)",
+        "Posez la puce/le badge sur le lecteur pour ouvrir la porte d'entrée (photo 3)",
+        "Ouvrez la boîte de gauche de la 2e rangée avec le code : 9900 pour récupérer vos clés (photo 4)",
+        "Si vous arrivez en voiture, utilisez la machine sur votre droite face au portail principal pour l'ouvrir (photo 5)",
+        "Entrez, dépassez le Bloc B. Le Bloc C et le parking sont juste devant (photo 6)",
+        "Au Bloc C, prenez l'entrée à gauche et montez au 1er étage. Ascenseur disponible (photo 7)",
+        "Votre appartement est la porte n° 106, juste à côté de l'ascenseur (photo 8)"
       ],
-      "notes": "Si tu as du mal à nous trouver, appelle-nous ou envoie-nous un WhatsApp à tout moment – nous serons ravis de te guider étape par étape."
+      "notes": "Si vous avez du mal à nous trouver, appelez-nous ou envoyez-nous un WhatsApp à tout moment – nous serons ravis de vous guider étape par étape."
     },
     "houseRules": [
       "Merci de fumer uniquement sur les balcons et terrasses",
       "Merci de respecter la tranquillité. Les heures calmes sont de 23h à 8h. Ni fêtes ni événements",
       "Nous adorons les animaux, mais nous ne pouvons malheureusement pas les accueillir. Désolés !",
       "Merci d'utiliser la poubelle à côté des toilettes plutôt que de tirer la chasse – la plomberie chypriote ne peut vraiment pas le gérer",
-      "Place la clé métallique dans la prise électrique près de la porte lorsque tu es à l'intérieur, et emporte-la avec toi en partant",
-      "Ferme les portes du balcon/terrasse et les fenêtres lorsque la climatisation fonctionne, pour garder la fraîcheur et économiser l'énergie",
-      "Merci de remettre les clés dans la boîte et de réinitialiser le code en partant. En cas de clés perdues ou enfermées à l'intérieur, les frais de serrurier seront à ta charge – prends-en soin !",
-      "Traite l'appartement comme le tien et signale-nous immédiatement tout dommage. Nous comprenons que les accidents arrivent"
+      "Placez la clé métallique dans la prise électrique près de la porte lorsque vous êtes à l'intérieur, et emportez-la avec vous en partant",
+      "Fermez les portes du balcon/terrasse et les fenêtres lorsque la climatisation fonctionne, pour garder la fraîcheur et économiser l'énergie",
+      "Merci de remettre les clés dans la boîte et de réinitialiser le code en partant. En cas de clés perdues ou enfermées à l'intérieur, les frais de serrurier seront à votre charge – prenez-en soin !",
+      "Traitez l'appartement comme le vôtre et signalez-nous immédiatement tout dommage. Nous comprenons que les accidents arrivent"
     ],
     "appliances": [
       {
         "name": "Électricité",
-        "instructions": "Chaque prise possède son propre interrupteur mural – si quelque chose ne fonctionne pas, l'interrupteur en est souvent la cause. Des adaptateurs EU sont disponibles si tu en as besoin."
+        "instructions": "Chaque prise possède son propre interrupteur mural – si quelque chose ne fonctionne pas, l'interrupteur en est souvent la cause. Des adaptateurs EU sont disponibles si vous en avez besoin."
       },
       {
         "name": "Cuisine",
-        "instructions": "Tout ce qu'il te faut est là : plaque électrique, four, air fryer, cafetière et moulin. Sel, poivre, huile d'olive et grains de café sont à ta disposition. Un conseil : merci de laver la vaisselle rapidement et de garder les plans de travail dégagés – la chaleur peut attirer des insectes."
+        "instructions": "Tout ce qu'il vous faut est là : plaque électrique, four, air fryer, cafetière et moulin. Sel, poivre, huile d'olive et grains de café sont à votre disposition. Un conseil : merci de laver la vaisselle rapidement et de garder les plans de travail dégagés – la chaleur peut attirer des insectes."
       },
       {
         "name": "Machine à laver",
-        "instructions": "Le programme lavage rapide convient à la plupart des charges. Tu la trouveras dans la cuisine."
+        "instructions": "Le programme lavage rapide convient à la plupart des charges. Vous la trouverez dans la cuisine."
       },
       {
         "name": "Douche & eau chaude",
-        "instructions": "L'eau est chauffée par des panneaux solaires sur le toit – elle est donc chaude et écologique ! Laisse 2–3 minutes pour qu'elle arrive, le temps de descendre des panneaux. Par temps nuageux, le solaire peut ne pas suffire : appuie sur le bouton du chauffe-eau à côté de la porte de salle de bain et attends 20–30 minutes par personne avant de te doucher. ⚠️ Éteins toujours le chauffe-eau avant d'entrer sous la douche."
+        "instructions": "L'eau est chauffée par des panneaux solaires sur le toit – elle est donc chaude et écologique ! Laissez 2–3 minutes pour qu'elle arrive, le temps de descendre des panneaux. Par temps nuageux, le solaire peut ne pas suffire : appuyez sur le bouton du chauffe-eau à côté de la porte de salle de bain et attendez 20–30 minutes par personne avant de vous doucher. ⚠️ Éteignez toujours le chauffe-eau avant d'entrer sous la douche."
       },
       {
         "name": "Accès piscine",
-        "instructions": "La piscine est ouverte à tous les clients – pas besoin de clé, descends simplement quand tu veux ! Merci d'utiliser les serviettes de plage fournies plutôt que les serviettes de bain, et d'éviter le verre et les plongeons. Sois attentif aux autres clients."
+        "instructions": "La piscine est ouverte à tous les clients – pas besoin de clé, descendez simplement quand vous voulez ! Merci d'utiliser les serviettes de plage fournies plutôt que les serviettes de bain, et d'éviter le verre et les plongeons. Soyez attentifs aux autres clients."
       },
       {
         "name": "Salle de bain",
@@ -1567,7 +1567,7 @@
       },
       {
         "name": "Eau potable",
-        "instructions": "L'eau du robinet est potable, bien que de nombreux clients préfèrent l'eau en bouteille. Tu en trouveras dans les supermarchés à proximité."
+        "instructions": "L'eau du robinet est potable, bien que de nombreux clients préfèrent l'eau en bouteille. Vous en trouverez dans les supermarchés à proximité."
       }
     ],
     "thingsToDo": [
@@ -1841,7 +1841,7 @@
     ],
     "gettingAround": [
       {
-        "info": "La gare routière centrale (Tombes des Rois) est à 18 min à pied (~1,3 km), avec des connexions directes vers les principales attractions, l'aéroport et les villes voisines. Les arrêts sont désormais aussi sur Google Maps, mais vérifie toujours le site officiel pour les horaires."
+        "info": "La gare routière centrale (Tombes des Rois) est à 18 min à pied (~1,3 km), avec des connexions directes vers les principales attractions, l'aéroport et les villes voisines. Les arrêts sont désormais aussi sur Google Maps, mais vérifiez toujours le site officiel pour les horaires."
       },
       {
         "info": "RideNow est une appli d'autopartage qui fonctionne bien à Paphos. Inscription en quelques minutes. Des voitures sont généralement disponibles à 5–10 min à pied."
@@ -1850,7 +1850,7 @@
         "info": "Bolt est une appli de taxi économique – une bonne alternative aux taxis classiques à Paphos."
       },
       {
-        "info": "Plusieurs services de taxi sont disponibles en ligne. Une option fiable est Paphos Taxi Airport, où tu peux aussi organiser un transfert directement par WhatsApp : +357 99 460 829."
+        "info": "Plusieurs services de taxi sont disponibles en ligne. Une option fiable est Paphos Taxi Airport, où vous pouvez aussi organiser un transfert directement par WhatsApp : +357 99 460 829."
       }
     ],
     "emergency": {
@@ -1865,7 +1865,7 @@
           "note": "Commissariat de Paphos"
         }
       ],
-      "nearestPharmacy": "Plusieurs pharmacies à quelques minutes à pied sur la rue principale. Contacte-nous si tu as besoin d'une recommandation."
+      "nearestPharmacy": "Plusieurs pharmacies à quelques minutes à pied sur la rue principale. Contactez-nous si vous avez besoin d'une recommandation."
     },
     "checkout": {
       "steps": [

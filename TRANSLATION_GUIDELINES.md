@@ -44,6 +44,7 @@ check-out notes, contact messages, everything).
 | Hungarian (`hu`) | te / neked / tiéd | Ön / Öntől / Magának |
 | Polish (`pl`) | Ty / Twój (capitalized) | Pan / Pani |
 | Russian (`ru`) | ты / тебя / твой (lowercase) | Вы / Вас / Ваш (capitalized formal) |
+| Ukrainian (`uk`) | ти / тебе / твій (lowercase) | Ви / Вас / Ваш (capitalized formal) |
 
 Polish already follows this house style (capitalized `Ty`/`Twój` is the standard warm,
 polite-but-informal register in written Polish) — use it as the reference tone when in

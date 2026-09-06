@@ -149,7 +149,7 @@
       },
       {
         "name": "Poolzugang",
-        "instructions": "Der Pool steht allen Gästen offen – kein Schlüssel nötig, einfach jederzeit hinuntergehen! Bitte benutzt die mitgebrachten Strandtücher statt der Badezimmertücher und haltet Glas und Springen aus dem Poolbereich heraus. Seid auch rücksichtsvoll gegenüber anderen Gästen."
+        "instructions": "Der Pool steht allen Gästen offen – kein Schlüssel nötig, einfach jederzeit hinuntergehen! Bitte benutzt die bereitgestellten Strandtücher statt der Badezimmertücher, und verzichtet im Poolbereich auf Glas und Sprünge. Seid auch rücksichtsvoll gegenüber anderen Gästen."
       },
       {
         "name": "Badezimmer",
@@ -180,7 +180,7 @@
             "tip": "Organisierter Strand mit Einrichtungen, gut für Familien. Leichter mit dem Auto oder Bus als zu Fuß zu erreichen."
           },
           {
-            "tip": "Die sicherste und beste Strandwahl in der Nähe von Paphos. Sandig, organisiert, einfach. Schwer, einen Fehler zu machen."
+            "tip": "Die sicherste und beste Strandwahl in der Nähe von Paphos. Sandig, organisiert, einfach. Kaum etwas kann schiefgehen."
           },
           {
             "tip": "Meine bevorzugte Alternative zu Coral Bay. Ähnlicher Komfort, normalerweise ruhiger."
@@ -544,7 +544,7 @@
     "gettingHere": {
       "byCar": "Hajtsatok a páphoszi Kings Avenue Mall-hoz. A Byzantium Gardens komplexum közvetlenül mellette van. ⚠️ A Google Maps navigáció félrevezető lehet ennél a címnél – az utolsó méterekben sétálóutcán vezethet. Ehelyett kerüljétek meg a tömböt, hogy a főbejárathoz érjetek. Részletek az alábbi fotóútmutatóban.",
       "parking": "Parkolás ingyenes a komplexum egész területén. A kulcstartón lévő chippel nyissátok ki a főkaput. Autóval való kilépéshez hajtsatok a STOP/VÁRAKOZÁS tábla elé – az ajtók automatikusan kinyílnak.",
-      "publicTransport": "A páphoszi repülőtérről a 612-es busszal (~35 perc, szezon és megállók szerint változó), le a Kings Avenue Mall megállónál (3 perc gyaloglás a lakásig). Lemaradt a megállóról? A következő csak 10 perc gyaloglás. ⚠️ Csak készpénz. 2,50 € per út.",
+      "publicTransport": "A páphoszi repülőtérről a 612-es busszal (~35 perc, szezon és megállók szerint változó), szálljatok le a Kings Avenue Mall megállónál (3 perc gyaloglás a lakásig). Lemaradt a megállóról? A következő csak 10 perc gyaloglás. ⚠️ Csak készpénz. 2,50 € utanként.",
       "taxi": "Taxi közvetlenül a páphoszi repülőtér érkezési területe előtt áll rendelkezésre. Ár: 40–45 € (nappal), 45–50 € (éjszakai). ~20–25 perc. Valamivel olcsóbb lehetőség a Bolt.",
       "directionPhotos": [
         {
@@ -2389,7 +2389,7 @@
       "ruleTitleLostKeys": "Zgubione klucze",
       "ruleTitleKeys": "Klucze",
       "ruleTitlePropertyCare": "Dbałość o nieruchomość",
-      "stepTitleFridge": "Oprózni lodówkę",
+      "stepTitleFridge": "Opróżnij lodówkę",
       "stepTitleDishes": "Umyj naczynia",
       "stepTitleRubbish": "Wyrzuć śmieci",
       "stepTitleCushions": "Deszcz? Wnieś poduszki",
@@ -2475,7 +2475,7 @@
       "Prosimy o spokój. Godziny ciszy nocnej: 23:00–8:00. Imprezy i wydarzenia są niedozwolone",
       "Uwielbiamy zwierzęta, ale niestety nie możemy ich przyjmować. Przepraszamy!",
       "Prosimy używać kosza przy toalecie zamiast spuszczać papier – cypryjska kanalizacja naprawdę sobie z tym nie radzi",
-      "Włóżcie metalowy klucz do gniazdka elektrycznego przy drzwiach, gdy jesteście w środku, i zabercie go ze sobą wychodząc",
+      "Włóżcie metalowy klucz do gniazdka elektrycznego przy drzwiach, gdy jesteście w środku, i zabierzcie go ze sobą wychodząc",
       "Zamykajcie drzwi balkonowe i okna, gdy działa klimatyzacja, aby utrzymać chłód i oszczędzać energię",
       "Prosimy o zwrot kluczy do skrzynki i reset kodu przy wyjeździe. W przypadku zagubienia lub zablokowania kluczy w środku, koszty ślusarza poniesie gość – dbajcie o klucze!",
       "Traktujcie mieszkanie jak własne i dajcie nam znać natychmiast, jeśli coś się uszkodzi. Rozumiemy, że wypadki się zdarzają"
@@ -2606,10 +2606,10 @@
             "tip": "Jeden z najłatwiejszych wieczornych planów z Avlidy. Kolacja, drinki i spokojny spacer nad morzem."
           },
           {
-            "tip": "Najlepsza pobliża atrakcja dla rodzin. Łatwa opcja na pół dnia lub cały dzień w gorące dni."
+            "tip": "Najlepsza pobliska atrakcja dla rodzin. Łatwa opcja na pół dnia lub cały dzień w gorące dni."
           },
           {
-            "tip": "Najprostsza klasyczna wycieczka na plażę. Piasek, leżaki i udogodnienia. Trudno się rozczarować."
+            "tip": "Najprostsza klasyczna wycieczka na plażę. Piasek, leżaki i udogodnienia. Trudno się pomylić."
           },
           {
             "tip": "Miła alternatywa dla plaży i historii. Rezerwuj z wyprzedzeniem, zwłaszcza w wysokim sezonie."
@@ -2703,7 +2703,7 @@
             "tip": "Najprostsza opcja kolacji bez samochodu w pobliżu Avlidy. Klasyfikowany wśród najlepszych restauracji w pobliżu Grobowców Królów."
           },
           {
-            "tip": "Niezawodna pobliża opcja przy Alei Grobowców Królów. Kuchnia grecka i śródziemnomorska z wysokimi ocenami gości."
+            "tip": "Niezawodna pobliska opcja przy Alei Grobowców Królów. Kuchnia grecka i śródziemnomorska z wysokimi ocenami gości."
           },
           {
             "tip": "Dobre na łatwe śniadanie lub lunch blisko domu. Przyjazna obsługa i świetna wartość."
@@ -3297,7 +3297,7 @@
       "accessCode": "קוד גישה",
       "stepByStep": "צעד אחר צעד",
       "houseRules": "כללי הבית",
-      "houseRulesAcknowledgment": "בביצוע הצ'ק-אין, אתם מסכימים לפעול לפי כל כללי הבית שלמעלה.",
+      "houseRulesAcknowledgment": "בעת הצ'ק-אין, אתם מסכימים לפעול לפי כל כללי הבית שלמעלה.",
       "gettingHere": "איך מגיעים",
       "openGoogleMaps": "פתחו ב-Google Maps",
       "byCar": "ברכב",

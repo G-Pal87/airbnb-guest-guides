@@ -647,7 +647,7 @@
           {
             "name": "San Andrés falu",
             "distance": "Autó vagy busz",
-            "tip": "Ha a ház közelében szeretne étkezni, menjen San Andrésbe vagy Santa Cruz belvárosába. Las Teresitasnál kis tengerparti bárok találhatók italokhoz és tapashoz, de egy rendes étkezéshez jobb San Andrés faluba menni."
+            "tip": "Ha a ház közelében szeretnél étkezni, menj San Andrésbe vagy Santa Cruz belvárosába. Las Teresitasnál kis tengerparti bárok találhatók italokhoz és tapashoz, de egy rendes étkezéshez jobb San Andrés faluba menni."
           },
           {
             "name": "Tasca El Asunto Los Parres",
@@ -831,7 +831,7 @@
     "gettingAround": [
       {
         "name": "Busz",
-        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz vegyél a TITSA 910-es vonalára San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
+        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz szállj fel a TITSA 910-es vonalára San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
       }
     ],
     "emergency": {
@@ -2189,7 +2189,7 @@
       "ruleTitleLostKeys": "Zgubione klucze",
       "ruleTitleKeys": "Klucze",
       "ruleTitlePropertyCare": "Dbałość o nieruchomość",
-      "stepTitleFridge": "Oprózni lodówkę",
+      "stepTitleFridge": "Opróżnij lodówkę",
       "stepTitleDishes": "Umyj naczynia",
       "stepTitleRubbish": "Wyrzuć śmieci",
       "stepTitleCushions": "Deszcz? Wnieś poduszki",
@@ -2587,7 +2587,7 @@
       "accessCode": "Код доступа",
       "stepByStep": "Шаг за шагом",
       "houseRules": "Правила дома",
-      "houseRulesAcknowledgment": "Заезжая, вы соглашаетесь соблюдать все вышеуказанные правила проживания.",
+      "houseRulesAcknowledgment": "Заезжая, ты соглашаешься соблюдать все вышеуказанные правила проживания.",
       "gettingHere": "Как добраться",
       "openGoogleMaps": "Открыть в Google Maps",
       "byCar": "На машине",
@@ -2772,7 +2772,7 @@
           {
             "name": "Boca Cangrejo",
             "distance": "Машина или автобус",
-            "tip": "Boca Cangrejo — небольшая и очень очаровательная канарская деревня с маленьким пляжем, традиционными рыбацкими лодками, белыми домами, приятными местными барами и отличным рестораном со свежей рыбой и паэльей. Обратите внимание на бухту, украшенную разноцветными сердечками и рисунками местного рыбака."
+            "tip": "Boca Cangrejo — небольшая и очень очаровательная канарская деревня с маленьким пляжем, традиционными рыбацкими лодками, белыми домами, приятными местными барами и отличным рестораном со свежей рыбой и паэльей. Обрати внимание на бухту, украшенную разноцветными сердечками и рисунками местного рыбака."
           },
           {
             "name": "Playa Montaña Roja",
@@ -2797,7 +2797,7 @@
           {
             "name": "Деревня San Andrés",
             "distance": "Машина или автобус",
-            "tip": "Чтобы поесть недалеко от дома, отправляйтесь в San Andrés или в центр Санта-Круса. В Las Teresitas есть небольшие пляжные бары для напитков и тапас, но для полноценного обеда лучше поехать в деревню San Andrés."
+            "tip": "Чтобы поесть недалеко от дома, отправляйся в San Andrés или в центр Санта-Круса. В Las Teresitas есть небольшие пляжные бары для напитков и тапас, но для полноценного обеда лучше поехать в деревню San Andrés."
           },
           {
             "name": "Tasca El Asunto Los Parres",
@@ -2857,7 +2857,7 @@
           {
             "name": "Masca",
             "distance": "Машина или автобус",
-            "tip": "Masca — одна из самых красивых деревень на острове, а может, и на всех Канарских островах. Съездите туда, погуляйте, попробуйте миндальный пирог, тропические фруктовые соки и, может быть, сходите в поход. Останьтесь на закат, если будет возможность."
+            "tip": "Masca — одна из самых красивых деревень на острове, а может, и на всех Канарских островах. Съезди туда, погуляй, попробуй миндальный пирог, тропические фруктовые соки и, может быть, сходи в поход. Останься на закат, если будет возможность."
           }
         ]
       },
@@ -2877,7 +2877,7 @@
           {
             "name": "Гора Тейде",
             "distance": "Машина или автобус",
-            "tip": "Гора Тейде — вулкан и самая высокая точка Испании, 3715 метров. Можно доехать на машине или автобусе до высоты около 2200 метров, а затем подняться пешком или на фуникулере. Подъем занимает около 4-5 часов, в зависимости от вашей физической подготовки. Для последних 50 метров до вершины нужно заранее зарегистрироваться. Даже без этого последнего участка вид потрясающий и стоит всех усилий. Это не самый легкий поход, и наверху может быть холодно, но оно того определенно стоит."
+            "tip": "Гора Тейде — вулкан и самая высокая точка Испании, 3715 метров. Можно доехать на машине или автобусе до высоты около 2200 метров, а затем подняться пешком или на фуникулере. Подъем занимает около 4-5 часов, в зависимости от твоей физической подготовки. Для последних 50 метров до вершины нужно заранее зарегистрироваться. Даже без этого последнего участка вид потрясающий и стоит всех усилий. Это не самый легкий поход, и наверху может быть холодно, но оно того определенно стоит."
           },
           {
             "name": "Район Оротава",
@@ -2887,12 +2887,12 @@
           {
             "name": "Barranco de Masca",
             "distance": "Машина или автобус",
-            "tip": "Если вы посетите Masca и любите пешие прогулки, стоит рассмотреть Barranco de Masca."
+            "tip": "Если ты посетишь Masca и любишь пешие прогулки, стоит рассмотреть Barranco de Masca."
           },
           {
             "name": "Приложение Komoot",
             "distance": "Совет",
-            "tip": "Совет: используйте приложение Komoot. Оно очень точное, и там много записанных маршрутов для походов по Тенерифе."
+            "tip": "Совет: используй приложение Komoot. Оно очень точное, и там много записанных маршрутов для походов по Тенерифе."
           }
         ]
       },
@@ -2953,7 +2953,7 @@
           {
             "name": "Аптека",
             "distance": "Пешком",
-            "tip": "Рядом с главной дорогой есть еще одна аптека. Пожалуйста, уточните текущие часы работы в Google Maps."
+            "tip": "Рядом с главной дорогой есть еще одна аптека. Пожалуйста, уточни текущие часы работы в Google Maps."
           },
           {
             "name": "HiperDino",
@@ -2981,7 +2981,7 @@
     "gettingAround": [
       {
         "name": "Автобус",
-        "info": "Чтобы путешествовать по Тенерифе на общественном транспорте, начните с сайта TITSA или приложения TITSA. Из Valleseco проще всего сначала доехать до Интеркамбьядора Санта-Крус — главной автостанции в Санта-Крусе. Оттуда можно пройти пешком до центра города, доехать на трамвае до Ла-Лагуны или пересесть на автобусы, идущие в другие города, аэропорты, на пляжи и на юг острова. Чтобы добраться до Playa de Las Teresitas, воспользуйтесь автобусом TITSA линии 910 в направлении San Andrés / Playa de Las Teresitas. Автобус можно поймать в районе Valleseco, когда он там проходит, либо сначала доехать до Интеркамбьядора Санта-Крус и там сделать пересадку. Перед выездом рекомендую уточнить точный маршрут в Google Maps, на сайте TITSA или в приложении TITSA, так как расписание автобусов может меняться в зависимости от дня, сезона и праздников."
+        "info": "Чтобы путешествовать по Тенерифе на общественном транспорте, начни с сайта TITSA или приложения TITSA. Из Valleseco проще всего сначала доехать до Интеркамбьядора Санта-Крус — главной автостанции в Санта-Крусе. Оттуда можно пройти пешком до центра города, доехать на трамвае до Ла-Лагуны или пересесть на автобусы, идущие в другие города, аэропорты, на пляжи и на юг острова. Чтобы добраться до Playa de Las Teresitas, воспользуйся автобусом TITSA линии 910 в направлении San Andrés / Playa de Las Teresitas. Автобус можно поймать в районе Valleseco, когда он там проходит, либо сначала доехать до Интеркамбьядора Санта-Крус и там сделать пересадку. Перед выездом рекомендую уточнить точный маршрут в Google Maps, на сайте TITSA или в приложении TITSA, так как расписание автобусов может меняться в зависимости от дня, сезона и праздников."
       }
     ],
     "emergency": {
@@ -2995,17 +2995,17 @@
           "note": "Главная больница в Санта-Крус-де-Тенерифе"
         }
       ],
-      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спросите меня, если понадобится рекомендация."
+      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спроси меня, если понадобится рекомендация."
     },
     "checkout": {
       "steps": [
-        "Если вы сможете быстро помыть посуду и оставить её на сушилке, это было бы здорово!",
-        "Если вы сможете освободить холодильник и выбросить оставшуюся еду в мусорное ведро, я буду очень благодарна!",
-        "Было бы здорово, если бы вы выбросили мусор. Большие контейнеры находятся прямо перед выездом из деревни.",
-        "Перед тем как уйти, пожалуйста, закройте окна и дверь.",
-        "Пожалуйста, выключайте свет и любые электроприборы (духовку, плиту, блендер), когда закончите ими пользоваться.",
-        "Когда будете готовы уходить, пожалуйста, закройте дом и верните все ключи в сейф для ключей, установив после этого код заново.",
-        "Пожалуйста, напишите мне в WhatsApp или Airbnb, когда уедете, и я буду искренне рада отзыву, если вам понравилось! 🩵"
+        "Если сможешь быстро помыть посуду и оставить её на сушилке, это было бы здорово!",
+        "Если сможешь освободить холодильник и выбросить оставшуюся еду в мусорное ведро, я буду очень благодарна!",
+        "Было бы здорово, если бы ты выбросил(а) мусор. Большие контейнеры находятся прямо перед выездом из деревни.",
+        "Перед тем как уйти, пожалуйста, закрой окна и дверь.",
+        "Пожалуйста, выключай свет и любые электроприборы (духовку, плиту, блендер), когда закончишь ими пользоваться.",
+        "Когда будешь готов(а) уходить, пожалуйста, закрой дом и верни все ключи в сейф для ключей, установив после этого код заново.",
+        "Пожалуйста, напиши мне в WhatsApp или Airbnb, когда уедешь, и я буду искренне рада отзыву, если тебе понравилось! 🩵"
       ]
     }
   },

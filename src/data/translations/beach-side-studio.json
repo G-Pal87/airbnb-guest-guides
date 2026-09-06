@@ -84,7 +84,7 @@
       "notes": "Falls du Schwierigkeiten hast, das Haus zu finden, ruf mich jederzeit an oder schreib mir per WhatsApp, ich helfe dir gerne Schritt für Schritt weiter. Hinweis: Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte folg daher dem Fotoleitfaden!"
     },
     "gettingHere": {
-      "byCar": "Am besten parkst du an der empfohlenen Stelle (Link unten). Es sind immer Plätze frei und du musst kaum Treppen steigen. Folg dann den Gehanweisungen im Fotoleitfaden. Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutz daher den Fotoleitfaden!",
+      "byCar": "Am besten parkst du an der empfohlenen Stelle (Link unten). Es sind immer Plätze frei und du musst kaum Treppen steigen. Folg dann den Wegbeschreibungen im Fotoleitfaden. Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutz daher den Fotoleitfaden!",
       "parking": "Es sind immer Parkplätze verfügbar und es ist ein kurzer, ebener Weg zum Hauseingang.",
       "publicTransport": "Es gibt verschiedene Busse von Santa Cruz de Tenerife (z.B. Nr. 909, 910, 916). Achte darauf, in Valleseco auszusteigen (es ist ein kleines Dorf mit nur einer Haltestelle). Sobald du ausgestiegen bist, such den Minimarkt Punto y Coma und nimm die Treppe auf der linken Seite etwa 20 Meter nach dem Minimarkt. Es ist ein 5-10 minütiger Aufstieg zum Haus. Google Maps ist für die letzte Strecke nicht vollständig genau, bitte folg daher dem Fotoleitfaden!",
       "taxi": "Taxis stehen am Flughafen Tenerife Nord (TFN) und in Santa Cruz zur Verfügung (kostet etwa 10 EUR). Am besten vereinbarst du den Preis vor der Abfahrt oder stellst sicher, dass das Taxameter läuft. Vom Flughafen Tenerife Süd empfehle ich, zuerst den Bus nach Santa Cruz zu nehmen, da es weiter entfernt ist. Bitte den Taxifahrer, dich am oben im Abschnitt \"Mit dem Auto\" verlinkten Parkplatz abzusetzen, und folg dann dem Schritt-für-Schritt-Fotoleitfaden ab Foto 1.",
@@ -513,7 +513,7 @@
       "byCar": "A legjobb, ha az ajánlott helyen parkolsz (link lent). Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznod. Ezután kövesd a gyalogos útmutatást a fotós útmutatóban. A Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérlek, használd a fotós útmutatót!",
       "parking": "Mindig van szabad parkolóhely, és a ház bejáratáig egy rövid, sík terepen vezető séta vár.",
       "publicTransport": "Számos busz indul Santa Cruz de Teneriféből (pl. 909, 910, 916-os). Ügyelj arra, hogy Vallesecónál szállj le (ez egy kis falu, csak egy megállóval). Leszállás után keresd meg a Punto y Coma Minimarketet, és menj fel a bal oldali lépcsőn, körülbelül 20 méterrel utána. Ez egy 5-10 perces, felfelé vezető séta a házig. A Google Maps nem teljesen pontos az utolsó szakaszra, ezért kérlek, kövesd a fotós útmutatót!",
-      "taxi": "Taxi elérhető a Tenerife North (TFN) repülőtérről és Santa Cruzból is (kb. 10 EUR-ba kerül). A legjobb, ha elindulás előtt megegyezel a viteldíjban, vagy meggyőződsz arról, hogy az órát bekapcsolták. Tenerife Southból azt javaslom, hogy először busszal menj Santa Cruzba, mivel az onnan messzebb van. Kérd meg a taxisofőrt, hogy tegye le a fent linkelt parkolóhelynél, az \"By Car\" szakaszban, majd kövesd a lépésről lépésre fotós útmutatót az 1. fotótól kezdve.",
+      "taxi": "Taxi elérhető a Tenerife North (TFN) repülőtérről és Santa Cruzból is (kb. 10 EUR-ba kerül). A legjobb, ha elindulás előtt megegyezel a viteldíjban, vagy meggyőződsz arról, hogy az órát bekapcsolták. Tenerife Southból azt javaslom, hogy először busszal menj Santa Cruzba, mivel az onnan messzebb van. Kérd meg a taxisofőrt, hogy tegye le a fent linkelt parkolóhelynél, az \"Autóval\" szakaszban, majd kövesd a lépésről lépésre fotós útmutatót az 1. fotótól kezdve.",
       "directionPhotos": [
         {
           "caption": "Itt parkolj le. Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznod."
@@ -823,7 +823,7 @@
     "gettingAround": [
       {
         "name": "Busz",
-        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz vedd a TITSA 910-es vonalát San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
+        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz szállj fel a TITSA 910-es vonalára San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
       }
     ],
     "emergency": {
@@ -1365,7 +1365,7 @@
       "byCar": "L'idéal est de te garer à l'emplacement recommandé (lien ci-dessous). Il y a toujours des places disponibles et tu n'auras presque pas d'escaliers à monter. Suis ensuite les indications à pied dans le guide photo. Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc d'utiliser le guide photo !",
       "parking": "Il y a toujours des places de stationnement disponibles et c'est une courte marche plate jusqu'à l'entrée de la maison.",
       "publicTransport": "Plusieurs bus partent de Santa Cruz de Tenerife (par exemple les lignes 909, 910, 916). Veille à descendre à Valleseco (c'est un petit village avec un seul arrêt). Une fois descendu(e), trouve le minimarché Punto y Coma et prends l'escalier sur la gauche environ 20 mètres après l'avoir dépassé. C'est une montée à pied de 5 à 10 minutes jusqu'à la maison. Google Maps n'est pas totalement fiable pour le dernier tronçon, merci donc de suivre le guide photo !",
-      "taxi": "Des taxis sont disponibles depuis l'aéroport de Tenerife Nord (TFN) et depuis Santa Cruz (coûte environ 10 EUR). Il est préférable de convenir du tarif avant le départ ou de vérifier que le compteur fonctionne. Depuis Tenerife Sud, je recommande de prendre d'abord le bus jusqu'à Santa Cruz, car c'est plus loin. Demande au chauffeur de taxi de te déposer à l'emplacement de stationnement indiqué ci-dessus dans la section \"By Car\", puis suis le guide photo pas à pas à partir de la photo 1.",
+      "taxi": "Des taxis sont disponibles depuis l'aéroport de Tenerife Nord (TFN) et depuis Santa Cruz (coûte environ 10 EUR). Il est préférable de convenir du tarif avant le départ ou de vérifier que le compteur fonctionne. Depuis Tenerife Sud, je recommande de prendre d'abord le bus jusqu'à Santa Cruz, car c'est plus loin. Demande au chauffeur de taxi de te déposer à l'emplacement de stationnement indiqué ci-dessus dans la section \"En voiture\", puis suis le guide photo pas à pas à partir de la photo 1.",
       "directionPhotos": [
         {
           "caption": "Gare-toi ici. Il y a toujours des places disponibles et tu n'auras presque pas d'escaliers à monter."
@@ -1765,7 +1765,7 @@
       "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso.",
       "atAGlance": "De un vistazo",
       "checkInNote": "A partir de esta hora",
-      "checkoutNote": "Por favor, salga antes de esta hora",
+      "checkoutNote": "Por favor, sal antes de esta hora",
       "contacts": "Contactos",
       "contactsNoteCohost": "¿Necesitas ayuda? Siempre estamos disponibles.",
       "contactsNoteSolo": "¿Necesitas ayuda? Siempre estoy disponible. ¡Contáctame!",
@@ -2563,7 +2563,7 @@
       "accessCode": "Код доступа",
       "stepByStep": "Шаг за шагом",
       "houseRules": "Правила дома",
-      "houseRulesAcknowledgment": "Заезжая, вы соглашаетесь соблюдать все вышеуказанные правила проживания.",
+      "houseRulesAcknowledgment": "Заезжая, ты соглашаешься соблюдать все вышеуказанные правила проживания.",
       "gettingHere": "Как добраться",
       "openGoogleMaps": "Открыть в Google Maps",
       "byCar": "На машине",
@@ -2611,8 +2611,8 @@
       "whatsapp": "WhatsApp",
       "email": "Эл. почта",
       "enjoyStay": "Приятного пребывания!",
-      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
-      "enjoyStayMessageCohost": "Надеемся, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
+      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает твоё пребывание ещё лучше. Если тебе понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
+      "enjoyStayMessageCohost": "Надеемся, это руководство сделает твоё пребывание ещё лучше. Если тебе понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
       "contactHostIntroSolo": "Я здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы вы провели здесь замечательное время.",
       "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время.",
       "atAGlance": "Краткий обзор",

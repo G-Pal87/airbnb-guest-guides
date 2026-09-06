@@ -89,7 +89,7 @@ function stepI18nKey(step: string): string {
         const image = typeof step === 'object' ? step.image : undefined;
         const imageAlt = typeof step === 'object' ? step.imageAlt : undefined;
         return (
-          <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">
+          <details class="bg-white rounded-2xl shadow-md border border-stone-100 group" open={!!image}>
             <summary class="flex items-center gap-3 px-5 py-4 cursor-pointer list-none select-none min-h-[56px] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-inset rounded-2xl">
               <span class="text-2xl flex-shrink-0" aria-hidden="true">{stepIcon(text)}</span>
               <span class="font-semibold text-charcoal flex-1" data-i18n={stepI18nKey(text)}>{stepTitle(text)}</span>

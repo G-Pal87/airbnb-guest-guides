@@ -566,8 +566,8 @@
     "gettingHere": {
       "byCar": "Kövessétek a Google Maps-linket – közvetlenül a komplexum belsejébe, a medence területéhez navigál. Parkoló bárhol, majd a lenti fotóútmutató segítségével találjátok meg a lakást.",
       "parking": "Ingyenes parkolás a medence területén, helyek szabadon elérhetők. A lakás bejárata 1 perces sétára van. Szeles napokon kerüljétek a fák alatti parkolást.",
-      "publicTransport": "A pafoszi reptérről vedd a 612-es buszt (kb. 35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézheted az időpontokat. A megállótól két lehetőséged van: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót menni, hogy közelebb kerülj, majd gyalog a maradékot (~4 perc). Gyalog: az AVLIDA Hotel felé menj, menj el mellette, az Esso benzinkútnál fordulj jobbra, és a King's Park komplexum bejárata közvetlenül mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be téged. ⚠️ A buszok csak készpénzt fogadnak el. €2,50 per menet per fő.",
-      "taxi": "Taxik várakoznak a pafoszi reptér érkezési csarnoka előtt. Viteldíj: €40–45 (napközben), €45–50 (éjszaka), kb. 20–25 perc. Egy kicsit olcsóbb lehetőség a Bolt alkalmazás használata. Ha megmutatod a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be téged.",
+      "publicTransport": "A pafoszi reptérről szálljatok fel a 612-es buszra (kb. 35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézhetitek az időpontokat. A megállótól két lehetőségetek van: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót menni, hogy közelebb kerüljetek, majd gyalog a maradékot (~4 perc). Gyalog: az AVLIDA Hotel felé menjetek, menjetek el mellette, az Esso benzinkútnál forduljatok jobbra, és a King's Park komplexum bejárata közvetlenül mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be titeket. ⚠️ A buszok csak készpénzt fogadnak el. €2,50 per menet per fő.",
+      "taxi": "Taxik várakoznak a pafoszi reptér érkezési csarnoka előtt. Viteldíj: €40–45 (napközben), €45–50 (éjszaka), kb. 20–25 perc. Egy kicsit olcsóbb lehetőség a Bolt alkalmazás használata. Ha megmutatjátok a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be titeket.",
       "directionPhotos": [
         {
           "caption": "Az Esso benzinkútnál jobbra fordulni (a Morphou utcába)"
@@ -623,7 +623,7 @@
       "Kérjük, csak az erkélyeken és terraszokon dohányozzatok",
       "Kérjük, legyetek csendben. A csendes időszak este 11-től reggel 8-ig tart. Sem buli, sem rendezvény",
       "Szeretjük az állatokat, de sajnos nem tudunk háziállatokat fogadni. Sajnáljuk!",
-      "Kérjük, a WC melletti szemetes kosarat használjátok papír helyett az öblítés helyett – a ciprusi vízvezeték valóban nem bírja el",
+      "Kérjük, a WC melletti szemetes kosarat használjátok, és ne öblítsetek le papírt a vécén – a ciprusi vízvezeték valóban nem bírja el",
       "Tegyétek a fémkulcsot az ajtó melletti elektromos dugóba, amikor bent vagytok, és vigyétek magatokkal, amikor elhagyjátok a lakást",
       "Zárjátok be az erkély- és teraszajtókat, valamint az ablakokat, amikor a légkondicionáló működik, hogy hűvös maradjon és energiát takarítsunk meg",
       "Kérjük, a kulcsokat check-outkor tegyétek vissza a kulcsszekrénybe és állítsátok vissza a kódot. Ha a kulcsok elvesznek vagy bezárnak, a lakatos hívása a ti költségetekre esik – tehát vigyázzatok rájuk!",
@@ -632,7 +632,7 @@
     "appliances": [
       {
         "name": "Elektromosság",
-        "instructions": "Tegyétek a fémkulcsot az ajtó melletti falba a kulcsdugóba az apartman beáramoztatásához – ugyanúgy, mint a szállodákban. Ne feledjétek kihúzni és magatokkal vinni a kulcsokat minden alkalommal, amikor elhagyjátok a lakást. Minden ciprusi konnektor saját fali kapcsolóval rendelkezik: ha valami nem kapcsol be, általában ez az oka. EU-adapterek szükség esetén rendelkezésre állnak."
+        "instructions": "Dugjátok be a fémkulcsot az ajtó melletti kulcsdugóba, hogy bekapcsoljon az áram a lakásban – ugyanúgy, mint a szállodákban. Ne feledjétek kihúzni és magatokkal vinni a kulcsokat minden alkalommal, amikor elhagyjátok a lakást. Minden ciprusi konnektor saját fali kapcsolóval rendelkezik: ha valami nem kapcsol be, általában ez az oka. EU-adapterek szükség esetén rendelkezésre állnak."
       },
       {
         "name": "Konyha",

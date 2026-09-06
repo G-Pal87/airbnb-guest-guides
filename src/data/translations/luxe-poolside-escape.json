@@ -149,7 +149,7 @@
       },
       {
         "name": "Klimaanlage",
-        "instructions": "Die Fernbedienung liegt auf dem Nachttisch. POWER drücken, COOL wählen, 22–24 Grad einstellen. Fenster beim Betrieb geschlossen halten. Zum Ausschalten den Power-Knopf etwas länger gedrückt halten (nicht nur kurz tippen) und bitte vor dem Weggehen ausschalten."
+        "instructions": "Die Fernbedienung liegt auf dem Nachttisch. POWER drücken, COOL wählen. Fenster beim Betrieb geschlossen halten. Zum Ausschalten den Power-Knopf etwas länger gedrückt halten (nicht nur kurz tippen) und bitte vor dem Weggehen ausschalten."
       },
       {
         "name": "Waschmaschine",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Légkondicionáló",
-        "instructions": "A távirányító az éjjeliszekrényen van. Nyomjátok meg a POWER gombot, válasszátok a COOL lehetőséget, állítsátok 22–24 fokra. Működés közben tartsátok csukva az ablakokat. A kikapcsoláshoz tartsátok nyomva a power gombot egy pillanatra – ne csak érintsétek meg –, és kérjük, kapcsoljátok ki, mielőtt elmentek."
+        "instructions": "A távirányító az éjjeliszekrényen van. Nyomjátok meg a POWER gombot, és válasszátok a COOL lehetőséget. Működés közben tartsátok csukva az ablakokat. A kikapcsoláshoz tartsátok nyomva a power gombot egy pillanatra – ne csak érintsétek meg –, és kérjük, kapcsoljátok ki, mielőtt elmentek."
       },
       {
         "name": "Mosógép",
@@ -1149,7 +1149,7 @@
       },
       {
         "name": "Κλιματισμός",
-        "instructions": "Το τηλεχειριστήριο είναι στο κομοδίνο. Πατήστε POWER, επιλέξτε COOL και ρυθμίστε στους 22–24 βαθμούς. Κρατήστε τα παράθυρα κλειστά κατά τη λειτουργία. Για να το απενεργοποιήσετε, κρατήστε το κουμπί λίγο πιο πολύ αντί να το πατήσετε γρήγορα, και παρακαλούμε κλείστε το πριν φύγετε."
+        "instructions": "Το τηλεχειριστήριο είναι στο κομοδίνο. Πατήστε POWER και επιλέξτε COOL. Κρατήστε τα παράθυρα κλειστά κατά τη λειτουργία. Για να το απενεργοποιήσετε, κρατήστε το κουμπί λίγο πιο πολύ αντί να το πατήσετε γρήγορα, και παρακαλούμε κλείστε το πριν φύγετε."
       },
       {
         "name": "Πλυντήριο",
@@ -1649,7 +1649,7 @@
       },
       {
         "name": "Climatisation",
-        "instructions": "La télécommande est sur la table de chevet. Appuyez sur POWER, sélectionnez COOL, réglez entre 22 et 24 degrés. Gardez les fenêtres fermées pendant le fonctionnement. Pour l'éteindre, maintenez le bouton power enfoncé quelques instants plutôt que de le taper brièvement, et pensez à l'éteindre avant de sortir."
+        "instructions": "La télécommande est sur la table de chevet. Appuyez sur POWER et sélectionnez COOL. Gardez les fenêtres fermées pendant le fonctionnement. Pour l'éteindre, maintenez le bouton power enfoncé quelques instants plutôt que de le taper brièvement, et pensez à l'éteindre avant de sortir."
       },
       {
         "name": "Machine à laver",
@@ -2149,7 +2149,7 @@
       },
       {
         "name": "Aire acondicionado",
-        "instructions": "El mando a distancia está en la mesita de noche. Pulsad POWER, seleccionad COOL y ajustad a 22–24 grados. Mantened las ventanas cerradas durante el funcionamiento. Para apagarlo, mantened pulsado el botón unos instantes en lugar de simplemente tocarlo, y por favor apagadlo antes de salir."
+        "instructions": "El mando a distancia está en la mesita de noche. Pulsad POWER y seleccionad COOL. Mantened las ventanas cerradas durante el funcionamiento. Para apagarlo, mantened pulsado el botón unos instantes en lugar de simplemente tocarlo, y por favor apagadlo antes de salir."
       },
       {
         "name": "Lavadora",
@@ -2649,7 +2649,7 @@
       },
       {
         "name": "Klimatyzacja",
-        "instructions": "Pilot jest na stoliku nocnym. Naciśnijcie POWER, wybierzcie COOL i ustawcie 22–24 stopnie. Trzymajcie okna zamknięte podczas pracy. Aby wyłączyć, przytrzymajcie przycisk przez chwilę zamiast go tylko dotykać, i prosimy wyłączyć przed wyjściem."
+        "instructions": "Pilot jest na stoliku nocnym. Naciśnijcie POWER i wybierzcie COOL. Trzymajcie okna zamknięte podczas pracy. Aby wyłączyć, przytrzymajcie przycisk przez chwilę zamiast go tylko dotykać, i prosimy wyłączyć przed wyjściem."
       },
       {
         "name": "Pralka",
@@ -3149,7 +3149,7 @@
       },
       {
         "name": "Кондиционер",
-        "instructions": "Пульт лежит на прикроватном столике. Нажмите POWER, выберите COOL, установите 22–24 градуса. Держите окна закрытыми во время работы. Чтобы выключить, удерживайте кнопку несколько секунд, а не просто нажимайте, и пожалуйста, выключайте перед выходом."
+        "instructions": "Пульт лежит на прикроватном столике. Нажмите POWER и выберите COOL. Держите окна закрытыми во время работы. Чтобы выключить, удерживайте кнопку несколько секунд, а не просто нажимайте, и пожалуйста, выключайте перед выходом."
       },
       {
         "name": "Стиральная машина",
@@ -3649,7 +3649,7 @@
       },
       {
         "name": "מיזוג אוויר",
-        "instructions": "השלט נמצא על שידת הלילה. לחצו POWER, בחרו COOL, וכיוונו ל-22-24 מעלות. שמרו על החלונות סגורים בזמן ההפעלה לתוצאה הטובה ביותר. לכיבוי, החזיקו את כפתור ההפעלה לחוץ לרגע במקום רק ללחוץ עליו, ונא לכבות לפני שאתם יוצאים."
+        "instructions": "השלט נמצא על שידת הלילה. לחצו POWER ובחרו COOL. שמרו על החלונות סגורים בזמן ההפעלה לתוצאה הטובה ביותר. לכיבוי, החזיקו את כפתור ההפעלה לחוץ לרגע במקום רק ללחוץ עליו, ונא לכבות לפני שאתם יוצאים."
       },
       {
         "name": "מכונת כביסה",

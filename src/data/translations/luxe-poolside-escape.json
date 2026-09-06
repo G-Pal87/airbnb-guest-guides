@@ -243,7 +243,7 @@
             "tip": "Nächstgelegene und wichtigste historische Stätte. Felsengräber aus hellenistischer und römischer Zeit, Teil des UNESCO-gelisteten archäologischen Gebiets von Paphos."
           },
           {
-            "tip": "Spazier entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
+            "tip": "Spaziert entlang der Küste zum Lighthouse Beach, dem Hafen und der Burg von Paphos. Einfach und malerisch, besonders bei Sonnenuntergang."
           },
           {
             "tip": "Entspannter Haltepunkt auf halbem Weg zwischen Avlida und dem Hafen. Gut für einen landschaftlich reizvollen Spaziergang mit einem Stopp am Strand."
@@ -575,7 +575,7 @@
     "gettingHere": {
       "byCar": "Kövessétek a Google Maps-linket – közvetlenül a komplexumba, a medenceterületig navigál. Bárhol lehet parkolni, majd kövessétek az alábbi fotóútmutatót a lakáshoz.",
       "parking": "Ingyenes parkolás a medenceterületnél, helyek szabadon elérhetők. A lakás bejárata 1 perc sétára van. Szeles napokon kerüljétek a fák alatti parkolást.",
-      "publicTransport": "A páfoszi repülőtérről vegyétek a 612-es buszt (~35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézhetitek az időpontokat. A megállótól két lehetőség: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót, majd gyalog (~4 perc). Gyalog: az AVLIDA Hotel felé, mellette elhaladni, az Esso benzinkútnál jobbra fordulni – a King's Park komplexum bejárata rögtön mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be titeket. ⚠️ A buszok csak készpénzt fogadnak el. 2,50 € személyenként és útonként.",
+      "publicTransport": "A páfoszi repülőtérről utazzatok a 612-es busszal (~35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézhetitek az időpontokat. A megállótól két lehetőség: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót, majd gyalog (~4 perc). Gyalog: az AVLIDA Hotel felé, mellette elhaladni, az Esso benzinkútnál jobbra fordulni – a King's Park komplexum bejárata rögtön mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be titeket. ⚠️ A buszok csak készpénzt fogadnak el. 2,50 € személyenként és útonként.",
       "taxi": "Taxik várakoznak a páfoszi repülőtér érkezési csarnoka előtt. Tarifa: 40–45 € (nappal), 45–50 € (éjjel), kb. 20–25 perc. Valamivel olcsóbb lehet egy Bolt-fuvar rendelése. Ha megmutatjátok a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be titeket.",
       "directionPhotos": [
         {
@@ -732,7 +732,7 @@
             "tip": "Legjobb kiindulópont a Blue Lagoonhoz terepjáró-vezetés nélkül. Innen indulnak a hajókirándulások."
           },
           {
-            "tip": "A Paphos közelének legimpozánsabb vize. Nem közelíthető meg kocsival. Végy hajót Latchiból."
+            "tip": "A Paphos közelének legimpozánsabb vize. Nem közelíthető meg kocsival. Szállj hajóra Latchiból."
           }
         ]
       },
@@ -1446,7 +1446,7 @@
         "category": "Ψώνια",
         "items": [
           {
-            "tip": "Το κύριο εμπορικό κέντρο στην Πάφο. Ευρεία γκάμα καταστημάτων, εστιατορίων και κινηματογράφος."
+            "tip": "Το κύριο εμπορικό κέντρο στην Πάφο. Ευρεία γκάμα καταστημάτων, εστιατορίων και κινηματογράφου."
           },
           {
             "tip": "Στεγασμένη αγορά με πάγκους για ρούχα, τσάντες, κοσμήματα, είδη παραλίας και τοπικά αναμνηστικά."
@@ -2540,7 +2540,7 @@
       "ruleTitleLostKeys": "Zgubione klucze",
       "ruleTitleKeys": "Klucze",
       "ruleTitlePropertyCare": "Dbałość o nieruchomość",
-      "stepTitleFridge": "Oprózni lodówkę",
+      "stepTitleFridge": "Opróżnij lodówkę",
       "stepTitleDishes": "Umyj naczynia",
       "stepTitleRubbish": "Wyrzuć śmieci",
       "stepTitleCushions": "Deszcz? Wnieś poduszki",
@@ -2784,7 +2784,7 @@
             "tip": "Jeden z najłatwiejszych wieczornych planów z Avlidy. Kolacja, drinki i spokojny spacer nad morzem."
           },
           {
-            "tip": "Najlepsza pobliża atrakcja dla rodzin. Łatwa opcja na pół dnia lub cały dzień w gorące dni."
+            "tip": "Najlepsza pobliska atrakcja dla rodzin. Łatwa opcja na pół dnia lub cały dzień w gorące dni."
           },
           {
             "tip": "Najprostsza klasyczna wycieczka na plażę. Piasek, leżaki i udogodnienia. Trudno się rozczarować."
@@ -2881,7 +2881,7 @@
             "tip": "Najprostsza opcja kolacji bez samochodu w pobliżu Avlidy. Klasyfikowany wśród najlepszych restauracji w pobliżu Grobowców Królów."
           },
           {
-            "tip": "Niezawodna pobliża opcja przy Alei Grobowców Królów. Kuchnia grecka i śródziemnomorska z wysokimi ocenami gości."
+            "tip": "Niezawodna pobliska opcja przy Alei Grobowców Królów. Kuchnia grecka i śródziemnomorska z wysokimi ocenami gości."
           },
           {
             "tip": "Dobre na łatwe śniadanie lub lunch blisko domu. Przyjazna obsługa i świetna wartość."
@@ -2946,7 +2946,7 @@
         "category": "Shopping",
         "items": [
           {
-            "tip": "Główne centrum handlowe w Pafos. Szeroka oferta sklepów, restauracji i kino."
+            "tip": "Główne centrum handlowe w Pafos. Szeroka oferta sklepów, restauracji i kina."
           },
           {
             "tip": "Kryty targ ze straganami z odzieżą, torbami, biżuterią, sprzętem plażowym i lokalnymi pamiątkami."
@@ -3050,7 +3050,7 @@
       "stepTitleReturnKeys": "Верните ключи",
       "stepTitleDropMeMessage": "Напишите мне сообщение!",
       "stepTitleDropUsMessage": "Напишите нам сообщение!",
-      "yourHost": "Твой хозяин",
+      "yourHost": "Ваш хозяин",
       "cohost": "Со-хозяйка",
       "call": "Позвонить",
       "whatsapp": "WhatsApp",
@@ -3071,12 +3071,12 @@
       "copied": "Скопировано!",
       "contact": "Контакт"
     },
-    "welcomeMessage": "Твой личный средиземноморский уголок – бассейн, две террасы и всё готово. Отдыхай и наслаждайся островом. Пиши нам в любое время.",
+    "welcomeMessage": "Ваш личный средиземноморский уголок – бассейн, две террасы и всё готово. Отдыхайте и наслаждайтесь островом. Пишите нам в любое время.",
     "gettingHere": {
       "byCar": "Следуйте по ссылке Google Maps – она ведёт прямо внутрь комплекса, к зоне бассейна. Паркуйтесь где угодно, затем используйте фотогид ниже, чтобы добраться до квартиры.",
       "parking": "Бесплатная парковка у бассейна, места всегда есть. До входа в квартиру 1 минута пешком. В ветреные дни не паркуйтесь под деревьями.",
-      "publicTransport": "Из аэропорта Пафоса садись на автобус 612 (~35 мин в зависимости от сезона и остановок). Расписание автобусов в Google Maps точное, можешь свериться с ним там. От остановки два варианта: пешком (~18 мин, 1,3 км) или автобус 615 одну остановку, затем немного пешком (~4 мин). Пешком: иди в сторону отеля AVLIDA, пройди мимо, поверни направо у заправки Esso – вход в комплекс King's Park сразу за ней. Указанная геометка Google Maps приведёт тебя прямо на территорию комплекса. ⚠️ Автобусы принимают только наличные. 2,50 € за человека за поездку.",
-      "taxi": "Такси ждут у выхода из зала прилёта в аэропорту Пафоса. Тариф: 40–45 € (день), 45–50 € (ночь), около 20–25 мин. Немного дешевле заказать Bolt. Если покажешь водителю указанную геометку Google Maps, он высадит тебя прямо на территории комплекса, перед бассейном.",
+      "publicTransport": "Из аэропорта Пафоса садитесь на автобус 612 (~35 мин в зависимости от сезона и остановок). Расписание автобусов в Google Maps точное, можете свериться с ним там. От остановки два варианта: пешком (~18 мин, 1,3 км) или автобус 615 одну остановку, затем немного пешком (~4 мин). Пешком: идите в сторону отеля AVLIDA, пройдите мимо, поверните направо у заправки Esso – вход в комплекс King's Park сразу за ней. Указанная геометка Google Maps приведёт вас прямо на территорию комплекса. ⚠️ Автобусы принимают только наличные. 2,50 € за человека за поездку.",
+      "taxi": "Такси ждут у выхода из зала прилёта в аэропорту Пафоса. Тариф: 40–45 € (день), 45–50 € (ночь), около 20–25 мин. Немного дешевле заказать Bolt. Если покажете водителю указанную геометку Google Maps, он высадит вас прямо на территории комплекса, перед бассейном.",
       "directionPhotos": [
         {
           "caption": "Поверните направо у заправки Esso (на улицу Morphou)"
@@ -3446,7 +3446,7 @@
         "category": "Shopping",
         "items": [
           {
-            "tip": "Главный торговый центр в Пафосе. Широкий выбор магазинов, ресторанов и кинотеатр."
+            "tip": "Главный торговый центр в Пафосе. Широкий выбор магазинов, ресторанов и кинотеатра."
           },
           {
             "tip": "Крытый рынок с прилавками одежды, сумок, ювелирных украшений, пляжного снаряжения и местных сувениров."
@@ -3510,7 +3510,7 @@
       "houseRulesAcknowledgment": "בביצוע הצ'ק-אין אתם מסכימים לפעול לפי כל כללי הבית שלמעלה.",
       "gettingHere": "איך מגיעים",
       "openGoogleMaps": "פתיחה ב-Google Maps",
-      "byCar": "ברכב וחניה",
+      "byCar": "ברכב",
       "parking": "חניה",
       "publicTransport": "בתחבורה ציבורית",
       "taxi": "מונית",

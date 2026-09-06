@@ -566,8 +566,8 @@
     "gettingHere": {
       "byCar": "Kövessétek a Google Maps-linket – közvetlenül a komplexum belsejébe, a medence területéhez navigál. Parkoló bárhol, majd a lenti fotóútmutató segítségével találjátok meg a lakást.",
       "parking": "Ingyenes parkolás a medence területén, helyek szabadon elérhetők. A lakás bejárata 1 perces sétára van. Szeles napokon kerüljétek a fák alatti parkolást.",
-      "publicTransport": "A pafoszi reptérről vedd a 612-es buszt (kb. 35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézheted az időpontokat. A megállótól két lehetőséged van: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót menni, hogy közelebb kerülj, majd gyalog a maradékot (~4 perc). Gyalog: az AVLIDA Hotel felé menj, menj el mellette, az Esso benzinkútnál fordulj jobbra, és a King's Park komplexum bejárata közvetlenül mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be téged. ⚠️ A buszok csak készpénzt fogadnak el. €2,50 per menet per fő.",
-      "taxi": "Taxik várakoznak a pafoszi reptér érkezési csarnoka előtt. Viteldíj: €40–45 (napközben), €45–50 (éjszaka), kb. 20–25 perc. Egy kicsit olcsóbb lehetőség a Bolt alkalmazás használata. Ha megmutatod a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be téged.",
+      "publicTransport": "A pafoszi reptérről szálljatok fel a 612-es buszra (kb. 35 perces menet, évszaktól és megállóktól függően). A Google Maps buszmenetrendje pontos, ott is megnézhetitek az időpontokat. A megállótól két lehetőségetek van: gyalog (~18 perc, 1,3 km) vagy a 615-ös busszal egy megállót menni, hogy közelebb kerüljetek, majd gyalog a maradékot (~4 perc). Gyalog: az AVLIDA Hotel felé menjetek, menjetek el mellette, az Esso benzinkútnál forduljatok jobbra, és a King's Park komplexum bejárata közvetlenül mögötte van. A megadott Google Maps-hely egyenesen a komplexumba visz be titeket. ⚠️ A buszok csak készpénzt fogadnak el. €2,50 per menet per fő.",
+      "taxi": "Taxik várakoznak a pafoszi reptér érkezési csarnoka előtt. Viteldíj: €40–45 (napközben), €45–50 (éjszaka), kb. 20–25 perc. Egy kicsit olcsóbb lehetőség a Bolt alkalmazás használata. Ha megmutatjátok a sofőrnek a megadott Google Maps-helyet, egyenesen a komplexumba, a medence elé visz be titeket.",
       "directionPhotos": [
         {
           "caption": "Az Esso benzinkútnál jobbra fordulni (a Morphou utcába)"
@@ -623,7 +623,7 @@
       "Kérjük, csak az erkélyeken és terraszokon dohányozzatok",
       "Kérjük, legyetek csendben. A csendes időszak este 11-től reggel 8-ig tart. Sem buli, sem rendezvény",
       "Szeretjük az állatokat, de sajnos nem tudunk háziállatokat fogadni. Sajnáljuk!",
-      "Kérjük, a WC melletti szemetes kosarat használjátok papír helyett az öblítés helyett – a ciprusi vízvezeték valóban nem bírja el",
+      "Kérjük, a WC melletti szemetes kosarat használjátok, és ne öblítsetek le papírt a vécén – a ciprusi vízvezeték valóban nem bírja el",
       "Tegyétek a fémkulcsot az ajtó melletti elektromos dugóba, amikor bent vagytok, és vigyétek magatokkal, amikor elhagyjátok a lakást",
       "Zárjátok be az erkély- és teraszajtókat, valamint az ablakokat, amikor a légkondicionáló működik, hogy hűvös maradjon és energiát takarítsunk meg",
       "Kérjük, a kulcsokat check-outkor tegyétek vissza a kulcsszekrénybe és állítsátok vissza a kódot. Ha a kulcsok elvesznek vagy bezárnak, a lakatos hívása a ti költségetekre esik – tehát vigyázzatok rájuk!",
@@ -632,7 +632,7 @@
     "appliances": [
       {
         "name": "Elektromosság",
-        "instructions": "Tegyétek a fémkulcsot az ajtó melletti falba a kulcsdugóba az apartman beáramoztatásához – ugyanúgy, mint a szállodákban. Ne feledjétek kihúzni és magatokkal vinni a kulcsokat minden alkalommal, amikor elhagyjátok a lakást. Minden ciprusi konnektor saját fali kapcsolóval rendelkezik: ha valami nem kapcsol be, általában ez az oka. EU-adapterek szükség esetén rendelkezésre állnak."
+        "instructions": "Dugjátok be a fémkulcsot az ajtó melletti kulcsdugóba, hogy bekapcsoljon az áram a lakásban – ugyanúgy, mint a szállodákban. Ne feledjétek kihúzni és magatokkal vinni a kulcsokat minden alkalommal, amikor elhagyjátok a lakást. Minden ciprusi konnektor saját fali kapcsolóval rendelkezik: ha valami nem kapcsol be, általában ez az oka. EU-adapterek szükség esetén rendelkezésre állnak."
       },
       {
         "name": "Konyha",
@@ -1057,8 +1057,8 @@
     "gettingHere": {
       "byCar": "Ακολουθήστε τον σύνδεσμο Google Maps – πλοηγεί απευθείας μέσα στο συγκρότημα στην περιοχή της πισίνας. Παρκάρετε οπουδήποτε και μετά χρησιμοποιήστε τον παρακάτω φωτογραφικό οδηγό για να φτάσετε στο διαμέρισμα.",
       "parking": "Δωρεάν πάρκινγκ στην περιοχή της πισίνας, θέσεις ελεύθερα διαθέσιμες. Η είσοδος του διαμερίσματος είναι 1 λεπτό με τα πόδια. Αποφύγετε να παρκάρετε κάτω από δέντρα σε ανεμώδεις ημέρες.",
-      "publicTransport": "Από το αεροδρόμιο Πάφου, πάρε το λεωφορείο 612 (~35 λεπτά, ανάλογα με την εποχή και τις στάσεις). Τα δρομολόγια στο Google Maps είναι ακριβή, οπότε μπορείς να τα ελέγξεις εκεί. Από τη στάση έχεις δύο επιλογές: πεζοπορία (~18 λεπτά, 1,3 χλμ) ή λεωφορείο 615 για μία στάση για να πλησιάσεις λίγο περισσότερο, και μετά πεζή τα υπόλοιπα (~4 λεπτά). Με τα πόδια: κατευθύνσου προς το ξενοδοχείο AVLIDA, πέρασε από αυτό, στρίψε δεξιά στο πρατήριο Esso, και η είσοδος του King's Park είναι ακριβώς πίσω από αυτό. Η τοποθεσία στο Google Maps που σου δώσαμε θα σε φέρει κατευθείαν μέσα στο συγκρότημα. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. €2,50 ανά διαδρομή ανά άτομο.",
-      "taxi": "Τα ταξί περιμένουν έξω από τις αφίξεις στο αεροδρόμιο Πάφου. Κόμιστρο: €40–45 (ημέρα), €45–50 (εκτός ωρών), περίπου 20–25 λεπτά. Μια ελαφρώς φθηνότερη επιλογή είναι να παραγγείλεις Bolt. Αν δείξεις στον οδηγό την τοποθεσία στο Google Maps που σου δώσαμε, θα σε αφήσει ακριβώς μέσα στο συγκρότημα, μπροστά στην πισίνα.",
+      "publicTransport": "Από το αεροδρόμιο Πάφου, πάρτε το λεωφορείο 612 (~35 λεπτά, ανάλογα με την εποχή και τις στάσεις). Τα δρομολόγια στο Google Maps είναι ακριβή, οπότε μπορείτε να τα ελέγξετε εκεί. Από τη στάση έχετε δύο επιλογές: πεζοπορία (~18 λεπτά, 1,3 χλμ) ή λεωφορείο 615 για μία στάση για να πλησιάσετε λίγο περισσότερο, και μετά πεζή τα υπόλοιπα (~4 λεπτά). Με τα πόδια: κατευθυνθείτε προς το ξενοδοχείο AVLIDA, περάστε από αυτό, στρίψτε δεξιά στο πρατήριο Esso, και η είσοδος του King's Park είναι ακριβώς πίσω από αυτό. Η τοποθεσία στο Google Maps που σας δώσαμε θα σας φέρει κατευθείαν μέσα στο συγκρότημα. ⚠️ Τα λεωφορεία δέχονται μόνο μετρητά. €2,50 ανά διαδρομή ανά άτομο.",
+      "taxi": "Τα ταξί περιμένουν έξω από τις αφίξεις στο αεροδρόμιο Πάφου. Κόμιστρο: €40–45 (ημέρα), €45–50 (εκτός ωρών), περίπου 20–25 λεπτά. Μια ελαφρώς φθηνότερη επιλογή είναι να παραγγείλετε Bolt. Αν δείξετε στον οδηγό την τοποθεσία στο Google Maps που σας δώσαμε, θα σας αφήσει ακριβώς μέσα στο συγκρότημα, μπροστά στην πισίνα.",
       "directionPhotos": [
         {
           "caption": "Στρίψτε δεξιά στο πρατήριο Esso (στην οδό Μόρφου)"
@@ -2026,21 +2026,21 @@
       "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso.",
       "atAGlance": "De un vistazo",
       "checkInNote": "A partir de esta hora",
-      "checkoutNote": "Por favor, salga antes de esta hora",
+      "checkoutNote": "Por favor, sal antes de esta hora",
       "contacts": "Contactos",
-      "contactsNoteCohost": "¿Necesita ayuda? Siempre estamos disponibles.",
-      "contactsNoteSolo": "¿Necesita ayuda? Siempre estoy disponible. ¡Contácteme!",
-      "contactUsCohost": "Contáctenos",
-      "contactUsSolo": "Contácteme",
+      "contactsNoteCohost": "¿Necesitas ayuda? Siempre estamos disponibles.",
+      "contactsNoteSolo": "¿Necesitas ayuda? Siempre estoy disponible. ¡Contáctame!",
+      "contactUsCohost": "Contáctanos",
+      "contactUsSolo": "Contáctame",
       "copied": "¡Copiado!",
       "contact": "Contacto"
     },
     "welcomeMessage": "Nuestra casa vibrante y colorida con piscina y dos terrazas os espera. Relajaos, explorad y disfrutad del Mediterráneo. Estamos a solo un mensaje.",
     "gettingHere": {
-      "byCar": "Seguid el enlace de Google Maps – navega directamente dentro del complejo hasta la zona de la piscina. Aparcar en cualquier lugar y luego usar la guía de fotos de abajo para llegar al apartamento.",
+      "byCar": "Seguid el enlace de Google Maps – navega directamente dentro del complejo hasta la zona de la piscina. Aparcad en cualquier lugar y luego usad la guía de fotos de abajo para llegar al apartamento.",
       "parking": "Aparcamiento gratuito en la zona de la piscina, plazas disponibles libremente. La entrada al apartamento está a 1 minuto a pie. Evitad aparcar bajo los árboles en días de viento.",
-      "publicTransport": "Desde el aeropuerto de Pafos, toma el autobús 612 (~35 min, según temporada y paradas). Los horarios de Google Maps son fiables, puedes consultarlos ahí. Desde la parada tienes dos opciones: ir a pie (~18 min, 1,3 km) o coger el autobús 615 una parada para acercarte más y luego caminar el resto (~4 min). A pie: dirígete al hotel AVLIDA, pasa por delante, gira a la derecha en la gasolinera Esso, y la entrada al complejo King's Park está justo detrás. La ubicación de Google Maps que te dimos te lleva directo al complejo. ⚠️ Los autobuses solo aceptan efectivo. €2,50 por trayecto por persona.",
-      "taxi": "Los taxis esperan frente a las llegadas del aeropuerto de Pafos. Tarifa: €40–45 (día), €45–50 (fuera de horas), unos 20–25 min. Una opción algo más económica es pedir un Bolt. Si le muestras al conductor la ubicación de Google Maps que te dimos, te dejará justo dentro del complejo, delante de la piscina.",
+      "publicTransport": "Desde el aeropuerto de Pafos, coged el autobús 612 (~35 min, según temporada y paradas). Los horarios de Google Maps son fiables, podéis consultarlos ahí. Desde la parada tenéis dos opciones: ir a pie (~18 min, 1,3 km) o coger el autobús 615 una parada para acercaros más y luego caminar el resto (~4 min). A pie: dirigíos al hotel AVLIDA, pasad por delante, girad a la derecha en la gasolinera Esso, y la entrada al complejo King's Park está justo detrás. La ubicación de Google Maps que os dimos os lleva directo al complejo. ⚠️ Los autobuses solo aceptan efectivo. €2,50 por trayecto por persona.",
+      "taxi": "Los taxis esperan frente a las llegadas del aeropuerto de Pafos. Tarifa: €40–45 (día), €45–50 (fuera de horas), unos 20–25 min. Una opción algo más económica es pedir un Bolt. Si le mostráis al conductor la ubicación de Google Maps que os dimos, os dejará justo dentro del complejo, delante de la piscina.",
       "directionPhotos": [
         {
           "caption": "Girar a la derecha en la gasolinera Esso (hacia la calle Morphou)"
@@ -2093,14 +2093,14 @@
       "notes": "Si tenéis algún problema para encontrarnos, llamad o escribid por WhatsApp en cualquier momento – estaremos encantados de guiaros paso a paso."
     },
     "houseRules": [
-      "Por favor, limitar el tabaco a los balcones y terrazas únicamente",
-      "Por favor, guardar silencio. Las horas tranquilas son de 23h a 8h. Sin fiestas ni eventos",
+      "Por favor, limitad el tabaco a los balcones y terrazas únicamente",
+      "Por favor, guardad silencio. Las horas tranquilas son de 23h a 8h. Sin fiestas ni eventos",
       "Nos encantan los animales, pero no podemos acoger mascotas. ¡Lo sentimos!",
-      "Por favor, usar el cubo junto al inodoro en lugar de tirar papel – la fontanería chipriota realmente no puede soportarlo",
-      "Colocar la llave metálica en el enchufe eléctrico junto a la puerta cuando estéis dentro, y llevarla con vosotros cuando salgáis",
-      "Cerrar las puertas del balcón, terraza y ventanas cuando el aire acondicionado esté en marcha, para mantener el frescor y ahorrar energía",
-      "Por favor, devolver las llaves a la caja al salir y resetear el código. Si se pierden o quedan dentro, habrá que llamar a un cerrajero y el coste correrá por vuestra cuenta – ¡así que tened cuidado con ellas!",
-      "Por favor, tratar el apartamento como el vuestro, y avisarnos de inmediato si algo se daña. Entendemos que los accidentes pasan"
+      "Por favor, usad el cubo junto al inodoro en lugar de tirar papel – la fontanería chipriota realmente no puede soportarlo",
+      "Colocad la llave metálica en el enchufe eléctrico junto a la puerta cuando estéis dentro, y llevadla con vosotros cuando salgáis",
+      "Cerrad las puertas del balcón, terraza y ventanas cuando el aire acondicionado esté en marcha, para mantener el frescor y ahorrar energía",
+      "Por favor, devolved las llaves a la caja al salir y resetead el código. Si se pierden o quedan dentro, habrá que llamar a un cerrajero y el coste correrá por vuestra cuenta – ¡así que tened cuidado con ellas!",
+      "Por favor, tratad el apartamento como el vuestro, y avisadnos de inmediato si algo se daña. Entendemos que los accidentes pasan"
     ],
     "appliances": [
       {
@@ -2188,7 +2188,7 @@
             "tip": "Mejor punto de partida para la Blue Lagoon sin conducción por caminos no asfaltados. Los viajes en barco salen desde aquí."
           },
           {
-            "tip": "El agua más impresionante de la zona de Pafos. No es una playa accesible en coche. Tome un barco desde Latchi."
+            "tip": "El agua más impresionante de la zona de Pafos. No es una playa accesible en coche. Toma un barco desde Latchi."
           }
         ]
       },
@@ -2199,7 +2199,7 @@
             "tip": "El sitio histórico más cercano e importante. Tumbas excavadas en la roca de los períodos helenístico y romano, parte del área arqueológica de Pafos catalogada por la UNESCO."
           },
           {
-            "tip": "Camine a lo largo de la costa hacia Lighthouse Beach, el puerto y el Castillo de Pafos. Fácil y pintoresco, especialmente al atardecer."
+            "tip": "Camina a lo largo de la costa hacia Lighthouse Beach, el puerto y el Castillo de Pafos. Fácil y pintoresco, especialmente al atardecer."
           },
           {
             "tip": "Punto intermedio relajado entre Avlida y el puerto. Ideal para un paseo pintoresco con parada en la playa."
@@ -2408,7 +2408,7 @@
             "tip": "Mercado cubierto con puestos de ropa, bolsos, joyería, artículos de playa y souvenirs locales."
           },
           {
-            "tip": "Pasee por el hermoso casco antiguo y descubra muchas pequeñas boutiques y tiendas de artesanos."
+            "tip": "Pasea por el hermoso casco antiguo y descubre muchas pequeñas boutiques y tiendas de artesanos."
           }
         ]
       }
@@ -2530,8 +2530,8 @@
     "gettingHere": {
       "byCar": "Podążajcie za linkiem Google Maps – prowadzi bezpośrednio do wnętrza kompleksu, do strefy basenowej. Zaparkujcie gdziekolwiek, a następnie skorzystajcie z poniższego przewodnika fotograficznego, aby dotrzeć do apartamentu.",
       "parking": "Bezpłatny parking przy strefie basenowej, miejsca ogólnie dostępne. Wejście do apartamentu to 1 minuta pieszo. Unikajcie parkowania pod drzewami w wietrzne dni.",
-      "publicTransport": "Z lotniska w Pafos jedź autobusem 612 (~35 min, w zależności od sezonu i przystanków). Rozkłady jazdy w Google Maps są dokładne, możesz tam sprawdzić godziny. Z przystanku masz dwie opcje: spacer (~18 min, 1,3 km) lub autobus 615 o jeden przystanek bliżej, a potem reszta pieszo (~4 min). Pieszo: kieruj się w stronę hotelu AVLIDA, przejdź obok, skręć w prawo przy stacji Esso, a wejście do kompleksu King's Park jest tuż za nią. Podana lokalizacja Google Maps zaprowadzi Cię prosto do kompleksu. ⚠️ Autobusy przyjmują tylko gotówkę. €2,50 za kurs za osobę.",
-      "taxi": "Taksówki czekają przed halą przylotów na lotnisku w Pafos. Taryfa: €40–45 (w ciągu dnia), €45–50 (po godzinach), około 20–25 min. Nieco tańszą opcją jest zamówienie Bolta. Jeśli pokażesz kierowcy podaną lokalizację Google Maps, zostaniesz podwieziony/-a prosto do kompleksu, tuż przed basen.",
+      "publicTransport": "Z lotniska w Pafos jedźcie autobusem 612 (~35 min, w zależności od sezonu i przystanków). Rozkłady jazdy w Google Maps są dokładne, możecie tam sprawdzić godziny. Z przystanku macie dwie opcje: spacer (~18 min, 1,3 km) lub autobus 615 o jeden przystanek bliżej, a potem reszta pieszo (~4 min). Pieszo: kierujcie się w stronę hotelu AVLIDA, przejdźcie obok, skręćcie w prawo przy stacji Esso, a wejście do kompleksu King's Park jest tuż za nią. Podana lokalizacja Google Maps zaprowadzi Was prosto do kompleksu. ⚠️ Autobusy przyjmują tylko gotówkę. €2,50 za kurs za osobę.",
+      "taxi": "Taksówki czekają przed halą przylotów na lotnisku w Pafos. Taryfa: €40–45 (w ciągu dnia), €45–50 (po godzinach), około 20–25 min. Nieco tańszą opcją jest zamówienie Bolta. Jeśli pokażecie kierowcy podaną lokalizację Google Maps, zostaniecie podwiezieni prosto do kompleksu, tuż przed basen.",
       "directionPhotos": [
         {
           "caption": "Skręćcie w prawo przy stacji Esso (w ulicę Morphou)"
@@ -3021,8 +3021,8 @@
     "gettingHere": {
       "byCar": "Следуйте по ссылке Google Maps — она ведёт прямо внутрь комплекса к зоне бассейна. Паркуйтесь в любом месте, затем воспользуйтесь фотогидом ниже, чтобы найти апартаменты.",
       "parking": "Бесплатная парковка у зоны бассейна, места всегда в наличии. До входа в апартаменты 1 минута пешком. Не паркуйтесь под деревьями в ветреные дни.",
-      "publicTransport": "Из аэропорта Пафоса садись на автобус 612 (~35 мин в пути, зависит от сезона и остановок). Расписание автобусов в Google Maps точное, можешь свериться с ним там. От остановки есть два варианта: идти пешком (~18 мин, 1,3 км) или сесть на автобус 615 на одну остановку, чтобы чуть приблизиться, а затем пройти оставшееся (~4 мин). Пешком: направляйся к отелю AVLIDA, пройди мимо него, на заправке Esso поверни направо — вход в комплекс King's Park сразу за ней. Указанная геометка Google Maps приведёт тебя прямо на территорию комплекса. ⚠️ Автобусы принимают только наличные. €2,50 за поездку с человека.",
-      "taxi": "Такси ждут у выхода из зоны прилёта аэропорта Пафоса. Стоимость: €40–45 (днём), €45–50 (в нерабочее время), около 20–25 мин. Чуть дешевле можно заказать Bolt. Если покажешь водителю указанную геометку Google Maps, он высадит тебя прямо на территории комплекса, перед бассейном.",
+      "publicTransport": "Из аэропорта Пафоса садитесь на автобус 612 (~35 мин в пути, зависит от сезона и остановок). Расписание автобусов в Google Maps точное, можете свериться с ним там. От остановки есть два варианта: идти пешком (~18 мин, 1,3 км) или сесть на автобус 615 на одну остановку, чтобы чуть приблизиться, а затем пройти оставшееся (~4 мин). Пешком: направляйтесь к отелю AVLIDA, пройдите мимо него, на заправке Esso поверните направо — вход в комплекс King's Park сразу за ней. Указанная геометка Google Maps приведёт вас прямо на территорию комплекса. ⚠️ Автобусы принимают только наличные. €2,50 за поездку с человека.",
+      "taxi": "Такси ждут у выхода из зоны прилёта аэропорта Пафоса. Стоимость: €40–45 (днём), €45–50 (в нерабочее время), около 20–25 мин. Чуть дешевле можно заказать Bolt. Если покажете водителю указанную геометку Google Maps, он высадит вас прямо на территории комплекса, перед бассейном.",
       "directionPhotos": [
         {
           "caption": "Повернуть направо на заправке Esso (на улицу Морфу)"
@@ -3897,7 +3897,7 @@
         "info": "אפליקציית נסיעות משתלמת. חלופה טובה למוניות עם מונה באזור פאפוס."
       },
       {
-        "info": "שירותי מוניות שונים זמינים באינטרנט. אפשרות אמינה אחת היא Paphos Taxi Airport, שם אפשר גם לתאם איסוף ישירות דרך וואטסאפ: 357 99 460 829+."
+        "info": "שירותי מוניות שונים זמינים באינטרנט. אפשרות אמינה אחת היא Paphos Taxi Airport, שם אפשר גם לתאם איסוף ישירות דרך וואטסאפ: +357 99 460 829."
       }
     ],
     "emergency": {

@@ -84,7 +84,7 @@
       "notes": "Falls du Schwierigkeiten hast, das Haus zu finden, ruf mich jederzeit an oder schreib mir per WhatsApp, ich helfe dir gerne Schritt für Schritt weiter. Hinweis: Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte folg daher dem Fotoleitfaden!"
     },
     "gettingHere": {
-      "byCar": "Am besten parkst du an der empfohlenen Stelle (Link unten). Es sind immer Plätze frei und du musst kaum Treppen steigen. Folg dann den Gehanweisungen im Fotoleitfaden. Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutz daher den Fotoleitfaden!",
+      "byCar": "Am besten parkst du an der empfohlenen Stelle (Link unten). Es sind immer Plätze frei und du musst kaum Treppen steigen. Folg dann den Wegbeschreibungen im Fotoleitfaden. Google Maps ist für die letzte Strecke nicht zu 100% genau, bitte nutz daher den Fotoleitfaden!",
       "parking": "Es sind immer Parkplätze verfügbar und es ist ein kurzer, ebener Weg zum Hauseingang.",
       "publicTransport": "Es gibt verschiedene Busse von Santa Cruz de Tenerife (z.B. Nr. 909, 910, 916). Achte darauf, in Valleseco auszusteigen (es ist ein kleines Dorf mit nur einer Haltestelle). Sobald du ausgestiegen bist, such den Minimarkt Punto y Coma und nimm die Treppe auf der linken Seite etwa 20 Meter nach dem Minimarkt. Es ist ein 5-10 minütiger Aufstieg zum Haus. Google Maps ist für die letzte Strecke nicht vollständig genau, bitte folg daher dem Fotoleitfaden!",
       "taxi": "Taxis stehen am Flughafen Tenerife Nord (TFN) und in Santa Cruz zur Verfügung (kostet etwa 10 EUR). Am besten vereinbarst du den Preis vor der Abfahrt oder stellst sicher, dass das Taxameter läuft. Vom Flughafen Tenerife Süd empfehle ich, zuerst den Bus nach Santa Cruz zu nehmen, da es weiter entfernt ist. Bitte den Taxifahrer, dich am oben im Abschnitt \"Mit dem Auto\" verlinkten Parkplatz abzusetzen, und folg dann dem Schritt-für-Schritt-Fotoleitfaden ab Foto 1.",
@@ -513,7 +513,7 @@
       "byCar": "A legjobb, ha az ajánlott helyen parkolsz (link lent). Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznod. Ezután kövesd a gyalogos útmutatást a fotós útmutatóban. A Google Maps nem 100%-ban pontos az utolsó szakaszra, ezért kérlek, használd a fotós útmutatót!",
       "parking": "Mindig van szabad parkolóhely, és a ház bejáratáig egy rövid, sík terepen vezető séta vár.",
       "publicTransport": "Számos busz indul Santa Cruz de Teneriféből (pl. 909, 910, 916-os). Ügyelj arra, hogy Vallesecónál szállj le (ez egy kis falu, csak egy megállóval). Leszállás után keresd meg a Punto y Coma Minimarketet, és menj fel a bal oldali lépcsőn, körülbelül 20 méterrel utána. Ez egy 5-10 perces, felfelé vezető séta a házig. A Google Maps nem teljesen pontos az utolsó szakaszra, ezért kérlek, kövesd a fotós útmutatót!",
-      "taxi": "Taxi elérhető a Tenerife North (TFN) repülőtérről és Santa Cruzból is (kb. 10 EUR-ba kerül). A legjobb, ha elindulás előtt megegyezel a viteldíjban, vagy meggyőződsz arról, hogy az órát bekapcsolták. Tenerife Southból azt javaslom, hogy először busszal menj Santa Cruzba, mivel az onnan messzebb van. Kérd meg a taxisofőrt, hogy tegye le a fent linkelt parkolóhelynél, az \"By Car\" szakaszban, majd kövesd a lépésről lépésre fotós útmutatót az 1. fotótól kezdve.",
+      "taxi": "Taxi elérhető a Tenerife North (TFN) repülőtérről és Santa Cruzból is (kb. 10 EUR-ba kerül). A legjobb, ha elindulás előtt megegyezel a viteldíjban, vagy meggyőződsz arról, hogy az órát bekapcsolták. Tenerife Southból azt javaslom, hogy először busszal menj Santa Cruzba, mivel az onnan messzebb van. Kérd meg a taxisofőrt, hogy tegye le a fent linkelt parkolóhelynél, az \"Autóval\" szakaszban, majd kövesd a lépésről lépésre fotós útmutatót az 1. fotótól kezdve.",
       "directionPhotos": [
         {
           "caption": "Itt parkolj le. Mindig van szabad hely, és így nem kell majdnem semennyi lépcsőt megmásznod."
@@ -823,7 +823,7 @@
     "gettingAround": [
       {
         "name": "Busz",
-        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz vedd a TITSA 910-es vonalát San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
+        "info": "Tenerife felfedezéséhez tömegközlekedéssel, kezdd azzal, hogy megnézed a TITSA weboldalát vagy a TITSA alkalmazást. Vallesecóból a legegyszerűbb megoldás általában az, hogy először az Intercambiador Santa Cruzba utazol, ami Santa Cruz fő buszállomása. Onnan gyalogosan bemehetsz a városközpontba, villamossal La Lagunába mehetsz, vagy átszállhatsz más városokba, repülőterekre, tengerpartokra és a sziget déli részére induló buszokra. A Playa de Las Teresitashoz szállj fel a TITSA 910-es vonalára San Andrés / Playa de Las Teresitas irányába. A buszra felszállhatsz a Valleseco térségben, ha elérhető, vagy először menj az Intercambiador Santa Cruzba, és ott szállj át. Indulás előtt javaslom, hogy nézd meg a pontos útvonalat a Google Mapsen, a TITSA weboldalán vagy alkalmazásában, mivel a buszidők változhatnak a naptól, évszaktól és az ünnepnapoktól függően."
       }
     ],
     "emergency": {
@@ -1365,7 +1365,7 @@
       "byCar": "L'idéal est de te garer à l'emplacement recommandé (lien ci-dessous). Il y a toujours des places disponibles et tu n'auras presque pas d'escaliers à monter. Suis ensuite les indications à pied dans le guide photo. Google Maps n'est pas fiable à 100 % pour le dernier tronçon, merci donc d'utiliser le guide photo !",
       "parking": "Il y a toujours des places de stationnement disponibles et c'est une courte marche plate jusqu'à l'entrée de la maison.",
       "publicTransport": "Plusieurs bus partent de Santa Cruz de Tenerife (par exemple les lignes 909, 910, 916). Veille à descendre à Valleseco (c'est un petit village avec un seul arrêt). Une fois descendu(e), trouve le minimarché Punto y Coma et prends l'escalier sur la gauche environ 20 mètres après l'avoir dépassé. C'est une montée à pied de 5 à 10 minutes jusqu'à la maison. Google Maps n'est pas totalement fiable pour le dernier tronçon, merci donc de suivre le guide photo !",
-      "taxi": "Des taxis sont disponibles depuis l'aéroport de Tenerife Nord (TFN) et depuis Santa Cruz (coûte environ 10 EUR). Il est préférable de convenir du tarif avant le départ ou de vérifier que le compteur fonctionne. Depuis Tenerife Sud, je recommande de prendre d'abord le bus jusqu'à Santa Cruz, car c'est plus loin. Demande au chauffeur de taxi de te déposer à l'emplacement de stationnement indiqué ci-dessus dans la section \"By Car\", puis suis le guide photo pas à pas à partir de la photo 1.",
+      "taxi": "Des taxis sont disponibles depuis l'aéroport de Tenerife Nord (TFN) et depuis Santa Cruz (coûte environ 10 EUR). Il est préférable de convenir du tarif avant le départ ou de vérifier que le compteur fonctionne. Depuis Tenerife Sud, je recommande de prendre d'abord le bus jusqu'à Santa Cruz, car c'est plus loin. Demande au chauffeur de taxi de te déposer à l'emplacement de stationnement indiqué ci-dessus dans la section \"En voiture\", puis suis le guide photo pas à pas à partir de la photo 1.",
       "directionPhotos": [
         {
           "caption": "Gare-toi ici. Il y a toujours des places disponibles et tu n'auras presque pas d'escaliers à monter."
@@ -1765,7 +1765,7 @@
       "contactHostIntroCohost": "Estamos aquí para ti durante toda tu estancia. No dudes en contactarnos con cualquier pregunta, solicitud o si algo necesita atención – de verdad queremos que tengas un tiempo maravilloso.",
       "atAGlance": "De un vistazo",
       "checkInNote": "A partir de esta hora",
-      "checkoutNote": "Por favor, salga antes de esta hora",
+      "checkoutNote": "Por favor, sal antes de esta hora",
       "contacts": "Contactos",
       "contactsNoteCohost": "¿Necesitas ayuda? Siempre estamos disponibles.",
       "contactsNoteSolo": "¿Necesitas ayuda? Siempre estoy disponible. ¡Contáctame!",
@@ -2563,7 +2563,7 @@
       "accessCode": "Код доступа",
       "stepByStep": "Шаг за шагом",
       "houseRules": "Правила дома",
-      "houseRulesAcknowledgment": "Заезжая, вы соглашаетесь соблюдать все вышеуказанные правила проживания.",
+      "houseRulesAcknowledgment": "Заезжая, ты соглашаешься соблюдать все вышеуказанные правила проживания.",
       "gettingHere": "Как добраться",
       "openGoogleMaps": "Открыть в Google Maps",
       "byCar": "На машине",
@@ -2611,16 +2611,16 @@
       "whatsapp": "WhatsApp",
       "email": "Эл. почта",
       "enjoyStay": "Приятного пребывания!",
-      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
-      "enjoyStayMessageCohost": "Надеемся, это руководство сделает ваше пребывание ещё лучше. Если вам понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
-      "contactHostIntroSolo": "Я здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы вы провели здесь замечательное время.",
-      "contactHostIntroCohost": "Мы здесь для вас на протяжении всего вашего пребывания. Не стесняйтесь обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы вы провели здесь замечательное время.",
+      "enjoyStayMessageSolo": "Надеюсь, это руководство сделает твоё пребывание ещё лучше. Если тебе понравится здесь, я буду очень признательна за отзыв на Airbnb — это значит для меня очень много.",
+      "enjoyStayMessageCohost": "Надеемся, это руководство сделает твоё пребывание ещё лучше. Если тебе понравится здесь, мы будем очень признательны за отзыв на Airbnb — это значит для нас очень много.",
+      "contactHostIntroSolo": "Я здесь для тебя на протяжении всего твоего пребывания. Не стесняйся обращаться ко мне с любыми вопросами, пожеланиями или если что-то требует внимания — я искренне хочу, чтобы у тебя было здесь замечательное время.",
+      "contactHostIntroCohost": "Мы здесь для тебя на протяжении всего твоего пребывания. Не стесняйся обращаться к нам с любыми вопросами, пожеланиями или если что-то требует внимания — мы искренне хотим, чтобы у тебя было здесь замечательное время.",
       "atAGlance": "Краткий обзор",
       "checkInNote": "Начиная с этого времени",
-      "checkoutNote": "Пожалуйста, освободите номер до этого времени",
+      "checkoutNote": "Пожалуйста, освободи номер до этого времени",
       "contacts": "Контакты",
       "contactsNoteCohost": "Нужна помощь? Мы всегда на связи.",
-      "contactsNoteSolo": "Нужна помощь? Я всегда на связи! Напишите мне.",
+      "contactsNoteSolo": "Нужна помощь? Я всегда на связи! Напиши мне.",
       "contactUsCohost": "Связаться с нами",
       "contactUsSolo": "Связаться со мной",
       "copied": "Скопировано!",
@@ -2628,83 +2628,83 @@
     },
     "subtitle": "Разноцветный дом в холмах Тенерифе",
     "tagline": "Твой уютный горный уголок в Valleseco",
-    "welcomeMessage": "Добро пожаловать в мой разноцветный дом в холмах Тенерифе! Он расположен в очаровательной деревне Valleseco, полон характера и окружен природой. Надеюсь, вам понравится здесь так же, как и мне. Обращайтесь в любое время, если вам что-то понадобится.",
+    "welcomeMessage": "Добро пожаловать в мой разноцветный дом в холмах Тенерифе! Он расположен в очаровательной деревне Valleseco, полон характера и окружен природой. Надеюсь, тебе понравится здесь так же, как и мне. Обращайся в любое время, если тебе что-то понадобится.",
     "address": {
       "addressNote": "Google Maps не на 100% точен на последнем отрезке пути, поэтому, пожалуйста, используйте фотогид!"
     },
     "wifi": {
-      "notes": "Если возникнут проблемы с подключением, пожалуйста, дайте мне знать, и я помогу."
+      "notes": "Если возникнут проблемы с подключением, пожалуйста, дай мне знать, и я помогу."
     },
     "checkin": {
-      "keyLocation": "Найдите белую дверь в нижней части дома. Сейф для ключей находится прямо рядом с ней.",
-      "notes": "Если вам будет сложно найти дом, звоните или пишите мне в WhatsApp в любое время, и я с радостью подскажу дорогу шаг за шагом. Обратите внимание: Google Maps не на 100% точен на последнем отрезке пути, поэтому, пожалуйста, следуйте фотогиду!"
+      "keyLocation": "Найди белую дверь в нижней части дома. Сейф для ключей находится прямо рядом с ней.",
+      "notes": "Если тебе будет сложно найти дом, звони или пиши мне в WhatsApp в любое время, и я с радостью подскажу дорогу шаг за шагом. Обрати внимание: Google Maps не на 100% точен на последнем отрезке пути, поэтому, пожалуйста, следуй фотогиду!"
     },
     "gettingHere": {
-      "byCar": "Лучше всего парковаться на рекомендованном месте (ссылка ниже). Свободные места есть всегда, и почти не придется подниматься по лестницам. Затем следуйте пешим указаниям в фотогиде. Google Maps не на 100% точен на последнем отрезке пути, поэтому, пожалуйста, используйте фотогид!",
+      "byCar": "Лучше всего парковаться на рекомендованном месте (ссылка ниже). Свободные места есть всегда, и почти не придется подниматься по лестницам. Затем следуй пешим указаниям в фотогиде. Google Maps не на 100% точен на последнем отрезке пути, поэтому, пожалуйста, используй фотогид!",
       "parking": "Свободные парковочные места есть всегда, и до входа в дом всего несколько шагов по ровной дороге.",
-      "publicTransport": "От Санта-Крус-де-Тенерифе есть разные автобусы (например, №№ 909, 910, 916). Обязательно выходите в Valleseco (это маленькая деревня с всего одной остановкой). Выйдя, найдите минимаркет Punto y Coma и поднимитесь по лестнице слева примерно через 20 метров после него. Это 5-10 минут подъема пешком до дома. Google Maps не полностью точен на последнем отрезке пути, поэтому, пожалуйста, следуйте фотогиду!",
-      "taxi": "Такси доступны от аэропорта Тенерифе Норте (TFN) и от Санта-Круса (стоимость около 10 евро). Лучше всего договориться о цене перед поездкой или убедиться, что включен счетчик. От Тенерифе Юг я рекомендую сначала доехать автобусом до Санта-Круса, так как оттуда путь дальше. Попросите водителя такси высадить вас на парковке, указанной выше в разделе «На машине», а затем следуйте фотогиду шаг за шагом, начиная с фото 1.",
+      "publicTransport": "От Санта-Крус-де-Тенерифе есть разные автобусы (например, №№ 909, 910, 916). Обязательно выходи в Valleseco (это маленькая деревня с всего одной остановкой). Выйдя, найди минимаркет Punto y Coma и поднимись по лестнице слева примерно через 20 метров после него. Это 5-10 минут подъема пешком до дома. Google Maps не полностью точен на последнем отрезке пути, поэтому, пожалуйста, следуй фотогиду!",
+      "taxi": "Такси доступны от аэропорта Тенерифе Норте (TFN) и от Санта-Круса (стоимость около 10 евро). Лучше всего договориться о цене перед поездкой или убедиться, что включен счетчик. От Тенерифе Юг я рекомендую сначала доехать автобусом до Санта-Круса, так как оттуда путь дальше. Попроси водителя такси высадить тебя на парковке, указанной выше в разделе «На машине», а затем следуй фотогиду шаг за шагом, начиная с фото 1.",
       "directionPhotos": [
         {
-          "caption": "Паркуйтесь здесь. Свободные места есть всегда, и почти не придется подниматься по лестницам."
+          "caption": "Паркуйся здесь. Свободные места есть всегда, и почти не придется подниматься по лестницам."
         },
         {
-          "caption": "От парковки идите в этом направлении и продолжайте, пока улица не закончится, затем спуститесь по лестнице с левой стороны."
+          "caption": "От парковки иди в этом направлении и продолжай, пока улица не закончится, затем спустись по лестнице с левой стороны."
         },
         {
-          "caption": "Спуститесь на следующую улицу ниже и поверните направо. Это улица дома."
+          "caption": "Спустись на следующую улицу ниже и поверни направо. Это улица дома."
         },
         {
-          "caption": "Идите прямо и пересеките сад с кактусами и другими растениями."
+          "caption": "Иди прямо и пересеки сад с кактусами и другими растениями."
         },
         {
-          "caption": "Идите дальше между домами..."
+          "caption": "Иди дальше между домами..."
         },
         {
-          "caption": "Идите прямо..."
+          "caption": "Иди прямо..."
         },
         {
-          "caption": "Через 1 минуту слева вы увидите белый дом."
+          "caption": "Через 1 минуту слева ты увидишь белый дом."
         },
         {
           "caption": "Уже почти на месте. Твоя квартира находится в нижней части дома."
         },
         {
-          "caption": "Ищите белую дверь, к которой ведет лестница с боковой стороны дома, рядом с ней сейф для ключей. Код: 6015"
+          "caption": "Ищи белую дверь, к которой ведет лестница с боковой стороны дома, рядом с ней сейф для ключей. Код: 6015"
         }
       ],
       "directionPhotosBus": [
         {
-          "caption": "Найдите минимаркет Punto y Coma. Пройдя его, поднимитесь по лестнице слева."
+          "caption": "Найди минимаркет Punto y Coma. Пройдя его, поднимись по лестнице слева."
         },
         {
-          "caption": "Найдите лестницу слева, примерно через 20 метров после минимаркета."
+          "caption": "Найди лестницу слева, примерно через 20 метров после минимаркета."
         },
         {
-          "caption": "После 5-10 минут подъема (зависит от вашего темпа!) вы увидите дом."
+          "caption": "После 5-10 минут подъема (зависит от твоего темпа!) ты увидишь дом."
         },
         {
-          "caption": "Это нижняя часть дома. Ищите белую дверь, к которой ведет лестница с боковой стороны, рядом с ней находится сейф для ключей. Код: 6015"
+          "caption": "Это нижняя часть дома. Ищи белую дверь, к которой ведет лестница с боковой стороны, рядом с ней находится сейф для ключей. Код: 6015"
         }
       ]
     },
     "houseRules": [
-      "Курите, пожалуйста, только на улице. Открытые пространства полностью в вашем распоряжении, но внутри дома, будьте добры, не курите. Спасибо!",
-      "Пожалуйста, соблюдайте тишину. Тихие часы — с 23:00 до 8:00. Никаких вечеринок и мероприятий",
-      "Пожалуйста, относитесь к квартире как к своей и сразу сообщите мне, если что-то повреждено. Я понимаю, что случаются разные ситуации"
+      "Кури, пожалуйста, только на улице. Открытые пространства полностью в твоём распоряжении, но внутри дома, пожалуйста, не кури. Спасибо!",
+      "Пожалуйста, соблюдай тишину. Тихие часы — с 23:00 до 8:00. Никаких вечеринок и мероприятий",
+      "Пожалуйста, относись к квартире как к своей и сразу сообщи мне, если что-то повреждено. Я понимаю, что случаются разные ситуации"
     ],
     "appliances": [
       {
         "name": "Электричество",
-        "instructions": "Электросистема дома немного устарела, поэтому она не выдерживает одновременную работу нескольких мощных приборов: например, фена, духовки и плиты. Чтобы не рисковать, пожалуйста, используйте только один из этих приборов за раз. Если электричество вдруг отключится, не переживайте — просто выключите все приборы и включите обратно главный предохранитель (рядом с входной дверью)!"
+        "instructions": "Электросистема дома немного устарела, поэтому она не выдерживает одновременную работу нескольких мощных приборов: например, фена, духовки и плиты. Чтобы не рисковать, пожалуйста, используй только один из этих приборов за раз. Если электричество вдруг отключится, не переживай — просто выключи все приборы и включи обратно главный предохранитель (рядом с входной дверью)!"
       },
       {
         "name": "Кухня",
-        "instructions": "У вас есть кухонная зона с электрической плитой, мини-духовкой, холодильником и обычными кухонными принадлежностями, которые могут понадобиться. ⚠️ Важно: поскольку на Тенерифе всегда лето, насекомые не спят никогда. Пожалуйста, обязательно убирайте всю оставшуюся еду и сразу выбрасывайте её в мусорное ведро, а также рекомендую мыть посуду сразу после еды, чтобы избежать появления мух и других насекомых на кухне."
+        "instructions": "У тебя есть кухонная зона с электрической плитой, мини-духовкой, холодильником и обычными кухонными принадлежностями, которые могут понадобиться. ⚠️ Важно: поскольку на Тенерифе всегда лето, насекомые не спят никогда. Пожалуйста, обязательно убирай всю оставшуюся еду и сразу выбрасывай её в мусорное ведро, а также рекомендую мыть посуду сразу после еды, чтобы избежать появления мух и других насекомых на кухне."
       },
       {
         "name": "Стиральная машина",
-        "instructions": "Стиральную машину вы найдете в холле, не стесняйтесь ею пользоваться! Обычно достаточно быстрой программы «Rapido». Если возникнут вопросы, просто дайте мне знать."
+        "instructions": "Стиральную машину ты найдешь в холле, не стесняйся ею пользоваться! Обычно достаточно быстрой программы «Rapido». Если возникнут вопросы, просто дай мне знать."
       },
       {
         "name": "Питьевая вода",
@@ -2716,15 +2716,15 @@
       },
       {
         "name": "Вентиляция в ванной",
-        "instructions": "⚠️ ВАЖНО: поскольку в ванной комнате нет окна, важно выпускать пар наружу. Там есть система вентиляции, которую в идеале нужно включать на 20 минут каждый день. Она работает совместно со светом в ванной, поэтому, пожалуйста, оставляйте его включенным некоторое время после использования ванной, особенно после душа. Также, пожалуйста, оставляйте дверь открытой, когда не пользуетесь ванной."
+        "instructions": "⚠️ ВАЖНО: поскольку в ванной комнате нет окна, важно выпускать пар наружу. Там есть система вентиляции, которую в идеале нужно включать на 20 минут каждый день. Она работает совместно со светом в ванной, поэтому, пожалуйста, оставляй его включенным некоторое время после использования ванной, особенно после душа. Также, пожалуйста, оставляй дверь открытой, когда не пользуешься ванной."
       },
       {
         "name": "Растения",
-        "instructions": "Если вы остаетесь на несколько дней, растениям будет приятен небольшой полив каждые 3-4 дня. Они будут вам благодарны!"
+        "instructions": "Если ты остаёшься на несколько дней, растениям будет приятен небольшой полив каждые 3-4 дня. Они будут тебе благодарны!"
       },
       {
         "name": "Мари, чудесная соседка",
-        "instructions": "Моя правая рука и главная помощница — чудесная Мари, которая живет прямо рядом. Если что-то понадобится (скажем, лишнее полотенце), она всегда рада помочь. Она может даже заглянуть с домашней выпечкой, если найдется время! Мари говорит только по-испански, но не переживайте, если вы не говорите — обычно всё равно всё чудесно получается. 🙂"
+        "instructions": "Моя правая рука и главная помощница — чудесная Мари, которая живет прямо рядом. Если что-то понадобится (скажем, лишнее полотенце), она всегда рада помочь. Она может даже заглянуть с домашней выпечкой, если найдется время! Мари говорит только по-испански, но не переживай, если ты не говоришь — обычно всё равно всё чудесно получается. 🙂"
       }
     ],
     "thingsToDo": [
@@ -2849,7 +2849,7 @@
           {
             "name": "Гора Тейде",
             "distance": "Машина или автобус",
-            "tip": "Гора Тейде — вулкан и самая высокая точка Испании, 3715 метров. Можно доехать на машине или автобусе до высоты около 2200 метров, а затем подняться пешком или на фуникулере. Подъем занимает около 4-5 часов, в зависимости от вашей физической подготовки. Для последних 50 метров до вершины нужно заранее зарегистрироваться. Даже без этого последнего участка вид потрясающий и стоит всех усилий. Это не самый легкий поход, и наверху может быть холодно, но оно того определенно стоит."
+            "tip": "Гора Тейде — вулкан и самая высокая точка Испании, 3715 метров. Можно доехать на машине или автобусе до высоты около 2200 метров, а затем подняться пешком или на фуникулере. Подъем занимает около 4-5 часов, в зависимости от твоей физической подготовки. Для последних 50 метров до вершины нужно заранее зарегистрироваться. Даже без этого последнего участка вид потрясающий и стоит всех усилий. Это не самый легкий поход, и наверху может быть холодно, но оно того определенно стоит."
           },
           {
             "name": "Район Оротава",
@@ -2859,7 +2859,7 @@
           {
             "name": "Barranco de Masca",
             "distance": "Машина или автобус",
-            "tip": "Если вы посетите Masca и любите пешие прогулки, стоит рассмотреть Barranco de Masca."
+            "tip": "Если ты посетишь Masca и любишь пешие прогулки, стоит рассмотреть Barranco de Masca."
           },
           {
             "name": "Приложение Komoot",
@@ -2953,7 +2953,7 @@
     "gettingAround": [
       {
         "name": "Автобус",
-        "info": "Чтобы путешествовать по Тенерифе на общественном транспорте, начните с сайта TITSA или приложения TITSA. Из Valleseco проще всего сначала доехать до Интеркамбьядора Санта-Крус — главной автостанции в Санта-Крусе. Оттуда можно пройти пешком до центра города, доехать на трамвае до Ла-Лагуны или пересесть на автобусы, идущие в другие города, аэропорты, на пляжи и на юг острова. Чтобы добраться до Playa de Las Teresitas, воспользуйтесь автобусом TITSA линии 910 в направлении San Andrés / Playa de Las Teresitas. Автобус можно поймать в районе Valleseco, когда он там проходит, либо сначала доехать до Интеркамбьядора Санта-Крус и там сделать пересадку. Перед выездом рекомендую уточнить точный маршрут в Google Maps, на сайте TITSA или в приложении TITSA, так как расписание автобусов может меняться в зависимости от дня, сезона и праздников."
+        "info": "Чтобы путешествовать по Тенерифе на общественном транспорте, начни с сайта TITSA или приложения TITSA. Из Valleseco проще всего сначала доехать до Интеркамбьядора Санта-Крус — главной автостанции в Санта-Крусе. Оттуда можно пройти пешком до центра города, доехать на трамвае до Ла-Лагуны или пересесть на автобусы, идущие в другие города, аэропорты, на пляжи и на юг острова. Чтобы добраться до Playa de Las Teresitas, воспользуйся автобусом TITSA линии 910 в направлении San Andrés / Playa de Las Teresitas. Автобус можно поймать в районе Valleseco, когда он там проходит, либо сначала доехать до Интеркамбьядора Санта-Крус и там сделать пересадку. Перед выездом рекомендую уточнить точный маршрут в Google Maps, на сайте TITSA или в приложении TITSA, так как расписание автобусов может меняться в зависимости от дня, сезона и праздников."
       }
     ],
     "emergency": {
@@ -2967,17 +2967,17 @@
           "note": "Главная больница в Санта-Крус-де-Тенерифе"
         }
       ],
-      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спросите меня, если понадобится рекомендация."
+      "nearestPharmacy": "Несколько аптек в пешей доступности на главной дороге. Спроси меня, если понадобится рекомендация."
     },
     "checkout": {
       "steps": [
-        "Если вы сможете быстро помыть посуду и оставить её на сушилке, это было бы здорово!",
-        "Если вы сможете освободить холодильник и выбросить оставшуюся еду в мусорное ведро, я буду очень благодарна!",
-        "Было бы здорово, если бы вы выбросили мусор. Большие контейнеры находятся прямо перед выездом из деревни.",
-        "Перед тем как уйти, пожалуйста, закройте окна и дверь.",
-        "Пожалуйста, выключайте свет и любые электроприборы (духовку, плиту, блендер), когда закончите ими пользоваться.",
-        "Когда будете готовы уходить, пожалуйста, закройте дом и верните все ключи в сейф для ключей, установив после этого код заново.",
-        "Пожалуйста, напишите мне в WhatsApp или Airbnb, когда уедете, и я буду искренне рада отзыву, если вам понравилось! 🩵"
+        "Если ты сможешь быстро помыть посуду и оставить её на сушилке, это было бы здорово!",
+        "Если ты сможешь освободить холодильник и выбросить оставшуюся еду в мусорное ведро, я буду очень благодарна!",
+        "Было бы здорово выбросить мусор — большие контейнеры находятся прямо перед выездом из деревни.",
+        "Перед тем как уйти, пожалуйста, закрой окна и дверь.",
+        "Пожалуйста, выключай свет и любые электроприборы (духовку, плиту, блендер), когда закончишь ими пользоваться.",
+        "Когда будет пора уходить, пожалуйста, закрой дом и верни все ключи в сейф для ключей, установив после этого код заново.",
+        "Пожалуйста, напиши мне в WhatsApp или Airbnb, когда уедешь, и я буду искренне рада отзыву, если тебе понравилось! 🩵"
       ]
     }
   },

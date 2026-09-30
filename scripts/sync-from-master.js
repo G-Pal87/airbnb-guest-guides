@@ -5,6 +5,8 @@
  *
  * Replace fields: thingsToDo, houseRules, gettingAround, emergency
  *   — entire array/object replaced with the master version.
+ *   — exception: thingsToDo categories listed in a property's
+ *     "localThingsToDoCategories" keep the property's own version.
  *
  * Partial object fields: gettingHere
  *   — sub-keys synced from master EXCEPT directionPhotos and directionPhotosBus,
@@ -57,10 +59,19 @@ for (const [location, ids] of Object.entries(PROPERTIES)) {
 
     for (const field of REPLACE_FIELDS) {
       if (field in master) {
+        let masterValue = master[field];
+        // A property can keep its own version of specific Things-to-do categories
+        // (e.g. a beach list measured from that apartment) instead of the master's.
+        if (field === 'thingsToDo' && Array.isArray(property.localThingsToDoCategories)) {
+          masterValue = masterValue.map((group) => {
+            if (!property.localThingsToDoCategories.includes(group.category)) return group;
+            return (property.thingsToDo ?? []).find((g) => g.category === group.category) ?? group;
+          });
+        }
         const before = JSON.stringify(property[field]);
-        const after = JSON.stringify(master[field]);
+        const after = JSON.stringify(masterValue);
         if (before !== after) {
-          property[field] = master[field];
+          property[field] = masterValue;
           updated = true;
         }
       }

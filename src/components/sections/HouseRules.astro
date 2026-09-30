@@ -7,8 +7,14 @@ interface Props {
 
 const { property } = Astro.props;
 
+// Rules that allow smoking outside (balconies, terraces) must not get a "No Smoking" title.
+function isOutdoorSmoking(r: string): boolean {
+  return ['outside', 'outdoor', 'balcon', 'terrace'].some((w) => r.includes(w));
+}
+
 function ruleIcon(rule: string): string {
   const r = rule.toLowerCase();
+  if (r.includes('smok') && isOutdoorSmoking(r)) return '🚬';
   if (r.includes('smok')) return '🚭';
   if (r.includes('party') || r.includes('parties') || r.includes('quiet') || r.includes('noise')) return '🔇';
   if (r.includes('occupancy') || r.includes('maximum') && r.includes('guest')) return '👥';
@@ -24,6 +30,7 @@ function ruleIcon(rule: string): string {
 
 function ruleTitle(rule: string): string {
   const r = rule.toLowerCase();
+  if (r.includes('smok') && isOutdoorSmoking(r)) return 'Smoking Outdoors Only';
   if (r.includes('smok')) return 'No Smoking';
   if (r.includes('quiet') || r.includes('noise')) return 'Quiet Hours';
   if (r.includes('party') || r.includes('parties')) return 'No Parties or Events';
@@ -41,6 +48,7 @@ function ruleTitle(rule: string): string {
 
 function ruleI18nKey(rule: string): string {
   const r = rule.toLowerCase();
+  if (r.includes('smok') && isOutdoorSmoking(r)) return 'ui.ruleTitleSmokingOutdoors';
   if (r.includes('smok')) return 'ui.ruleTitleNoSmoking';
   if (r.includes('quiet') || r.includes('noise')) return 'ui.ruleTitleQuietHours';
   if (r.includes('party') || r.includes('parties')) return 'ui.ruleTitleNoParties';

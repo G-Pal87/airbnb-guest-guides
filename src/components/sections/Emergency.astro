@@ -49,7 +49,7 @@ function contactIcon(name: string): string {
       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-red-600 flex-shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
         <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd" />
       </svg>
-      <p class="text-red-800 text-sm font-medium">
+      <p class="text-red-800 text-sm font-medium" data-i18n="ui.emergencyIntro" data-i18n-html>
         All numbers below are tap-to-call. In a life-threatening emergency, always call <strong>112</strong> first.
       </p>
     </div>
@@ -97,7 +97,7 @@ function contactIcon(name: string): string {
           <span class="text-xl flex-shrink-0" aria-hidden="true">🏥</span>
           <div>
             <p class="font-semibold text-blue-900 text-sm mb-1" data-i18n="ui.nearestHospital">Nearest Hospital</p>
-            <p class="text-blue-700 text-xs leading-relaxed">{property.emergency.nearestHospital}</p>
+            <p class="text-blue-700 text-xs leading-relaxed" data-i18n="emergency.nearestHospital">{property.emergency.nearestHospital}</p>
             {property.emergency.nearestHospitalUrl && (
               <a
                 href={property.emergency.nearestHospitalUrl}
@@ -109,7 +109,7 @@ function contactIcon(name: string): string {
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
-                Open in Google Maps
+                <span data-i18n="ui.openGoogleMaps">Open in Google Maps</span>
               </a>
             )}
           </div>

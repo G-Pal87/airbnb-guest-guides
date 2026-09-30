@@ -33,7 +33,7 @@ const hasHeroImage = property.heroImage && property.heroImage.trim() !== '';
 
     <div class="relative z-10 w-full max-w-2xl mx-auto px-6 pb-20 pt-24">
       <!-- Eyebrow -->
-      <p class="text-accent/90 text-xs font-semibold uppercase tracking-[0.2em] mb-4">Guest Guide</p>
+      <p class="text-accent/90 text-xs font-semibold uppercase tracking-[0.2em] mb-4" data-i18n="ui.guestGuide">Guest Guide</p>
       <!-- Property name -->
       <h1 class="font-serif text-5xl md:text-6xl font-bold text-white leading-tight mb-3" style="text-shadow: 0 2px 16px rgba(0,0,0,0.4)">
         {property.name}
@@ -54,7 +54,7 @@ const hasHeroImage = property.heroImage && property.heroImage.trim() !== '';
 
     <!-- Scroll indicator -->
     <div class="absolute bottom-5 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-1" aria-hidden="true">
-      <span class="text-white/40 text-[10px] font-medium uppercase tracking-widest">Scroll</span>
+      <span class="text-white/40 text-[10px] font-medium uppercase tracking-widest" data-i18n="ui.scroll">Scroll</span>
       <svg class="h-5 w-5 text-white/40 animate-bounce" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
       </svg>

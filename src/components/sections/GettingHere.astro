@@ -61,7 +61,7 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
           <p class="font-semibold text-charcoal text-base leading-snug">
             {property.address.display}
           </p>
-          <p class="text-sm text-stone-500 mt-1">
+          <p class="text-sm text-stone-500 mt-1" data-i18n="address.nearestLandmark">
             {property.address.nearestLandmark}
           </p>
           {property.address.addressNote && (
@@ -125,14 +125,14 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                       </svg>
-                      View recommended parking →
+                      <span data-i18n="ui.viewRecommendedParking">View recommended parking →</span>
                     </a>
                   )}
                 </div>
               </div>
               {photos.length > 0 && (
                 <div class="border-t border-stone-100 pt-4 space-y-4">
-                  <p class="text-xs font-semibold text-stone-500 uppercase tracking-wide">Step-by-step photo guide</p>
+                  <p class="text-xs font-semibold text-stone-500 uppercase tracking-wide" data-i18n="ui.photoGuide">Step-by-step photo guide</p>
                   {photos.map((photo: DirectionPhoto, i: number) => (
                     <div id={`direction-photo-${i + 1}`} class="flex items-start gap-3">
                       <span
@@ -196,12 +196,12 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
                 href={`#direction-photo-${property.gettingHere.publicTransportPhotoStart}`}
                 class="inline-flex items-center gap-1.5 bg-amber-50 text-amber-700 border border-amber-200 text-xs font-semibold px-3 py-1.5 rounded-full hover:bg-amber-100 transition-colors"
               >
-                📸 See By Car & Parking photo guide from photo {property.gettingHere.publicTransportPhotoStart} above
+                <span data-i18n="ui.seeCarPhotosAbove" data-i18n-n={property.gettingHere.publicTransportPhotoStart}>📸 See By Car & Parking photo guide from photo {property.gettingHere.publicTransportPhotoStart} above</span>
               </a>
             )}
             {photosBus.length > 0 && (
               <div class="border-t border-stone-100 pt-4 space-y-4">
-                <p class="text-xs font-semibold text-stone-500 uppercase tracking-wide">Step-by-step photo guide</p>
+                <p class="text-xs font-semibold text-stone-500 uppercase tracking-wide" data-i18n="ui.photoGuide">Step-by-step photo guide</p>
                 {photosBus.map((photo: DirectionPhoto, i: number) => (
                   <div class="flex items-start gap-3">
                     <span
@@ -257,7 +257,7 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
-                  View drop-off parking spot →
+                  <span data-i18n="ui.viewDropOffParking">View drop-off parking spot →</span>
                 </a>
               )}
               {photos.length > 0 && (
@@ -265,7 +265,7 @@ const photoStart = property.gettingHere.directionPhotosStart ?? 1;
                   href={`#direction-photo-${photoStart}`}
                   class="inline-flex items-center gap-1.5 mt-2 bg-amber-50 text-amber-700 border border-amber-200 text-xs font-semibold px-3 py-1.5 rounded-full hover:bg-amber-100 transition-colors"
                 >
-                  📸 See By Car & Parking photo guide from photo {photoStart} below
+                  <span data-i18n="ui.seeCarPhotosBelow" data-i18n-n={photoStart}>📸 See By Car & Parking photo guide from photo {photoStart} below</span>
                 </a>
               )}
             </div>

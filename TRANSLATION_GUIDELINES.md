@@ -28,33 +28,37 @@ personally talking to them, not like they're reading a policy document.
 - Keep any existing gender-neutral notation for the host (e.g. Polish `wdzięczny/-a`)
   where the host's gender isn't fixed by the template.
 
-## Register: use the informal "you" form, in every language
+## Register: how to address the guest, per language
 
-Politeness comes from warmth and courtesy, not from grammatical formality. Use the
-informal singular "you" address consistently — never the formal/polite register —
-across every string in every section (UI labels, house rules, things to do, check-in/
-check-out notes, contact messages, everything).
+Politeness comes from warmth and courtesy, not from grammatical formality. Each
+language uses exactly one form of "you", the same in all 5 guides and in every string
+(UI labels, house rules, things to do, check-in/check-out notes, contact messages,
+everything). Never mix forms within a language, and never use the formal/polite
+register (Sie, usted, Ön, Pan/Pani).
 
-| Language | Use (informal) | Not (formal) |
-|---|---|---|
-| French (`fr`) | tu / te / ton / ta / tes | vous / votre / vos |
-| German (`de`) | du / dich / dir / dein | Sie / Ihnen / Ihr |
-| Spanish (`es`) | tú / te / tu(s) | usted / su(s) |
-| Hungarian (`hu`) | te / neked / tiéd | Ön / Öntől / Magának |
-| Polish (`pl`) | Ty / Twój (capitalized) | Pan / Pani |
-| Russian (`ru`) | ты / тебя / твой (lowercase) | Вы / Вас / Ваш (capitalized formal) |
-| Ukrainian (`uk`) | ти / тебе / твій (lowercase) | Ви / Вас / Ваш (capitalized formal) |
+| Language | Use | Examples | Never |
+|---|---|---|---|
+| German (`de`) | informal singular: du / dich / dir / dein | "Folge dem Weg", "Genieß deinen Aufenthalt!" | ihr / euch, Sie / Ihnen |
+| Spanish (`es`) | informal singular: tú / te / tu(s) | "Sigue recto", "Disfruta de tu estancia" | vosotros / os, usted / su |
+| Hungarian (`hu`) | informal singular: te | "Fordulj jobbra", "Érezd jól magad!" | ti (-tok/-tek), Ön / Maga |
+| French (`fr`) | plural: vous / votre / vos | "Tournez à gauche", "Profitez bien de votre séjour !" | tu / ton |
+| Polish (`pl`) | plural, capitalised: Wy / Was / Wam / Wasz | "Skręćcie w lewo", "Życzymy Wam udanego pobytu!" | Ty / Twój, Pan / Pani |
+| Russian (`ru`) | plural: вы / вас / ваш (lowercase) | "Поверните налево", "Приятного вам отдыха!" | ты / твой |
+| Greek (`el`) | plural: εσείς / σας | "Προχωρήστε μπροστά", "Ξεκλειδώστε την πόρτα" | εσύ / σου, "Προχώρα" |
+| Ukrainian (`uk`) | informal singular: ти / тебе / твій (lowercase) | "Поверни ліворуч" | Ви / Вас |
+| Hebrew (`he`) | keep the existing form of each guide (plural אתם in the Cyprus guides, slashed singular את/ה in the Tenerife guides) | "פתחו", "תוכל/י" | mixing within a guide |
 
-**Exception — Greek (`el`):** address guests in the 2nd person plural (εσείς / σας),
-with a warm, casual tone, e.g. "Προχωρήστε μπροστά", "Ξεκλειδώστε την πόρτα",
-"Αν χρειαστείτε κάτι, στείλτε μας μήνυμα". Never use the singular (εσύ / σου,
-"Προχώρα", "μπορείς") and never mix the two.
+## Translate the meaning, not the words
 
-Polish already follows this house style (capitalized `Ty`/`Twój` is the standard warm,
-polite-but-informal register in written Polish) — use it as the reference tone when in
-doubt. Watch for and fix any register that mixes informal and formal forms within the
-same language (this has happened in Spanish, e.g. informal `tu estancia` next to formal
-`¿Necesita ayuda?`/`Contáctenos` — pick the informal form throughout).
+Write what a local host would naturally say, not a word-by-word copy of the English.
+Jokes, idioms and asides that don't work in the target language should be rephrased
+or dropped (e.g. "hello rain, wind and sunshine" is not "γεια σου βροχή", but
+"βροχή, αέρας και λιακάδα"). Use local, natural names for places where one exists
+(Teide-Nationalpark, Parc national du Teide), and keep the same name for the same
+place everywhere in a language. "Avlida" is the AVLIDA Hotel, not a town.
+
+The host's gender matters in languages that mark it: the Tenerife guides are hosted by
+Rita (female); the Cyprus guides by Giorgos (male), with Rita as co-host (female).
 
 ## Structure
 

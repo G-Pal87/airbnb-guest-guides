@@ -411,6 +411,10 @@ html[data-theme="tenerife"] details[open] p{
           var key = el.getAttribute('data-i18n');
           var value = getNestedValue(translations[lang], key);
           if (value !== undefined && value !== null) {
+            // Fill a {n} placeholder (e.g. a photo number) from data-i18n-n
+            if (el.hasAttribute('data-i18n-n')) {
+              value = String(value).replace('{n}', el.getAttribute('data-i18n-n'));
+            }
             if (el.hasAttribute('data-i18n-html')) {
               el.innerHTML = value;
             } else {

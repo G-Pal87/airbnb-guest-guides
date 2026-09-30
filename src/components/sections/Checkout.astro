@@ -22,7 +22,8 @@ function stepIcon(step: string): string {
   if (s.includes('fridge') || s.includes('food')) return '🧊';
   if (s.includes('dish') || s.includes('washing')) return '🍽️';
   if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste') || s.includes('garbage') || s.includes('dispose') || s.includes('container')) return '🗑️';
-  if (s.includes('cushion') || s.includes('umbrella')) return '🛋️';
+  if (s.includes('umbrella')) return '⛱️';
+  if (s.includes('cushion')) return '🛋️';
   if (s.includes('window') || s.includes('balcony') || s.includes('door')) return '🪟';
   if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return '💡';
   if (s.includes('key') || s.includes('keybox') || s.includes('reception') || s.includes('card')) return '🔑';
@@ -36,6 +37,7 @@ function stepTitle(step: string): string {
   if (s.includes('dish') || s.includes('washing')) return 'Wash up the dishes';
   if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste') || s.includes('garbage') || s.includes('dispose') || s.includes('container')) return 'Take out the rubbish';
   if (s.includes('cushion')) return 'Rain? Bring cushions in';
+  if (s.includes('umbrella')) return 'Close the umbrella';
   if (s.includes('window') || s.includes('balcony') || s.includes('close')) return 'Close windows & doors';
   if (s.includes('appliance')) return 'Switch off lights & appliances';
   if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return 'Switch off lights & AC';
@@ -50,6 +52,7 @@ function stepI18nKey(step: string): string {
   if (s.includes('dish') || s.includes('washing')) return 'ui.stepTitleDishes';
   if (s.includes('rubbish') || s.includes('bin') || s.includes('trash') || s.includes('waste') || s.includes('garbage') || s.includes('dispose') || s.includes('container')) return 'ui.stepTitleRubbish';
   if (s.includes('cushion')) return 'ui.stepTitleCushions';
+  if (s.includes('umbrella')) return 'ui.stepTitleUmbrella';
   if (s.includes('window') || s.includes('balcony') || s.includes('close')) return 'ui.stepTitleCloseWindows';
   if (s.includes('appliance')) return 'ui.stepTitleSwitchOffAppliances';
   if (s.includes('air con') || s.includes('light') || s.includes('switch off') || s.includes('tv')) return 'ui.stepTitleSwitchOffAC';
@@ -125,7 +128,7 @@ function stepI18nKey(step: string): string {
                     rel="noopener noreferrer"
                     class="inline-flex items-center gap-2 text-sm font-medium text-primary hover:underline"
                   >
-                    <span>📍</span> View on Google Maps →
+                    <span>📍</span> <span data-i18n="ui.viewOnGoogleMaps">View on Google Maps →</span>
                   </a>
                 )}
               </div>

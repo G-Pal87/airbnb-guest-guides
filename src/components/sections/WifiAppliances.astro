@@ -41,7 +41,7 @@ const { property } = Astro.props;
         <div class="border-t border-white/20 pt-4">
           <div class="bg-white/15 rounded-xl p-4 space-y-3">
             <div>
-              <p class="text-xs text-white/70 font-semibold uppercase tracking-wide mb-1">
+              <p class="text-xs text-white/70 font-semibold uppercase tracking-wide mb-1" data-i18n={(property.wifi.networkNames?.length ?? 0) > 1 ? 'ui.networkNames' : 'ui.networkName'}>
                 {(property.wifi.networkNames?.length ?? 0) > 1 ? 'Network Names (connect to either)' : 'Network Name'}
               </p>
               {property.wifi.networkNames && property.wifi.networkNames.length > 1 ? (
@@ -58,7 +58,7 @@ const { property } = Astro.props;
               )}
             </div>
             <div>
-              <p class="text-xs text-white/70 font-semibold uppercase tracking-wide mb-0.5">Password</p>
+              <p class="text-xs text-white/70 font-semibold uppercase tracking-wide mb-0.5" data-i18n="ui.password">Password</p>
               <div class="flex items-center gap-2">
                 <p class="font-mono font-bold text-xl text-accent break-all" id="wifi-password-appliances">
                   {property.wifi.password}
@@ -73,7 +73,7 @@ const { property } = Astro.props;
                   </svg>
                 </button>
               </div>
-              <p id="wifi-copy-feedback" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300">✓ Password copied!</p>
+              <p id="wifi-copy-feedback" class="text-xs text-accent mt-1 opacity-0 transition-opacity duration-300" data-i18n="ui.passwordCopied">✓ Password copied!</p>
             </div>
           </div>
           {property.wifi.notes && (
@@ -86,7 +86,7 @@ const { property } = Astro.props;
     </details>
 
     <!-- Appliances -->
-    <h3 class="font-serif text-xl font-semibold text-charcoal mb-4 mt-4">Appliances</h3>
+    <h3 class="font-serif text-xl font-semibold text-charcoal mb-4 mt-4" data-i18n="ui.appliancesHeading">Appliances</h3>
     <div class="space-y-3">
       {property.appliances.map((appliance: Appliance, i: number) => (
         <details class="bg-white rounded-2xl shadow-md border border-stone-100 group">

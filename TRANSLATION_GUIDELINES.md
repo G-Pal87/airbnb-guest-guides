@@ -40,11 +40,15 @@ check-out notes, contact messages, everything).
 | French (`fr`) | tu / te / ton / ta / tes | vous / votre / vos |
 | German (`de`) | du / dich / dir / dein | Sie / Ihnen / Ihr |
 | Spanish (`es`) | tú / te / tu(s) | usted / su(s) |
-| Greek (`el`) | εσύ / σου (singular) | εσείς / σας (formal) |
 | Hungarian (`hu`) | te / neked / tiéd | Ön / Öntől / Magának |
 | Polish (`pl`) | Ty / Twój (capitalized) | Pan / Pani |
 | Russian (`ru`) | ты / тебя / твой (lowercase) | Вы / Вас / Ваш (capitalized formal) |
 | Ukrainian (`uk`) | ти / тебе / твій (lowercase) | Ви / Вас / Ваш (capitalized formal) |
+
+**Exception — Greek (`el`):** address guests in the 2nd person plural (εσείς / σας),
+with a warm, casual tone, e.g. "Προχωρήστε μπροστά", "Ξεκλειδώστε την πόρτα",
+"Αν χρειαστείτε κάτι, στείλτε μας μήνυμα". Never use the singular (εσύ / σου,
+"Προχώρα", "μπορείς") and never mix the two.
 
 Polish already follows this house style (capitalized `Ty`/`Twój` is the standard warm,
 polite-but-informal register in written Polish) — use it as the reference tone when in

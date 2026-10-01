@@ -178,74 +178,74 @@
         "category": "Strände 🏝️",
         "items": [
           {
-            "tip": "Der nächste gute Strand. 15–20 Min. zu Fuß. Für ein schnelles Bad, den Sonnenuntergang und weil er so nah ist.",
-            "name": "Venus Beach",
-            "distance": "1,0–1,3 km, zu Fuß oder mit dem Auto"
+            "tip": "Ideal für: kurze Wege, Sonnenuntergang, entspanntes Baden. Einer der Strände, die der Wohnung am nächsten liegen. Gut für ein schnelles Bad oder einen Spaziergang zum Sonnenuntergang.",
+            "name": "Faros Beach / Lighthouse Beach",
+            "distance": "1-1,5 km, zu Fuß oder mit dem Auto"
           },
           {
-            "tip": "25–35 Min. zu Fuß oder eine kurze Autofahrt. Sonnenuntergang, entspanntes Baden.",
-            "name": "Faros Beach",
-            "distance": "1,8–2,3 km, zu Fuß oder mit dem Auto"
-          },
-          {
-            "tip": "Weniger touristisch, mit lokalem Flair. Schön zum Sonnenuntergang. Am besten bei ruhiger See.",
-            "name": "Sandy Beach, Chloraka",
-            "distance": "3,5–4,5 km, mit dem Auto"
-          },
-          {
-            "tip": "Badestelle mitten in der Stadt, kein Sandstrand. Praktisch für eine schnelle Abkühlung nahe der Promenade.",
+            "tip": "Ideal für: eine schnelle Abkühlung, die Promenade, einen Kaffee in der Nähe. Eher eine Badestelle mitten in der Stadt als ein Sandstrand, aber sehr praktisch.",
             "name": "Städtische Badestelle (Municipal Baths), Kato Paphos",
-            "distance": "3,0–4,0 km, mit dem Auto"
+            "distance": "1,5-2 km, zu Fuß, mit dem Auto oder Bus"
           },
           {
-            "tip": "Gut ausgestatteter Strand, ideal für Familien. Besser mit dem Auto oder Bus zu erreichen als zu Fuß.",
+            "tip": "Ideal für: Familien, Sonnenliegen, einen gut ausgestatteten Strand. Unkomplizierter Stadtstrand mit allem Nötigen. Gut, wenn dir Bequemlichkeit wichtiger ist als ein abgelegener Strand.",
             "name": "Alykes Beach, Kato Paphos",
-            "distance": "3,5–4,5 km, Auto oder Bus"
+            "distance": "2-2,5 km, Auto, Bus oder ein längerer Spaziergang"
           },
           {
-            "tip": "Die sicherste Wahl unter den Stränden bei Paphos: Sand, gute Ausstattung, unkompliziert. Da kannst du kaum etwas falsch machen.",
+            "tip": "Ideal für: ein schnelles Bad, Sonnenuntergang, kurze Wege. Praktisch, wenn du ohnehin die Königsgräber besuchst. Nah und unkompliziert, aber nicht der beeindruckendste Strand.",
+            "name": "Venus Beach / Strandbereich bei den Königsgräbern",
+            "distance": "2,5-3 km, Auto, Bus oder ein längerer Spaziergang"
+          },
+          {
+            "tip": "Ideal für: Sonnenuntergang, lokales Flair, Surfer. Weniger touristische Alternative bei Paphos. Am besten bei ruhiger See.",
+            "name": "Sandy Beach, Chloraka",
+            "distance": "5,5-6,5 km, mit dem Auto"
+          },
+          {
+            "tip": "Ideal für: einen Tag am Sandstrand, Baden, Familien. Die sicherste Empfehlung für einen richtigen Sandstrand bei Paphos. Gut ausgestattet, unkompliziert und zuverlässig.",
             "name": "Coral Bay Beach",
-            "distance": "11–12 km, Auto oder Bus"
+            "distance": "12,5-13,5 km, Auto oder Bus"
           },
           {
-            "tip": "Meine liebste Alternative zu Coral Bay. Ähnlich bequem, meist ruhiger.",
+            "tip": "Ideal für: einen ruhigeren Sandstrand. Meine liebste Alternative zu Coral Bay. Ähnlich bequem, meist ruhiger.",
             "name": "Laourou / Corallia Beach",
-            "distance": "12–13 km, Auto oder Bus"
+            "distance": "13,5-14,5 km, Auto oder Bus"
           },
           {
-            "tip": "Spektakuläre Küste. Eher für Landschafts- und Sonnenuntergangsfotos als für einen klassischen Strandtag.",
+            "tip": "Ideal für: spektakuläre Küste, Fotos, Sonnenuntergang. Kein klassischer Strandtag, aber ein wunderschöner Halt an der Küste. Am besten kombinierst du ihn mit Agios Georgios oder Oniro by the Sea.",
             "name": "Sea Caves, Peyia",
-            "distance": "17–19 km, mit dem Auto"
+            "distance": "18-21 km, mit dem Auto"
           },
           {
-            "tip": "Kleiner Strand, gut zum Schnorcheln. Lässt sich gut mit den Sea Caves und Oniro by the Sea verbinden.",
+            "tip": "Ideal für: Schnorcheln, einen kleinen Strand, einen entspannten Ausflug. Schöner kleiner Strandabschnitt. Lässt sich gut mit den Sea Caves und dem Aussichtspunkt am Schiffswrack Edro III verbinden.",
             "name": "Agios Georgios Beach, Peyia",
-            "distance": "20–22 km, mit dem Auto"
+            "distance": "21,5-23,5 km, mit dem Auto"
           },
           {
-            "tip": "Rau, wild und wunderschön. Eher zum Erkunden als zum Faulenzen auf der Sonnenliege.",
-            "name": "White River Beach / Toxeftra",
-            "distance": "23–26 km, Auto mit mehr Bodenfreiheit"
+            "tip": "Ideal für: wilde Küste, Geheimtipp-Gefühl. Rau und wunderschön. Eher zum Erkunden als für einen gemütlichen Tag auf der Sonnenliege.",
+            "name": "White River Beach / Gegend um Toxeftra",
+            "distance": "24,5-27,5 km, Auto, am besten mit mehr Bodenfreiheit"
           },
           {
-            "tip": "Einer der außergewöhnlichsten Strände rund um Paphos. Hier nisten Meeresschildkröten. Holprige Zufahrt, keine Infrastruktur.",
-            "name": "Lara Beach / Lara Bay",
-            "distance": "28–32 km, 4x4 oder geführte Tour"
-          },
-          {
-            "tip": "Der sagenhafte Geburtsort der Aphrodite. Traumhafte Kulisse für Fotos, aber felsig und nicht immer ideal zum Baden.",
+            "tip": "Ideal für: Fotos, Mythologie, eine spektakuläre Küste. Ein legendärer Fotostopp. Eher für Fotos als zum Baden, weil es felsig ist und das Meer rau sein kann.",
             "name": "Petra tou Romiou (Aphrodite-Felsen)",
-            "distance": "27–30 km, mit dem Auto"
+            "distance": "25-28 km, mit dem Auto"
           },
           {
-            "tip": "Der beste Ausgangspunkt für die Blaue Lagune ohne Offroad-Fahrt. Hier starten die Bootsausflüge.",
+            "tip": "Ideal für: einen wilden Strand, Schildkröten, Natur. Einer der außergewöhnlichsten Strände rund um Paphos. Holprige Zufahrt und keine richtige Infrastruktur.",
+            "name": "Lara Beach / Lara Bay",
+            "distance": "30-35 km, 4x4, Buggy oder geführte Tour"
+          },
+          {
+            "tip": "Ideal für: einen Bootsausflug zur Blauen Lagune. Der beste Ausgangspunkt, wenn du zur Blauen Lagune willst, ohne über holprige Offroad-Pisten zu fahren.",
             "name": "Hafen von Latchi (Bootsausflüge zur Blauen Lagune)",
-            "distance": "38–42 km, Auto, dann Boot"
+            "distance": "40-44 km, Auto, dann Boot"
           },
           {
-            "tip": "Das beeindruckendste Wasser rund um Paphos. Kein Strand, den du mit dem Auto erreichst: Nimm ein Boot ab Latchi.",
+            "tip": "Ideal für: klares Wasser, Schnorcheln, einen Tag auf dem Boot. So kommst du hin: mit dem Auto und dann per Boot oder mit einer organisierten Tour. Das beeindruckendste Wasser in der weiteren Umgebung von Paphos, aber kein Strand, an den du einfach mit dem Auto fährst.",
             "name": "Blaue Lagune, Akamas",
-            "distance": "38–42 km + Boot"
+            "distance": "40-44 km bis Latchi, dann Boot"
           }
         ]
       },
@@ -857,74 +857,74 @@
         "category": "Strandok 🏝️",
         "items": [
           {
-            "tip": "A legközelebbi strand, ami tényleg jó. 15-20 perc gyalog. Gyors fürdéshez, naplementéhez, kényelmes.",
-            "name": "Venus Beach",
-            "distance": "1,0–1,3 km, gyalog vagy autóval"
+            "tip": "Mire jó: közel van, naplemente, egy laza fürdés. Az egyik legközelebbi strand a lakástól. Jó egy gyors fürdéshez vagy egy naplementés sétához.",
+            "name": "Faros Beach / Lighthouse Beach",
+            "distance": "1-1,5 km, gyalog vagy autóval"
           },
           {
-            "tip": "Gyalog 25-35 perc, vagy rövid autóút. Naplementéhez, egy laza fürdéshez.",
-            "name": "Faros Beach",
-            "distance": "1,8–2,3 km, gyalog vagy autóval"
-          },
-          {
-            "tip": "Kevésbé turistás, helyi hangulat. Naplementéhez jó. Nyugodt tengernél a legjobb.",
-            "name": "Sandy Beach, Chloraka",
-            "distance": "3,5–4,5 km, autóval"
-          },
-          {
-            "tip": "Városi fürdőhely, nem homokos strand. Jó egy gyors csobbanáshoz a sétány közelében.",
+            "tip": "Mire jó: gyors csobbanás, séta a sétányon, kávé a közelben. Inkább városi fürdőhely, mint homokos strand, de nagyon praktikus.",
             "name": "Városi fürdőhely, Kato Páphosz",
-            "distance": "3,0–4,0 km, autóval"
+            "distance": "1,5-2 km, gyalog, autóval vagy busszal"
           },
           {
-            "tip": "Kiépített strand szolgáltatásokkal, családoknak ideális. Autóval vagy busszal könnyebb megközelíteni, mint gyalog.",
+            "tip": "Mire jó: kiépített strand, családok, napozóágyak. Kényelmes városi strand, minden megvan. Jó választás, ha a kényelem fontosabb, mint egy félreeső strand.",
             "name": "Alykes Beach, Kato Páphosz",
-            "distance": "3,5–4,5 km, autóval vagy busszal"
+            "distance": "2-2,5 km, autóval, busszal vagy egy hosszabb sétával"
           },
           {
-            "tip": "A legbiztosabb választás Páphosz környékén. Homokos, kiépített, kényelmes. Nem nyúlhatsz mellé.",
+            "tip": "Mire jó: gyors fürdés, naplemente, kényelem. Jól jön, ha a Királysírokat is megnézed. Közel van és egyszerű, de nem ez a leglátványosabb strand.",
+            "name": "Venus Beach / a Királysírok melletti strandszakasz",
+            "distance": "2,5-3 km, autóval, busszal vagy egy hosszabb sétával"
+          },
+          {
+            "tip": "Mire jó: naplemente, helyi hangulat, szörfösök. Kevésbé turistás lehetőség Páphosz közelében. Nyugodt tengernél a legjobb.",
+            "name": "Sandy Beach, Chloraka",
+            "distance": "5,5-6,5 km, autóval"
+          },
+          {
+            "tip": "Mire jó: homokos strandnap, úszás, családok. A legbiztosabb választás, ha igazi homokos strandot keresel Páphosz közelében. Kiépített, kényelmes és megbízható.",
             "name": "Coral Bay Beach",
-            "distance": "11–12 km, autóval vagy busszal"
+            "distance": "12,5-13,5 km, autóval vagy busszal"
           },
           {
-            "tip": "Szerintem jobb alternatíva a Coral Baynél. Hasonlóan kényelmes, általában nyugodtabb.",
+            "tip": "Mire jó: nyugodtabb homokos strand. Szerintem ez a legjobb alternatíva a Coral Bay helyett. Hasonlóan kényelmes, általában nyugodtabb.",
             "name": "Laourou / Corallia Beach",
-            "distance": "12–13 km, autóval vagy busszal"
+            "distance": "13,5-14,5 km, autóval vagy busszal"
           },
           {
-            "tip": "Látványos, sziklás partszakasz. Inkább a tájért és a naplementés fotókért érdemes jönni, mint egy klasszikus strandnapért.",
+            "tip": "Mire jó: látványos part, fotók, naplemente. Nem klasszikus strandnap, de gyönyörű megálló a parton. Legjobb az Agios Georgiosszal vagy az Oniro by the Sea-vel összekötni.",
             "name": "Tengeri barlangok, Peyia",
-            "distance": "17–19 km, autóval"
+            "distance": "18-21 km, autóval"
           },
           {
-            "tip": "Kis strand, jó sznorkelezéshez. Kösd össze a tengeri barlangokkal és az Oniro by the Sea-vel.",
+            "tip": "Mire jó: sznorkelezés, kis strand, laza kirándulás. Kellemes kis strand. Érdemes összekötni a tengeri barlangokkal és az Edro III hajóroncs kilátópontjával.",
             "name": "Agios Georgios Beach, Peyia",
-            "distance": "20–22 km, autóval"
+            "distance": "21,5-23,5 km, autóval"
           },
           {
-            "tip": "Érintetlen, gyönyörű, vad part. Inkább felfedezni érdemes, mint napozóágyon heverészni.",
-            "name": "White River Beach / Toxeftra",
-            "distance": "23–26 km, magasabb hasmagasságú autóval"
+            "tip": "Mire jó: vad part, rejtett kincs hangulat. Nyers és gyönyörű. Inkább felfedezésre való, mint egy kényelmes, napozóágyas strandnapra.",
+            "name": "White River Beach / Toxeftra környéke",
+            "distance": "24,5-27,5 km, autóval, lehetőleg magasabb hasmagasságúval"
           },
           {
-            "tip": "Páphosz környékének egyik legkülönlegesebb strandja. Teknősök fészkelőhelye. Nehéz megközelíteni, nincsenek szolgáltatások.",
-            "name": "Lara Beach / Lara Bay",
-            "distance": "28–32 km, 4x4-es terepjáróval vagy szervezett túrával"
-          },
-          {
-            "tip": "Aphrodité legendás születési helye. Gyönyörű táj és remek fotók, de sziklás, és fürdésre nem mindig ideális.",
+            "tip": "Mire jó: fotók, mitológia, látványos part. Ikonikus megálló. Inkább fotózni érdemes, mint fürödni, mert sziklás, és a tenger hullámos lehet.",
             "name": "Petra tou Romiou (Aphrodité-szikla)",
-            "distance": "27–30 km, autóval"
+            "distance": "25-28 km, autóval"
           },
           {
-            "tip": "A legjobb kiindulópont a Kék-lagúnához, ha nem akarsz terepen vezetni. Innen indulnak a hajókirándulások.",
+            "tip": "Mire jó: vad strand, teknősök, természet. Páphosz környékének egyik legkülönlegesebb strandja. Nehéz megközelíteni, és nincsenek igazi szolgáltatások.",
+            "name": "Lara Beach / Lara Bay",
+            "distance": "30-35 km, 4x4-es terepjáróval, bugival vagy szervezett túrával"
+          },
+          {
+            "tip": "Mire jó: hajókirándulás a Kék-lagúnához. A legjobb kiindulópont, ha döcögős terepen vezetés nélkül szeretnél eljutni a Kék-lagúnához.",
             "name": "Latchi kikötő (hajókirándulások a Kék-lagúnához)",
-            "distance": "38–42 km, autóval, majd hajóval"
+            "distance": "40-44 km, autóval, majd hajóval"
           },
           {
-            "tip": "Páphosz környékének leglenyűgözőbb vize. Autóval nem lehet odaállni. Latchiból menj hajóval.",
+            "tip": "Mire jó: kristálytiszta víz, sznorkelezés, hajós nap. Megközelítés: autó plusz hajó, vagy szervezett túra. Páphosz tágabb környékének leglenyűgözőbb vize, de nem olyan strand, ahova csak úgy odaállsz autóval.",
             "name": "Kék-lagúna, Akamas",
-            "distance": "38–42 km + hajó"
+            "distance": "40-44 km Latchiig, majd hajóval"
           }
         ]
       },
@@ -1536,74 +1536,74 @@
         "category": "Παραλίες 🏝️",
         "items": [
           {
-            "tip": "Η πιο κοντινή παραλία που αξίζει. 15–20 λεπτά με τα πόδια. Βολική για γρήγορη βουτιά και ηλιοβασίλεμα.",
-            "name": "Παραλία Venus",
-            "distance": "1,0–1,3 χλμ, με τα πόδια ή με αυτοκίνητο"
-          },
-          {
-            "tip": "25–35 λεπτά με τα πόδια ή λίγα λεπτά με αυτοκίνητο. Για ηλιοβασίλεμα και μια χαλαρή βουτιά.",
+            "tip": "Ιδανική για: κοντινό μπάνιο, ηλιοβασίλεμα, χαλαρό κολύμπι. Από τις πιο κοντινές παραλίες στο διαμέρισμα. Ό,τι πρέπει για μια γρήγορη βουτιά ή μια βόλτα την ώρα του ηλιοβασιλέματος.",
             "name": "Παραλία Φάρος",
-            "distance": "1,8–2,3 χλμ, με τα πόδια ή με αυτοκίνητο"
+            "distance": "1-1,5 χλμ, με τα πόδια ή με αυτοκίνητο"
           },
           {
-            "tip": "Λιγότερο τουριστική, με τοπική ατμόσφαιρα. Ωραία για ηλιοβασίλεμα. Καλύτερα όταν η θάλασσα είναι ήρεμη.",
-            "name": "Sandy Beach, Χλώρακα",
-            "distance": "3,5–4,5 χλμ, με αυτοκίνητο"
-          },
-          {
-            "tip": "Σημείο για κολύμπι μέσα στην πόλη, όχι αμμουδιά. Βολικό για μια γρήγορη βουτιά κοντά στον παραλιακό πεζόδρομο.",
+            "tip": "Ιδανικά για: γρήγορη βουτιά, βόλτα στον παραλιακό πεζόδρομο, καφέ εκεί δίπλα. Είναι περισσότερο σημείο για κολύμπι μέσα στην πόλη παρά αμμουδιά, αλλά πολύ βολικό.",
             "name": "Δημοτικά Λουτρά, Κάτω Πάφος",
-            "distance": "3,0–4,0 χλμ, με αυτοκίνητο"
+            "distance": "1,5-2 χλμ, με τα πόδια, με αυτοκίνητο ή με λεωφορείο"
           },
           {
-            "tip": "Οργανωμένη παραλία με παροχές, καλή για οικογένειες. Πιο εύκολα πηγαίνετε με αυτοκίνητο ή λεωφορείο παρά με τα πόδια.",
+            "tip": "Ιδανική για: οικογένειες, ξαπλώστρες, οργανωμένο μπάνιο. Εύκολη παραλία μέσα στην πόλη, με όλες τις παροχές. Καλή επιλογή αν σας ενδιαφέρει η άνεση περισσότερο από μια απομονωμένη παραλία.",
             "name": "Παραλία Αλυκές, Κάτω Πάφος",
-            "distance": "3,5–4,5 χλμ, με αυτοκίνητο ή λεωφορείο"
+            "distance": "2-2,5 χλμ, με αυτοκίνητο, με λεωφορείο ή με αρκετό περπάτημα"
           },
           {
-            "tip": "Η πιο σίγουρη επιλογή για παραλία κοντά στην Πάφο. Αμμουδιά, οργανωμένη, εύκολη. Δύσκολα θα πέσετε έξω.",
+            "tip": "Ιδανική για: γρήγορο μπάνιο, ηλιοβασίλεμα, ευκολία. Βολική αν επισκεφτείτε και τους Τάφους των Βασιλέων. Κοντινή και εύκολη, αλλά όχι η πιο εντυπωσιακή παραλία.",
+            "name": "Παραλία Venus / περιοχή Τάφων των Βασιλέων",
+            "distance": "2,5-3 χλμ, με αυτοκίνητο, με λεωφορείο ή με αρκετό περπάτημα"
+          },
+          {
+            "tip": "Ιδανική για: ηλιοβασίλεμα, τοπική ατμόσφαιρα, σέρφινγκ. Λιγότερο τουριστική επιλογή κοντά στην Πάφο. Καλύτερα όταν η θάλασσα είναι ήρεμη.",
+            "name": "Sandy Beach, Χλώρακα",
+            "distance": "5,5-6,5 χλμ, με αυτοκίνητο"
+          },
+          {
+            "tip": "Ιδανική για: μια μέρα στην αμμουδιά, κολύμπι, οικογένειες. Η πιο σίγουρη πρόταση για κανονική αμμουδιά κοντά στην Πάφο. Οργανωμένη, εύκολη, δεν σας απογοητεύει ποτέ.",
             "name": "Παραλία Coral Bay",
-            "distance": "11–12 χλμ, με αυτοκίνητο ή λεωφορείο"
+            "distance": "12,5-13,5 χλμ, με αυτοκίνητο ή λεωφορείο"
           },
           {
-            "tip": "Η αγαπημένη μου εναλλακτική στο Coral Bay. Εξίσου βολική και συνήθως πιο ήσυχη.",
+            "tip": "Ιδανική για: πιο ήσυχη αμμουδιά. Η αγαπημένη μου εναλλακτική στο Coral Bay. Εξίσου βολική και συνήθως πιο ήρεμη.",
             "name": "Παραλία Λαούρου / Corallia",
-            "distance": "12–13 χλμ, με αυτοκίνητο ή λεωφορείο"
+            "distance": "13,5-14,5 χλμ, με αυτοκίνητο ή λεωφορείο"
           },
           {
-            "tip": "Εντυπωσιακή ακτογραμμή. Καλύτερη για τοπία και φωτογραφίες στο ηλιοβασίλεμα παρά για κλασική μέρα στην παραλία.",
+            "tip": "Ιδανικές για: θέα στην ακτή, φωτογραφίες, ηλιοβασίλεμα. Δεν είναι για κλασική μέρα στην παραλία, αλλά αξίζει μια στάση για το τοπίο. Συνδυάστε τες με τον Άγιο Γεώργιο ή το Oniro by the Sea.",
             "name": "Θαλάσσιες Σπηλιές, Πέγεια",
-            "distance": "17–19 χλμ, με αυτοκίνητο"
+            "distance": "18-21 χλμ, με αυτοκίνητο"
           },
           {
-            "tip": "Μικρή παραλία, ιδανική για snorkeling. Συνδυάστε τη με τις Θαλάσσιες Σπηλιές και το Oniro by the Sea.",
+            "tip": "Ιδανική για: snorkeling, χαλαρή εκδρομή. Ωραία μικρή παραλία. Συνδυάζεται άνετα με τις Θαλάσσιες Σπηλιές και το σημείο θέας του ναυαγίου Edro III.",
             "name": "Παραλία Αγίου Γεωργίου, Πέγεια",
-            "distance": "20–22 χλμ, με αυτοκίνητο"
+            "distance": "21,5-23,5 χλμ, με αυτοκίνητο"
           },
           {
-            "tip": "Άγρια, ανέγγιχτη και πανέμορφη ακτή. Καλύτερη για εξερεύνηση παρά για ξαπλώστρες.",
-            "name": "Άσπρος Ποταμός / Τοξεύτρα",
-            "distance": "23–26 χλμ, με αυτοκίνητο (καλύτερα ψηλό όχημα)"
+            "tip": "Ιδανική για: άγρια ακτή και την αίσθηση ότι ανακαλύψατε ένα κρυμμένο διαμάντι. Ανέγγιχτη και πανέμορφη. Καλύτερη για εξερεύνηση παρά για άνετη μέρα στην ξαπλώστρα.",
+            "name": "Άσπρος Ποταμός / περιοχή Τοξεύτρας",
+            "distance": "24,5-27,5 χλμ, με αυτοκίνητο, κατά προτίμηση ψηλό"
           },
           {
-            "tip": "Μία από τις πιο ιδιαίτερες παραλίες της περιοχής της Πάφου. Εδώ γεννούν οι χελώνες. Δύσκολη πρόσβαση, χωρίς παροχές.",
+            "tip": "Ιδανική για: φωτογραφίες, μυθολογία, εντυπωσιακή ακτογραμμή. Εμβληματική στάση με υπέροχη θέα. Καλύτερη για φωτογραφίες παρά για κολύμπι, γιατί έχει βράχια και η θάλασσα μπορεί να έχει κύμα.",
+            "name": "Πέτρα του Ρωμιού / Βράχος της Αφροδίτης",
+            "distance": "25-28 χλμ, με αυτοκίνητο"
+          },
+          {
+            "tip": "Ιδανική για: άγρια παραλία, χελώνες, φύση. Μία από τις πιο ιδιαίτερες παραλίες της περιοχής της Πάφου. Δύσκολη πρόσβαση και ουσιαστικά καμία παροχή.",
             "name": "Παραλία Λάρα / Κόλπος της Λάρας",
-            "distance": "28–32 χλμ, με 4x4 ή οργανωμένη εκδρομή"
+            "distance": "30-35 χλμ, με 4x4, buggy ή οργανωμένη εκδρομή"
           },
           {
-            "tip": "Ο θρυλικός τόπος γέννησης της Αφροδίτης. Υπέροχο τοπίο για φωτογραφίες, αλλά με βράχια και όχι πάντα ιδανική για κολύμπι.",
-            "name": "Πέτρα του Ρωμιού (Βράχος της Αφροδίτης)",
-            "distance": "27–30 χλμ, με αυτοκίνητο"
+            "tip": "Ιδανικό για: εκδρομή με σκάφος στη Γαλάζια Λιμνοθάλασσα. Το καλύτερο σημείο αναχώρησης αν θέλετε να δείτε τη Γαλάζια Λιμνοθάλασσα χωρίς να οδηγήσετε σε δύσκολους χωματόδρομους.",
+            "name": "Λιμάνι του Λατσιού, για σκάφη προς τη Γαλάζια Λιμνοθάλασσα",
+            "distance": "40-44 χλμ, με αυτοκίνητο και μετά με σκάφος"
           },
           {
-            "tip": "Το καλύτερο σημείο αφετηρίας για τη Γαλάζια Λιμνοθάλασσα χωρίς οδήγηση σε χωματόδρομους. Από εδώ ξεκινούν τα σκάφη.",
-            "name": "Λιμάνι του Λατσιού (σκάφη για τη Γαλάζια Λιμνοθάλασσα)",
-            "distance": "38–42 χλμ, με αυτοκίνητο και μετά με σκάφος"
-          },
-          {
-            "tip": "Τα πιο εντυπωσιακά νερά της περιοχής της Πάφου. Δεν φτάνετε με αυτοκίνητο ως την παραλία. Πάρτε σκάφος από το Λατσί.",
+            "tip": "Ιδανική για: κρυστάλλινα νερά, snorkeling, μια μέρα με σκάφος. Πώς θα φτάσετε: με αυτοκίνητο και σκάφος ή με οργανωμένη εκδρομή. Τα πιο εντυπωσιακά νερά σε όλη την ευρύτερη περιοχή της Πάφου, αλλά δεν είναι παραλία όπου φτάνετε με το αυτοκίνητο.",
             "name": "Γαλάζια Λιμνοθάλασσα, Ακάμας",
-            "distance": "38–42 χλμ + σκάφος"
+            "distance": "40-44 χλμ ως το Λατσί, μετά με σκάφος"
           }
         ]
       },
@@ -2215,74 +2215,74 @@
         "category": "Plages 🏝️",
         "items": [
           {
-            "tip": "La plage pratique la plus proche. 15-20 min à pied. Pour une petite baignade, le coucher de soleil, la facilité.",
-            "name": "Venus Beach",
-            "distance": "1,0-1,3 km, à pied ou en voiture"
+            "tip": "Idéal pour : la plage la plus proche, le coucher de soleil, une baignade tranquille. L'une des plages les plus proches de l'appartement. Parfaite pour une petite baignade ou une balade au coucher du soleil.",
+            "name": "Faros Beach / plage du Phare",
+            "distance": "1-1,5 km, à pied ou en voiture"
           },
           {
-            "tip": "25-35 min à pied ou un court trajet en voiture. Coucher de soleil, baignade tranquille.",
-            "name": "Faros Beach",
-            "distance": "1,8-2,3 km, à pied ou en voiture"
-          },
-          {
-            "tip": "Moins touristique, ambiance locale. Sympa pour le coucher de soleil. Mieux quand la mer est calme.",
-            "name": "Sandy Beach, Chloraka",
-            "distance": "3,5-4,5 km, en voiture"
-          },
-          {
-            "tip": "Un coin baignade en ville, pas une plage de sable. Pratique pour un petit plongeon près de la promenade.",
+            "tip": "Idéal pour : un petit plongeon, la promenade, un café à deux pas. Plutôt un coin baignade en ville qu'une plage de sable, mais très pratique.",
             "name": "Bains municipaux, Kato Paphos",
-            "distance": "3,0-4,0 km, en voiture"
+            "distance": "1,5-2 km, à pied, en voiture ou en bus"
           },
           {
-            "tip": "Plage aménagée avec équipements, idéale pour les familles. Plus facile en voiture ou en bus qu'à pied.",
+            "tip": "Idéal pour : une plage aménagée, les familles, les transats. Une plage de ville facile, avec tous les équipements. Parfaite si vous privilégiez le confort plutôt qu'une plage isolée.",
             "name": "Plage d'Alykes, Kato Paphos",
-            "distance": "3,5-4,5 km, en voiture ou en bus"
+            "distance": "2-2,5 km, en voiture, en bus ou une bonne marche"
           },
           {
-            "tip": "La valeur sûre pour une belle plage près de Paphos. Sable, plage aménagée, facile. Difficile de se tromper.",
+            "tip": "Idéal pour : une petite baignade, le coucher de soleil, la facilité. Pratique si vous visitez aussi les Tombeaux des Rois. Proche et facile, mais ce n'est pas la plage la plus impressionnante.",
+            "name": "Venus Beach / secteur des Tombeaux des Rois",
+            "distance": "2,5-3 km, en voiture, en bus ou une bonne marche"
+          },
+          {
+            "tip": "Idéal pour : le coucher de soleil, l'ambiance locale, les surfeurs. Une option moins touristique près de Paphos. Mieux quand la mer est calme.",
+            "name": "Sandy Beach, Chloraka",
+            "distance": "5,5-6,5 km, en voiture"
+          },
+          {
+            "tip": "Idéal pour : une vraie journée plage sur le sable, la baignade, les familles. La valeur sûre pour une belle plage de sable près de Paphos. Aménagée, facile et fiable.",
             "name": "Plage de Coral Bay",
-            "distance": "11-12 km, en voiture ou en bus"
+            "distance": "12,5-13,5 km, en voiture ou en bus"
           },
           {
-            "tip": "Mon alternative préférée à Coral Bay. Tout aussi pratique, généralement plus calme.",
+            "tip": "Idéal pour : une plage de sable plus tranquille. Mon alternative préférée à Coral Bay. Tout aussi pratique, généralement plus calme.",
             "name": "Plage de Laourou / Corallia",
-            "distance": "12-13 km, en voiture ou en bus"
+            "distance": "13,5-14,5 km, en voiture ou en bus"
           },
           {
-            "tip": "Côte spectaculaire. Plutôt pour le paysage et les photos au coucher du soleil que pour une journée plage classique.",
+            "tip": "Idéal pour : la côte et ses paysages, les photos, le coucher de soleil. Pas vraiment pour une journée plage classique, mais une magnifique halte sur la côte. À combiner de préférence avec Agios Georgios ou Oniro by the Sea.",
             "name": "Grottes marines, Peyia",
-            "distance": "17-19 km, en voiture"
+            "distance": "18-21 km, en voiture"
           },
           {
-            "tip": "Petite plage, idéale pour le snorkeling. À combiner avec les grottes marines et Oniro by the Sea.",
+            "tip": "Idéal pour : le snorkeling, une petite plage, une sortie détente. Un joli petit coin de plage. À combiner avec les grottes marines et le point de vue sur l'épave de l'Edro III.",
             "name": "Plage d'Agios Georgios, Peyia",
-            "distance": "20-22 km, en voiture"
+            "distance": "21,5-23,5 km, en voiture"
           },
           {
-            "tip": "Une côte sauvage, brute et magnifique. Plutôt pour explorer que pour les transats.",
-            "name": "Plage de White River / Toxeftra",
-            "distance": "23-26 km, en voiture (véhicule surélevé conseillé)"
+            "tip": "Idéal pour : la côte sauvage, l'impression de trésor caché. Brut et magnifique. Plutôt pour explorer que pour une journée confortable sur un transat.",
+            "name": "Plage de White River / secteur de Toxeftra",
+            "distance": "24,5-27,5 km, en voiture, de préférence un véhicule surélevé"
           },
           {
-            "tip": "L'une des plages les plus exceptionnelles de la région de Paphos. Site de ponte des tortues. Accès difficile, aucun équipement.",
+            "tip": "Idéal pour : les photos, la mythologie, une côte spectaculaire. Un site emblématique. Mieux pour les photos que pour la baignade : c'est rocheux et la mer peut être agitée.",
+            "name": "Petra tou Romiou / Rocher d'Aphrodite",
+            "distance": "25-28 km, en voiture"
+          },
+          {
+            "tip": "Idéal pour : une plage sauvage, les tortues, la nature. L'une des plages les plus exceptionnelles de la région de Paphos. Accès difficile et pas de vrais équipements.",
             "name": "Plage de Lara / baie de Lara",
-            "distance": "28-32 km, en 4x4 ou en excursion guidée"
+            "distance": "30-35 km, en 4x4, en buggy ou en excursion guidée"
           },
           {
-            "tip": "Lieu de naissance légendaire d'Aphrodite. Paysage et photos superbes, mais c'est rocheux et pas toujours idéal pour se baigner.",
-            "name": "Petra tou Romiou (Rocher d'Aphrodite)",
-            "distance": "27-30 km, en voiture"
+            "tip": "Idéal pour : une excursion en bateau vers le Lagon bleu. Le meilleur point de départ si vous voulez voir le Lagon bleu sans piste tout-terrain.",
+            "name": "Port de Latchi pour les excursions en bateau vers le Lagon bleu",
+            "distance": "40-44 km, en voiture puis en bateau"
           },
           {
-            "tip": "Le meilleur point de départ pour le Lagon bleu, sans piste tout-terrain. Les excursions en bateau partent d'ici.",
-            "name": "Port de Latchi (excursions en bateau vers le Lagon bleu)",
-            "distance": "38-42 km, en voiture puis en bateau"
-          },
-          {
-            "tip": "L'eau la plus impressionnante de la région de Paphos. On n'y accède pas en voiture : prenez un bateau depuis Latchi.",
+            "tip": "Idéal pour : l'eau cristalline, le snorkeling, une journée en bateau. Comment y aller : voiture puis bateau, ou excursion organisée. L'eau la plus impressionnante de toute la région de Paphos, mais ce n'est pas une plage où l'on arrive simplement en voiture.",
             "name": "Lagon bleu, Akamas",
-            "distance": "38-42 km + bateau"
+            "distance": "40-44 km jusqu'à Latchi, puis en bateau"
           }
         ]
       },
@@ -2894,74 +2894,74 @@
         "category": "Playas 🏝️",
         "items": [
           {
-            "tip": "La playa práctica más cercana. 15-20 min a pie. Para un baño rápido, ver el atardecer y por comodidad.",
-            "name": "Venus Beach",
-            "distance": "1,0-1,3 km, a pie o en coche"
+            "tip": "Ideal para: tener la playa cerca, ver el atardecer y darte un baño tranquilo. Una de las playas más cercanas al apartamento. Buena para un baño rápido o un paseo al atardecer.",
+            "name": "Faros Beach / Lighthouse Beach",
+            "distance": "1-1,5 km, a pie o en coche"
           },
           {
-            "tip": "25-35 min a pie o un trayecto corto en coche. Para ver el atardecer y darte un baño tranquilo.",
-            "name": "Faros Beach",
-            "distance": "1,8-2,3 km, a pie o en coche"
-          },
-          {
-            "tip": "Menos turística, con ambiente local. Buena para el atardecer. Mejor cuando el mar está en calma.",
-            "name": "Sandy Beach, Chloraka",
-            "distance": "3,5-4,5 km, en coche"
-          },
-          {
-            "tip": "Zona de baño urbana, no es una playa de arena. Práctica para un chapuzón rápido cerca del paseo marítimo.",
+            "tip": "Ideal para: un chapuzón rápido, pasear por el paseo marítimo y tomarte un café cerca. Es más una zona de baño urbana que una playa de arena, pero muy práctica.",
             "name": "Baños Municipales, Kato Pafos",
-            "distance": "3,0-4,0 km, en coche"
+            "distance": "1,5-2 km, a pie, en coche o en autobús"
           },
           {
-            "tip": "Playa con servicios, buena para familias. Mejor en coche o autobús que a pie.",
+            "tip": "Ideal para: playa con servicios, familias y hamacas. Playa urbana cómoda y con todo lo necesario. Buena opción si prefieres la comodidad a una playa apartada.",
             "name": "Alykes Beach, Kato Pafos",
-            "distance": "3,5-4,5 km, en coche o autobús"
+            "distance": "2-2,5 km, en coche, en autobús o con un buen paseo"
           },
           {
-            "tip": "La apuesta más segura cerca de Pafos. Arena, servicios y comodidad. Es difícil equivocarse.",
+            "tip": "Ideal para: un baño rápido, ver el atardecer y la comodidad. Útil si también vas a visitar las Tumbas de los Reyes. Cerca y fácil, aunque no es la playa más impresionante.",
+            "name": "Venus Beach / zona de playa de las Tumbas de los Reyes",
+            "distance": "2,5-3 km, en coche, en autobús o con un buen paseo"
+          },
+          {
+            "tip": "Ideal para: el atardecer, el ambiente local y el surf. Una opción menos turística cerca de Pafos. Mejor cuando el mar está en calma.",
+            "name": "Sandy Beach, Chloraka",
+            "distance": "5,5-6,5 km, en coche"
+          },
+          {
+            "tip": "Ideal para: un día de playa de arena, nadar y familias. La recomendación más segura si buscas una buena playa de arena cerca de Pafos. Con servicios, cómoda y nunca falla.",
             "name": "Coral Bay Beach",
-            "distance": "11-12 km, en coche o autobús"
+            "distance": "12,5-13,5 km, en coche o autobús"
           },
           {
-            "tip": "Mi alternativa favorita a Coral Bay. Igual de cómoda y normalmente más tranquila.",
+            "tip": "Ideal para: una playa de arena más tranquila. Mi alternativa favorita a Coral Bay. Igual de cómoda y normalmente más tranquila.",
             "name": "Laourou / Corallia Beach",
-            "distance": "12-13 km, en coche o autobús"
+            "distance": "13,5-14,5 km, en coche o autobús"
           },
           {
-            "tip": "Costa espectacular. Mejor para disfrutar del paisaje y hacer fotos al atardecer que para un día de playa clásico.",
+            "tip": "Ideal para: paisajes de costa, fotos y atardeceres. No es un día de playa clásico, pero sí una parada preciosa en la costa. Lo mejor es combinarla con Agios Georgios u Oniro by the Sea.",
             "name": "Cuevas Marinas, Peyia",
-            "distance": "17-19 km, en coche"
+            "distance": "18-21 km, en coche"
           },
           {
-            "tip": "Playa pequeña, buena para hacer snorkel. Combínala con las Cuevas Marinas y Oniro by the Sea.",
+            "tip": "Ideal para: hacer snorkel, una playa pequeña y una excursión tranquila. Una playita muy agradable. Combínala con las Cuevas Marinas y el mirador del naufragio Edro III.",
             "name": "Agios Georgios Beach, Peyia",
-            "distance": "20-22 km, en coche"
+            "distance": "21,5-23,5 km, en coche"
           },
           {
-            "tip": "Costa salvaje, virgen y preciosa. Mejor para explorar que para tumbarse en una hamaca.",
-            "name": "White River Beach / Toxeftra",
-            "distance": "23-26 km, en coche (mejor uno alto, tipo SUV)"
+            "tip": "Ideal para: costa salvaje y la sensación de descubrir un rincón escondido. Virgen y preciosa. Mejor para explorar que para un día cómodo en la hamaca.",
+            "name": "White River Beach / zona de Toxeftra",
+            "distance": "24,5-27,5 km, en coche, mejor uno alto tipo SUV"
           },
           {
-            "tip": "Una de las playas más especiales de la zona de Pafos. Aquí anidan las tortugas. Acceso complicado, sin servicios.",
-            "name": "Lara Beach / Lara Bay",
-            "distance": "28-32 km, en 4x4 o excursión guiada"
-          },
-          {
-            "tip": "Según la leyenda, aquí nació Afrodita. Paisaje precioso y fotos de postal, pero hay rocas y no siempre es buena para bañarse.",
+            "tip": "Ideal para: fotos, mitología y una costa espectacular. Una parada emblemática. Mejor para hacer fotos que para bañarse, porque hay rocas y el mar puede estar bravo.",
             "name": "Petra tou Romiou (Roca de Afrodita)",
-            "distance": "27-30 km, en coche"
+            "distance": "25-28 km, en coche"
           },
           {
-            "tip": "El mejor punto de partida para ir a la Laguna Azul sin conducir por pistas de tierra. De aquí salen las excursiones en barco.",
+            "tip": "Ideal para: playa salvaje, tortugas y naturaleza. Una de las playas más especiales de la zona de Pafos. Acceso complicado y sin servicios propiamente dichos.",
+            "name": "Lara Beach / Lara Bay",
+            "distance": "30-35 km, en 4x4, buggy o excursión guiada"
+          },
+          {
+            "tip": "Ideal para: una excursión en barco a la Laguna Azul. El mejor punto de partida si quieres ir a la Laguna Azul sin conducir por pistas de tierra complicadas.",
             "name": "Puerto de Latchi (excursiones en barco a la Laguna Azul)",
-            "distance": "38-42 km, en coche y luego en barco"
+            "distance": "40-44 km, en coche y luego en barco"
           },
           {
-            "tip": "El agua más espectacular de la zona de Pafos. No se llega en coche: coge un barco desde Latchi.",
+            "tip": "Ideal para: agua cristalina, snorkel y un día en barco. Cómo llegar: en coche y luego en barco, o con una excursión organizada. El agua más espectacular de toda la zona de Pafos, pero no es una playa a la que llegues en coche sin más.",
             "name": "Laguna Azul, Akamas",
-            "distance": "38-42 km + barco"
+            "distance": "40-44 km hasta Latchi y luego en barco"
           }
         ]
       },
@@ -3573,74 +3573,74 @@
         "category": "Plaże 🏝️",
         "items": [
           {
-            "tip": "Najbliższa plaża, z której warto korzystać. 15–20 min pieszo. Na szybką kąpiel i zachód słońca, bez kombinowania.",
-            "name": "Plaża Venus",
-            "distance": "1,0–1,3 km, pieszo lub samochodem"
+            "tip": "Idealne na: najbliższą plażę, zachód słońca, niezobowiązującą kąpiel. Jedna z najbliższych plaż od apartamentu. W sam raz na szybką kąpiel albo spacer o zachodzie słońca.",
+            "name": "Plaża Faros / Lighthouse Beach",
+            "distance": "1-1,5 km, pieszo lub samochodem"
           },
           {
-            "tip": "25–35 min pieszo albo krótko samochodem. Na zachód słońca i niezobowiązującą kąpiel.",
-            "name": "Plaża Faros",
-            "distance": "1,8–2,3 km, pieszo lub samochodem"
-          },
-          {
-            "tip": "Mniej turystyczna, z lokalnym klimatem. Dobra na zachód słońca. Najlepiej, gdy morze jest spokojne.",
-            "name": "Sandy Beach, Chloraka",
-            "distance": "3,5–4,5 km, samochodem"
-          },
-          {
-            "tip": "Miejskie kąpielisko, a nie piaszczysta plaża. W sam raz na szybką kąpiel blisko promenady.",
+            "tip": "Idealne na: szybką kąpiel, promenadę, kawę w pobliżu. Bardziej miejskie kąpielisko niż piaszczysta plaża, ale bardzo praktyczne.",
             "name": "Kąpielisko miejskie, Kato Pafos",
-            "distance": "3,0–4,0 km, samochodem"
+            "distance": "1,5-2 km, pieszo, samochodem lub autobusem"
           },
           {
-            "tip": "Zorganizowana plaża z udogodnieniami, dobra dla rodzin. Łatwiej tu dojechać samochodem lub autobusem niż dojść pieszo.",
+            "tip": "Idealne na: zorganizowaną plażę, rodziny, leżaki. Wygodna miejska plaża z udogodnieniami. Dobry wybór, jeśli liczy się dla Was wygoda, a nie odludna plaża.",
             "name": "Plaża Alykes, Kato Pafos",
-            "distance": "3,5–4,5 km, samochodem lub autobusem"
+            "distance": "2-2,5 km, samochodem, autobusem lub na dłuższy spacer"
           },
           {
-            "tip": "Najpewniejszy wybór plaży w okolicach Pafos. Piasek, pełna infrastruktura, wygoda. Trudno się rozczarować.",
+            "tip": "Idealne na: szybką kąpiel, zachód słońca, wygodę. Przyda się, jeśli zwiedzacie też Grobowce Królewskie. Blisko i łatwo, choć to nie najbardziej zachwycająca plaża.",
+            "name": "Plaża Venus / okolice Grobowców Królewskich",
+            "distance": "2,5-3 km, samochodem, autobusem lub na dłuższy spacer"
+          },
+          {
+            "tip": "Idealne na: zachód słońca, lokalny klimat, surfing. Mniej turystyczna opcja w okolicach Pafos. Najlepiej, gdy morze jest spokojne.",
+            "name": "Sandy Beach, Chloraka",
+            "distance": "5,5-6,5 km, samochodem"
+          },
+          {
+            "tip": "Idealne na: dzień na piaszczystej plaży, pływanie, rodziny. Najpewniejszy wybór prawdziwej piaszczystej plaży w okolicach Pafos. Zorganizowana, wygodna i niezawodna.",
             "name": "Plaża Coral Bay",
-            "distance": "11–12 km, samochodem lub autobusem"
+            "distance": "12,5-13,5 km, samochodem lub autobusem"
           },
           {
-            "tip": "Moja ulubiona alternatywa dla Coral Bay. Podobnie wygodnie, zwykle spokojniej.",
+            "tip": "Idealne na: spokojniejszą piaszczystą plażę. Moja ulubiona alternatywa dla Coral Bay. Podobnie wygodnie, zwykle spokojniej.",
             "name": "Plaża Laourou / Corallia",
-            "distance": "12–13 km, samochodem lub autobusem"
+            "distance": "13,5-14,5 km, samochodem lub autobusem"
           },
           {
-            "tip": "Spektakularne wybrzeże. Lepsze na widoki i zdjęcia o zachodzie słońca niż na klasyczny dzień na plaży.",
+            "tip": "Idealne na: malownicze wybrzeże, zdjęcia, zachód słońca. To nie klasyczny dzień na plaży, ale piękny przystanek na wybrzeżu. Najlepiej połączyć z Agios Georgios albo Oniro by the Sea.",
             "name": "Sea Caves, Peyia",
-            "distance": "17–19 km, samochodem"
+            "distance": "18-21 km, samochodem"
           },
           {
-            "tip": "Mała plaża, dobra do snorkelingu. Połączcie z Sea Caves i Oniro by the Sea.",
+            "tip": "Idealne na: snorkeling, małą plażę, spokojną wycieczkę. Ładna, niewielka plaża. Warto połączyć z Sea Caves i punktem widokowym na wrak Edro III.",
             "name": "Plaża Agios Georgios, Peyia",
-            "distance": "20–22 km, samochodem"
+            "distance": "21,5-23,5 km, samochodem"
           },
           {
-            "tip": "Surowe, piękne, dzikie wybrzeże. Bardziej do odkrywania niż do leżenia na leżaku.",
-            "name": "White River Beach / Toxeftra",
-            "distance": "23–26 km, samochodem (z wyższym prześwitem)"
+            "tip": "Idealne na: dzikie wybrzeże, klimat ukrytej perełki. Surowo i pięknie. Lepsze do odkrywania niż na wygodny dzień na leżaku.",
+            "name": "White River Beach / okolice Toxeftra",
+            "distance": "24,5-27,5 km, samochodem, najlepiej z wyższym prześwitem"
           },
           {
-            "tip": "Jedna z najbardziej wyjątkowych plaż w okolicach Pafos. Miejsce gniazdowania żółwi. Trudny dojazd, brak udogodnień.",
+            "tip": "Idealne na: zdjęcia, mitologię, spektakularne wybrzeże. Kultowe miejsce widokowe. Lepsze na zdjęcia niż do pływania, bo jest kamieniście, a morze bywa wzburzone.",
+            "name": "Petra tou Romiou / Skała Afrodyty",
+            "distance": "25-28 km, samochodem"
+          },
+          {
+            "tip": "Idealne na: dziką plażę, żółwie, przyrodę. Jedna z najbardziej wyjątkowych plaż w okolicach Pafos. Trudny dojazd i brak prawdziwych udogodnień.",
             "name": "Plaża Lara / Zatoka Lara",
-            "distance": "28–32 km, 4x4 lub z przewodnikiem"
+            "distance": "30-35 km, 4x4, buggy lub z przewodnikiem"
           },
           {
-            "tip": "Legendarne miejsce narodzin Afrodyty. Piękne widoki i zdjęcia, ale kamieniście i nie zawsze idealnie do pływania.",
-            "name": "Petra tou Romiou (Skała Afrodyty)",
-            "distance": "27–30 km, samochodem"
+            "tip": "Idealne na: rejs na Błękitną Lagunę. Najlepszy punkt wypadowy, jeśli chcecie zobaczyć Błękitną Lagunę bez jazdy po wertepach.",
+            "name": "Port Latchi – rejsy na Błękitną Lagunę",
+            "distance": "40-44 km, samochodem, potem łodzią"
           },
           {
-            "tip": "Najlepszy punkt wypadowy na Błękitną Lagunę bez jazdy w terenie. Stąd wypływają rejsy.",
-            "name": "Port Latchi (rejsy na Błękitną Lagunę)",
-            "distance": "38–42 km, samochodem, potem łodzią"
-          },
-          {
-            "tip": "Najbardziej zachwycająca woda w okolicach Pafos. Nie da się tu dojechać samochodem – popłyńcie łodzią z Latchi.",
+            "tip": "Idealne na: krystaliczną wodę, snorkeling, dzień na łodzi. Dojazd: samochodem, a potem łodzią, albo z zorganizowaną wycieczką. Najbardziej zachwycająca woda w całej okolicy Pafos, ale to nie plaża, pod którą po prostu podjedziecie samochodem.",
             "name": "Błękitna Laguna, Akamas",
-            "distance": "38–42 km + łódź"
+            "distance": "40-44 km do Latchi, potem łodzią"
           }
         ]
       },
@@ -4252,74 +4252,74 @@
         "category": "Пляжи 🏝️",
         "items": [
           {
-            "tip": "Ближайший удобный пляж, 15–20 минут пешком. Быстро искупаться, посмотреть закат — всё под рукой.",
-            "name": "Пляж Венус",
-            "distance": "1,0–1,3 км, пешком или на машине"
+            "tip": "Идеально для: ближайшего пляжа, заката, неспешного купания. Один из ближайших к апартаментам пляжей. Подойдёт, чтобы быстро искупаться или прогуляться на закате.",
+            "name": "Пляж Фарос / Маячный пляж",
+            "distance": "1-1,5 км, пешком или на машине"
           },
           {
-            "tip": "25–35 минут пешком или совсем недолго на машине. Закат и неспешное купание.",
-            "name": "Пляж Фарос",
-            "distance": "1,8–2,3 км, пешком или на машине"
-          },
-          {
-            "tip": "Менее туристический, с местной атмосферой. Хорош на закате. Лучше приходить, когда море спокойное.",
-            "name": "Пляж Сэнди-Бич, Хлорака",
-            "distance": "3,5–4,5 км, на машине"
-          },
-          {
-            "tip": "Городское место для купания, а не песчаный пляж. Удобно, чтобы быстро окунуться рядом с набережной.",
+            "tip": "Идеально для: быстро окунуться, прогуляться по набережной, выпить кофе рядом. Скорее городское место для купания, чем песчаный пляж, но очень удобное.",
             "name": "Муниципальный пляж, Като-Пафос",
-            "distance": "3,0–4,0 км, на машине"
+            "distance": "1,5-2 км, пешком, на машине или автобусе"
           },
           {
-            "tip": "Обустроенный пляж со всей инфраструктурой, хорошо подходит для семей. Туда удобнее ехать на машине или автобусе, чем идти пешком.",
+            "tip": "Идеально для: обустроенного пляжа, семей, шезлонгов. Удобный городской пляж со всей инфраструктурой. Хороший вариант, если вам важнее комфорт, чем уединённый пляж.",
             "name": "Пляж Аликес, Като-Пафос",
-            "distance": "3,5–4,5 км, на машине или автобусе"
+            "distance": "2-2,5 км, на машине, автобусе или долгой прогулкой пешком"
           },
           {
-            "tip": "Самый беспроигрышный пляж рядом с Пафосом. Песок, вся инфраструктура, всё просто. Точно не прогадаете.",
+            "tip": "Идеально для: быстро искупаться, посмотреть закат, всё под рукой. Удобно, если вы заодно идёте в Царские гробницы. Близко и просто, но не самый впечатляющий пляж.",
+            "name": "Пляж Венус / район Царских гробниц",
+            "distance": "2,5-3 км, на машине, автобусе или долгой прогулкой пешком"
+          },
+          {
+            "tip": "Идеально для: заката, местной атмосферы, сёрфинга. Менее туристический вариант рядом с Пафосом. Лучше приезжать, когда море спокойное.",
+            "name": "Пляж Сэнди-Бич, Хлорака",
+            "distance": "5,5-6,5 км, на машине"
+          },
+          {
+            "tip": "Идеально для: пляжного дня на песке, купания, семей. Самый беспроигрышный настоящий песчаный пляж рядом с Пафосом. Обустроенный, удобный и надёжный.",
             "name": "Пляж Корал-Бэй",
-            "distance": "11–12 км, на машине или автобусе"
+            "distance": "12,5-13,5 км, на машине или автобусе"
           },
           {
-            "tip": "Моя любимая альтернатива Корал-Бэй. Так же удобно, но обычно спокойнее.",
+            "tip": "Идеально для: более спокойного песчаного пляжа. Моя любимая альтернатива Корал-Бэй. Так же удобно, но обычно спокойнее.",
             "name": "Пляж Лауру / Коралия",
-            "distance": "12–13 км, на машине или автобусе"
+            "distance": "13,5-14,5 км, на машине или автобусе"
           },
           {
-            "tip": "Эффектное скалистое побережье. Скорее для красивых видов и фото на закате, чем для классического пляжного дня.",
+            "tip": "Идеально для: живописного побережья, фото, заката. Не для классического пляжного дня, но очень красивая остановка на побережье. Лучше всего совместить с Агиос-Георгиос или Oniro by the Sea.",
             "name": "Морские пещеры, Пейя",
-            "distance": "17–19 км, на машине"
+            "distance": "18-21 км, на машине"
           },
           {
-            "tip": "Небольшой пляж, хорош для снорклинга. Можно совместить с Морскими пещерами и Oniro by the Sea.",
+            "tip": "Идеально для: снорклинга, небольшого пляжа, спокойной поездки. Симпатичный небольшой пляж. Хорошо совместить с Морскими пещерами и смотровой площадкой у затонувшего судна Edro III.",
             "name": "Пляж Агиос-Георгиос, Пейя",
-            "distance": "20–22 км, на машине"
+            "distance": "21,5-23,5 км, на машине"
           },
           {
-            "tip": "Нетронутое, дикое и красивое побережье. Скорее для прогулок и исследований, чем для шезлонгов.",
-            "name": "Пляж Уайт-Ривер / Токсефтра",
-            "distance": "23–26 км, на машине (лучше с высоким клиренсом)"
+            "tip": "Идеально для: дикого побережья, ощущения тайного места. Нетронуто и красиво. Скорее для исследований, чем для комфортного дня на шезлонге.",
+            "name": "Пляж Уайт-Ривер / район Токсефтра",
+            "distance": "24,5-27,5 км, на машине, лучше с высоким клиренсом"
           },
           {
-            "tip": "Один из самых особенных пляжей в окрестностях Пафоса. Здесь гнездятся морские черепахи. Добираться непросто, инфраструктуры нет.",
+            "tip": "Идеально для: фото, мифологии, эффектного побережья. Знаковое живописное место. Лучше для фото, чем для купания: берег каменистый, а море бывает неспокойным.",
+            "name": "Петра-ту-Ромиу / скала Афродиты",
+            "distance": "25-28 км, на машине"
+          },
+          {
+            "tip": "Идеально для: дикого пляжа, черепах, природы. Один из самых особенных пляжей в окрестностях Пафоса. Добираться непросто, нормальной инфраструктуры нет.",
             "name": "Пляж Лара / бухта Лара",
-            "distance": "28–32 км, на внедорожнике 4x4 или с экскурсией"
+            "distance": "30-35 км, на внедорожнике 4x4, багги или с экскурсией"
           },
           {
-            "tip": "Легендарное место рождения Афродиты. Прекрасные виды и фото, но берег каменистый, и купаться здесь не всегда удобно.",
-            "name": "Петра-ту-Ромиу (скала Афродиты)",
-            "distance": "27–30 км, на машине"
+            "tip": "Идеально для: морской прогулки к Голубой лагуне. Лучшая отправная точка, если хотите увидеть Голубую лагуну без езды по бездорожью.",
+            "name": "Гавань Лачи — морские прогулки к Голубой лагуне",
+            "distance": "40-44 км, на машине, затем на лодке"
           },
           {
-            "tip": "Лучшая отправная точка к Голубой лагуне без езды по бездорожью. Отсюда отправляются морские прогулки на лодках.",
-            "name": "Гавань Лачи (морские прогулки к Голубой лагуне)",
-            "distance": "38–42 км, на машине, затем на лодке"
-          },
-          {
-            "tip": "Самая впечатляющая вода в окрестностях Пафоса. На машине к этому пляжу не подъехать — отправляйтесь на лодке из Лачи.",
+            "tip": "Идеально для: прозрачной воды, снорклинга, дня на лодке. Как добраться: на машине, а затем на лодке, или с организованной экскурсией. Самая впечатляющая вода во всём регионе Пафоса, но это не тот пляж, к которому можно просто подъехать на машине.",
             "name": "Голубая лагуна, Акамас",
-            "distance": "38–42 км + лодка"
+            "distance": "40-44 км до Лачи, затем на лодке"
           }
         ]
       },
@@ -4931,74 +4931,74 @@
         "category": "Пляжі 🏝️",
         "items": [
           {
-            "tip": "Найближчий зручний пляж. 15-20 хв пішки. Щоб швидко скупатися, подивитися на захід сонця — і все поруч.",
-            "name": "Пляж Венус",
-            "distance": "1,0-1,3 км, пішки або машиною"
+            "tip": "Найкраще для: купання зовсім поруч, заходу сонця, неспішного плавання. Один із найближчих до апартаментів пляжів. Підходить, щоб швидко скупатися або прогулятися на заході сонця.",
+            "name": "Пляж Фарос / Пляж біля маяка",
+            "distance": "1-1,5 км, пішки або машиною"
           },
           {
-            "tip": "25-35 хв пішки або недовго машиною. Захід сонця й неспішне купання.",
-            "name": "Пляж Фарос",
-            "distance": "1,8-2,3 км, пішки або машиною"
-          },
-          {
-            "tip": "Менш туристичний, з місцевою атмосферою. Гарний для заходу сонця. Краще, коли море спокійне.",
-            "name": "Санді-Біч, Хлорака",
-            "distance": "3,5-4,5 км, машиною"
-          },
-          {
-            "tip": "Міське місце для купання, а не піщаний пляж. Зручно, щоб швидко скупатися біля набережної.",
+            "tip": "Найкраще для: швидкого купання, прогулянки набережною, кави поруч. Це радше міське місце для купання, ніж піщаний пляж, зате дуже зручне.",
             "name": "Муніципальні купальні, Като-Пафос",
-            "distance": "3,0-4,0 км, машиною"
+            "distance": "1,5-2 км, пішки, машиною або автобусом"
           },
           {
-            "tip": "Облаштований пляж з усією інфраструктурою, гарний для сімей. Машиною чи автобусом дістатися легше, ніж пішки.",
+            "tip": "Найкраще для: облаштованого відпочинку, сімей, лежаків. Простий міський пляж з усією інфраструктурою. Гарний вибір, якщо тобі важливіша зручність, ніж відлюдний пляж.",
             "name": "Пляж Алікес, Като-Пафос",
-            "distance": "3,5-4,5 км, машиною або автобусом"
+            "distance": "2-2,5 км, машиною, автобусом або довгою прогулянкою пішки"
           },
           {
-            "tip": "Найнадійніший вибір пляжу біля Пафоса. Піщаний, облаштований, усе просто. Тут точно не прогадаєш.",
+            "tip": "Найкраще для: швидкого купання, заходу сонця, зручності. Стане в пригоді, якщо ти також ідеш до Царських гробниць. Близько й просто, але не найвражаючий пляж.",
+            "name": "Пляж Венус / район Царських гробниць",
+            "distance": "2,5-3 км, машиною, автобусом або довгою прогулянкою пішки"
+          },
+          {
+            "tip": "Найкраще для: заходу сонця, місцевої атмосфери, серфінгу. Менш туристичний варіант біля Пафоса. Краще, коли море спокійне.",
+            "name": "Санді-Біч, Хлорака",
+            "distance": "5,5-6,5 км, машиною"
+          },
+          {
+            "tip": "Найкраще для: пляжного дня на піску, плавання, сімей. Найнадійніша порада, якщо хочеш справжній піщаний пляж біля Пафоса. Облаштований, простий і без сюрпризів.",
             "name": "Пляж Корал-Бей",
-            "distance": "11-12 км, машиною або автобусом"
+            "distance": "12,5-13,5 км, машиною або автобусом"
           },
           {
-            "tip": "Моя улюблена альтернатива Корал-Бею. Так само зручно, але зазвичай спокійніше.",
+            "tip": "Найкраще для: спокійнішого піщаного пляжу. Моя улюблена альтернатива Корал-Бею. Так само зручно, але зазвичай тихіше.",
             "name": "Пляж Лауру / Кораллія",
-            "distance": "12-13 км, машиною або автобусом"
+            "distance": "13,5-14,5 км, машиною або автобусом"
           },
           {
-            "tip": "Вражаюче узбережжя. Більше для краєвидів і фото на заході сонця, ніж для класичного пляжного дня.",
+            "tip": "Найкраще для: мальовничого узбережжя, фото, заходу сонця. Це не класичний пляжний день, але чудова зупинка на узбережжі. Варто поєднати з Айос-Георгіосом або Oniro by the Sea.",
             "name": "Морські печери, Пейя",
-            "distance": "17-19 км, машиною"
+            "distance": "18-21 км, машиною"
           },
           {
-            "tip": "Невеликий пляж, гарний для снорклінгу. Поєднай із Морськими печерами та Oniro by the Sea.",
+            "tip": "Найкраще для: снорклінгу, спокійної поїздки. Гарний невеликий пляж. Зручно поєднати з Морськими печерами та оглядовим майданчиком біля затонулого корабля Edro III.",
             "name": "Пляж Айос-Георгіос, Пейя",
-            "distance": "20-22 км, машиною"
+            "distance": "21,5-23,5 км, машиною"
           },
           {
-            "tip": "Дике, незаймане й красиве узбережжя. Більше для досліджень, ніж для лежаків.",
-            "name": "Пляж Білої річки / Токсефтра",
-            "distance": "23-26 км, машиною (з високим кліренсом)"
+            "tip": "Найкраще для: дикого узбережжя, відчуття потаємного місця. Незаймано й красиво. Більше для досліджень, ніж для комфортного дня на лежаку.",
+            "name": "Пляж Білої річки / район Токсефтри",
+            "distance": "24,5-27,5 км, машиною, бажано з високим кліренсом"
           },
           {
-            "tip": "Один із найособливіших пляжів околиць Пафоса. Тут гніздяться черепахи. Дорога важка, інфраструктури немає.",
+            "tip": "Найкраще для: фото, міфології, ефектного узбережжя. Культова мальовнича зупинка. Краще для фото, ніж для купання: берег кам'янистий, а море буває неспокійним.",
+            "name": "Петра-ту-Роміу / Скеля Афродіти",
+            "distance": "25-28 км, машиною"
+          },
+          {
+            "tip": "Найкраще для: дикого пляжу, черепах, природи. Один із найособливіших пляжів околиць Пафоса. Дорога важка, нормальної інфраструктури немає.",
             "name": "Пляж Лара / затока Лара",
-            "distance": "28-32 км, позашляховиком 4x4 або з екскурсією"
+            "distance": "30-35 км, позашляховиком 4x4, багі або з екскурсією"
           },
           {
-            "tip": "Легендарне місце народження Афродіти. Чудові краєвиди й фото, але берег кам'янистий і не завжди зручний для купання.",
-            "name": "Петра-ту-Роміу (Скеля Афродіти)",
-            "distance": "27-30 км, машиною"
-          },
-          {
-            "tip": "Найкраща відправна точка до Блакитної лагуни без їзди бездоріжжям. Звідси відходять прогулянкові човни.",
+            "tip": "Найкраще для: морської прогулянки до Блакитної лагуни. Найкраща відправна точка, якщо хочеш побачити Блакитну лагуну без важкої їзди бездоріжжям.",
             "name": "Гавань Лачі (човни до Блакитної лагуни)",
-            "distance": "38-42 км, машиною, потім човном"
+            "distance": "40-44 км, машиною, потім човном"
           },
           {
-            "tip": "Найбільш вражаюча вода в околицях Пафоса. Машиною до цього пляжу не доїдеш — плисти треба човном із Лачі.",
+            "tip": "Найкраще для: прозорої води, снорклінгу, дня на човні. Як дістатися: машиною, а далі човном, або з організованою екскурсією. Найбільш вражаюча вода в усіх околицях Пафоса, але це не звичайний пляж, до якого можна під'їхати машиною.",
             "name": "Блакитна лагуна, Акамас",
-            "distance": "38-42 км + човном"
+            "distance": "40-44 км до Лачі, потім човном"
           }
         ]
       },
@@ -5610,74 +5610,74 @@
         "category": "חופים 🏝️",
         "items": [
           {
-            "tip": "החוף השימושי הקרוב ביותר. 15-20 דקות ברגל. לשחייה קצרה, לשקיעה, ונוח.",
-            "name": "חוף ונוס",
-            "distance": "1.0-1.3 ק״מ, ברגל או ברכב"
+            "tip": "הכי מתאים לחוף קרוב, לשקיעה ולשחייה רגועה. אחד החופים הקרובים ביותר לדירה. טוב לשחייה קצרה או לטיול בשקיעה.",
+            "name": "חוף פארוס / חוף המגדלור",
+            "distance": "1-1.5 ק״מ, ברגל או ברכב"
           },
           {
-            "tip": "25-35 דקות ברגל או נסיעה קצרה. לשקיעה ולשחייה רגועה.",
-            "name": "חוף פארוס",
-            "distance": "1.8-2.3 ק״מ, ברגל או ברכב"
-          },
-          {
-            "tip": "פחות תיירותי, עם אווירה מקומית. טוב לשקיעה. עדיף כשהים רגוע.",
-            "name": "חוף סנדי ביץ', כלוראקה",
-            "distance": "3.5-4.5 ק״מ, ברכב"
-          },
-          {
-            "tip": "מקום רחצה עירוני, לא חוף חול. נוח לטבילה מהירה ליד הטיילת.",
+            "tip": "הכי מתאים לטבילה מהירה, לטיילת ולקפה בסביבה. יותר מקום רחצה עירוני מאשר חוף חול, אבל מאוד נוח.",
             "name": "חוף המרחצאות העירוניים, קאטו פאפוס",
-            "distance": "3.0-4.0 ק״מ, ברכב"
+            "distance": "1.5-2 ק״מ, ברגל, ברכב או באוטובוס"
           },
           {
-            "tip": "חוף מוסדר עם שירותים, טוב למשפחות. קל יותר להגיע ברכב או באוטובוס מאשר ברגל.",
+            "tip": "הכי מתאים לחוף מוסדר, למשפחות ולמיטות שיזוף. חוף עירוני נוח עם כל השירותים. בחירה טובה אם הנוחות חשובה לכם יותר מחוף מבודד.",
             "name": "חוף אליקס, קאטו פאפוס",
-            "distance": "3.5-4.5 ק״מ, ברכב או באוטובוס"
+            "distance": "2-2.5 ק״מ, ברכב, באוטובוס או בהליכה ארוכה"
           },
           {
-            "tip": "הבחירה הכי בטוחה לחוף טוב ליד פאפוס. חול, חוף מוסדר, נוח. קשה לטעות.",
+            "tip": "הכי מתאים לשחייה קצרה, לשקיעה ולנוחות. שימושי אם אתם מבקרים גם בקברי המלכים. קרוב ונוח, אבל לא החוף המרשים ביותר.",
+            "name": "חוף ונוס / אזור קברי המלכים",
+            "distance": "2.5-3 ק״מ, ברכב, באוטובוס או בהליכה ארוכה"
+          },
+          {
+            "tip": "הכי מתאים לשקיעה, לאווירה מקומית ולגולשים. אפשרות פחות תיירותית ליד פאפוס. עדיף כשהים רגוע.",
+            "name": "חוף סנדי ביץ', כלוראקה",
+            "distance": "5.5-6.5 ק״מ, ברכב"
+          },
+          {
+            "tip": "הכי מתאים ליום חוף על החול, לשחייה ולמשפחות. ההמלצה הבטוחה ביותר לחוף חול אמיתי ליד פאפוס. מוסדר, נוח ואמין.",
             "name": "חוף קורל ביי",
-            "distance": "11-12 ק״מ, ברכב או באוטובוס"
+            "distance": "12.5-13.5 ק״מ, ברכב או באוטובוס"
           },
           {
-            "tip": "החלופה שאני הכי אוהב לקורל ביי. נוח באותה מידה, ובדרך כלל שקט יותר.",
+            "tip": "הכי מתאים לחוף חול שקט יותר. החלופה שאני הכי אוהב לקורל ביי. נוח באותה מידה, ובדרך כלל רגוע יותר.",
             "name": "חוף לאורו / קורליה",
-            "distance": "12-13 ק״מ, ברכב או באוטובוס"
+            "distance": "13.5-14.5 ק״מ, ברכב או באוטובוס"
           },
           {
-            "tip": "קו חוף דרמטי. מתאים יותר לנוף ולתמונות שקיעה מאשר ליום חוף רגיל.",
+            "tip": "הכי מתאים לנופי חוף, לצילומים ולשקיעה. לא יום חוף קלאסי, אבל עצירה יפהפייה לאורך החוף. הכי כדאי לשלב עם אגיוס גאורגיוס או עם Oniro by the Sea.",
             "name": "מערות הים, פגיה",
-            "distance": "17-19 ק״מ, ברכב"
+            "distance": "18-21 ק״מ, ברכב"
           },
           {
-            "tip": "חוף קטן, טוב לשנורקלינג. אפשר לשלב עם מערות הים ו-Oniro by the Sea.",
+            "tip": "הכי מתאים לשנורקלינג, לחוף קטן ולטיול רגוע. אזור חוף קטן ונחמד. כדאי לשלב עם מערות הים ועם נקודת התצפית אל הספינה הטרופה Edro III.",
             "name": "חוף אגיוס גאורגיוס, פגיה",
-            "distance": "20-22 ק״מ, ברכב"
+            "distance": "21.5-23.5 ק״מ, ברכב"
           },
           {
-            "tip": "חוף פראי, גולמי ויפהפה. מתאים יותר לסיור מאשר לשכיבה על מיטות שיזוף.",
-            "name": "חוף הנהר הלבן / טוקספטרה",
-            "distance": "23-26 ק״מ, ברכב (עדיף רכב גבוה)"
+            "tip": "הכי מתאים לחוף פראי ולתחושה של פנינה נסתרת. גולמי ויפהפה. מתאים יותר לסיור מאשר ליום נוח על מיטת שיזוף.",
+            "name": "חוף הנהר הלבן / אזור טוקספטרה",
+            "distance": "24.5-27.5 ק״מ, ברכב, עדיף רכב גבוה"
           },
           {
-            "tip": "אחד החופים המיוחדים ביותר באזור פאפוס. אתר הטלת ביצים של צבי ים. הדרך קשה, ואין שירותים.",
+            "tip": "הכי מתאים לצילומים, למיתולוגיה ולנוף חוף דרמטי. עצירה איקונית ומרהיבה. מתאים יותר לצילומים מאשר לשחייה, כי החוף סלעי והים יכול להיות סוער.",
+            "name": "פטרה טו רומיו / סלע אפרודיטה",
+            "distance": "25-28 ק״מ, ברכב"
+          },
+          {
+            "tip": "הכי מתאים לחוף פראי, לצבי ים ולטבע. אחד החופים המיוחדים ביותר באזור פאפוס. הדרך קשה, ואין שירותים של ממש.",
             "name": "חוף לארה / מפרץ לארה",
-            "distance": "28-32 ק״מ, רכב 4x4 או סיור מודרך"
+            "distance": "30-35 ק״מ, רכב 4x4, באגי או סיור מודרך"
           },
           {
-            "tip": "מקום הולדתה האגדי של אפרודיטה. נוף מרהיב ותמונות יפות, אבל החוף סלעי ולא תמיד מתאים לשחייה.",
-            "name": "פטרה טו רומיו (סלע אפרודיטה)",
-            "distance": "27-30 ק״מ, ברכב"
-          },
-          {
-            "tip": "נקודת היציאה הטובה ביותר ללגונה הכחולה בלי נסיעת שטח. שיטי הסירות יוצאים מכאן.",
+            "tip": "הכי מתאים לשיט ללגונה הכחולה. נקודת היציאה הטובה ביותר אם רוצים להגיע ללגונה הכחולה בלי נסיעת שטח קשה.",
             "name": "נמל לאצ'י (שיט ללגונה הכחולה)",
-            "distance": "38-42 ק״מ, ברכב ואז בסירה"
+            "distance": "40-44 ק״מ, ברכב ואז בסירה"
           },
           {
-            "tip": "המים המרשימים ביותר באזור פאפוס. אי אפשר להגיע לחוף ברכב: צאו בסירה מלאצ'י.",
+            "tip": "הכי מתאים למים צלולים, לשנורקלינג וליום בסירה. איך מגיעים: ברכב ואז בסירה, או בסיור מאורגן. המים המרשימים ביותר בכל אזור פאפוס, אבל זה לא חוף שמגיעים אליו ברכב.",
             "name": "הלגונה הכחולה, אקמאס",
-            "distance": "38-42 ק״מ + סירה"
+            "distance": "40-44 ק״מ עד לאצ'י, ואז בסירה"
           }
         ]
       },

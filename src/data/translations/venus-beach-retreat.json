@@ -83,7 +83,12 @@
       "lang": "Sprache:",
       "networkName": "Netzwerkname",
       "password": "Passwort",
-      "openInMaps": "In Karten öffnen"
+      "openInMaps": "In Karten öffnen",
+      "stayConnected": "Folgen & teilen",
+      "bookDirectIntroCohost": "Hat es dir gefallen? Folge uns auf Instagram und teile uns mit Freunden, denen es hier auch gefallen würde. Und beim nächsten Mal kannst du auch direkt bei uns buchen.",
+      "bookDirectIntroSolo": "Hat es dir gefallen? Folge mir auf Instagram und teile mich mit Freunden, denen es hier auch gefallen würde. Und beim nächsten Mal kannst du auch direkt bei mir buchen.",
+      "bookDirect": "Direkt buchen",
+      "bookDirectSub": "Alle Apartments ansehen"
     },
     "welcomeMessage": "Dein lebendiges, farbenfrohes Zuhause mit Pool und zwei Terrassen ist bereit für dich. Entspann dich, erkunde die Gegend und genieß das Mittelmeer. Wir sind nur eine Nachricht entfernt.",
     "gettingHere": {
@@ -879,7 +884,12 @@
       "ruleTitleSmokingOutdoors": "Dohányozni csak kint lehet",
       "openInMaps": "Megnyitás térképen",
       "emergencyIntro": "Az alábbi számok egy koppintással hívhatók. Életveszélyes helyzetben mindig először a <strong>112</strong>-t hívd.",
-      "networkName": "Hálózat neve"
+      "networkName": "Hálózat neve",
+      "stayConnected": "Kövess és oszd meg",
+      "bookDirectIntroCohost": "Jól érezted magad? Kövess minket Instagramon, és oszd meg a barátaiddal is, akiknek tetszene itt. Legközelebb pedig közvetlenül nálunk is foglalhatsz.",
+      "bookDirectIntroSolo": "Jól érezted magad? Kövess Instagramon, és oszd meg a barátaiddal is, akiknek tetszene itt. Legközelebb pedig közvetlenül nálam is foglalhatsz.",
+      "bookDirect": "Foglalj közvetlenül",
+      "bookDirectSub": "Az összes apartman"
     },
     "welcomeMessage": "Élénk, színes otthonod medencével és két terasszal, minden elő van készítve neked. Pihenj, fedezd fel a környéket, és élvezd a mediterrán hangulatot. Csak egy üzenetnyire vagyunk.",
     "gettingHere": {
@@ -1675,7 +1685,12 @@
       "ruleTitleSmokingOutdoors": "Κάπνισμα μόνο σε εξωτερικούς χώρους",
       "openInMaps": "Άνοιγμα στους Χάρτες",
       "emergencyIntro": "Πατήστε οποιονδήποτε αριθμό παρακάτω για να καλέσετε. Σε κατάσταση που απειλεί τη ζωή, καλέστε πάντα πρώτα το <strong>112</strong>.",
-      "networkName": "Όνομα δικτύου"
+      "networkName": "Όνομα δικτύου",
+      "stayConnected": "Ακολουθήστε & μοιραστείτε",
+      "bookDirectIntroCohost": "Σας άρεσε η διαμονή σας; Ακολουθήστε μας στο Instagram και μοιραστείτε μας με φίλους που θα τους άρεσε εδώ. Και την επόμενη φορά, μπορείτε να κάνετε κράτηση απευθείας σε εμάς.",
+      "bookDirectIntroSolo": "Σας άρεσε η διαμονή σας; Ακολουθήστε με στο Instagram και μοιραστείτε το με φίλους που θα τους άρεσε εδώ. Και την επόμενη φορά, μπορείτε να κάνετε κράτηση απευθείας σε εμένα.",
+      "bookDirect": "Κράτηση απευθείας",
+      "bookDirectSub": "Δείτε όλα τα διαμερίσματα"
     },
     "welcomeMessage": "Το ζωντανό, πολύχρωμο σπίτι σας με πισίνα και δύο βεράντες είναι έτοιμο για εσάς. Χαλαρώστε, εξερευνήστε και απολαύστε τη Μεσόγειο. Είμαστε μόνο ένα μήνυμα μακριά.",
     "gettingHere": {
@@ -2471,7 +2486,12 @@
       "ruleTitleSmokingOutdoors": "Fumer uniquement à l'extérieur",
       "openInMaps": "Ouvrir dans Maps",
       "emergencyIntro": "Touchez un numéro pour l'appeler directement. En cas d'urgence vitale, appelez toujours d'abord le <strong>112</strong>.",
-      "networkName": "Nom du réseau"
+      "networkName": "Nom du réseau",
+      "stayConnected": "Suivez-nous & partagez",
+      "bookDirectIntroCohost": "Vous avez aimé votre séjour ? Suivez-nous sur Instagram et partagez-nous avec vos amis qui adoreraient venir. Et la prochaine fois, vous pouvez aussi réserver directement auprès de nous.",
+      "bookDirectIntroSolo": "Vous avez aimé votre séjour ? Suivez-moi sur Instagram et partagez avec vos amis qui adoreraient venir. Et la prochaine fois, vous pouvez aussi réserver directement auprès de moi.",
+      "bookDirect": "Réserver en direct",
+      "bookDirectSub": "Voir tous les appartements"
     },
     "welcomeMessage": "Votre maison pleine de vie et de couleurs, avec piscine et deux terrasses, est prête pour vous. Détendez-vous, explorez et profitez de la Méditerranée. Nous ne sommes qu'à un message de vous.",
     "gettingHere": {
@@ -3267,7 +3287,12 @@
       "ruleTitleSmokingOutdoors": "Fumar solo en el exterior",
       "openInMaps": "Abrir en Mapas",
       "emergencyIntro": "Toca cualquier número de abajo para llamar. Si hay una vida en peligro, llama siempre primero al <strong>112</strong>.",
-      "networkName": "Nombre de red"
+      "networkName": "Nombre de red",
+      "stayConnected": "Síguenos y comparte",
+      "bookDirectIntroCohost": "¿Has disfrutado de tu estancia? Síguenos en Instagram y compártenos con amigos a los que les encantaría venir. Y la próxima vez, también puedes reservar directamente con nosotros.",
+      "bookDirectIntroSolo": "¿Has disfrutado de tu estancia? Sígueme en Instagram y compárteme con amigos a los que les encantaría venir. Y la próxima vez, también puedes reservar directamente conmigo.",
+      "bookDirect": "Reserva directa",
+      "bookDirectSub": "Ver todos los apartamentos"
     },
     "welcomeMessage": "Tu casa llena de vida y color, con piscina y dos terrazas, lista para ti. Relájate, explora y disfruta del Mediterráneo. Estamos a un mensaje de distancia.",
     "gettingHere": {
@@ -4063,7 +4088,12 @@
       "ruleTitleSmokingOutdoors": "Palenie tylko na zewnątrz",
       "openInMaps": "Otwórz w Mapach",
       "emergencyIntro": "Każdy numer poniżej możecie wybrać jednym dotknięciem. W sytuacji zagrożenia życia zawsze najpierw dzwońcie pod <strong>112</strong>.",
-      "networkName": "Nazwa sieci"
+      "networkName": "Nazwa sieci",
+      "stayConnected": "Obserwujcie i udostępniajcie",
+      "bookDirectIntroCohost": "Podobał się Wam pobyt? Obserwujcie nas na Instagramie i polećcie nas znajomym, którym też by się tu spodobało. A następnym razem możecie zarezerwować bezpośrednio u nas.",
+      "bookDirectIntroSolo": "Podobał się Wam pobyt? Obserwujcie mnie na Instagramie i polećcie mnie znajomym, którym też by się tu spodobało. A następnym razem możecie zarezerwować bezpośrednio u mnie.",
+      "bookDirect": "Rezerwacja bezpośrednia",
+      "bookDirectSub": "Zobaczcie wszystkie apartamenty"
     },
     "welcomeMessage": "Wasz kolorowy, pełen życia dom z basenem i dwoma tarasami jest już gotowy. Odpoczywajcie, odkrywajcie okolicę i cieszcie się Morzem Śródziemnym. Jesteśmy zawsze o jedną wiadomość od Was.",
     "gettingHere": {
@@ -4859,7 +4889,12 @@
       "ruleTitleSmokingOutdoors": "Курение только на улице",
       "openInMaps": "Открыть на карте",
       "emergencyIntro": "На любой номер ниже можно позвонить одним нажатием. Если под угрозой жизнь, всегда сначала звоните по номеру <strong>112</strong>.",
-      "networkName": "Название сети"
+      "networkName": "Название сети",
+      "stayConnected": "Подписывайтесь и делитесь",
+      "bookDirectIntroCohost": "Понравилось у нас? Подписывайтесь на нас в Instagram и расскажите о нас друзьям, которым здесь тоже понравится. А в следующий раз можно забронировать напрямую у нас.",
+      "bookDirectIntroSolo": "Понравилось у меня? Подписывайтесь на меня в Instagram и расскажите обо мне друзьям, которым здесь тоже понравится. А в следующий раз можно забронировать напрямую у меня.",
+      "bookDirect": "Забронировать напрямую",
+      "bookDirectSub": "Все апартаменты"
     },
     "welcomeMessage": "Ваш яркий, красочный дом с бассейном и двумя террасами уже готов к вашему приезду. Отдыхайте, гуляйте и наслаждайтесь Средиземноморьем. Мы всегда на связи — просто напишите.",
     "gettingHere": {
@@ -5655,7 +5690,12 @@
       "ruleTitleSmokingOutdoors": "Курити лише надворі",
       "openInMaps": "Відкрити на мапі",
       "emergencyIntro": "На будь-який номер нижче можна просто натиснути, щоб подзвонити. Якщо життю загрожує небезпека, завжди спершу телефонуй на <strong>112</strong>.",
-      "networkName": "Назва мережі"
+      "networkName": "Назва мережі",
+      "stayConnected": "Підписуйся й ділися",
+      "bookDirectIntroCohost": "Сподобалося в нас? Підписуйся на нас в Instagram і розкажи про нас друзям, яким тут теж сподобається. А наступного разу можеш забронювати напряму в нас.",
+      "bookDirectIntroSolo": "Сподобалося в мене? Підписуйся на мене в Instagram і розкажи про мене друзям, яким тут теж сподобається. А наступного разу можеш забронювати напряму в мене.",
+      "bookDirect": "Забронювати напряму",
+      "bookDirectSub": "Усі апартаменти"
     },
     "welcomeMessage": "Твій яскравий, барвистий дім із басейном і двома терасами вже готовий. Відпочивай, досліджуй острів і насолоджуйся Середземномор'ям. Ми завжди на зв'язку.",
     "gettingHere": {
@@ -6451,7 +6491,12 @@
       "ruleTitleSmokingOutdoors": "עישון בחוץ בלבד",
       "passwordCopied": "✓ הסיסמה הועתקה!",
       "password": "סיסמה",
-      "scroll": "גלילה"
+      "scroll": "גלילה",
+      "stayConnected": "עוקבים ומשתפים",
+      "bookDirectIntroCohost": "נהניתם מהשהות? עקבו אחרינו באינסטגרם ושתפו חברים שהיו נהנים כאן. ובפעם הבאה אפשר גם להזמין ישירות אצלנו.",
+      "bookDirectIntroSolo": "נהניתם מהשהות? עקבו אחריי באינסטגרם ושתפו חברים שהיו נהנים כאן. ובפעם הבאה אפשר גם להזמין ישירות אצלי.",
+      "bookDirect": "הזמנה ישירה",
+      "bookDirectSub": "לכל הדירות"
     },
     "welcomeMessage": "הבית התוסס והצבעוני שלכם, עם בריכה ושתי טרסות, מוכן ומחכה לכם. תירגעו, תטיילו ותיהנו מהים התיכון. אנחנו רק במרחק הודעה.",
     "gettingHere": {

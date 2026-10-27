@@ -1012,5 +1012,9 @@
     "Attractions & Excursions 📸",
     "Hiking & Nature Trails ⛰️",
     "Shopping"
-  ]
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/paphos_mediterranean_rentals/",
+    "directBooking": "https://g-pal87.github.io/Short-Term-Rentals/"
+  }
 }

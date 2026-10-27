@@ -12,6 +12,7 @@ interface Props {
     host: ContactPerson;
     cohost?: ContactPerson;
     hostPhoto?: string;
+    links?: { instagram?: string; directBooking?: string };
   };
 }
 
@@ -26,6 +27,10 @@ function formatWhatsAppLink(number: string): string {
 }
 
 const hasCohost = !!property.cohost;
+const instagramUrl = property.links?.instagram;
+const directBookingUrl = property.links?.directBooking;
+// Display handle, e.g. "@paphos_mediterranean_rentals"
+const instagramHandle = instagramUrl ? '@' + instagramUrl.replace(/\/+$/, '').split('/').pop() : '';
 ---
 
 <section id="contact" class="py-12 bg-white" aria-labelledby="contact-heading">
@@ -215,6 +220,49 @@ const hasCohost = !!property.cohost;
               <div>
                 <p class="text-xs text-stone-500 font-medium" data-i18n="ui.email">Email</p>
                 <p class="font-semibold text-sm">{property.host.email}</p>
+              </div>
+            </a>
+          )}
+        </div>
+      </div>
+    )}
+
+    {(instagramUrl || directBookingUrl) && (
+      <div class="bg-surface rounded-2xl shadow-md p-5 border border-stone-100 mb-6">
+        <p class="font-serif text-xl font-semibold text-charcoal mb-1" data-i18n="ui.stayConnected">Follow & share</p>
+        <p class="text-stone-500 text-sm leading-relaxed mb-4" data-i18n={hasCohost ? "ui.bookDirectIntroCohost" : "ui.bookDirectIntroSolo"}>
+          {hasCohost
+            ? "Enjoyed your stay? Follow us on Instagram and share us with friends who'd love it here. Next time, you can also book directly with us."
+            : "Enjoyed your stay? Follow me on Instagram and share with friends who'd love it here. Next time, you can also book directly with me."}
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          {directBookingUrl && (
+            <a
+              href={directBookingUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center gap-3 bg-primary text-white rounded-xl px-4 py-3 hover:bg-teal-700 transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 min-h-[56px]"
+            >
+              <span class="text-xl flex-shrink-0" aria-hidden="true">🏠</span>
+              <div class="min-w-0">
+                <p class="font-semibold text-sm" data-i18n="ui.bookDirect">Book direct</p>
+                <p class="text-xs text-white/70" data-i18n="ui.bookDirectSub">Browse all apartments</p>
+              </div>
+            </a>
+          )}
+          {instagramUrl && (
+            <a
+              href={instagramUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center gap-3 bg-gradient-to-r from-fuchsia-600 to-orange-400 text-white rounded-xl px-4 py-3 hover:opacity-90 transition-opacity focus:outline-none focus:ring-2 focus:ring-fuchsia-500 focus:ring-offset-2 min-h-[56px]"
+            >
+              <svg class="h-5 w-5 flex-shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 2.2c3.2 0 3.6 0 4.8.1 3.3.1 4.8 1.7 4.9 4.9.1 1.3.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 3.2-1.7 4.8-4.9 4.9-1.3.1-1.6.1-4.8.1s-3.6 0-4.8-.1c-3.3-.1-4.8-1.7-4.9-4.9C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.8C2.4 3.9 3.9 2.4 7.2 2.3 8.4 2.2 8.8 2.2 12 2.2zM12 0C8.7 0 8.3 0 7.1.1 2.7.3.3 2.7.1 7.1 0 8.3 0 8.7 0 12s0 3.7.1 4.9c.2 4.4 2.6 6.8 7 7 1.2.1 1.6.1 4.9.1s3.7 0 4.9-.1c4.4-.2 6.8-2.6 7-7 .1-1.2.1-1.6.1-4.9s0-3.7-.1-4.9c-.2-4.4-2.6-6.8-7-7C15.7 0 15.3 0 12 0zm0 5.8a6.2 6.2 0 100 12.4 6.2 6.2 0 000-12.4zM12 16a4 4 0 110-8 4 4 0 010 8zm6.4-11.8a1.4 1.4 0 100 2.9 1.4 1.4 0 000-2.9z"/>
+              </svg>
+              <div class="min-w-0">
+                <p class="font-semibold text-sm">Instagram</p>
+                <p class="text-xs text-white/80 truncate">{instagramHandle}</p>
               </div>
             </a>
           )}

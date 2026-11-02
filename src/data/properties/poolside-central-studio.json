@@ -53,7 +53,7 @@
     "taxi": "Taxis wait outside arrivals at Paphos Airport. Fare: €40-45 (day), €45-50 (after hours). ~20-25 min. A slightly cheaper option is to order a Bolt ride.",
     "directionPhotos": [
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/Google%20Maps%20Screenshot.png",
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Google%20Maps%20Screenshot.webp",
         "caption": "Navigate to the Google Maps location. The complex is 2 blocks to the left of Kings Avenue Mall. The red marks show roads to avoid; follow the correct route to reach the front entrance. You will also see a No Entry sign at the entrance. You can disregard it, it applies to non-residents only. As a guest you are allowed to drive in."
       },
       {
@@ -81,11 +81,11 @@
         "caption": "At Block C, take the entrance on the left and head to the first floor. There is a lift available."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/Door.png",
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Door.webp",
         "caption": "Look for door No. 106, right next to the elevator."
       },
       {
-        "src": "/airbnb-guest-guides/images/poolside-central-studio/Exit%20Complex.png",
+        "src": "/airbnb-guest-guides/images/poolside-central-studio/Exit%20Complex.webp",
         "caption": "Exiting by car: pull up in front of the STOP / WAIT sign at the main gate. The doors open automatically."
       }
     ]
@@ -793,146 +793,6 @@
           "mapsUrl": "https://www.google.com/maps/search/Polis+Chrysochous+Cyprus"
         }
       ]
-    }
-  ],
-  "eatAndDrink": [
-    {
-      "name": "Kings Avenue Mall cafés & food court",
-      "type": "Quick food, coffee, families, heat escape",
-      "distance": "0 to 500 m, walk",
-      "tip": "Not special, but very practical if guests want something easy, fast, or indoors.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kings+Avenue+Mall+Paphos+Cyprus"
-    },
-    {
-      "name": "The 3 Little Pigs Kebab & Grill House",
-      "type": "Casual food, grill, quick dinner",
-      "distance": "500 m to 1 km, walk",
-      "tip": "A simple nearby option.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+3+Little+Pigs+Kebab+Grill+House+Paphos+Cyprus"
-    },
-    {
-      "name": "Tea for Two, Tombs of the Kings Road",
-      "type": "Breakfast, brunch, casual meals",
-      "distance": "1 to 1.5 km, walk, car, or taxi",
-      "tip": "Good for an easy breakfast, brunch, or simple lunch without overthinking it.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tea+for+Two+Tombs+of+the+Kings+Road+Paphos"
-    },
-    {
-      "name": "Karlina Restaurant",
-      "type": "Greek food, easy dinner, casual meal",
-      "distance": "1.5 to 2 km, walk, car, or taxi",
-      "tip": "Good for a straightforward local meal near Tombs of the Kings Road.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karlina+Restaurant+Paphos+Cyprus"
-    },
-    {
-      "name": "Dias Zeus Greek Restaurant",
-      "type": "Greek food, meze, traditional dinner",
-      "distance": "1.5 to 2 km, walk, car, or taxi",
-      "tip": "Reliable Greek option on Tombs of the Kings Avenue.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dias+Zeus+Greek+Restaurant+Paphos+Cyprus"
-    },
-    {
-      "name": "Paphos Harbour restaurants",
-      "type": "Sea views, dinner, evening stroll",
-      "distance": "1.8 to 2.5 km, walk, car, bus, or taxi",
-      "tip": "Touristy, but still one of the easiest evening plans from this location. Good for food plus a harbour walk.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Paphos+Harbour+restaurants+Cyprus"
-    },
-    {
-      "name": "King's Restaurant, Harbour area",
-      "type": "Seafood, harbour views, classic Paphos dinner",
-      "distance": "2 to 2.5 km, walk, car, bus, or taxi",
-      "tip": "Longstanding harbour restaurant with sea and castle views.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=King%27s+Restaurant+Paphos+Harbour+Cyprus"
-    },
-    {
-      "name": "Theo's Restaurant, Harbour area",
-      "type": "Seafood, Mediterranean food, harbour meal",
-      "distance": "2 to 2.5 km, walk, car, bus, or taxi",
-      "tip": "Popular Mediterranean and seafood option in the harbour area.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theo%27s+Restaurant+Paphos+Cyprus"
-    },
-    {
-      "name": "The Moorings Café Restaurant",
-      "type": "Harbour drinks, casual food, views",
-      "distance": "2 to 2.5 km, walk, car, bus, or taxi",
-      "tip": "More about location and easy holiday atmosphere than hidden gem dining.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Moorings+Cafe+Restaurant+Paphos+Cyprus"
-    },
-    {
-      "name": "Old Town Paphos cafés and restaurants",
-      "type": "Cafés, local atmosphere, relaxed dinner",
-      "distance": "2 to 3 km, car, bus, taxi, or uphill walk",
-      "tip": "Better than the harbour if guests want something a bit more local and less seafront touristy.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Old+Town+Paphos+restaurants+Cyprus"
-    },
-    {
-      "name": "Pallia Ilektriki Restaurant Café",
-      "type": "Old Town dinner, Cypriot food, local feel",
-      "distance": "2 to 3 km, car, bus, or taxi",
-      "tip": "Good Old Town choice for Mediterranean, European, and Greek food.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pallia+Ilektriki+Restaurant+Cafe+Paphos+Cyprus"
-    },
-    {
-      "name": "Laona Restaurant",
-      "type": "Traditional Cypriot food, local dinner",
-      "distance": "2 to 3 km, car, bus, or taxi",
-      "tip": "Strong option for home style Cypriot dishes and a more authentic feel than the harbour.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laona+Restaurant+Paphos+Cyprus"
-    },
-    {
-      "name": "Koutourou Ouzeri",
-      "type": "Meze, drinks, Old Town atmosphere",
-      "distance": "2 to 3 km, car, bus, or taxi",
-      "tip": "Good hidden gem style option in Old Town.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koutourou+Ouzeri+Paphos+Cyprus"
-    },
-    {
-      "name": "Muse Café Kitchen Bar",
-      "type": "Sunset drinks, views, dinner",
-      "distance": "2.5 to 3.5 km, car or taxi",
-      "tip": "Best for views over Paphos, especially around sunset.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muse+Cafe+Kitchen+Bar+Paphos+Cyprus"
-    },
-    {
-      "name": "Oniro by the Sea",
-      "type": "Sunset drinks, Sea Caves, special dinner",
-      "distance": "18 to 21 km, car or taxi",
-      "tip": "One of the best scenic drink or dinner recommendations. Combine with Sea Caves and Edro III Shipwreck.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oniro+by+the+Sea+Peyia+Cyprus"
-    },
-    {
-      "name": "Kathikas wine village restaurants",
-      "type": "Wine, village food, local experience",
-      "distance": "22 to 28 km, car or wine tour",
-      "tip": "Great for adults who want something more authentic than the seafront. Best as a longer lunch or early dinner trip.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kathikas+restaurants+Cyprus"
-    },
-    {
-      "name": "Latchi Harbour tavernas",
-      "type": "Fish, harbour lunch, Blue Lagoon day",
-      "distance": "40 to 44 km, car",
-      "tip": "Best combined with a Blue Lagoon boat trip, Baths of Aphrodite, or Polis day trip.",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Latchi+Harbour+restaurants+Cyprus"
-    }
-  ],
-  "shopping": [
-    {
-      "name": "Kings Avenue Mall",
-      "distance": "5 min drive",
-      "tip": "The main shopping mall in Paphos. Wide range of shops, restaurants and a cinema.",
-      "mapsUrl": "https://maps.app.goo.gl/MmTMrjgmJECt3xQm7"
-    },
-    {
-      "name": "Paphos Market",
-      "distance": "Nearby",
-      "tip": "Covered marketplace with stalls for clothing, bags, jewelry, beach gear and local souvenirs.",
-      "mapsUrl": "https://maps.app.goo.gl/ZNwyURH5xkUg3rKg8"
-    },
-    {
-      "name": "Old Town",
-      "distance": "Walking distance",
-      "tip": "Wander through the beautiful Old Town and discover many small boutique stores and artisan shops."
     }
   ],
   "gettingAround": [
